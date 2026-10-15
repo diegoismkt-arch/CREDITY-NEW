@@ -1,25 +1,32 @@
 {
   "titulo_post": "La niña reconoció a su abuelita pidiendo limosna… pero su mamá la había enterrado hace 3 años 😢",
-  "legenda": "",
+  "legenda": "La niña reconoció a su abuelita pidiendo limosna en la iglesia… pero su mamá la había enterrado hace 3 años 😢\n\n¿Quién crees que está detrás de todo esto? 👇\n\n💬 Comenta PARTE 2 y te la traigo mañana.\n\n#LaHistoriaPrincipal #telenovela #novela #abuelita #familia #drama #historiasdevida",
   "texto_final": "Comenta PARTE 2 👇",
   "titulo_interno": "LA ABUELITA",
   "estilo": "Novela dramatica emocionante. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Praca de cidade colonial mexicana ao entardecer: luz dourada e azul do fim do dia, postes de luz acesos, Shallow Focus nos closes.",
-  "imagens": {},
+  "imagens": {
+    "FRAME_PRACA": "frame do clipe 1, plano 1 (por volta do segundo 1): a NINA (vestido amarelo, trancas com lacos vermelhos) e a MAMA (blazer bege) de maos dadas na praca, igreja de pedra desfocada ao fundo.",
+    "FRAME_MAMA": "frame do clipe 1, plano 2 (por volta do segundo 4): close da MAMA, cabelo castanho solto, blazer bege, brincos dourados, olhos marejados.",
+    "FRAME_ABRACO": "frame do clipe 1, plano 4 (por volta do segundo 8): a ABUELA (cabelo grisalho em coque, xale cinza) sentada na escadaria da igreja abracando a NINA, chorando."
+  },
   "personagens": {
     "NINA": {
       "descricao": "menina de 7 anos, pele morena clara, cabelo castanho escuro em duas trancas com lacos VERMELHOS, vestido AMARELO simples, sandalias brancas.",
       "voz": "Voz de menina de 7 anos.",
-      "feminino": true
+      "feminino": true,
+      "frame": "FRAME_PRACA"
     },
     "MAMA": {
       "descricao": "mulher de 35 anos, elegante, pele morena clara, cabelo castanho liso solto na altura dos ombros, blazer BEGE, blusa branca, calca preta, bolsa de couro marrom, brincos dourados.",
       "voz": "Voz feminina suave de mulher de 35 anos.",
-      "feminino": true
+      "feminino": true,
+      "frame": "FRAME_MAMA"
     },
     "ABUELA": {
       "descricao": "senhora de 70 anos, pele morena enrugada, cabelo GRISALHO preso em coque desarrumado, rosto sofrido, xale (rebozo) CINZA velho e vestido MARROM gasto, sentada nos degraus da igreja com um copo de plastico de esmolas.",
       "voz": "Voz feminina rouca e fraca de senhora de 70 anos.",
-      "feminino": true
+      "feminino": true,
+      "frame": "FRAME_ABRACO"
     }
   },
   "clips": [
@@ -31,7 +38,11 @@
         "MAMA",
         "ABUELA"
       ],
-      "salvar_frames": [],
+      "salvar_frames": [
+        "FRAME_PRACA",
+        "FRAME_MAMA",
+        "FRAME_ABRACO"
+      ],
       "posicoes": {
         "NINA": "de maos dadas com a MAMA, caminhando pela praca; depois corre ate a escadaria da igreja",
         "MAMA": "caminhando pela praca, de maos dadas com a NINA",
@@ -97,6 +108,88 @@
           "corpo": "ABUELA: sentada no degrau, abraca a NINA com forca, a mao enrugada nas costas dela.",
           "camera": "Corte seco. Close-Up do abraco: rosto da ABUELA de frente, a NINA de costas no abraco, lente 85mm, Slow Push In. O clipe termina neste abraco.",
           "eyeline": "ABUELA fala PARA NINA, que esta abracada a ela, dentro do quadro. NAO olha para a MAMA."
+        }
+      ]
+    },
+    {
+      "nome": "A mae reconhece + revelacao + CTA",
+      "atuacao": "Novela dramatica emocionante. Atuacao INTENSA: a MAMA em CHOQUE, sem ar, com lagrimas, sem acreditar que a propria mae esta viva; a ABUELA chorando, mas firme e magoada ao revelar o segredo. No ultimo plano a ABUELA olha direto para a camera. Rostos muito expressivos. Nenhuma fala neutra.",
+      "imagens": [
+        "FRAME_ABRACO",
+        "FRAME_MAMA",
+        "FRAME_PRACA"
+      ],
+      "personagens": [
+        "NINA",
+        "MAMA",
+        "ABUELA"
+      ],
+      "posicoes": {
+        "ABUELA": "sentada nos degraus da igreja, ainda abracada a NINA",
+        "NINA": "abracada a ABUELA, nos degraus",
+        "MAMA": "em pe na frente da escadaria, olhando para baixo, para a ABUELA"
+      },
+      "preservar_extra": [
+        "A mesma praca e a mesma escadaria da igreja das imagens, ao entardecer, postes acesos."
+      ],
+      "cenario": "Escadaria da igreja na praca colonial, logo depois do abraco. A MAMA chega correndo atras da filha e para diante da ABUELA. Pessoas da praca desfocadas ao fundo.",
+      "som": "Murmurio distante da praca, a respiracao ofegante da MAMA, o choro baixinho da ABUELA.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala"
+      ],
+      "negativos_extra": [
+        "nina falando",
+        "pessoas da praca falando",
+        "abuela de pe",
+        "mama abracando a abuela"
+      ],
+      "regras_extra": [
+        "No ultimo plano, e SOMENTE nele, a ABUELA olha direto para a lente.",
+        "O plano 3 e mudo: so a reacao da MAMA.",
+        "A NINA nao fala neste clipe."
+      ],
+      "planos": [
+        {
+          "quem": "MAMA",
+          "para": "ABUELA",
+          "fala": "¿Mamá? Pero… yo lloré en tu funeral.",
+          "emocao": 10,
+          "eyeline": "MAMA fala PARA ABUELA e olha para BAIXO, para a ABUELA sentada nos degraus, fora do quadro.",
+          "intencao": "Reconhecer a propria mae, sem acreditar.",
+          "voz": "Voz feminina QUEBRANDO, sem ar, tremula, comecando a chorar.",
+          "rosto": "MAMA: olhos arregalados cheios de lagrimas, boca tremendo.",
+          "corpo": "MAMA: para ofegante diante da escadaria, a mao no peito.",
+          "camera": "Medium Close-Up da MAMA SOZINHA no quadro, de pe, olhando para baixo, lente 85mm, Shallow Focus, postes em Bokeh."
+        },
+        {
+          "quem": "ABUELA",
+          "para": "MAMA",
+          "fala": "Ese funeral lo pagó tu esposo, hija.",
+          "emocao": 10,
+          "eyeline": "ABUELA fala PARA MAMA e olha para CIMA, para a MAMA em pe na frente da escadaria, fora do quadro.",
+          "intencao": "Revelar a traicao do genro, com dor e firmeza.",
+          "voz": "Voz feminina rouca e fraca, firme, magoada, cada palavra pesada.",
+          "rosto": "ABUELA: lagrimas no rosto, olhar firme e magoado para cima.",
+          "corpo": "ABUELA: sentada no degrau, ainda abracando a NINA.",
+          "camera": "Corte seco. Close-Up da ABUELA, sentada, a NINA de costas no abraco, Low Angle leve olhando para cima, lente 85mm, Slow Push In."
+        },
+        {
+          "rosto": "MAMA: fica PALIDA, cobre a boca com a mao, lagrimas escorrendo.",
+          "corpo": "MAMA: da um passo para tras.",
+          "camera": "Corte seco. Close-Up da MAMA SOZINHA no quadro, lente 85mm. Ninguem fala.",
+          "segundos": 0.9
+        },
+        {
+          "quem": "ABUELA",
+          "para": "CAMERA",
+          "olha_para_camera": true,
+          "fala": "¿Quieres saber qué pasó? Comenta parte dos.",
+          "emocao": 9,
+          "intencao": "Quebrar a quarta parede e chamar para a Parte 2.",
+          "voz": "Voz feminina rouca, calma, triste e misteriosa.",
+          "rosto": "ABUELA: vira o rosto devagar e olha DIRETO para a lente, olhos marejados e firmes.",
+          "corpo": "ABUELA: sentada, abracada a NINA.",
+          "camera": "Corte seco. Extreme Close-Up da ABUELA SOZINHA no quadro, lente 85mm, Slow Push In. O video termina neste rosto olhando para a lente."
         }
       ]
     }
