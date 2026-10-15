@@ -147,15 +147,15 @@ Sem imagem de referência (Text to Video).
 - **FRAME_JULIAN:** frame do clipe 1, plano 2 (por volta do segundo 5): JULIAN sozinho, terno cinza, camisa branca aberta, bigode fino, relogio de ouro.
 - **FRAME_VALERIA:** frame do clipe 1, plano 3 (por volta do segundo 8): close de VALERIA, cabelo preto liso na altura do queixo, vestido preto, batom vermelho, colar de ouro; o ombro de JULIAN de costas na borda do quadro.
 
-## Clipe 2 — Os filhos saem, a enfermeira entra
+## Clipe 2 — Os filhos saem, a enfermeira entra, ele acorda + CTA
 
-clipe 2: 9.9s, 9.9s de fala (25 palavras, 3 planos, falantes: VALERIA, JULIAN) ✅
+clipe 2: 9.6s, 8.6s de fala (21 palavras, 5 planos, falantes: VALERIA, DON, ENFERMERA) ✅
 
 Referências, nesta ordem: 1) FRAME_P1; 2) FRAME_VALERIA; 3) FRAME_JULIAN
 
 ```json
 {
-  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao INTENSA: VALERIA e JULIAN saindo do quarto satisfeitos, frios e arrogantes; VALERIA ameacadora com a ENFERMERA; a ENFERMERA intimidada, de cabeca baixa. DON AURELIO imovel, olhos fechados o tempo todo. Nenhuma fala neutra.",
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao INTENSA: VALERIA fria e satisfeita saindo do quarto; a ENFERMERA entra e leva um CHOQUE; DON AURELIO abre os olhos DEVAGAR, lucido, urgente e misterioso. No ultimo plano DON AURELIO olha direto para a camera. Rostos muito expressivos. Nenhuma fala neutra.",
   "input_image": {
     "required": false,
     "mode": "Ingredients to Video, sem primeiro frame.",
@@ -170,22 +170,21 @@ Referências, nesta ordem: 1) FRAME_P1; 2) FRAME_VALERIA; 3) FRAME_JULIAN
       "VALERIA: o MESMO rosto da imagem 2, mulher de 40 anos, cabelo preto liso e brilhante, maquiagem forte, batom VERMELHO, vestido PRETO de grife, joias de ouro, bolsa de luxo na mao.",
       "JULIAN: o MESMO rosto da imagem 3, homem de 45 anos, cabelo escuro penteado para tras com gel, bigode fino, terno CINZA com camisa branca aberta, relogio de ouro.",
       "ENFERMERA: enfermeira de 28 anos, rosto gentil, pele morena clara, cabelo escuro preso em coque, uniforme hospitalar AZUL-CLARO, estetoscopio no pescoco.",
-      "O mesmo quarto de hospital da imagem 1, a noite: monitor cardiaco, abajur aceso, soro. A porta do quarto fica do lado DIREITO.",
-      "DON AURELIO SEMPRE de olhos fechados e imovel neste clipe."
+      "O mesmo quarto de hospital da imagem 1, a noite: monitor cardiaco, abajur aceso, soro. A porta do quarto fica do lado DIREITO."
     ]
   },
   "scene": {
     "title": "NUNCA ESTUVE EN COMA",
-    "duration_seconds": 9.9,
+    "duration_seconds": 9.6,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
-    "structure": "3 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "structure": "5 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
     "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Quarto de hospital particular a noite: luz fria azulada do monitor misturada com luz ambar baixa de abajur (Practical Lighting), Shallow Focus nos closes.",
-    "setting": "O MESMO quarto de hospital da imagem 1, a noite, logo depois da conversa dos irmaos. VALERIA e JULIAN vao embora; no fim a ENFERMERA entra pela porta.",
+    "setting": "O MESMO quarto de hospital da imagem 1, a noite. Em 10 segundos: VALERIA e JULIAN saem pela porta, a ENFERMERA entra, DON AURELIO abre os olhos devagar e fala com ela.",
     "blocking": [
-      "DON: deitado na cama, no centro do quarto, de olhos fechados",
-      "VALERIA: do lado ESQUERDO da cama, caminhando ate a porta",
-      "JULIAN: perto da porta, do lado DIREITO do quarto",
-      "ENFERMERA: entrando pela porta, do lado DIREITO do quarto, so no ultimo plano"
+      "DON: deitado na cama, no centro do quarto",
+      "VALERIA: saindo pela porta, do lado DIREITO do quarto",
+      "JULIAN: saindo pela porta, na frente de VALERIA",
+      "ENFERMERA: entra pela porta e fica em pe do lado DIREITO da cama, junto ao soro"
     ],
     "characters": {
       "DON": "O MESMO da imagem 1. Personagem ficticio. Voz grave e rouca de homem de 75 anos.",
@@ -196,184 +195,60 @@ Referências, nesta ordem: 1) FRAME_P1; 2) FRAME_VALERIA; 3) FRAME_JULIAN
   },
   "timeline": [
     {
-      "time": "00:00.00-00:02.79",
+      "time": "00:00.00-00:01.31",
       "speaker": "VALERIA",
-      "dialogue": "Vámonos, Julián. Mañana volvemos con el abogado.",
+      "dialogue": "Vámonos. Mañana firmamos.",
       "addressee": "JULIAN",
-      "eyeline": "VALERIA fala PARA JULIAN e olha para JULIAN (perto da porta, do lado DIREITO do quarto), fora do quadro. NAO olha para DON, ENFERMERA.",
+      "eyeline": "VALERIA fala PARA JULIAN e olha para JULIAN (saindo pela porta, na frente de VALERIA), fora do quadro. NAO olha para DON, ENFERMERA.",
       "emotion_level": 9,
-      "intention": "Encerrar a visita, satisfeita com o plano.",
-      "voice": "Voz feminina fria, satisfeita, sem pressa.",
-      "face": "VALERIA: sorriso frio de satisfacao, olhando para JULIAN.",
-      "body": "VALERIA: pega a bolsa e caminha do lado da cama em direcao a porta, passando pelo pai sem olhar para ele.",
-      "camera": "Plano aberto: DON AURELIO deitado em primeiro plano, de olhos fechados; VALERIA caminhando em direcao a porta ao fundo, JULIAN de costas perto da porta. Eye Level, lente 35mm. A fala comeca no primeiro instante do plano.",
+      "intention": "Encerrar a visita, satisfeita.",
+      "voice": "Voz feminina fria e satisfeita.",
+      "face": "VALERIA: sorriso frio olhando para JULIAN.",
+      "body": "VALERIA e JULIAN caminham para a porta e saem do quarto, sem olhar para o pai.",
+      "camera": "Plano aberto: DON AURELIO deitado em primeiro plano, de olhos fechados; ao fundo VALERIA e JULIAN saindo pela porta. Eye Level, lente 35mm. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente VALERIA movimenta os labios."
     },
     {
-      "time": "00:02.79-00:06.33",
-      "speaker": "JULIAN",
-      "dialogue": "Y que nadie toque a papá hasta que firmemos.",
-      "addressee": "VALERIA",
-      "eyeline": "JULIAN fala PARA VALERIA e olha para VALERIA (do lado ESQUERDO da cama, caminhando ate a porta), fora do quadro. NAO olha para DON, ENFERMERA.",
-      "emotion_level": 9,
-      "intention": "Dar a ordem final, controlando tudo.",
-      "voice": "Voz masculina arrogante, baixa e autoritaria.",
-      "face": "JULIAN: olhar frio para VALERIA, sorriso de canto.",
-      "body": "JULIAN: com a mao na macaneta, abre a porta do quarto.",
-      "camera": "Corte seco. Medium Close-Up de JULIAN SOZINHO no quadro, junto a porta, Eye Level, lente 85mm. A fala comeca no primeiro instante do plano.",
-      "mouths": "Somente JULIAN movimenta os labios."
+      "time": "00:01.31-00:02.31",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "ENFERMERA: rosto triste e cansado.",
+      "body": "A porta fecha atras dos irmaos; a ENFERMERA entra no quarto e caminha ate o soro.",
+      "camera": "Corte seco. Plano medio da porta: a ENFERMERA entrando no quarto. Ninguem fala.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
     },
     {
-      "time": "00:06.33-00:09.86",
-      "speaker": "VALERIA",
-      "dialogue": "Y tú, ni una palabra de lo que oíste.",
-      "addressee": "ENFERMERA",
-      "eyeline": "VALERIA fala PARA ENFERMERA e olha para ENFERMERA (entrando pela porta, do lado DIREITO do quarto, so no ultimo plano), dentro do quadro. NAO olha para DON, JULIAN.",
-      "emotion_level": 10,
-      "intention": "Ameacar a enfermeira que acabou de entrar.",
-      "voice": "Voz feminina baixa, cortante e ameacadora.",
-      "face": "VALERIA: olhar duro e ameacador para a ENFERMERA.",
-      "body": "VALERIA: para na porta, cara a cara com a ENFERMERA que esta entrando, e depois sai.",
-      "camera": "Corte seco. Plano medio na porta: VALERIA em primeiro plano, de perfil, falando; a ENFERMERA entrando pela porta, rosto visivel, de cabeca baixa, intimidada, SEM falar. Lente 50mm. A fala comeca no primeiro instante do plano.",
-      "mouths": "Somente VALERIA movimenta os labios."
-    }
-  ],
-  "dialogue_rules": {
-    "language": "Espanol de Mexico, acento mexicano natural, TODAS as palavras em espanhol.",
-    "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
-    "total_dialogue_lines": 3,
-    "exact_order": [
-      "VALERIA",
-      "JULIAN",
-      "VALERIA"
-    ],
-    "rules": [
-      "So existem 3 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
-      "A ultima fala termina junto com o video.",
-      "Cada fala e dirigida a: VALERIA -> JULIAN; JULIAN -> VALERIA; VALERIA -> ENFERMERA.",
-      "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
-      "Nao repetir, misturar, traduzir ou acrescentar palavras.",
-      "Cada frase e dita INTEIRA, do comeco ao fim.",
-      "A ENFERMERA nao fala neste clipe."
-    ]
-  },
-  "audio": {
-    "single_voice_at_a_time": true,
-    "sound": "Saltos de VALERIA no piso, a porta abrindo, o bip lento do monitor.",
-    "music": "Nenhuma.",
-    "narration": "Nenhuma.",
-    "subtitles": "Nao gerar."
-  },
-  "negative_prompt": [
-    "don aurelio abrindo os olhos",
-    "don aurelio se mexendo ou falando",
-    "enfermeira falando",
-    "valeria ou julian tocando no pai",
-    "texto ou letras em qualquer lugar",
-    "palavra inventada no ultimo plano",
-    "fala repetida",
-    "fala adiantada ou atrasada para outro plano",
-    "personagem falando ou olhando para quem nao e o destinatario da fala",
-    "fala neutra ou monotona",
-    "rosto neutro ou expressao vazia",
-    "atuacao contida",
-    "voz sem rosto na tela",
-    "tela dividida",
-    "colagem",
-    "formato horizontal",
-    "bordas pretas",
-    "palavras em ingles",
-    "palavras em portugues",
-    "duas vozes simultaneas",
-    "movimento labial do ouvinte",
-    "fala cortada, encurtada ou incompleta",
-    "personagem olhando para a camera",
-    "mudanca de rosto",
-    "mudanca de roupa",
-    "legendas",
-    "logotipo",
-    "marca-d'agua",
-    "trilha sonora"
-  ]
-}
-```
-
-**Depois de gerar este clipe, salve os frames:**
-- **FRAME_ENFERMERA:** frame do clipe 2, plano 3 (por volta do segundo 8): a ENFERMERA entrando pela porta do quarto, uniforme azul-claro, cabelo em coque, rosto visivel; VALERIA de vestido preto passando por ela em primeiro plano.
-
-## Clipe 3 — Ele acorda devagar + CTA
-
-clipe 3: 9.9s, 9.9s de fala (25 palavras, 3 planos, falantes: ENFERMERA, DON) ✅
-
-Referências, nesta ordem: 1) FRAME_P1; 2) FRAME_ENFERMERA
-
-```json
-{
-  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao INTENSA: a ENFERMERA triste e carinhosa com o paciente; DON AURELIO abre os olhos DEVAGAR, lucido, urgente e misterioso. No ultimo plano DON AURELIO olha direto para a camera. Nenhuma fala neutra.",
-  "input_image": {
-    "required": false,
-    "mode": "Ingredients to Video, sem primeiro frame.",
-    "additional_references": true,
-    "reference_images": [
-      "Imagem 1 — frame do clipe 1, plano 1 (por volta do segundo 2): DON AURELIO deitado na cama em primeiro plano, de olhos fechados, camisola azul-clara e oxigenio no nariz; VALERIA de vestido preto em pe ao fundo, de bracos cruzados; o quarto com monitor cardiaco, abajur aceso e soro.",
-      "Imagem 2 — frame do clipe 2, plano 3 (por volta do segundo 8): a ENFERMERA entrando pela porta do quarto, uniforme azul-claro, cabelo em coque, rosto visivel; VALERIA de vestido preto passando por ela em primeiro plano."
-    ],
-    "preserve_exactly": [
-      "DON: o MESMO rosto da imagem 1, senhor de 75 anos, pele palida, cabelo grisalho penteado para tras, barba grisalha curta, camisola hospitalar AZUL-CLARA, cateter de oxigenio no nariz e soro no braco, deitado na cama.",
-      "ENFERMERA: o MESMO rosto da imagem 2, enfermeira de 28 anos, rosto gentil, pele morena clara, cabelo escuro preso em coque, uniforme hospitalar AZUL-CLARO, estetoscopio no pescoco.",
-      "O mesmo quarto de hospital da imagem 1, a noite.",
-      "Nas imagens aparece uma mulher de vestido preto (VALERIA): ela NAO aparece neste clipe. Usar as imagens so para os rostos de DON AURELIO e da ENFERMERA e para o quarto."
-    ]
-  },
-  "scene": {
-    "title": "NUNCA ESTUVE EN COMA",
-    "duration_seconds": 9.9,
-    "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
-    "structure": "3 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
-    "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Quarto de hospital particular a noite: luz fria azulada do monitor misturada com luz ambar baixa de abajur (Practical Lighting), Shallow Focus nos closes.",
-    "setting": "O MESMO quarto de hospital da imagem 1, a noite. VALERIA e JULIAN ja foram embora. So DON AURELIO e a ENFERMERA no quarto.",
-    "blocking": [
-      "DON: deitado na cama",
-      "ENFERMERA: em pe do lado DIREITO da cama, junto ao soro"
-    ],
-    "characters": {
-      "DON": "O MESMO da imagem 1. Personagem ficticio. Voz grave e rouca de homem de 75 anos.",
-      "ENFERMERA": "A MESMA da imagem 2. Personagem ficticia. Voz feminina suave de mulher de 28 anos."
-    }
-  },
-  "timeline": [
-    {
-      "time": "00:00.00-00:02.42",
-      "speaker": "ENFERMERA",
-      "dialogue": "Ay, don Aurelio… sus propios hijos.",
-      "addressee": "DON",
-      "eyeline": "ENFERMERA fala PARA DON e olha para DON (deitado na cama), fora do quadro.",
-      "emotion_level": 9,
-      "intention": "Lamentar baixinho a crueldade dos filhos.",
-      "voice": "Voz feminina baixa, triste, quase um sussurro.",
-      "face": "ENFERMERA: olhos marejados olhando para DON, que esta de olhos fechados.",
-      "body": "ENFERMERA: ajusta o soro no braco dele com carinho.",
-      "camera": "Medium Close-Up da ENFERMERA SOZINHA no quadro, ao lado da cama, Eye Level, lente 85mm. A fala comeca no primeiro instante do plano.",
-      "mouths": "Somente ENFERMERA movimenta os labios."
-    },
-    {
-      "time": "00:02.42-00:05.96",
+      "time": "00:02.31-00:05.47",
       "speaker": "DON",
-      "dialogue": "No grites. Nunca estuve en coma. Graba todo mañana.",
+      "dialogue": "No grites. Nunca estuve en coma. Grábalo todo.",
       "addressee": "ENFERMERA",
-      "eyeline": "DON fala PARA ENFERMERA e olha para ENFERMERA (em pe do lado DIREITO da cama, junto ao soro), fora do quadro.",
+      "eyeline": "DON fala PARA ENFERMERA e olha para ENFERMERA (entra pela porta e fica em pe do lado DIREITO da cama, junto ao soro), fora do quadro. NAO olha para VALERIA, JULIAN.",
       "emotion_level": 10,
       "intention": "Revelar o segredo e pedir ajuda.",
       "voice": "Voz grave e ROUCA, sussurrada e urgente.",
       "face": "DON AURELIO: abre os olhos DEVAGAR, piscando, e fixa o olhar lucido na ENFERMERA.",
-      "body": "DON AURELIO: deitado, segura devagar o pulso da enfermeira, que entra no quadro so pela mao.",
+      "body": "DON AURELIO: deitado, segura o pulso da enfermeira, que entra no quadro so pela mao.",
       "camera": "Corte seco. Close-Up de DON AURELIO SOZINHO no quadro, deitado no travesseiro, lente 85mm, Slow Push In. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente DON movimenta os labios."
     },
     {
-      "time": "00:05.96-00:09.86",
+      "time": "00:05.47-00:06.79",
+      "speaker": "ENFERMERA",
+      "dialogue": "¿Señor… está despierto?",
+      "addressee": "DON",
+      "eyeline": "ENFERMERA fala PARA DON e olha para DON (deitado na cama, no centro do quarto), fora do quadro. NAO olha para VALERIA, JULIAN.",
+      "emotion_level": 10,
+      "intention": "Reagir em choque.",
+      "voice": "Voz feminina SUSSURRADA, ofegante e tremula.",
+      "face": "ENFERMERA: olhos arregalados, boca entreaberta, mao no peito.",
+      "body": "ENFERMERA: em pe ao lado da cama, o pulso preso pela mao dele.",
+      "camera": "Corte seco. Medium Close-Up da ENFERMERA SOZINHA no quadro, lente 85mm, Shallow Focus. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente ENFERMERA movimenta os labios."
+    },
+    {
+      "time": "00:06.79-00:09.58",
       "speaker": "DON",
-      "dialogue": "Si quieres saber qué va a pasar, comenta parte dos.",
+      "dialogue": "¿Quieres saber qué pasa? Comenta parte dos.",
       "addressee": "CAMERA",
       "eyeline": "DON olha DIRETO para a lente.",
       "emotion_level": 9,
@@ -388,34 +263,36 @@ Referências, nesta ordem: 1) FRAME_P1; 2) FRAME_ENFERMERA
   "dialogue_rules": {
     "language": "Espanol de Mexico, acento mexicano natural, TODAS as palavras em espanhol.",
     "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
-    "total_dialogue_lines": 3,
+    "total_dialogue_lines": 4,
     "exact_order": [
-      "ENFERMERA",
+      "VALERIA",
       "DON",
+      "ENFERMERA",
       "DON"
     ],
     "rules": [
-      "So existem 3 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "So existem 4 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
       "A ultima fala termina junto com o video.",
-      "Cada fala e dirigida a: ENFERMERA -> DON; DON -> ENFERMERA; DON -> CAMERA.",
+      "Cada fala e dirigida a: VALERIA -> JULIAN; DON -> ENFERMERA; ENFERMERA -> DON; DON -> CAMERA.",
       "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
       "Nao repetir, misturar, traduzir ou acrescentar palavras.",
       "Cada frase e dita INTEIRA, do comeco ao fim.",
-      "No ultimo plano, e SOMENTE nele, DON AURELIO olha direto para a lente."
+      "No ultimo plano, e SOMENTE nele, DON AURELIO olha direto para a lente.",
+      "O plano 2 e mudo: so a acao da ENFERMERA entrando."
     ]
   },
   "audio": {
     "single_voice_at_a_time": true,
-    "sound": "O bip do monitor, que acelera quando ele abre os olhos.",
+    "sound": "Saltos de VALERIA no piso, a porta fechando, o bip do monitor que acelera quando ele abre os olhos.",
     "music": "Nenhuma.",
     "narration": "Nenhuma.",
     "subtitles": "Nao gerar."
   },
   "negative_prompt": [
-    "mulher de vestido preto aparecendo",
-    "valeria ou julian aparecendo",
-    "don aurelio de olhos abertos no primeiro plano",
+    "don aurelio de olhos abertos antes do plano 3",
     "don aurelio levantando da cama",
+    "valeria ou julian voltando depois do plano 1",
+    "enfermeira falando antes do plano 4",
     "texto ou letras em qualquer lugar",
     "palavra inventada no ultimo plano",
     "fala repetida",
@@ -424,7 +301,6 @@ Referências, nesta ordem: 1) FRAME_P1; 2) FRAME_ENFERMERA
     "fala neutra ou monotona",
     "rosto neutro ou expressao vazia",
     "atuacao contida",
-    "dois rostos visiveis nos planos de fala",
     "voz sem rosto na tela",
     "tela dividida",
     "colagem",
@@ -444,3 +320,6 @@ Referências, nesta ordem: 1) FRAME_P1; 2) FRAME_ENFERMERA
   ]
 }
 ```
+
+**Depois de gerar este clipe, salve os frames:**
+- **FRAME_ENFERMERA:** frame do clipe 2, plano 4 (por volta do segundo 6): ENFERMERA sozinha em choque, uniforme azul-claro, cabelo em coque.
