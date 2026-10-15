@@ -1,0 +1,333 @@
+{
+  "titulo": "Suegra millonaria humilla al abuelo carpintero en la cena de compromiso… sin saber quién era él realmente 😱",
+  "legenda": "Ella lo despreció por ser un simple carpintero… pero una cajita de madera cambió todo. ¿Tú habrías dejado a tu abuelo fuera de tu boda? 👇 Parte 2 muy pronto, sígueme para no perdértela.",
+  "estilo": "Vertical 9:16 video, photorealistic Mexican telenovela look, cinematic, warm natural light, shallow depth of field",
+  "personagens": {
+    "MARIANA": "Mariana, 23-year-old Mexican woman, light olive skin, long straight dark brown hair in a low ponytail, brown eyes, wearing a simple pale yellow cotton blouse, blue jeans and a small silver cross necklace",
+    "ERNESTO": "Don Ernesto, 72-year-old Mexican grandfather, tan wrinkled skin, short white hair, thick white mustache, kind tired eyes, wearing a faded brown plaid flannel shirt with rolled sleeves, beige work trousers and old worn brown shoes",
+    "REGINA": "Doña Regina, 55-year-old wealthy Mexican woman, fair skin, short wavy auburn bob, red lipstick, pearl earrings, wearing a fitted emerald green dress and a gold bracelet, arrogant posture",
+    "SEBASTIAN": "Sebastián, 27-year-old Mexican man, short neat black hair, clean-shaven, wearing a navy blue blazer over a white shirt, no tie"
+  },
+  "cenarios": {
+    "TALLER": "small humble carpentry workshop in a Mexican neighborhood, wood shavings on the floor, hand tools on the walls, unfinished wooden furniture, warm morning sunlight through a dusty window",
+    "COMEDOR": "luxurious dining room in a Mexican mansion at night, crystal chandelier, long table with white tablecloth, fine porcelain and wine glasses, marble floor",
+    "TERRAZA": "elegant mansion garden terrace at night, warm string lights, potted plants, stone balustrade, glass doors to the dining room behind",
+    "CASA": "small humble living room of an old Mexican house at night, worn sofa with a crochet blanket, simple wooden table, a warm table lamp, family photos on the wall, front door visible"
+  },
+  "clips": [
+    {
+      "cenario": "TALLER", "personagens": ["MARIANA", "ERNESTO"],
+      "camera": "medium two-shot, handheld, slight push-in",
+      "acao": "Mariana runs into the workshop smiling and shows an engagement ring on her hand; Ernesto puts down his chisel and opens his arms",
+      "falas": [
+        ["MARIANA", "excited, breathless", "¡Abuelito, Sebastián me pidió matrimonio! Mira este anillo. Y esta noche su mamá nos invitó a cenar a su mansión para conocerte."],
+        ["ERNESTO", "moved, smiling", "¡Ay, mi niña, qué alegría tan grande!"]
+      ]
+    },
+    {
+      "cenario": "TALLER", "personagens": ["MARIANA", "ERNESTO"],
+      "camera": "close-up on Ernesto looking at his calloused hands, then rack focus to Mariana",
+      "acao": "Ernesto looks at his rough hands with worry; Mariana takes his hands tenderly",
+      "falas": [
+        ["ERNESTO", "insecure, worried", "Pero mírame, hija. Soy un simple carpintero, con las manos llenas de callos. ¿Qué va a pensar esa señora tan elegante de mí?"],
+        ["MARIANA", "tender, firm", "Que eres el mejor hombre del mundo."]
+      ]
+    },
+    {
+      "cenario": "TALLER", "personagens": ["MARIANA", "ERNESTO"],
+      "camera": "medium shot, Mariana in front, Ernesto picks up a small carved wooden box from the bench",
+      "acao": "Mariana speaks with pride; Ernesto smiles and picks up a small handmade carved wooden box with a golden latch",
+      "falas": [
+        ["MARIANA", "proud, emotional", "Tú me criaste solito cuando mis papás murieron. Eres mi orgullo, abuelito. Esta noche vamos juntos."],
+        ["ERNESTO", "warm, mysterious smile", "Está bien, mi niña. Y le voy a llevar esta cajita a la señora."]
+      ]
+    },
+    {
+      "cenario": "COMEDOR", "personagens": ["REGINA", "SEBASTIAN"],
+      "camera": "low angle medium shot of Regina standing at the head of the table, looking someone up and down",
+      "acao": "Regina looks at the grandfather off-camera from head to toe with disgust and a cold fake smile; Sebastián stands beside her, uncomfortable",
+      "falas": [
+        ["REGINA", "cold, mocking", "Así que usted es el abuelo. Qué curioso. Sebastián, no me dijiste que tu novia venía acompañada del carpintero del barrio."],
+        ["SEBASTIAN", "embarrassed", "Mamá, por favor, no empieces."]
+      ]
+    },
+    {
+      "cenario": "COMEDOR", "personagens": ["ERNESTO", "REGINA"],
+      "camera": "over-the-shoulder shot from Regina toward Ernesto holding the wooden box",
+      "acao": "Ernesto humbly offers the carved wooden box with both hands; Regina takes it with two fingers as if it were dirty",
+      "falas": [
+        ["ERNESTO", "humble, kind", "Mucho gusto, señora Regina. Le traje este pequeño regalo. Es una cajita de madera que hice con mis propias manos para usted."],
+        ["REGINA", "disgusted", "Ay, qué detalle tan humilde."]
+      ]
+    },
+    {
+      "cenario": "COMEDOR", "personagens": ["REGINA", "MARIANA"],
+      "camera": "close-up of Regina tossing the box onto a side table, then medium shot of Mariana reacting",
+      "acao": "Regina carelessly drops the wooden box on a side table without opening it; Mariana looks offended",
+      "falas": [
+        ["REGINA", "arrogant", "Póngala por ahí. En esta casa usamos porcelana francesa, pero bueno, supongo que en su barrio esto es un lujo."],
+        ["MARIANA", "hurt, restrained", "Señora, mi abuelo pasó dos semanas tallando esa caja."]
+      ]
+    },
+    {
+      "cenario": "COMEDOR", "personagens": ["REGINA", "ERNESTO"],
+      "camera": "wide shot of everyone seated at the long table, then push-in on Regina holding a wine glass",
+      "acao": "Everyone sits at the table; Regina swirls her wine glass and asks with a superior smile while Ernesto lowers his eyes",
+      "falas": [
+        ["REGINA", "condescending", "Y dígame, don Ernesto, ¿cuánto gana un carpintero al mes? Porque esta boda va a costar millones y yo no pienso pagarla sola."]
+      ]
+    },
+    {
+      "cenario": "COMEDOR", "personagens": ["ERNESTO", "REGINA"],
+      "camera": "close-up on Ernesto, ashamed, then cut to Regina laughing",
+      "acao": "Ernesto answers with shame and dignity; Regina bursts out laughing loudly",
+      "falas": [
+        ["ERNESTO", "ashamed, sincere", "No es mucho, señora. Pero tengo unos ahorritos. Toda mi vida los guardé para la boda de mi Mariana."],
+        ["REGINA", "laughing cruelly", "¿Unos ahorritos? ¡Por favor!"]
+      ]
+    },
+    {
+      "cenario": "COMEDOR", "personagens": ["REGINA", "ERNESTO"],
+      "camera": "medium shot of Regina pointing down at Ernesto's shoes, tilt down to his worn shoes",
+      "acao": "Regina points at Ernesto's old worn shoes with disgust; Ernesto hides his feet under the chair",
+      "falas": [
+        ["REGINA", "humiliating", "Eso no alcanza ni para las flores de la entrada. Mejor guárdelos para comprarse unos zapatos decentes, que esos están rotos, don Ernesto."]
+      ]
+    },
+    {
+      "cenario": "COMEDOR", "personagens": ["MARIANA", "SEBASTIAN"],
+      "camera": "medium shot, Mariana stands up abruptly from her chair, Sebastián stands too",
+      "acao": "Mariana slams her hand on the table and stands up furious; Sebastián stands and faces his mother",
+      "falas": [
+        ["MARIANA", "furious, trembling voice", "¡Ya basta, señora! A mi abuelo usted no le habla así."],
+        ["SEBASTIAN", "firm", "Mamá, te estás pasando. Pídele disculpas a don Ernesto ahora mismo, por favor."]
+      ]
+    },
+    {
+      "cenario": "COMEDOR", "personagens": ["REGINA"],
+      "camera": "close-up of Regina, calm and cruel, slowly placing her napkin on the table",
+      "acao": "Regina smiles coldly and speaks slowly, looking directly at Ernesto off-camera",
+      "falas": [
+        ["REGINA", "cold, superior", "¿Disculpas yo? Hijo, solo digo la verdad. Don Ernesto, no se ofenda, pero usted no encaja en esta familia. Y en la boda, tampoco."]
+      ]
+    },
+    {
+      "cenario": "COMEDOR", "personagens": ["ERNESTO", "MARIANA"],
+      "camera": "close-up of Ernesto with teary eyes standing up, then wide shot as he walks to the door",
+      "acao": "Ernesto stands up slowly with wet eyes, nods with dignity and walks away; Mariana reaches out to stop him",
+      "falas": [
+        ["ERNESTO", "sad, dignified", "Tranquila, mi niña. La señora tiene razón. Yo mejor me voy para que ustedes cenen tranquilos. Con permiso."],
+        ["MARIANA", "desperate", "¡Abuelito, espera, no te vayas!"]
+      ]
+    },
+    {
+      "cenario": "TERRAZA", "personagens": ["REGINA", "MARIANA"],
+      "camera": "medium two-shot, Regina grabs Mariana's arm by the glass doors",
+      "acao": "Regina grabs Mariana's arm firmly before she can follow her grandfather and pulls her outside",
+      "falas": [
+        ["REGINA", "manipulative, quiet", "Espera, Mariana. Tú y yo tenemos que hablar a solas. Te voy a hacer una propuesta que te conviene muchísimo, niña."],
+        ["MARIANA", "suspicious", "¿Qué propuesta, señora?"]
+      ]
+    },
+    {
+      "cenario": "TERRAZA", "personagens": ["REGINA"],
+      "camera": "slow push-in on Regina's face under the string lights",
+      "acao": "Regina counts on her fingers with a seductive, manipulative smile",
+      "falas": [
+        ["REGINA", "seductive, manipulative", "Yo pago la boda completa. Vestido de diseñador, una hacienda, quinientos invitados. Y te regalo una casa. Solo te pido una cosita muy sencilla."]
+      ]
+    },
+    {
+      "cenario": "TERRAZA", "personagens": ["REGINA", "MARIANA"],
+      "camera": "over-the-shoulder shot from Mariana toward Regina",
+      "acao": "Regina leans in and whispers her condition coldly; Mariana's face freezes",
+      "falas": [
+        ["REGINA", "cold whisper", "Que tu abuelo no vaya a la boda. Mis amigas son gente importante. No voy a permitir que un viejo carpintero arruine mis fotos."]
+      ]
+    },
+    {
+      "cenario": "TERRAZA", "personagens": ["MARIANA", "REGINA"],
+      "camera": "close-up of Mariana in shock, then cut to Regina shrugging",
+      "acao": "Mariana steps back in disbelief with tears forming; Regina shrugs indifferently",
+      "falas": [
+        ["MARIANA", "shocked, tearful", "¿Me está pidiendo que deje a mi abuelo fuera de mi boda? ¡Él es la única familia que tengo en este mundo!"],
+        ["REGINA", "indifferent", "Exacto. Por eso es fácil."]
+      ]
+    },
+    {
+      "cenario": "TERRAZA", "personagens": ["REGINA"],
+      "camera": "medium shot of Regina turning back toward the glass doors, stopping to look over her shoulder",
+      "acao": "Regina walks away, stops, and delivers her ultimatum looking over her shoulder",
+      "falas": [
+        ["REGINA", "threatening", "Piénsalo bien, niña. O el viejo se queda en su taller, o no hay boda. Y tú sabes que Sebastián siempre hace lo que yo digo."]
+      ]
+    },
+    {
+      "cenario": "CASA", "personagens": ["MARIANA", "ERNESTO"],
+      "camera": "medium shot, Mariana enters through the front door crying, Ernesto sitting on the sofa",
+      "acao": "Mariana enters crying and kneels in front of Ernesto, who is sitting on the worn sofa",
+      "falas": [
+        ["MARIANA", "crying", "Abuelito, perdóname. Nunca debí llevarte a esa casa. Esa mujer te humilló delante de todos y yo no pude hacer nada."],
+        ["ERNESTO", "soft", "No llores, mi niña."]
+      ]
+    },
+    {
+      "cenario": "CASA", "personagens": ["ERNESTO", "MARIANA"],
+      "camera": "close-up of Ernesto wiping Mariana's tears with his thumb",
+      "acao": "Ernesto gently wipes her tears and asks with a calm but sad face",
+      "falas": [
+        ["ERNESTO", "calm, sad", "Esa señora me dijo algo en la puerta antes de salir. Que si yo voy a tu boda, tú te quedas sin casarte. ¿Es cierto, hija?"]
+      ]
+    },
+    {
+      "cenario": "CASA", "personagens": ["MARIANA"],
+      "camera": "close-up of Mariana, tearful but firm",
+      "acao": "Mariana nods while crying, then lifts her chin with determination",
+      "falas": [
+        ["MARIANA", "tearful, determined", "Sí, abuelito. Me ofreció pagar todo, una casa, todo… pero solo si tú no vas. Y yo jamás voy a aceptar algo así."]
+      ]
+    },
+    {
+      "cenario": "CASA", "personagens": ["ERNESTO"],
+      "camera": "medium close-up of Ernesto holding Mariana's face with both hands",
+      "acao": "Ernesto, with tears in his eyes, forces a smile and holds his granddaughter's face",
+      "falas": [
+        ["ERNESTO", "heartbroken, sacrificing", "Escúchame, hija. Acepta. Yo no quiero ser un estorbo en tu felicidad. Yo veo la boda desde lejos, escondido. Con verte feliz me basta."]
+      ]
+    },
+    {
+      "cenario": "CASA", "personagens": ["MARIANA"],
+      "camera": "close-up of Mariana shaking her head, crying",
+      "acao": "Mariana shakes her head desperately and grabs her grandfather's hands",
+      "falas": [
+        ["MARIANA", "crying, passionate", "¡No, abuelito! ¿Cómo me pides eso? Tú me enseñaste a caminar, me cuidaste cuando tenía fiebre, trabajaste día y noche para pagar mi escuela."]
+      ]
+    },
+    {
+      "cenario": "CASA", "personagens": ["MARIANA", "ERNESTO"],
+      "camera": "two-shot, Mariana stands up with decision, Ernesto looks up at her",
+      "acao": "Mariana stands up with determination; Ernesto looks at her, moved",
+      "falas": [
+        ["MARIANA", "firm, proud", "Si tú no entras conmigo a esa iglesia, no hay boda. Prefiero quedarme soltera toda la vida antes que avergonzarme de ti."],
+        ["ERNESTO", "moved", "Mi niña…"]
+      ]
+    },
+    {
+      "cenario": "CASA", "personagens": ["ERNESTO"],
+      "camera": "medium shot of Ernesto standing up slowly, worried",
+      "acao": "Ernesto stands up with difficulty and speaks with worry, holding Mariana's shoulders",
+      "falas": [
+        ["ERNESTO", "worried", "Tú no entiendes, hija. Esa familia tiene mucho poder y mucho dinero. Yo no quiero que por mi culpa pierdas al hombre que amas."]
+      ]
+    },
+    {
+      "cenario": "CASA", "personagens": ["SEBASTIAN", "MARIANA"],
+      "camera": "wide shot, front door opens, Sebastián enters; Mariana turns around",
+      "acao": "Sebastián enters through the front door, anxious; Mariana turns to face him with crossed arms",
+      "falas": [
+        ["SEBASTIAN", "anxious, apologetic", "Mariana, mi amor, perdóname por lo de mi mamá. Vine a decirte que yo no estoy de acuerdo con nada de lo que ella dijo."]
+      ]
+    },
+    {
+      "cenario": "CASA", "personagens": ["MARIANA", "SEBASTIAN"],
+      "camera": "over-the-shoulder shot from Sebastián toward Mariana",
+      "acao": "Mariana steps closer and looks him straight in the eyes, demanding an answer",
+      "falas": [
+        ["MARIANA", "serious, testing him", "Entonces dime la verdad, Sebastián. Si tu mamá dice que no hay boda con mi abuelo presente, ¿de qué lado vas a estar tú?"]
+      ]
+    },
+    {
+      "cenario": "CASA", "personagens": ["SEBASTIAN"],
+      "camera": "close-up of Sebastián hesitating, avoiding her eyes",
+      "acao": "Sebastián hesitates, rubs his neck nervously and avoids her gaze",
+      "falas": [
+        ["SEBASTIAN", "hesitant, nervous", "Mi amor, es que… mi mamá controla la empresa, mi herencia, todo. Dame unos días para convencerla, por favor. No tomes decisiones ahorita."]
+      ]
+    },
+    {
+      "cenario": "CASA", "personagens": ["MARIANA"],
+      "camera": "close-up of Mariana, deeply hurt, pointing at the door",
+      "acao": "Mariana, hurt and disappointed, points toward the door",
+      "falas": [
+        ["MARIANA", "hurt, disappointed", "¿Unos días? Te pregunto si eres capaz de defender a mi abuelo y tú me hablas de tu herencia. Vete, Sebastián. Vete de mi casa."]
+      ]
+    },
+    {
+      "cenario": "CASA", "personagens": ["REGINA", "MARIANA"],
+      "camera": "wide shot, Regina appears in the open doorway looking around with disgust",
+      "acao": "Regina appears in the doorway covering her nose with her hand, looking at the humble house with contempt",
+      "falas": [
+        ["REGINA", "disgusted, arrogant", "Ay, qué casita tan pobre. Sebastián, vámonos, que aquí huele a aserrín. Y tú, Mariana, ¿ya pensaste en mi propuesta?"],
+        ["MARIANA", "angry", "¡Usted aquí!"]
+      ]
+    },
+    {
+      "cenario": "CASA", "personagens": ["ERNESTO", "REGINA"],
+      "camera": "medium shot of Ernesto standing tall, calm, holding the carved wooden box",
+      "acao": "Ernesto, now calm and confident, walks toward Regina and hands her the carved wooden box",
+      "falas": [
+        ["ERNESTO", "calm, confident", "Señora Regina, olvidó su cajita en su mesa. Se la traje de vuelta. Ábrala, por favor. Adentro hay algo que le pertenece desde hace mucho tiempo."]
+      ]
+    },
+    {
+      "cenario": "CASA", "personagens": ["REGINA"],
+      "camera": "insert close-up of the box opening revealing an old black-and-white photo and an antique golden key, then close-up of Regina turning pale",
+      "acao": "Regina opens the box, sees an old photograph and an antique golden key, and her face turns pale with fear",
+      "falas": [
+        ["REGINA", "shocked, trembling", "Esta foto… esta llave… no puede ser. ¿De dónde sacó usted esto, viejo? ¿Quién se lo dio? ¡Dígame ahora mismo!"]
+      ]
+    },
+    {
+      "cenario": "CASA", "personagens": ["ERNESTO"],
+      "camera": "slow push-in on Ernesto's face, serious and powerful",
+      "acao": "Ernesto looks at Regina with a serious, powerful expression for the first time",
+      "falas": [
+        ["ERNESTO", "serious, powerful", "Usted sabe muy bien de dónde, señora. Hace treinta años usted me hizo una promesa y parece que se le olvidó. Pero yo no olvido nada."]
+      ]
+    },
+    {
+      "cenario": "CASA", "personagens": ["REGINA", "SEBASTIAN"],
+      "camera": "close-up of Regina stepping back in terror, Sebastián behind her confused",
+      "acao": "Regina steps back trembling, nearly dropping the box; Sebastián looks at his mother confused",
+      "falas": [
+        ["REGINA", "terrified", "¿Usted es… Ernesto Salgado? No, no puede ser. Todos dijeron que usted había muerto."],
+        ["SEBASTIAN", "confused", "Mamá, ¿de qué estás hablando? ¿Quién es Ernesto Salgado?"]
+      ]
+    },
+    {
+      "cenario": "CASA", "personagens": ["ERNESTO"],
+      "camera": "low angle medium shot of Ernesto, standing tall with authority",
+      "acao": "Ernesto speaks with authority, pointing at the box in Regina's hands",
+      "falas": [
+        ["ERNESTO", "authoritative", "Mañana a las diez la espero en su empresa, señora Regina. Delante de su abogado. Ahí todos van a saber quién es el verdadero dueño."]
+      ]
+    },
+    {
+      "cenario": "CASA", "personagens": ["MARIANA", "ERNESTO"],
+      "camera": "two-shot, Mariana looks at her grandfather in shock, he turns to her with a soft smile, slow push-in",
+      "acao": "Mariana grabs her grandfather's arm in shock; Ernesto turns to her with a soft, mysterious smile",
+      "falas": [
+        ["MARIANA", "shocked", "Abuelito… ¿de qué empresa hablas? ¿Quién eres tú realmente?"],
+        ["ERNESTO", "soft, mysterious", "Mañana lo vas a saber todo, mi niña. Todo."]
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "nome": "Curto 1 — Los zapatos rotos",
+      "clips": [8, 9],
+      "texto_final": "¿Qué le dirías a esta mujer? 👇 Historia completa en mi página"
+    },
+    {
+      "nome": "Curto 2 — La propuesta",
+      "clips": [15, 16],
+      "texto_final": "¿Tú aceptarías? 👇 Parte 2 en mi página"
+    },
+    {
+      "nome": "Curto 3 — La cajita de madera",
+      "clips": [31, 33],
+      "texto_final": "¿Quién crees que es el abuelo? 👇 Sígueme para la Parte 2"
+    }
+  ],
+  "texto_final": "CONTINUARÁ..."
+}
