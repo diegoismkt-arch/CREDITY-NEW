@@ -41,6 +41,8 @@ Um longo rende 3 a 5 curtos (cada um com um gancho diferente).
 
 ## Fluxo de trabalho
 
+> **UM CLIPE POR VEZ.** Entregar só o prompt do próximo clipe. O seguinte só depois que o usuário disser que o anterior saiu bom e tiver salvo os frames. Se ele mandar o vídeo gerado, analisar (frames, cortes, transcrição) antes de seguir; se saiu errado, corrigir o prompt desse mesmo clipe. Nunca adiantar clipes ou partes seguintes. Prompts sempre colados no chat, nunca como arquivo.
+
 1. Ideia em 1 frase + personagens + cenários.
 2. Escrever `novelas/<slug>/roteiro.json` (formato abaixo).
 3. Rodar:
