@@ -123,9 +123,9 @@
       ],
       "posicoes": {
         "DON": "deitado na cama, no centro do quarto, de olhos fechados",
-        "VALERIA": "comeca do lado ESQUERDO da cama e caminha ate a porta",
-        "JULIAN": "ja perto da porta, do lado DIREITO do quarto",
-        "ENFERMERA": "entra pela porta, do lado DIREITO do quarto, no ultimo plano"
+        "VALERIA": "do lado ESQUERDO da cama, caminhando ate a porta",
+        "JULIAN": "perto da porta, do lado DIREITO do quarto",
+        "ENFERMERA": "entrando pela porta, do lado DIREITO do quarto, so no ultimo plano"
       },
       "preservar_extra": [
         "O mesmo quarto de hospital da imagem FRAME_P1, a noite: monitor cardiaco, abajur aceso, soro. A porta do quarto fica do lado DIREITO.",
@@ -177,7 +177,8 @@
           "voz": "Voz feminina baixa, cortante e ameacadora.",
           "rosto": "VALERIA: olhar duro e ameacador para a ENFERMERA.",
           "corpo": "VALERIA: para na porta, cara a cara com a ENFERMERA que esta entrando, e depois sai.",
-          "camera": "Corte seco. Plano medio na porta: VALERIA em primeiro plano, de perfil, falando; a ENFERMERA entrando pela porta, rosto visivel, de cabeca baixa, intimidada, SEM falar. Lente 50mm."
+          "camera": "Corte seco. Plano medio na porta: VALERIA em primeiro plano, de perfil, falando; a ENFERMERA entrando pela porta, rosto visivel, de cabeca baixa, intimidada, SEM falar. Lente 50mm.",
+          "alvo_no_quadro": true
         }
       ]
     },

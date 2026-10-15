@@ -81,9 +81,10 @@ def montar(rot, n, clip):
             if alvo == "CAMERA":
                 item["eyeline"] = f"{p['quem']} olha DIRETO para a lente."
             elif alvo:
-                onde = f", que esta {pos[alvo]}" if alvo in pos else ""
+                onde = f" ({pos[alvo]})" if alvo in pos else ""
+                fora = ", dentro do quadro" if p.get("alvo_no_quadro") else ", fora do quadro"
                 outros = [k for k in clip["personagens"] if k not in (p["quem"], alvo)]
-                item["eyeline"] = (f"{p['quem']} fala PARA {alvo} e olha para {alvo}{onde}, fora do quadro."
+                item["eyeline"] = (f"{p['quem']} fala PARA {alvo} e olha para {alvo}{onde}{fora}."
                                    + (f" NAO olha para {', '.join(outros)}." if outros else ""))
             item.update({
                 "emotion_level": p.get("emocao", 9),
