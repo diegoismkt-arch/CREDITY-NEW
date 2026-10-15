@@ -26,7 +26,8 @@ O curto **não conta a história**: ele mostra **um único momento de choque e c
 - **Clipe 1: situação + revelação.** Algo escondido aparece (celular escondido no laço do vestido; a "morta" está viva e sabe quem a envenenou).
 - **Clipe 2: o vilão chega / é pego** — termina no **rosto de choque** ou na **fala do vilão que ainda não sabe** ("Doctor, ¿ya puede firmar la cremación?"). **Sem resolução.**
 - Personagens arquetípicos reconhecíveis em 1 segundo pela roupa: vilã de preto com vinho, pai/herói de terno, vítima frágil (criança, mulher), vilão de terno vermelho.
-- Termina com texto na edição: *"Parte 2 en mi página"*, *"¿Qué harías tú? 👇"*.
+- **CTA falado dentro do último clipe** (não gasta clipe extra): close no último personagem que fala, ele vira o rosto para a câmera (quebra a 4ª parede) e diz *"Si quieres saber qué va a pasar, comenta parte dos."* No prompt: câmera "turns his/her head and looks directly into the camera" + fala marcada "looking directly into the camera". Reservar ~10 palavras do clipe para isso.
+- Texto na edição, no final: *"Comenta PARTE 2 👇"*.
 - A base é sempre uma história longa: o curto é o momento mais forte dela. Uma história longa rende **3 a 5 curtos**, cada um com um gancho diferente.
 
 ### Longo — 30 a 40 clipes (5–7 min) → monetização
