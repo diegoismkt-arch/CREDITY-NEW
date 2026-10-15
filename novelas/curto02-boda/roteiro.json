@@ -1,0 +1,64 @@
+{
+  "titulo_post": "Llegó sonriendo a su propia boda… sin saber que la novia ya lo sabía todo 😱",
+  "legenda": "",
+  "texto_final": "Comenta PARTE 2 👇",
+  "titulo_interno": "LA TRAMPA DE LA NOVIA",
+  "estilo": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Salao de festa de casamento de luxo a noite: lustres de cristal, luz quente dourada, piso de marmore brilhante, Shallow Focus nos closes.",
+  "imagens": {},
+  "personagens": {
+    "NOVIA": {
+      "descricao": "noiva de 28 anos, pele morena clara, cabelo preto preso em coque elegante, VESTIDO DE NOIVA branco de renda com o veu jogado para tras, brincos de perola, maquiagem elegante.",
+      "voz": "Voz feminina firme e fria de mulher de 28 anos.",
+      "feminino": true
+    },
+    "NOVIO": {
+      "descricao": "noivo de 32 anos, bonito, cabelo preto penteado para tras com gel, barba feita, PALETO DE SMOKING BRANCO com lapela preta, gravata-borboleta PRETA, camisa branca, sorriso confiante e falso.",
+      "voz": "Voz masculina charmosa e confiante de homem de 32 anos."
+    }
+  },
+  "clips": [
+    {
+      "nome": "A armadilha fecha",
+      "atuacao": "Novela dramatica. Atuacao INTENSA: a NOVIA fria, calculista e decidida, falando em segredo ao telefone; o NOVIO cinico, sorridente e cheio de si, que no fim percebe a armadilha e fica nervoso. Rostos muito expressivos. Nenhuma fala neutra.",
+      "personagens": ["NOVIA", "NOVIO"],
+      "salvar_frames": [],
+      "posicoes": {
+        "NOVIA": "escondida num corredor lateral, espiando o salao por uma porta entreaberta, com o celular no ouvido",
+        "NOVIO": "no meio do salao, entre os convidados",
+        "CONVIDADOS": "ao redor do NOVIO no salao, elegantes, sem falar",
+        "SEGURANCAS": "nas grandes portas de madeira do fundo do salao"
+      },
+      "preservar_extra": ["Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.", "Salao de casamento de luxo com grandes portas duplas de madeira escura no fundo."],
+      "cenario": "Grande salao de festa de casamento de luxo a noite, lustres de cristal, piso de marmore, mesas decoradas com flores brancas, convidados elegantes, grandes portas duplas de madeira escura no fundo com dois segurancas de terno preto.",
+      "som": "Murmurio dos convidados, musica ambiente muito baixa que para quando as portas batem, o estrondo seco das portas fechando.",
+      "remover_negativos": ["dois rostos visiveis nos planos de fala"],
+      "negativos_extra": ["novia aparecendo no salao", "novio vendo a novia", "convidados falando", "segurancas falando"],
+      "regras_extra": ["O plano 3 e mudo: so as portas fechando.", "So a NOVIA e o NOVIO falam."],
+      "planos": [
+        {
+          "quem": "NOVIA", "para": "PAPA", "fala": "Papá, ya llegó. Cierra todas las puertas.", "emocao": 9,
+          "eyeline": "NOVIA fala ao TELEFONE com o pai (que nao aparece) e olha pela fresta da porta para o NOVIO no salao, fora do quadro.",
+          "intencao": "Dar a ordem secreta para prender o noivo.", "voz": "Voz feminina SUSSURRADA, fria e decidida.",
+          "rosto": "NOVIA: olhar frio e calculista, fixo no salao pela fresta da porta.", "corpo": "NOVIA: encostada na parede do corredor, celular no ouvido, o veu jogado para tras.",
+          "camera": "Close-Up da NOVIA SOZINHA no quadro, de perfil, meio rosto iluminado pela luz dourada que vem da fresta da porta, lente 85mm, Shallow Focus."
+        },
+        {
+          "quem": "NOVIO", "para": "CONVIDADOS", "fala": "¡Hoy es el día más feliz de mi vida!", "emocao": 9,
+          "intencao": "Fingir felicidade, achando que vai ficar rico.", "voz": "Voz masculina alegre, charmosa e falsa.",
+          "rosto": "NOVIO: sorriso largo e cinico, olhos brilhando de ganancia.", "corpo": "NOVIO: caminha pelo salao abrindo os bracos, cumprimentando os convidados.",
+          "camera": "Corte seco. Plano medio do NOVIO caminhando em direcao a camera pelo salao, convidados desfocados ao redor, lustres em Bokeh, lente 50mm, Slow Tracking."
+        },
+        {
+          "rosto": "Segurancas de terno preto, serios.", "corpo": "Dois segurancas empurram e fecham as grandes portas duplas de madeira do fundo do salao, com um estrondo.",
+          "camera": "Corte seco. Plano aberto e simetrico das grandes portas do fundo do salao se fechando, lustres no alto, piso de marmore refletindo a luz. Ninguem fala.", "segundos": 1.2
+        },
+        {
+          "quem": "NOVIO", "para": "SEGURANCAS", "fala": "¿Por qué cerraron las puertas?", "emocao": 10,
+          "intencao": "Perceber, com medo, que caiu numa armadilha.", "voz": "Voz masculina tensa, o sorriso sumindo, insegura.",
+          "rosto": "NOVIO: o sorriso congela e some, olhos arregalados, olha para tras.", "corpo": "NOVIO: para no meio do salao e vira o corpo para as portas.",
+          "camera": "Corte seco. Medium Close-Up do NOVIO SOZINHO no quadro, lente 85mm, Slow Push In. O clipe termina no rosto nervoso dele."
+        }
+      ]
+    }
+  ]
+}

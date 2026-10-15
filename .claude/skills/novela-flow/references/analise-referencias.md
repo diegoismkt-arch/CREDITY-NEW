@@ -65,3 +65,12 @@ No Flow cada geração custa créditos, então **cada clipe de 10 s precisa esta
 - **Teste 2 (Parte 1, clipe 1 refeito):** com `para`/`posicoes`, cada um falou com a pessoa certa; cortes em 3,9 s e 7,0 s. Aprendizado: não existe "frame do quarto sozinho" nem "do Don sozinho" — o plano 1 mostra Don deitado + Valeria ao fundo + quarto. Os frames pedidos têm que sair dos planos planejados (com o segundo exato) e a descrição tem que bater com a composição real.
 - **Teste 3 (Parte 1, clipe 2):** reprovado. O clipe já começava com Don de olhos abertos: faltou mostrar os filhos saindo, a enfermeira entrando e ele acordando devagar. Correção: regra de continuidade — cada mudança de situação acontece na tela; dividido em clipe 2 (saída + entrada) e clipe 3 (acorda + CTA).
 - **Decisão do usuário:** curto = 2 clipes. Transições (saída/entrada/acordar) cabem no mesmo clipe de 10 s com 4–5 cortes e um plano mudo de ~1 s.
+
+## Curto C (11 s, 1 clipe): "Cierra todas las salidas"
+- P1 (0–1,7 s): mulher de vestido dourado, close de perfil, celular no ouvido, sussurra a ordem ("Papá, cierra todas las salidas").
+- P2 (1,7–3,4 s): vilão de smoking branco caminha sorridente pela festa de gala.
+- P3 (3,4–3,8 s): insert rapidíssimo do olho dela.
+- P4 (3,8–~5 s): plano aberto simétrico das grandes portas do salão se fechando, seguranças.
+- P5 (~5–7,7 s): vilão vira para trás, o sorriso some — percebe a armadilha.
+- P6 (7,7–11 s): ela cara a cara com ele, fria: "Esas puertas no fueron construidas para mantener el peligro afuera… sino para que hombres como tú no salgan."
+- Mecânica: armadilha preparada em segredo → vilão confiante → a porta fecha (imagem forte, sem fala) → percepção → frase de efeito da heroína. Inverte o poder em 11 s.

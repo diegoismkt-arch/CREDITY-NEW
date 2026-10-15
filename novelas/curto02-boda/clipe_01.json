@@ -1,0 +1,138 @@
+{
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao INTENSA: a NOVIA fria, calculista e decidida, falando em segredo ao telefone; o NOVIO cinico, sorridente e cheio de si, que no fim percebe a armadilha e fica nervoso. Rostos muito expressivos. Nenhuma fala neutra.",
+  "consistency": [
+    "NOVIA: noiva de 28 anos, pele morena clara, cabelo preto preso em coque elegante, VESTIDO DE NOIVA branco de renda com o veu jogado para tras, brincos de perola, maquiagem elegante.",
+    "NOVIO: noivo de 32 anos, bonito, cabelo preto penteado para tras com gel, barba feita, PALETO DE SMOKING BRANCO com lapela preta, gravata-borboleta PRETA, camisa branca, sorriso confiante e falso.",
+    "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
+    "Salao de casamento de luxo com grandes portas duplas de madeira escura no fundo."
+  ],
+  "scene": {
+    "title": "LA TRAMPA DE LA NOVIA",
+    "duration_seconds": 9.6,
+    "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
+    "structure": "4 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Salao de festa de casamento de luxo a noite: lustres de cristal, luz quente dourada, piso de marmore brilhante, Shallow Focus nos closes.",
+    "setting": "Grande salao de festa de casamento de luxo a noite, lustres de cristal, piso de marmore, mesas decoradas com flores brancas, convidados elegantes, grandes portas duplas de madeira escura no fundo com dois segurancas de terno preto.",
+    "blocking": [
+      "NOVIA: escondida num corredor lateral, espiando o salao por uma porta entreaberta, com o celular no ouvido",
+      "NOVIO: no meio do salao, entre os convidados",
+      "CONVIDADOS: ao redor do NOVIO no salao, elegantes, sem falar",
+      "SEGURANCAS: nas grandes portas de madeira do fundo do salao"
+    ],
+    "characters": {
+      "NOVIA": "noiva de 28 anos, pele morena clara, cabelo preto preso em coque elegante, VESTIDO DE NOIVA branco de renda com o veu jogado para tras, brincos de perola, maquiagem elegante. Personagem ficticia. Voz feminina firme e fria de mulher de 28 anos.",
+      "NOVIO": "noivo de 32 anos, bonito, cabelo preto penteado para tras com gel, barba feita, PALETO DE SMOKING BRANCO com lapela preta, gravata-borboleta PRETA, camisa branca, sorriso confiante e falso. Personagem ficticio. Voz masculina charmosa e confiante de homem de 32 anos."
+    }
+  },
+  "timeline": [
+    {
+      "time": "00:00.00-00:02.79",
+      "speaker": "NOVIA",
+      "dialogue": "Papá, ya llegó. Cierra todas las puertas.",
+      "addressee": "PAPA",
+      "eyeline": "NOVIA fala ao TELEFONE com o pai (que nao aparece) e olha pela fresta da porta para o NOVIO no salao, fora do quadro.",
+      "emotion_level": 9,
+      "intention": "Dar a ordem secreta para prender o noivo.",
+      "voice": "Voz feminina SUSSURRADA, fria e decidida.",
+      "face": "NOVIA: olhar frio e calculista, fixo no salao pela fresta da porta.",
+      "body": "NOVIA: encostada na parede do corredor, celular no ouvido, o veu jogado para tras.",
+      "camera": "Close-Up da NOVIA SOZINHA no quadro, de perfil, meio rosto iluminado pela luz dourada que vem da fresta da porta, lente 85mm, Shallow Focus. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente NOVIA movimenta os labios."
+    },
+    {
+      "time": "00:02.79-00:06.33",
+      "speaker": "NOVIO",
+      "dialogue": "¡Hoy es el día más feliz de mi vida!",
+      "addressee": "CONVIDADOS",
+      "eyeline": "NOVIO fala PARA CONVIDADOS e olha para CONVIDADOS (ao redor do NOVIO no salao, elegantes, sem falar), fora do quadro. NAO olha para NOVIA.",
+      "emotion_level": 9,
+      "intention": "Fingir felicidade, achando que vai ficar rico.",
+      "voice": "Voz masculina alegre, charmosa e falsa.",
+      "face": "NOVIO: sorriso largo e cinico, olhos brilhando de ganancia.",
+      "body": "NOVIO: caminha pelo salao abrindo os bracos, cumprimentando os convidados.",
+      "camera": "Corte seco. Plano medio do NOVIO caminhando em direcao a camera pelo salao, convidados desfocados ao redor, lustres em Bokeh, lente 50mm, Slow Tracking. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente NOVIO movimenta os labios."
+    },
+    {
+      "time": "00:06.33-00:07.53",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "Segurancas de terno preto, serios.",
+      "body": "Dois segurancas empurram e fecham as grandes portas duplas de madeira do fundo do salao, com um estrondo.",
+      "camera": "Corte seco. Plano aberto e simetrico das grandes portas do fundo do salao se fechando, lustres no alto, piso de marmore refletindo a luz. Ninguem fala.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    },
+    {
+      "time": "00:07.53-00:09.58",
+      "speaker": "NOVIO",
+      "dialogue": "¿Por qué cerraron las puertas?",
+      "addressee": "SEGURANCAS",
+      "eyeline": "NOVIO fala PARA SEGURANCAS e olha para SEGURANCAS (nas grandes portas de madeira do fundo do salao), fora do quadro. NAO olha para NOVIA.",
+      "emotion_level": 10,
+      "intention": "Perceber, com medo, que caiu numa armadilha.",
+      "voice": "Voz masculina tensa, o sorriso sumindo, insegura.",
+      "face": "NOVIO: o sorriso congela e some, olhos arregalados, olha para tras.",
+      "body": "NOVIO: para no meio do salao e vira o corpo para as portas.",
+      "camera": "Corte seco. Medium Close-Up do NOVIO SOZINHO no quadro, lente 85mm, Slow Push In. O clipe termina no rosto nervoso dele. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente NOVIO movimenta os labios."
+    }
+  ],
+  "dialogue_rules": {
+    "language": "Espanol de Mexico, acento mexicano natural, TODAS as palavras em espanhol.",
+    "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
+    "total_dialogue_lines": 3,
+    "exact_order": [
+      "NOVIA",
+      "NOVIO",
+      "NOVIO"
+    ],
+    "rules": [
+      "So existem 3 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "A ultima fala termina junto com o video.",
+      "Cada fala e dirigida a: NOVIA -> PAPA; NOVIO -> CONVIDADOS; NOVIO -> SEGURANCAS.",
+      "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
+      "Nao repetir, misturar, traduzir ou acrescentar palavras.",
+      "Cada frase e dita INTEIRA, do comeco ao fim.",
+      "O plano 3 e mudo: so as portas fechando.",
+      "So a NOVIA e o NOVIO falam."
+    ]
+  },
+  "audio": {
+    "single_voice_at_a_time": true,
+    "sound": "Murmurio dos convidados, musica ambiente muito baixa que para quando as portas batem, o estrondo seco das portas fechando.",
+    "music": "Nenhuma.",
+    "narration": "Nenhuma.",
+    "subtitles": "Nao gerar."
+  },
+  "negative_prompt": [
+    "novia aparecendo no salao",
+    "novio vendo a novia",
+    "convidados falando",
+    "segurancas falando",
+    "texto ou letras em qualquer lugar",
+    "palavra inventada no ultimo plano",
+    "fala repetida",
+    "fala adiantada ou atrasada para outro plano",
+    "personagem falando ou olhando para quem nao e o destinatario da fala",
+    "fala neutra ou monotona",
+    "rosto neutro ou expressao vazia",
+    "atuacao contida",
+    "voz sem rosto na tela",
+    "tela dividida",
+    "colagem",
+    "formato horizontal",
+    "bordas pretas",
+    "palavras em ingles",
+    "palavras em portugues",
+    "duas vozes simultaneas",
+    "movimento labial do ouvinte",
+    "fala cortada, encurtada ou incompleta",
+    "personagem olhando para a camera",
+    "mudanca de rosto",
+    "mudanca de roupa",
+    "legendas",
+    "logotipo",
+    "marca-d'agua",
+    "trilha sonora"
+  ]
+}

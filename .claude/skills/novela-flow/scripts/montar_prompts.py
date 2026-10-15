@@ -78,7 +78,9 @@ def montar(rot, n, clip):
                 erro_para = True
             item["addressee"] = alvo
             pos = clip.get("posicoes", {})
-            if alvo == "CAMERA":
+            if p.get("eyeline"):
+                item["eyeline"] = p["eyeline"]
+            elif alvo == "CAMERA":
                 item["eyeline"] = f"{p['quem']} olha DIRETO para a lente."
             elif alvo:
                 onde = f" ({pos[alvo]})" if alvo in pos else ""
