@@ -110,16 +110,29 @@ def montar(rot, n, clip):
     negativos = clip.get("negativos_extra", []) + negativos
 
     nomes_fala = list(dict.fromkeys(falantes))
-    prompt = {
-        "ATUACAO_PRIORIDADE_MAXIMA": clip["atuacao"],
-        "input_image": {
+    imagens = clip.get("imagens", [])
+    pers = rot["personagens"]
+    fichas, preservar = {}, []
+    for k in usados:
+        d = pers[k]
+        if d.get("frame") in imagens:
+            # personagem já existe num frame salvo de clipe anterior
+            fichas[k] = f"O MESMO da imagem {d['frame']}. Personagem ficticio. {d['voz']}"
+            preservar.append(f"{k}: o MESMO rosto da imagem {d['frame']}, {d['descricao']}")
+        else:
+            # primeira aparição: criado só pela descrição
+            fichas[k] = f"{d['descricao']} Personagem ficticio. {d['voz']}"
+            preservar.append(f"{k}: {d['descricao']}")
+    prompt = {"ATUACAO_PRIORIDADE_MAXIMA": clip["atuacao"]}
+    if imagens:
+        prompt["input_image"] = {
             "required": False,
             "mode": "Ingredients to Video, sem primeiro frame.",
             "additional_references": True,
-            "reference_images": [f"Imagem {i} — {rot['imagens'][k]}" for i, k in enumerate(clip["imagens"], 1)],
-            "preserve_exactly": [f"{k}: {rot['personagens'][k]['preservar']}" for k in usados]
-                                + clip.get("preservar_extra", []),
-        },
+            "reference_images": [f"Imagem {i} — {rot['imagens'][k]}" for i, k in enumerate(imagens, 1)],
+            "preserve_exactly": preservar + clip.get("preservar_extra", []),
+        }
+    prompt.update({
         "scene": {
             "title": rot["titulo_interno"],
             "duration_seconds": min(DURACAO_MAX, round(total + 0.05, 1)),
@@ -129,7 +142,7 @@ def montar(rot, n, clip):
                           "do plano de quem fala e terminando antes do corte."),
             "style": rot["estilo"],
             "setting": clip["cenario"],
-            "characters": {k: rot["personagens"][k]["ficha"] for k in usados},
+            "characters": fichas,
         },
         "timeline": timeline,
         "dialogue_rules": {
@@ -153,9 +166,13 @@ def montar(rot, n, clip):
             "subtitles": "Nao gerar.",
         },
         "negative_prompt": negativos,
-    }
+    })
+    if not imagens:
+        # clipe que cria os personagens: aparência fixa logo depois da atuação
+        prompt = {"ATUACAO_PRIORIDADE_MAXIMA": prompt.pop("ATUACAO_PRIORIDADE_MAXIMA"),
+                  "consistency": preservar + clip.get("preservar_extra", []), **prompt}
     # "imagem DON" -> "imagem 2", conforme a ordem das referências deste clipe
-    numeros = {k: i for i, k in enumerate(clip["imagens"], 1)}
+    numeros = {k: i for i, k in enumerate(imagens, 1)}
     prompt = json.loads(re.sub(r"imagem ([A-Z_]+)\b",
                                lambda m: f"imagem {numeros.get(m.group(1), m.group(1))}",
                                json.dumps(prompt, ensure_ascii=False)))
@@ -176,8 +193,6 @@ def main():
     pasta = caminho.parent
     md = [f"# {rot['titulo_post']}\n", f"**Legenda:** {rot['legenda']}\n",
           f"**Texto na edição (final):** {rot.get('texto_final', '')}\n"]
-    md.append("## Imagens de referência (gerar antes, usar como ingredientes)\n")
-    md += [f"- **{k}:** {v}" for k, v in rot["imagens"].items()]
     erros = 0
     for n, clip in enumerate(rot["clips"], 1):
         prompt, resumo, erro = montar(rot, n, clip)
@@ -185,7 +200,13 @@ def main():
         print(resumo)
         txt = json.dumps(prompt, ensure_ascii=False, indent=2)
         (pasta / f"clipe_{n:02d}.json").write_text(txt + "\n", encoding="utf-8")
-        md.append(f"\n## Clipe {n} — {clip['nome']}\n\n{resumo}\n\n```json\n{txt}\n```\n")
+        refs = clip.get("imagens", [])
+        uso = ("Sem imagem de referência (Text to Video)." if not refs else
+               "Referências, nesta ordem: " + "; ".join(f"{i}) {k}" for i, k in enumerate(refs, 1)))
+        md.append(f"\n## Clipe {n} — {clip['nome']}\n\n{resumo}\n\n{uso}\n\n```json\n{txt}\n```\n")
+        if clip.get("salvar_frames"):
+            md.append("**Depois de gerar este clipe, salve os frames:**\n" +
+                      "\n".join(f"- **{k}:** {rot['imagens'][k]}" for k in clip["salvar_frames"]))
     (pasta / "prompts.md").write_text("\n".join(md), encoding="utf-8")
     print(f"\n{pasta}/prompts.md gerado. Clipes com erro: {erros}")
     sys.exit(1 if erros else 0)

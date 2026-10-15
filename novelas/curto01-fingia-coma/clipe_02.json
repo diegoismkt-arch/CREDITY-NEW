@@ -5,13 +5,12 @@
     "mode": "Ingredients to Video, sem primeiro frame.",
     "additional_references": true,
     "reference_images": [
-      "Imagem 1 — o quarto de hospital particular de luxo a noite, com DON AURELIO deitado na cama, VALERIA e JULIAN em pe ao lado e a ENFERMERA ao fundo, em plano aberto; monitor cardiaco, buque de flores brancas, janela com luzes da cidade.",
-      "Imagem 2 — DON AURELIO, senhor de 75 anos, pele palida, cabelo grisalho penteado para tras, barba grisalha curta, camisola hospitalar azul-clara, cateter de oxigenio no nariz e soro no braco, deitado na cama.",
-      "Imagem 3 — LUCIA, enfermeira de 28 anos, rosto gentil, cabelo escuro preso em coque, uniforme hospitalar azul-claro, estetoscopio no pescoco."
+      "Imagem 1 — frame salvo do clipe 1: o quarto de hospital particular de luxo a noite, com DON AURELIO deitado na cama, monitor cardiaco, buque de flores brancas, janela com luzes da cidade.",
+      "Imagem 2 — frame salvo do clipe 1: DON AURELIO deitado na cama, de camisola hospitalar azul-clara, com oxigenio no nariz, rosto bem visivel."
     ],
     "preserve_exactly": [
-      "DON: o MESMO rosto da imagem 2, cabelo grisalho para tras, barba grisalha curta, camisola hospitalar AZUL-CLARA, cateter de oxigenio no nariz, soro no braco.",
-      "ENFERMERA: o MESMO rosto da imagem 3, cabelo escuro em coque, uniforme AZUL-CLARO, estetoscopio.",
+      "DON: o MESMO rosto da imagem 2, senhor de 75 anos, pele palida, cabelo grisalho penteado para tras, barba grisalha curta, camisola hospitalar AZUL-CLARA, cateter de oxigenio no nariz e soro no braco, deitado na cama.",
+      "ENFERMERA: enfermeira de 28 anos, rosto gentil, pele morena clara, cabelo escuro preso em coque, uniforme hospitalar AZUL-CLARO, estetoscopio no pescoco.",
       "O mesmo quarto de hospital da imagem 1, a noite."
     ]
   },
@@ -24,7 +23,7 @@
     "setting": "O MESMO quarto de hospital da imagem 1, a noite. VALERIA e JULIAN ja foram embora e NAO aparecem. So DON AURELIO e a ENFERMERA no quarto.",
     "characters": {
       "DON": "O MESMO da imagem 2. Personagem ficticio. Voz grave e rouca de homem de 75 anos.",
-      "ENFERMERA": "A MESMA da imagem 3. Personagem ficticia. Voz feminina suave de mulher de 28 anos."
+      "ENFERMERA": "enfermeira de 28 anos, rosto gentil, pele morena clara, cabelo escuro preso em coque, uniforme hospitalar AZUL-CLARO, estetoscopio no pescoco. Personagem ficticio. Voz feminina suave de mulher de 28 anos."
     }
   },
   "timeline": [

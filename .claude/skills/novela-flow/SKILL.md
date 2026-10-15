@@ -12,7 +12,7 @@ Produz novelas em espanhol (sotaque mexicano) 100% no **Google Flow**, no format
 1. **Clipe de até 10 s com fala do primeiro ao último segundo.** Clipe vazio = crédito jogado fora. O script recusa clipe com menos de 75% de fala.
 2. **Um falante por plano, cortes secos dentro do clipe.** Cada clipe tem 2 a 4 planos; em cada plano só o rosto de quem fala aparece e só ele mexe a boca. A fala começa no primeiro instante do plano.
 3. **Tempo da fala = palavras ÷ 2,7 s** (medido nas referências). O script calcula a timeline sozinho; nunca escrever os tempos à mão.
-4. **Consistência por imagens de referência (Ingredients to Video).** Antes dos clipes, gerar uma imagem de cada personagem e do cenário em plano aberto. Roupa e rosto FIXOS, repetidos em `preserve_exactly`.
+4. **Imagem de referência só quando precisa.** O **clipe 1 é Text to Video, sem imagem**: cria os personagens pela descrição (vai no campo `consistency`). Depois de gerar, **salvar os frames** dos personagens e do cenário (`salvar_frames`). Os clipes seguintes usam esses frames como referência (Ingredients to Video, `input_image`). Personagem que ainda não apareceu entra descrito por texto e tem o frame salvo no clipe em que aparece. Roupa e rosto FIXOS sempre.
 5. **Prompt em português, falas em espanhol.** Sem legenda, sem texto, sem música — texto ("Comenta PARTE 2 👇") entra na edição.
 6. **Atuação no máximo:** `ATUACAO_PRIORIDADE_MAXIMA` e os campos voice/face de cada plano descrevem emoção forte (voz falhando, lágrimas, desprezo, choque). Nada neutro.
 
@@ -58,20 +58,22 @@ Um longo rende 3 a 5 curtos (cada um com um gancho diferente).
   "texto_final": "Comenta PARTE 2 👇",
   "titulo_interno": "NOME DA CENA",
   "estilo": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista... luz...",
-  "imagens": { "QUARTO": "descrição da imagem de referência", "DON": "..." },
+  "imagens": { "FRAME_DON": "frame salvo do clipe 1: DON deitado, rosto bem visivel", "FRAME_QUARTO": "..." },
   "personagens": {
     "DON": {
-      "preservar": "o MESMO rosto da imagem DON, roupa X, detalhe Y.",
-      "ficha": "O MESMO da imagem DON. Personagem ficticio. Voz grave de homem de 75 anos."
+      "descricao": "senhor de 75 anos, cabelo grisalho..., roupa FIXA.",
+      "voz": "Voz grave e rouca de homem de 75 anos.",
+      "frame": "FRAME_DON"
     }
   },
   "clips": [
     {
       "nome": "Nome curto do clipe",
       "atuacao": "texto do ATUACAO_PRIORIDADE_MAXIMA",
-      "imagens": ["QUARTO", "DON"],
+      "imagens": ["FRAME_QUARTO", "FRAME_DON"],
+      "salvar_frames": ["FRAME_..."],
       "personagens": ["DON"],
-      "preservar_extra": ["O mesmo quarto da imagem QUARTO."],
+      "preservar_extra": ["O mesmo quarto da imagem FRAME_QUARTO."],
       "cenario": "setting do clipe",
       "som": "sons ambiente",
       "negativos_extra": ["coisas proibidas só neste clipe"],
@@ -91,6 +93,7 @@ Um longo rende 3 a 5 curtos (cada um com um gancho diferente).
 }
 ```
 
-- Nos textos, citar imagens pelo NOME (`imagem DON`); o script troca pelo número certo de cada clipe ("imagem 2").
+- `imagens` vazio/ausente = clipe sem referência (Text to Video). Com `imagens`, o personagem cujo `frame` está na lista vira "O MESMO da imagem N"; os demais são descritos por texto.
+- Nos textos, citar imagens pelo NOME (`imagem FRAME_DON`); o script troca pelo número certo de cada clipe ("imagem 2").
 - Plano sem `fala` = plano mudo de reação (use pouco, no máximo ~0,8 s, só no fim).
 - O negative prompt padrão (tela dividida, legendas, fala repetida, dois rostos nos planos de fala, etc.) já vem no script.

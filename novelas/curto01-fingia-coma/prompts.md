@@ -4,50 +4,34 @@
 
 **Texto na edição (final):** Comenta PARTE 2 👇
 
-## Imagens de referência (gerar antes, usar como ingredientes)
-
-- **QUARTO:** o quarto de hospital particular de luxo a noite, com DON AURELIO deitado na cama, VALERIA e JULIAN em pe ao lado e a ENFERMERA ao fundo, em plano aberto; monitor cardiaco, buque de flores brancas, janela com luzes da cidade.
-- **DON:** DON AURELIO, senhor de 75 anos, pele palida, cabelo grisalho penteado para tras, barba grisalha curta, camisola hospitalar azul-clara, cateter de oxigenio no nariz e soro no braco, deitado na cama.
-- **VALERIA:** VALERIA, mulher de 40 anos, cabelo preto liso e brilhante, maquiagem forte, batom vermelho, vestido preto de grife, joias de ouro, bolsa de luxo na mao.
-- **JULIAN:** JULIAN, homem de 45 anos, cabelo escuro penteado para tras com gel, bigode fino, terno cinza com camisa branca aberta, relogio de ouro.
-- **ENFERMERA:** LUCIA, enfermeira de 28 anos, rosto gentil, cabelo escuro preso em coque, uniforme hospitalar azul-claro, estetoscopio no pescoco.
 
 ## Clipe 1 — Os filhos querem desligar a máquina
 
 clipe 1: 9.5s, 9.5s de fala (24 palavras, 3 planos, falantes: VALERIA, JULIAN) ✅
 
+Sem imagem de referência (Text to Video).
+
 ```json
 {
   "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao INTENSA e expressiva: VALERIA fria, impaciente e cheia de desprezo pelo pai; JULIAN ganancioso, com um sorriso cruel. DON AURELIO completamente imovel, olhos fechados, como se estivesse em coma. Rostos muito expressivos. Nenhuma fala sai neutra ou monotona.",
-  "input_image": {
-    "required": false,
-    "mode": "Ingredients to Video, sem primeiro frame.",
-    "additional_references": true,
-    "reference_images": [
-      "Imagem 1 — o quarto de hospital particular de luxo a noite, com DON AURELIO deitado na cama, VALERIA e JULIAN em pe ao lado e a ENFERMERA ao fundo, em plano aberto; monitor cardiaco, buque de flores brancas, janela com luzes da cidade.",
-      "Imagem 2 — DON AURELIO, senhor de 75 anos, pele palida, cabelo grisalho penteado para tras, barba grisalha curta, camisola hospitalar azul-clara, cateter de oxigenio no nariz e soro no braco, deitado na cama.",
-      "Imagem 3 — VALERIA, mulher de 40 anos, cabelo preto liso e brilhante, maquiagem forte, batom vermelho, vestido preto de grife, joias de ouro, bolsa de luxo na mao.",
-      "Imagem 4 — JULIAN, homem de 45 anos, cabelo escuro penteado para tras com gel, bigode fino, terno cinza com camisa branca aberta, relogio de ouro."
-    ],
-    "preserve_exactly": [
-      "DON: o MESMO rosto da imagem 2, cabelo grisalho para tras, barba grisalha curta, camisola hospitalar AZUL-CLARA, cateter de oxigenio no nariz, soro no braco.",
-      "VALERIA: o MESMO rosto da imagem 3, cabelo preto liso, batom VERMELHO, vestido PRETO de grife, joias de ouro.",
-      "JULIAN: o MESMO rosto da imagem 4, cabelo escuro com gel, bigode fino, terno CINZA, camisa branca aberta, relogio de ouro.",
-      "O mesmo quarto de hospital da imagem 1, a noite.",
-      "DON AURELIO SEMPRE de olhos fechados e imovel neste clipe."
-    ]
-  },
+  "consistency": [
+    "DON: senhor de 75 anos, pele palida, cabelo grisalho penteado para tras, barba grisalha curta, camisola hospitalar AZUL-CLARA, cateter de oxigenio no nariz e soro no braco, deitado na cama.",
+    "VALERIA: mulher de 40 anos, cabelo preto liso e brilhante, maquiagem forte, batom VERMELHO, vestido PRETO de grife, joias de ouro, bolsa de luxo na mao.",
+    "JULIAN: homem de 45 anos, cabelo escuro penteado para tras com gel, bigode fino, terno CINZA com camisa branca aberta, relogio de ouro.",
+    "DON AURELIO SEMPRE de olhos fechados e imovel neste clipe.",
+    "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe."
+  ],
   "scene": {
     "title": "NUNCA ESTUVE EN COMA",
     "duration_seconds": 9.5,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
     "structure": "3 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
     "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Quarto de hospital particular a noite: luz fria azulada do monitor misturada com luz ambar baixa de abajur (Practical Lighting), Shallow Focus nos closes.",
-    "setting": "O MESMO quarto de hospital da imagem 1, a noite, monitor cardiaco apitando. A ENFERMERA nao aparece neste clipe. DON AURELIO deitado, imovel, de olhos fechados o tempo todo.",
+    "setting": "Um quarto de hospital particular de luxo a noite, monitor cardiaco apitando ao lado da cama, buque de flores brancas, janela grande com luzes da cidade desfocadas. A ENFERMERA nao aparece neste clipe. DON AURELIO deitado, imovel, de olhos fechados o tempo todo.",
     "characters": {
-      "DON": "O MESMO da imagem 2. Personagem ficticio. Voz grave e rouca de homem de 75 anos.",
-      "VALERIA": "A MESMA da imagem 3. Personagem ficticia. Voz feminina fria e impaciente de mulher de 40 anos.",
-      "JULIAN": "O MESMO da imagem 4. Personagem ficticio. Voz masculina arrogante de homem de 45 anos."
+      "DON": "senhor de 75 anos, pele palida, cabelo grisalho penteado para tras, barba grisalha curta, camisola hospitalar AZUL-CLARA, cateter de oxigenio no nariz e soro no braco, deitado na cama. Personagem ficticio. Voz grave e rouca de homem de 75 anos.",
+      "VALERIA": "mulher de 40 anos, cabelo preto liso e brilhante, maquiagem forte, batom VERMELHO, vestido PRETO de grife, joias de ouro, bolsa de luxo na mao. Personagem ficticio. Voz feminina fria e impaciente de mulher de 40 anos.",
+      "JULIAN": "homem de 45 anos, cabelo escuro penteado para tras com gel, bigode fino, terno CINZA com camisa branca aberta, relogio de ouro. Personagem ficticio. Voz masculina arrogante de homem de 45 anos."
     }
   },
   "timeline": [
@@ -144,10 +128,17 @@ clipe 1: 9.5s, 9.5s de fala (24 palavras, 3 planos, falantes: VALERIA, JULIAN) �
 }
 ```
 
+**Depois de gerar este clipe, salve os frames:**
+- **FRAME_QUARTO:** frame salvo do clipe 1: o quarto de hospital particular de luxo a noite, com DON AURELIO deitado na cama, monitor cardiaco, buque de flores brancas, janela com luzes da cidade.
+- **FRAME_DON:** frame salvo do clipe 1: DON AURELIO deitado na cama, de camisola hospitalar azul-clara, com oxigenio no nariz, rosto bem visivel.
+- **FRAME_VALERIA:** frame salvo do clipe 1: close de VALERIA, vestido preto, batom vermelho.
+- **FRAME_JULIAN:** frame salvo do clipe 1: close de JULIAN, terno cinza, bigode fino.
 
 ## Clipe 2 — Ele acorda + CTA
 
 clipe 2: 9.9s, 9.9s de fala (25 palavras, 3 planos, falantes: DON, ENFERMERA) ✅
+
+Referências, nesta ordem: 1) FRAME_QUARTO; 2) FRAME_DON
 
 ```json
 {
@@ -157,13 +148,12 @@ clipe 2: 9.9s, 9.9s de fala (25 palavras, 3 planos, falantes: DON, ENFERMERA) �
     "mode": "Ingredients to Video, sem primeiro frame.",
     "additional_references": true,
     "reference_images": [
-      "Imagem 1 — o quarto de hospital particular de luxo a noite, com DON AURELIO deitado na cama, VALERIA e JULIAN em pe ao lado e a ENFERMERA ao fundo, em plano aberto; monitor cardiaco, buque de flores brancas, janela com luzes da cidade.",
-      "Imagem 2 — DON AURELIO, senhor de 75 anos, pele palida, cabelo grisalho penteado para tras, barba grisalha curta, camisola hospitalar azul-clara, cateter de oxigenio no nariz e soro no braco, deitado na cama.",
-      "Imagem 3 — LUCIA, enfermeira de 28 anos, rosto gentil, cabelo escuro preso em coque, uniforme hospitalar azul-claro, estetoscopio no pescoco."
+      "Imagem 1 — frame salvo do clipe 1: o quarto de hospital particular de luxo a noite, com DON AURELIO deitado na cama, monitor cardiaco, buque de flores brancas, janela com luzes da cidade.",
+      "Imagem 2 — frame salvo do clipe 1: DON AURELIO deitado na cama, de camisola hospitalar azul-clara, com oxigenio no nariz, rosto bem visivel."
     ],
     "preserve_exactly": [
-      "DON: o MESMO rosto da imagem 2, cabelo grisalho para tras, barba grisalha curta, camisola hospitalar AZUL-CLARA, cateter de oxigenio no nariz, soro no braco.",
-      "ENFERMERA: o MESMO rosto da imagem 3, cabelo escuro em coque, uniforme AZUL-CLARO, estetoscopio.",
+      "DON: o MESMO rosto da imagem 2, senhor de 75 anos, pele palida, cabelo grisalho penteado para tras, barba grisalha curta, camisola hospitalar AZUL-CLARA, cateter de oxigenio no nariz e soro no braco, deitado na cama.",
+      "ENFERMERA: enfermeira de 28 anos, rosto gentil, pele morena clara, cabelo escuro preso em coque, uniforme hospitalar AZUL-CLARO, estetoscopio no pescoco.",
       "O mesmo quarto de hospital da imagem 1, a noite."
     ]
   },
@@ -176,7 +166,7 @@ clipe 2: 9.9s, 9.9s de fala (25 palavras, 3 planos, falantes: DON, ENFERMERA) �
     "setting": "O MESMO quarto de hospital da imagem 1, a noite. VALERIA e JULIAN ja foram embora e NAO aparecem. So DON AURELIO e a ENFERMERA no quarto.",
     "characters": {
       "DON": "O MESMO da imagem 2. Personagem ficticio. Voz grave e rouca de homem de 75 anos.",
-      "ENFERMERA": "A MESMA da imagem 3. Personagem ficticia. Voz feminina suave de mulher de 28 anos."
+      "ENFERMERA": "enfermeira de 28 anos, rosto gentil, pele morena clara, cabelo escuro preso em coque, uniforme hospitalar AZUL-CLARO, estetoscopio no pescoco. Personagem ficticio. Voz feminina suave de mulher de 28 anos."
     }
   },
   "timeline": [

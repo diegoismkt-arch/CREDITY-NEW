@@ -5,41 +5,57 @@
   "titulo_interno": "NUNCA ESTUVE EN COMA",
   "estilo": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Quarto de hospital particular a noite: luz fria azulada do monitor misturada com luz ambar baixa de abajur (Practical Lighting), Shallow Focus nos closes.",
   "imagens": {
-    "QUARTO": "o quarto de hospital particular de luxo a noite, com DON AURELIO deitado na cama, VALERIA e JULIAN em pe ao lado e a ENFERMERA ao fundo, em plano aberto; monitor cardiaco, buque de flores brancas, janela com luzes da cidade.",
-    "DON": "DON AURELIO, senhor de 75 anos, pele palida, cabelo grisalho penteado para tras, barba grisalha curta, camisola hospitalar azul-clara, cateter de oxigenio no nariz e soro no braco, deitado na cama.",
-    "VALERIA": "VALERIA, mulher de 40 anos, cabelo preto liso e brilhante, maquiagem forte, batom vermelho, vestido preto de grife, joias de ouro, bolsa de luxo na mao.",
-    "JULIAN": "JULIAN, homem de 45 anos, cabelo escuro penteado para tras com gel, bigode fino, terno cinza com camisa branca aberta, relogio de ouro.",
-    "ENFERMERA": "LUCIA, enfermeira de 28 anos, rosto gentil, cabelo escuro preso em coque, uniforme hospitalar azul-claro, estetoscopio no pescoco."
+    "FRAME_QUARTO": "frame salvo do clipe 1: o quarto de hospital particular de luxo a noite, com DON AURELIO deitado na cama, monitor cardiaco, buque de flores brancas, janela com luzes da cidade.",
+    "FRAME_DON": "frame salvo do clipe 1: DON AURELIO deitado na cama, de camisola hospitalar azul-clara, com oxigenio no nariz, rosto bem visivel.",
+    "FRAME_VALERIA": "frame salvo do clipe 1: close de VALERIA, vestido preto, batom vermelho.",
+    "FRAME_JULIAN": "frame salvo do clipe 1: close de JULIAN, terno cinza, bigode fino."
   },
   "personagens": {
     "DON": {
-      "preservar": "o MESMO rosto da imagem DON, cabelo grisalho para tras, barba grisalha curta, camisola hospitalar AZUL-CLARA, cateter de oxigenio no nariz, soro no braco.",
-      "ficha": "O MESMO da imagem DON. Personagem ficticio. Voz grave e rouca de homem de 75 anos."
+      "descricao": "senhor de 75 anos, pele palida, cabelo grisalho penteado para tras, barba grisalha curta, camisola hospitalar AZUL-CLARA, cateter de oxigenio no nariz e soro no braco, deitado na cama.",
+      "voz": "Voz grave e rouca de homem de 75 anos.",
+      "frame": "FRAME_DON"
     },
     "VALERIA": {
-      "preservar": "o MESMO rosto da imagem VALERIA, cabelo preto liso, batom VERMELHO, vestido PRETO de grife, joias de ouro.",
-      "ficha": "A MESMA da imagem VALERIA. Personagem ficticia. Voz feminina fria e impaciente de mulher de 40 anos."
+      "descricao": "mulher de 40 anos, cabelo preto liso e brilhante, maquiagem forte, batom VERMELHO, vestido PRETO de grife, joias de ouro, bolsa de luxo na mao.",
+      "voz": "Voz feminina fria e impaciente de mulher de 40 anos.",
+      "frame": "FRAME_VALERIA"
     },
     "JULIAN": {
-      "preservar": "o MESMO rosto da imagem JULIAN, cabelo escuro com gel, bigode fino, terno CINZA, camisa branca aberta, relogio de ouro.",
-      "ficha": "O MESMO da imagem JULIAN. Personagem ficticio. Voz masculina arrogante de homem de 45 anos."
+      "descricao": "homem de 45 anos, cabelo escuro penteado para tras com gel, bigode fino, terno CINZA com camisa branca aberta, relogio de ouro.",
+      "voz": "Voz masculina arrogante de homem de 45 anos.",
+      "frame": "FRAME_JULIAN"
     },
     "ENFERMERA": {
-      "preservar": "o MESMO rosto da imagem ENFERMERA, cabelo escuro em coque, uniforme AZUL-CLARO, estetoscopio.",
-      "ficha": "A MESMA da imagem ENFERMERA. Personagem ficticia. Voz feminina suave de mulher de 28 anos."
+      "descricao": "enfermeira de 28 anos, rosto gentil, pele morena clara, cabelo escuro preso em coque, uniforme hospitalar AZUL-CLARO, estetoscopio no pescoco.",
+      "voz": "Voz feminina suave de mulher de 28 anos.",
+      "frame": "FRAME_ENFERMERA"
     }
   },
   "clips": [
     {
       "nome": "Os filhos querem desligar a máquina",
       "atuacao": "Novela dramatica. Atuacao INTENSA e expressiva: VALERIA fria, impaciente e cheia de desprezo pelo pai; JULIAN ganancioso, com um sorriso cruel. DON AURELIO completamente imovel, olhos fechados, como se estivesse em coma. Rostos muito expressivos. Nenhuma fala sai neutra ou monotona.",
-      "imagens": ["QUARTO", "DON", "VALERIA", "JULIAN"],
-      "personagens": ["DON", "VALERIA", "JULIAN"],
-      "preservar_extra": ["O mesmo quarto de hospital da imagem QUARTO, a noite.", "DON AURELIO SEMPRE de olhos fechados e imovel neste clipe."],
-      "cenario": "O MESMO quarto de hospital da imagem QUARTO, a noite, monitor cardiaco apitando. A ENFERMERA nao aparece neste clipe. DON AURELIO deitado, imovel, de olhos fechados o tempo todo.",
+      "personagens": [
+        "DON",
+        "VALERIA",
+        "JULIAN"
+      ],
+      "preservar_extra": [
+        "DON AURELIO SEMPRE de olhos fechados e imovel neste clipe.",
+        "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe."
+      ],
+      "cenario": "Um quarto de hospital particular de luxo a noite, monitor cardiaco apitando ao lado da cama, buque de flores brancas, janela grande com luzes da cidade desfocadas. A ENFERMERA nao aparece neste clipe. DON AURELIO deitado, imovel, de olhos fechados o tempo todo.",
       "som": "O bip lento do monitor cardiaco, o respirador, o quarto em silencio entre as falas.",
-      "remover_negativos": ["dois rostos visiveis nos planos de fala"],
-      "negativos_extra": ["don aurelio abrindo os olhos", "don aurelio se mexendo ou falando", "enfermeira aparecendo", "valeria ou julian tocando no pai"],
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala"
+      ],
+      "negativos_extra": [
+        "don aurelio abrindo os olhos",
+        "don aurelio se mexendo ou falando",
+        "enfermeira aparecendo",
+        "valeria ou julian tocando no pai"
+      ],
       "planos": [
         {
           "quem": "VALERIA",
@@ -71,18 +87,38 @@
           "corpo": "VALERIA: ajeita a bolsa no braco e se inclina levemente para o pai.",
           "camera": "Corte seco. Close-Up de VALERIA SOZINHA no quadro, lente 85mm, Slow Push In."
         }
+      ],
+      "salvar_frames": [
+        "FRAME_QUARTO",
+        "FRAME_DON",
+        "FRAME_VALERIA",
+        "FRAME_JULIAN"
       ]
     },
     {
       "nome": "Ele acorda + CTA",
       "atuacao": "Novela dramatica. Atuacao INTENSA e expressiva: DON AURELIO abre os olhos de repente, firme, urgente e misterioso; a ENFERMERA em CHOQUE, ofegante, sem acreditar. No ultimo plano DON AURELIO olha direto para a camera com um olhar serio e misterioso. Rostos muito expressivos. Nenhuma fala sai neutra ou monotona.",
-      "imagens": ["QUARTO", "DON", "ENFERMERA"],
-      "personagens": ["DON", "ENFERMERA"],
-      "preservar_extra": ["O mesmo quarto de hospital da imagem QUARTO, a noite."],
-      "cenario": "O MESMO quarto de hospital da imagem QUARTO, a noite. VALERIA e JULIAN ja foram embora e NAO aparecem. So DON AURELIO e a ENFERMERA no quarto.",
+      "imagens": [
+        "FRAME_QUARTO",
+        "FRAME_DON"
+      ],
+      "personagens": [
+        "DON",
+        "ENFERMERA"
+      ],
+      "preservar_extra": [
+        "O mesmo quarto de hospital da imagem FRAME_QUARTO, a noite."
+      ],
+      "cenario": "O MESMO quarto de hospital da imagem FRAME_QUARTO, a noite. VALERIA e JULIAN ja foram embora e NAO aparecem. So DON AURELIO e a ENFERMERA no quarto.",
       "som": "O bip do monitor cardiaco acelerando, a respiracao ofegante da enfermeira.",
-      "negativos_extra": ["valeria ou julian aparecendo", "don aurelio levantando da cama", "enfermeira gritando alto"],
-      "regras_extra": ["No ultimo plano, e SOMENTE nele, DON AURELIO olha direto para a lente."],
+      "negativos_extra": [
+        "valeria ou julian aparecendo",
+        "don aurelio levantando da cama",
+        "enfermeira gritando alto"
+      ],
+      "regras_extra": [
+        "No ultimo plano, e SOMENTE nele, DON AURELIO olha direto para a lente."
+      ],
       "planos": [
         {
           "quem": "DON",
