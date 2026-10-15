@@ -130,13 +130,14 @@ def montar(rot, n, clip):
     fichas, preservar = {}, []
     for k in usados:
         d = pers[k]
+        o, fic = ("A MESMA", "ficticia") if d.get("feminino") else ("O MESMO", "ficticio")
         if d.get("frame") in imagens:
             # personagem já existe num frame salvo de clipe anterior
-            fichas[k] = f"O MESMO da imagem {d['frame']}. Personagem ficticio. {d['voz']}"
+            fichas[k] = f"{o} da imagem {d['frame']}. Personagem {fic}. {d['voz']}"
             preservar.append(f"{k}: o MESMO rosto da imagem {d['frame']}, {d['descricao']}")
         else:
             # primeira aparição: criado só pela descrição
-            fichas[k] = f"{d['descricao']} Personagem ficticio. {d['voz']}"
+            fichas[k] = f"{d['descricao']} Personagem {fic}. {d['voz']}"
             preservar.append(f"{k}: {d['descricao']}")
     prompt = {"ATUACAO_PRIORIDADE_MAXIMA": clip["atuacao"]}
     if imagens:

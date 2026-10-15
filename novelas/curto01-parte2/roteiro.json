@@ -1,5 +1,5 @@
 {
-  "estilo": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Quarto de hospital particular a noite: luz fria azulada do monitor misturada com luz ambar baixa de abajur (Practical Lighting), Shallow Focus nos closes.",
+  "estilo": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Quarto de hospital particular de manha: luz natural suave entrando pela janela, misturada com a luz fria do monitor, Shallow Focus nos closes.",
   "personagens": {
     "DON": {
       "descricao": "senhor de 75 anos, pele palida, cabelo grisalho penteado para tras, barba grisalha curta, camisola hospitalar AZUL-CLARA, cateter de oxigenio no nariz e soro no braco.",
@@ -9,7 +9,8 @@
     "VALERIA": {
       "descricao": "mulher de 40 anos, cabelo preto liso e brilhante, maquiagem forte, batom VERMELHO, vestido PRETO de grife, joias de ouro, bolsa de luxo na mao.",
       "voz": "Voz feminina fria e impaciente de mulher de 40 anos.",
-      "frame": "FRAME_VALERIA"
+      "frame": "FRAME_VALERIA",
+      "feminino": true
     },
     "JULIAN": {
       "descricao": "homem de 45 anos, cabelo escuro penteado para tras com gel, bigode fino, terno CINZA com camisa branca aberta, relogio de ouro.",
@@ -19,7 +20,8 @@
     "ENFERMERA": {
       "descricao": "enfermeira de 28 anos, rosto gentil, pele morena clara, cabelo escuro preso em coque, uniforme hospitalar AZUL-CLARO, estetoscopio no pescoco.",
       "voz": "Voz feminina suave de mulher de 28 anos.",
-      "frame": "FRAME_ENFERMERA"
+      "frame": "FRAME_ENFERMERA",
+      "feminino": true
     }
   },
   "titulo_post": "Sus hijos firmaron para desconectarlo… y él abrió los ojos frente a ellos 😱 (Parte 2)",
@@ -179,7 +181,7 @@
       ],
       "posicoes": {
         "DON": "na cama, no centro do quarto",
-        "JULIAN": "em pe do lado DIREITO da cama, de frente para VALERIA"
+        "JULIAN": "em pe do lado DIREITO da cama"
       },
       "preservar_extra": [
         "O mesmo quarto de hospital da imagem FRAME_QUARTO, de manha, luz do dia."

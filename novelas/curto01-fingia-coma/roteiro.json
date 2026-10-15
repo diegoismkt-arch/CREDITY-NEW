@@ -19,7 +19,8 @@
     "VALERIA": {
       "descricao": "mulher de 40 anos, cabelo preto liso e brilhante, maquiagem forte, batom VERMELHO, vestido PRETO de grife, joias de ouro, bolsa de luxo na mao.",
       "voz": "Voz feminina fria e impaciente de mulher de 40 anos.",
-      "frame": "FRAME_VALERIA"
+      "frame": "FRAME_VALERIA",
+      "feminino": true
     },
     "JULIAN": {
       "descricao": "homem de 45 anos, cabelo escuro penteado para tras com gel, bigode fino, terno CINZA com camisa branca aberta, relogio de ouro.",
@@ -29,7 +30,8 @@
     "ENFERMERA": {
       "descricao": "enfermeira de 28 anos, rosto gentil, pele morena clara, cabelo escuro preso em coque, uniforme hospitalar AZUL-CLARO, estetoscopio no pescoco.",
       "voz": "Voz feminina suave de mulher de 28 anos.",
-      "frame": "FRAME_ENFERMERA"
+      "frame": "FRAME_ENFERMERA",
+      "feminino": true
     }
   },
   "clips": [

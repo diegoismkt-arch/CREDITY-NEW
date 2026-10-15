@@ -35,7 +35,7 @@ Sem imagem de referência (Text to Video).
     ],
     "characters": {
       "DON": "senhor de 75 anos, pele palida, cabelo grisalho penteado para tras, barba grisalha curta, camisola hospitalar AZUL-CLARA, cateter de oxigenio no nariz e soro no braco, deitado na cama. Personagem ficticio. Voz grave e rouca de homem de 75 anos.",
-      "VALERIA": "mulher de 40 anos, cabelo preto liso e brilhante, maquiagem forte, batom VERMELHO, vestido PRETO de grife, joias de ouro, bolsa de luxo na mao. Personagem ficticio. Voz feminina fria e impaciente de mulher de 40 anos.",
+      "VALERIA": "mulher de 40 anos, cabelo preto liso e brilhante, maquiagem forte, batom VERMELHO, vestido PRETO de grife, joias de ouro, bolsa de luxo na mao. Personagem ficticia. Voz feminina fria e impaciente de mulher de 40 anos.",
       "JULIAN": "homem de 45 anos, cabelo escuro penteado para tras com gel, bigode fino, terno CINZA com camisa branca aberta, relogio de ouro. Personagem ficticio. Voz masculina arrogante de homem de 45 anos."
     }
   },
@@ -184,7 +184,7 @@ Referências, nesta ordem: 1) FRAME_QUARTO; 2) FRAME_DON
     ],
     "characters": {
       "DON": "O MESMO da imagem 2. Personagem ficticio. Voz grave e rouca de homem de 75 anos.",
-      "ENFERMERA": "enfermeira de 28 anos, rosto gentil, pele morena clara, cabelo escuro preso em coque, uniforme hospitalar AZUL-CLARO, estetoscopio no pescoco. Personagem ficticio. Voz feminina suave de mulher de 28 anos."
+      "ENFERMERA": "enfermeira de 28 anos, rosto gentil, pele morena clara, cabelo escuro preso em coque, uniforme hospitalar AZUL-CLARO, estetoscopio no pescoco. Personagem ficticia. Voz feminina suave de mulher de 28 anos."
     }
   },
   "timeline": [

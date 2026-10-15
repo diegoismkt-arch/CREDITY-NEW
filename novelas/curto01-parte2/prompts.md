@@ -37,7 +37,7 @@ Referências, nesta ordem: 1) FRAME_QUARTO; 2) FRAME_DON; 3) FRAME_VALERIA; 4) F
     "duration_seconds": 9.9,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
     "structure": "3 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
-    "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Quarto de hospital particular a noite: luz fria azulada do monitor misturada com luz ambar baixa de abajur (Practical Lighting), Shallow Focus nos closes.",
+    "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Quarto de hospital particular de manha: luz natural suave entrando pela janela, misturada com a luz fria do monitor, Shallow Focus nos closes.",
     "setting": "O MESMO quarto de hospital da imagem 1, na manha seguinte. JULIAN esta no quarto mas NAO aparece neste clipe. DON AURELIO deitado, imovel, de olhos fechados.",
     "blocking": [
       "DON: na cama, no centro do quarto",
@@ -46,8 +46,8 @@ Referências, nesta ordem: 1) FRAME_QUARTO; 2) FRAME_DON; 3) FRAME_VALERIA; 4) F
     ],
     "characters": {
       "DON": "O MESMO da imagem 2. Personagem ficticio. Voz grave e rouca de homem de 75 anos.",
-      "VALERIA": "O MESMO da imagem 3. Personagem ficticio. Voz feminina fria e impaciente de mulher de 40 anos.",
-      "ENFERMERA": "O MESMO da imagem 4. Personagem ficticio. Voz feminina suave de mulher de 28 anos."
+      "VALERIA": "A MESMA da imagem 3. Personagem ficticia. Voz feminina fria e impaciente de mulher de 40 anos.",
+      "ENFERMERA": "A MESMA da imagem 4. Personagem ficticia. Voz feminina suave de mulher de 28 anos."
     }
   },
   "timeline": [
@@ -185,7 +185,7 @@ Referências, nesta ordem: 1) FRAME_QUARTO; 2) FRAME_DON; 3) FRAME_VALERIA
     "duration_seconds": 9.2,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
     "structure": "3 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
-    "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Quarto de hospital particular a noite: luz fria azulada do monitor misturada com luz ambar baixa de abajur (Practical Lighting), Shallow Focus nos closes.",
+    "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Quarto de hospital particular de manha: luz natural suave entrando pela janela, misturada com a luz fria do monitor, Shallow Focus nos closes.",
     "setting": "O MESMO quarto de hospital da imagem 1, de manha. JULIAN e a ENFERMERA estao no quarto mas NAO aparecem neste clipe.",
     "blocking": [
       "DON: na cama, no centro do quarto",
@@ -193,7 +193,7 @@ Referências, nesta ordem: 1) FRAME_QUARTO; 2) FRAME_DON; 3) FRAME_VALERIA
     ],
     "characters": {
       "DON": "O MESMO da imagem 2. Personagem ficticio. Voz grave e rouca de homem de 75 anos.",
-      "VALERIA": "O MESMO da imagem 3. Personagem ficticio. Voz feminina fria e impaciente de mulher de 40 anos."
+      "VALERIA": "A MESMA da imagem 3. Personagem ficticia. Voz feminina fria e impaciente de mulher de 40 anos."
     }
   },
   "timeline": [
@@ -330,11 +330,11 @@ Referências, nesta ordem: 1) FRAME_QUARTO; 2) FRAME_DON; 3) FRAME_JULIAN
     "duration_seconds": 9.9,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
     "structure": "3 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
-    "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Quarto de hospital particular a noite: luz fria azulada do monitor misturada com luz ambar baixa de abajur (Practical Lighting), Shallow Focus nos closes.",
+    "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Quarto de hospital particular de manha: luz natural suave entrando pela janela, misturada com a luz fria do monitor, Shallow Focus nos closes.",
     "setting": "O MESMO quarto de hospital da imagem 1, de manha. VALERIA e a ENFERMERA estao no quarto mas NAO aparecem neste clipe. DON AURELIO sentado na cama.",
     "blocking": [
       "DON: na cama, no centro do quarto",
-      "JULIAN: em pe do lado DIREITO da cama, de frente para VALERIA"
+      "JULIAN: em pe do lado DIREITO da cama"
     ],
     "characters": {
       "DON": "O MESMO da imagem 2. Personagem ficticio. Voz grave e rouca de homem de 75 anos.",
@@ -361,7 +361,7 @@ Referências, nesta ordem: 1) FRAME_QUARTO; 2) FRAME_DON; 3) FRAME_JULIAN
       "speaker": "DON",
       "dialogue": "Cállate, Julián. Sé quién cambió mis medicinas antes del coma.",
       "addressee": "JULIAN",
-      "eyeline": "DON fala PARA JULIAN e olha para JULIAN, que esta em pe do lado DIREITO da cama, de frente para VALERIA, fora do quadro.",
+      "eyeline": "DON fala PARA JULIAN e olha para JULIAN, que esta em pe do lado DIREITO da cama, fora do quadro.",
       "emotion_level": 10,
       "intention": "Revelar que sabe que um dos filhos o envenenou.",
       "voice": "Voz grave e rouca, baixa e AMEACADORA.",
