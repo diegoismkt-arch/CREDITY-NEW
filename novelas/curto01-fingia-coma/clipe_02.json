@@ -1,0 +1,121 @@
+{
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao INTENSA e expressiva: DON AURELIO abre os olhos de repente, firme, urgente e misterioso; a ENFERMERA em CHOQUE, ofegante, sem acreditar. No ultimo plano DON AURELIO olha direto para a camera com um olhar serio e misterioso. Rostos muito expressivos. Nenhuma fala sai neutra ou monotona.",
+  "input_image": {
+    "required": false,
+    "mode": "Ingredients to Video, sem primeiro frame.",
+    "additional_references": true,
+    "reference_images": [
+      "Imagem 1 — o quarto de hospital particular de luxo a noite, com DON AURELIO deitado na cama, VALERIA e JULIAN em pe ao lado e a ENFERMERA ao fundo, em plano aberto; monitor cardiaco, buque de flores brancas, janela com luzes da cidade.",
+      "Imagem 2 — DON AURELIO, senhor de 75 anos, pele palida, cabelo grisalho penteado para tras, barba grisalha curta, camisola hospitalar azul-clara, cateter de oxigenio no nariz e soro no braco, deitado na cama.",
+      "Imagem 3 — LUCIA, enfermeira de 28 anos, rosto gentil, cabelo escuro preso em coque, uniforme hospitalar azul-claro, estetoscopio no pescoco."
+    ],
+    "preserve_exactly": [
+      "DON: o MESMO rosto da imagem 2, cabelo grisalho para tras, barba grisalha curta, camisola hospitalar AZUL-CLARA, cateter de oxigenio no nariz, soro no braco.",
+      "ENFERMERA: o MESMO rosto da imagem 3, cabelo escuro em coque, uniforme AZUL-CLARO, estetoscopio.",
+      "O mesmo quarto de hospital da imagem 1, a noite."
+    ]
+  },
+  "scene": {
+    "title": "NUNCA ESTUVE EN COMA",
+    "duration_seconds": 9.9,
+    "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
+    "structure": "3 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Quarto de hospital particular a noite: luz fria azulada do monitor misturada com luz ambar baixa de abajur (Practical Lighting), Shallow Focus nos closes.",
+    "setting": "O MESMO quarto de hospital da imagem 1, a noite. VALERIA e JULIAN ja foram embora e NAO aparecem. So DON AURELIO e a ENFERMERA no quarto.",
+    "characters": {
+      "DON": "O MESMO da imagem 2. Personagem ficticio. Voz grave e rouca de homem de 75 anos.",
+      "ENFERMERA": "A MESMA da imagem 3. Personagem ficticia. Voz feminina suave de mulher de 28 anos."
+    }
+  },
+  "timeline": [
+    {
+      "time": "00:00.00-00:04.64",
+      "speaker": "DON",
+      "dialogue": "No grites, hija. Nunca estuve en coma. Graba lo que digan mañana.",
+      "emotion_level": 10,
+      "intention": "Revelar, em segredo e com urgencia, que fingiu o coma e pedir ajuda a enfermeira.",
+      "voice": "Voz grave e ROUCA, sussurrada e urgente, firme em 'nunca estuve en coma'.",
+      "face": "DON AURELIO: abre os olhos de repente, olhar intenso e lucido, fixo na enfermeira fora do quadro.",
+      "body": "DON AURELIO: deitado, agarra com firmeza o pulso da enfermeira, que entra no quadro so pela mao.",
+      "camera": "Close-Up de DON AURELIO SOZINHO no quadro, deitado no travesseiro, Eye Level, lente 85mm, Shallow Focus, Fast Push In quando ele abre os olhos. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente DON movimenta os labios."
+    },
+    {
+      "time": "00:04.64-00:05.96",
+      "speaker": "ENFERMERA",
+      "dialogue": "¿Señor… está despierto?",
+      "emotion_level": 10,
+      "intention": "Reagir em choque, sem acreditar no que ve.",
+      "voice": "Voz feminina SUSSURRADA, ofegante e tremula.",
+      "face": "ENFERMERA: olhos arregalados, boca entreaberta, mao livre cobrindo o peito.",
+      "body": "ENFERMERA: de pe ao lado da cama, o pulso preso pela mao dele.",
+      "camera": "Corte seco. Medium Close-Up da ENFERMERA SOZINHA no quadro, Eye Level, lente 85mm, Shallow Focus. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente ENFERMERA movimenta os labios."
+    },
+    {
+      "time": "00:05.96-00:09.86",
+      "speaker": "DON",
+      "dialogue": "Si quieres saber qué va a pasar, comenta parte dos.",
+      "emotion_level": 9,
+      "intention": "Quebrar a quarta parede e convidar o espectador a comentar para ver a continuacao.",
+      "voice": "Voz grave e rouca, calma, baixa e misteriosa, com um leve sorriso no fim.",
+      "face": "DON AURELIO: vira o rosto devagar e olha DIRETO para a lente, olhar serio e misterioso, sobrancelha levemente erguida.",
+      "body": "DON AURELIO: deitado, a cabeca vira do lado da enfermeira para a camera.",
+      "camera": "Corte seco. Extreme Close-Up de DON AURELIO SOZINHO no quadro, lente 85mm, Slow Push In. O video termina neste rosto olhando para a lente. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente DON movimenta os labios. Olha DIRETO para a lente, quebrando a quarta parede."
+    }
+  ],
+  "dialogue_rules": {
+    "language": "Espanol de Mexico, acento mexicano natural, TODAS as palavras em espanhol.",
+    "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
+    "total_dialogue_lines": 3,
+    "exact_order": [
+      "DON",
+      "ENFERMERA",
+      "DON"
+    ],
+    "rules": [
+      "So existem 3 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "A ultima fala termina junto com o video.",
+      "Nao repetir, misturar, traduzir ou acrescentar palavras.",
+      "Cada frase e dita INTEIRA, do comeco ao fim.",
+      "No ultimo plano, e SOMENTE nele, DON AURELIO olha direto para a lente."
+    ]
+  },
+  "audio": {
+    "single_voice_at_a_time": true,
+    "sound": "O bip do monitor cardiaco acelerando, a respiracao ofegante da enfermeira.",
+    "music": "Nenhuma.",
+    "narration": "Nenhuma.",
+    "subtitles": "Nao gerar."
+  },
+  "negative_prompt": [
+    "valeria ou julian aparecendo",
+    "don aurelio levantando da cama",
+    "enfermeira gritando alto",
+    "texto ou letras em qualquer lugar",
+    "palavra inventada no ultimo plano",
+    "fala repetida",
+    "fala adiantada ou atrasada para outro plano",
+    "fala neutra ou monotona",
+    "rosto neutro ou expressao vazia",
+    "atuacao contida",
+    "dois rostos visiveis nos planos de fala",
+    "voz sem rosto na tela",
+    "tela dividida",
+    "colagem",
+    "formato horizontal",
+    "bordas pretas",
+    "palavras em ingles",
+    "palavras em portugues",
+    "duas vozes simultaneas",
+    "movimento labial do ouvinte",
+    "fala cortada, encurtada ou incompleta",
+    "mudanca de rosto",
+    "mudanca de roupa",
+    "legendas",
+    "logotipo",
+    "marca-d'agua",
+    "trilha sonora"
+  ]
+}

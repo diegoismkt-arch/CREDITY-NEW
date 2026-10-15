@@ -58,4 +58,4 @@ Raiva da vilã (retenção até o fim) → identificação (público latino 35�
 7. Personagens com **cara de novela de TV** (Televisa/Telemundo) → parece novela "real", o que gera confiança.
 
 ## Diferença para a nossa produção
-As referências usam ~1 fala por plano. No Flow, cada geração custa créditos, então **cada clipe de 10 s precisa estar cheio de fala** (22–28 palavras, até 2 personagens). Os cortes rápidos são feitos na edição intercalando planos de clipes do mesmo cenário.
+No Flow cada geração custa créditos, então **cada clipe de 10 s precisa estar cheio de fala**. Os cortes rápidos das referências são feitos DENTRO do clipe: 2 a 4 planos com cortes secos, um falante por plano (modelo de prompt JSON da casa).

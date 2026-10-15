@@ -1,0 +1,125 @@
+{
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao INTENSA e expressiva: VALERIA fria, impaciente e cheia de desprezo pelo pai; JULIAN ganancioso, com um sorriso cruel. DON AURELIO completamente imovel, olhos fechados, como se estivesse em coma. Rostos muito expressivos. Nenhuma fala sai neutra ou monotona.",
+  "input_image": {
+    "required": false,
+    "mode": "Ingredients to Video, sem primeiro frame.",
+    "additional_references": true,
+    "reference_images": [
+      "Imagem 1 — o quarto de hospital particular de luxo a noite, com DON AURELIO deitado na cama, VALERIA e JULIAN em pe ao lado e a ENFERMERA ao fundo, em plano aberto; monitor cardiaco, buque de flores brancas, janela com luzes da cidade.",
+      "Imagem 2 — DON AURELIO, senhor de 75 anos, pele palida, cabelo grisalho penteado para tras, barba grisalha curta, camisola hospitalar azul-clara, cateter de oxigenio no nariz e soro no braco, deitado na cama.",
+      "Imagem 3 — VALERIA, mulher de 40 anos, cabelo preto liso e brilhante, maquiagem forte, batom vermelho, vestido preto de grife, joias de ouro, bolsa de luxo na mao.",
+      "Imagem 4 — JULIAN, homem de 45 anos, cabelo escuro penteado para tras com gel, bigode fino, terno cinza com camisa branca aberta, relogio de ouro."
+    ],
+    "preserve_exactly": [
+      "DON: o MESMO rosto da imagem 2, cabelo grisalho para tras, barba grisalha curta, camisola hospitalar AZUL-CLARA, cateter de oxigenio no nariz, soro no braco.",
+      "VALERIA: o MESMO rosto da imagem 3, cabelo preto liso, batom VERMELHO, vestido PRETO de grife, joias de ouro.",
+      "JULIAN: o MESMO rosto da imagem 4, cabelo escuro com gel, bigode fino, terno CINZA, camisa branca aberta, relogio de ouro.",
+      "O mesmo quarto de hospital da imagem 1, a noite.",
+      "DON AURELIO SEMPRE de olhos fechados e imovel neste clipe."
+    ]
+  },
+  "scene": {
+    "title": "NUNCA ESTUVE EN COMA",
+    "duration_seconds": 9.5,
+    "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
+    "structure": "3 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Quarto de hospital particular a noite: luz fria azulada do monitor misturada com luz ambar baixa de abajur (Practical Lighting), Shallow Focus nos closes.",
+    "setting": "O MESMO quarto de hospital da imagem 1, a noite, monitor cardiaco apitando. A ENFERMERA nao aparece neste clipe. DON AURELIO deitado, imovel, de olhos fechados o tempo todo.",
+    "characters": {
+      "DON": "O MESMO da imagem 2. Personagem ficticio. Voz grave e rouca de homem de 75 anos.",
+      "VALERIA": "A MESMA da imagem 3. Personagem ficticia. Voz feminina fria e impaciente de mulher de 40 anos.",
+      "JULIAN": "O MESMO da imagem 4. Personagem ficticio. Voz masculina arrogante de homem de 45 anos."
+    }
+  },
+  "timeline": [
+    {
+      "time": "00:00.00-00:03.90",
+      "speaker": "VALERIA",
+      "dialogue": "Ya pasaron tres meses, Julián. Papá no va a despertar.",
+      "emotion_level": 9,
+      "intention": "Declarar, com desprezo e impaciencia, que o pai ja e um caso perdido.",
+      "voice": "Voz feminina FRIA e seca, impaciente, com desprezo em 'papa'.",
+      "face": "VALERIA: olhar de cima para o pai, sobrancelha erguida, labios vermelhos apertados de desprezo.",
+      "body": "VALERIA: em pe ao lado da cama, bracos cruzados, a bolsa de luxo pendurada no braco.",
+      "camera": "Plano medio: DON AURELIO deitado em primeiro plano, desfocado, de olhos fechados; VALERIA em pe atras da cama, em foco, Eye Level, lente 50mm, Shallow Focus. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente VALERIA movimenta os labios."
+    },
+    {
+      "time": "00:03.90-00:07.07",
+      "speaker": "JULIAN",
+      "dialogue": "Entonces desconectemos esa máquina y repartamos la herencia.",
+      "emotion_level": 9,
+      "intention": "Propor, com ganancia, desligar o pai para ficar com o dinheiro.",
+      "voice": "Voz masculina arrogante, baixa e calculista, com um meio sorriso em 'herencia'.",
+      "face": "JULIAN: sorriso cruel de canto de boca, olhos frios e gananciosos.",
+      "body": "JULIAN: em pe, aponta com a cabeca para o monitor cardiaco e olha o relogio de ouro.",
+      "camera": "Corte seco. Medium Close-Up de JULIAN SOZINHO no quadro, Eye Level, lente 85mm, Shallow Focus, monitor em Bokeh. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente JULIAN movimenta os labios."
+    },
+    {
+      "time": "00:07.07-00:09.49",
+      "speaker": "VALERIA",
+      "dialogue": "Mañana firmamos y todo es nuestro.",
+      "emotion_level": 10,
+      "intention": "Fechar o plano com satisfacao fria, ja contando o dinheiro.",
+      "voice": "Voz feminina baixa, quase sussurrada, satisfeita e cruel.",
+      "face": "VALERIA: um sorriso lento e cruel, olhos brilhando de ganancia.",
+      "body": "VALERIA: ajeita a bolsa no braco e se inclina levemente para o pai.",
+      "camera": "Corte seco. Close-Up de VALERIA SOZINHA no quadro, lente 85mm, Slow Push In. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente VALERIA movimenta os labios."
+    }
+  ],
+  "dialogue_rules": {
+    "language": "Espanol de Mexico, acento mexicano natural, TODAS as palavras em espanhol.",
+    "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
+    "total_dialogue_lines": 3,
+    "exact_order": [
+      "VALERIA",
+      "JULIAN",
+      "VALERIA"
+    ],
+    "rules": [
+      "So existem 3 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "A ultima fala termina junto com o video.",
+      "Nao repetir, misturar, traduzir ou acrescentar palavras.",
+      "Cada frase e dita INTEIRA, do comeco ao fim."
+    ]
+  },
+  "audio": {
+    "single_voice_at_a_time": true,
+    "sound": "O bip lento do monitor cardiaco, o respirador, o quarto em silencio entre as falas.",
+    "music": "Nenhuma.",
+    "narration": "Nenhuma.",
+    "subtitles": "Nao gerar."
+  },
+  "negative_prompt": [
+    "don aurelio abrindo os olhos",
+    "don aurelio se mexendo ou falando",
+    "enfermeira aparecendo",
+    "valeria ou julian tocando no pai",
+    "texto ou letras em qualquer lugar",
+    "palavra inventada no ultimo plano",
+    "fala repetida",
+    "fala adiantada ou atrasada para outro plano",
+    "fala neutra ou monotona",
+    "rosto neutro ou expressao vazia",
+    "atuacao contida",
+    "voz sem rosto na tela",
+    "tela dividida",
+    "colagem",
+    "formato horizontal",
+    "bordas pretas",
+    "palavras em ingles",
+    "palavras em portugues",
+    "duas vozes simultaneas",
+    "movimento labial do ouvinte",
+    "fala cortada, encurtada ou incompleta",
+    "personagem olhando para a camera",
+    "mudanca de rosto",
+    "mudanca de roupa",
+    "legendas",
+    "logotipo",
+    "marca-d'agua",
+    "trilha sonora"
+  ]
+}
