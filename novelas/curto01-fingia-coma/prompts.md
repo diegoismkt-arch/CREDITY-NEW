@@ -164,10 +164,10 @@ Referências, nesta ordem: 1) FRAME_P1
       "Imagem 1 — frame do clipe 1, plano 1 (por volta do segundo 2): DON AURELIO deitado na cama em primeiro plano, de olhos fechados, camisola azul-clara e oxigenio no nariz; VALERIA de vestido preto em pe ao fundo, de bracos cruzados; o quarto com monitor cardiaco, abajur aceso e soro."
     ],
     "preserve_exactly": [
-      "DON: o MESMO rosto da imagem FRAME_P1, senhor de 75 anos, pele palida, cabelo grisalho penteado para tras, barba grisalha curta, camisola hospitalar AZUL-CLARA, cateter de oxigenio no nariz e soro no braco, deitado na cama.",
+      "DON: o MESMO rosto da imagem 1, senhor de 75 anos, pele palida, cabelo grisalho penteado para tras, barba grisalha curta, camisola hospitalar AZUL-CLARA, cateter de oxigenio no nariz e soro no braco, deitado na cama.",
       "ENFERMERA: enfermeira de 28 anos, rosto gentil, pele morena clara, cabelo escuro preso em coque, uniforme hospitalar AZUL-CLARO, estetoscopio no pescoco.",
-      "O mesmo quarto de hospital da imagem FRAME_P1, a noite: monitor cardiaco, abajur aceso, soro.",
-      "Na imagem FRAME_P1 aparece uma mulher de vestido preto ao fundo (VALERIA): ela NAO aparece neste clipe. Usar a imagem FRAME_P1 somente para o rosto e a roupa de DON AURELIO e para o quarto."
+      "O mesmo quarto de hospital da imagem 1, a noite: monitor cardiaco, abajur aceso, soro.",
+      "Na imagem 1 aparece uma mulher de vestido preto ao fundo (VALERIA): ela NAO aparece neste clipe. Usar a imagem 1 somente para o rosto e a roupa de DON AURELIO e para o quarto."
     ]
   },
   "scene": {
@@ -176,13 +176,13 @@ Referências, nesta ordem: 1) FRAME_P1
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
     "structure": "3 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
     "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Quarto de hospital particular a noite: luz fria azulada do monitor misturada com luz ambar baixa de abajur (Practical Lighting), Shallow Focus nos closes.",
-    "setting": "O MESMO quarto de hospital da imagem FRAME_P1, a noite. VALERIA e JULIAN ja foram embora e NAO aparecem. So DON AURELIO e a ENFERMERA no quarto.",
+    "setting": "O MESMO quarto de hospital da imagem 1, a noite. VALERIA e JULIAN ja foram embora e NAO aparecem. So DON AURELIO e a ENFERMERA no quarto.",
     "blocking": [
       "DON: deitado na cama",
       "ENFERMERA: em pe do lado DIREITO da cama, junto ao soro"
     ],
     "characters": {
-      "DON": "O MESMO da imagem FRAME_P1. Personagem ficticio. Voz grave e rouca de homem de 75 anos.",
+      "DON": "O MESMO da imagem 1. Personagem ficticio. Voz grave e rouca de homem de 75 anos.",
       "ENFERMERA": "enfermeira de 28 anos, rosto gentil, pele morena clara, cabelo escuro preso em coque, uniforme hospitalar AZUL-CLARO, estetoscopio no pescoco. Personagem ficticia. Voz feminina suave de mulher de 28 anos."
     }
   },

@@ -193,10 +193,10 @@ def montar(rot, n, clip):
                   "consistency": preservar + clip.get("preservar_extra", []), **prompt}
     # "imagem DON" -> "imagem 2", conforme a ordem das referências deste clipe
     numeros = {k: i for i, k in enumerate(imagens, 1)}
-    prompt = json.loads(re.sub(r"imagem ([A-Z_]+)\b",
+    prompt = json.loads(re.sub(r"imagem ([A-Z][A-Z0-9_]*)\b",
                                lambda m: f"imagem {numeros.get(m.group(1), m.group(1))}",
                                json.dumps(prompt, ensure_ascii=False)))
-    faltando = set(re.findall(r"imagem ([A-Z_]{2,})\b", json.dumps(prompt, ensure_ascii=False)))
+    faltando = set(re.findall(r"imagem ([A-Z][A-Z0-9_]+)\b", json.dumps(prompt, ensure_ascii=False)))
     if faltando:
         avisos.append(f"❌ cita imagem que não está em 'imagens' do clipe: {', '.join(sorted(faltando))}")
         erro = True
