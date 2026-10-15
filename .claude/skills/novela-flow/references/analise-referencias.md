@@ -74,3 +74,8 @@ No Flow cada geração custa créditos, então **cada clipe de 10 s precisa esta
 - P5 (~5–7,7 s): vilão vira para trás, o sorriso some — percebe a armadilha.
 - P6 (7,7–11 s): ela cara a cara com ele, fria: "Esas puertas no fueron construidas para mantener el peligro afuera… sino para que hombres como tú no salgan."
 - Mecânica: armadilha preparada em segredo → vilão confiante → a porta fecha (imagem forte, sem fala) → percepção → frase de efeito da heroína. Inverte o poder em 11 s.
+
+## Curto D (20 s, 2 clipes): "Papá, mamá está sentada allí"
+- Clipe 1: pai e filho andando à noite numa rua; o menino aponta: "Papá, mamá está sentada allí." Pai, com dor: "No, querido, tu madre ya no está." O menino solta a mão e corre até uma mulher sem-teto sentada na calçada e a abraça. Ela, chorando: "Mi hijo más querido."
+- Clipe 2: o pai, em choque: "Sofía, pero yo te enterré." Ela: "Entonces te has equivocado de persona." O pai se ajoelha e abraça os dois: "Nunca más te dejaré ir."
+- Mecânica: criança reconhece quem o adulto acha que morreu → adulto nega → corrida + abraço (imagem forte) → adulto reconhece → reencontro (catarse). Emoção de lágrima, não de raiva. 6 cortes, ~3 s cada.

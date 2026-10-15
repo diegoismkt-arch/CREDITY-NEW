@@ -1,0 +1,68 @@
+{
+  "titulo_post": "La niña reconoció a su abuelita pidiendo limosna… pero su mamá la había enterrado hace 3 años 😢",
+  "legenda": "",
+  "texto_final": "Comenta PARTE 2 👇",
+  "titulo_interno": "LA ABUELITA",
+  "estilo": "Novela dramatica emocionante. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Praca de cidade colonial mexicana ao entardecer: luz dourada e azul do fim do dia, postes de luz acesos, Shallow Focus nos closes.",
+  "imagens": {},
+  "personagens": {
+    "NINA": {
+      "descricao": "menina de 7 anos, pele morena clara, cabelo castanho escuro em duas trancas com lacos VERMELHOS, vestido AMARELO simples, sandalias brancas.",
+      "voz": "Voz de menina de 7 anos.",
+      "feminino": true
+    },
+    "MAMA": {
+      "descricao": "mulher de 35 anos, elegante, pele morena clara, cabelo castanho liso solto na altura dos ombros, blazer BEGE, blusa branca, calca preta, bolsa de couro marrom, brincos dourados.",
+      "voz": "Voz feminina suave de mulher de 35 anos.",
+      "feminino": true
+    },
+    "ABUELA": {
+      "descricao": "senhora de 70 anos, pele morena enrugada, cabelo GRISALHO preso em coque desarrumado, rosto sofrido, xale (rebozo) CINZA velho e vestido MARROM gasto, sentada nos degraus da igreja com um copo de plastico de esmolas.",
+      "voz": "Voz feminina rouca e fraca de senhora de 70 anos.",
+      "feminino": true
+    }
+  },
+  "clips": [
+    {
+      "nome": "A menina reconhece a avo",
+      "atuacao": "Novela dramatica emocionante. Atuacao INTENSA: a NINA cheia de certeza e alegria; a MAMA triste, com os olhos marejados, achando que a filha se enganou; a ABUELA chorando de emocao ao reconhecer a neta. Rostos muito expressivos. Nenhuma fala neutra.",
+      "personagens": ["NINA", "MAMA", "ABUELA"],
+      "salvar_frames": [],
+      "posicoes": {
+        "NINA": "de maos dadas com a MAMA, caminhando pela praca; depois corre ate a escadaria da igreja",
+        "MAMA": "caminhando pela praca, de maos dadas com a NINA",
+        "ABUELA": "sentada nos degraus da escadaria da igreja, do outro lado da praca"
+      },
+      "preservar_extra": ["Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.", "Praca colonial mexicana com igreja de pedra e escadaria ao fundo."],
+      "cenario": "Praca de cidade colonial mexicana ao entardecer, igreja antiga de pedra com escadaria larga, postes de luz acesos, pessoas passando desfocadas ao fundo.",
+      "som": "Murmurio da praca, sinos distantes da igreja, passos rapidos da menina correndo.",
+      "remover_negativos": ["dois rostos visiveis nos planos de fala"],
+      "negativos_extra": ["mama abracando a abuela neste clipe", "pessoas da praca falando", "abuela de pe"],
+      "regras_extra": ["O plano 3 e mudo: so a menina correndo."],
+      "planos": [
+        {
+          "quem": "NINA", "para": "MAMA", "alvo_no_quadro": true, "fala": "Mamá, mira… ¡es la abuelita!", "emocao": 9,
+          "intencao": "Avisar, com certeza e alegria, que viu a avo.", "voz": "Voz de menina EMPOLGADA, aguda, cheia de certeza.",
+          "rosto": "NINA: olhos arregalados de alegria, olhando para a MAMA.", "corpo": "NINA: puxa a mao da MAMA e aponta com o outro braco para a escadaria da igreja.",
+          "camera": "Plano medio da NINA e da MAMA caminhando de maos dadas pela praca, a igreja desfocada ao fundo, Eye Level, lente 50mm."
+        },
+        {
+          "quem": "MAMA", "para": "NINA", "fala": "No, mi amor. Tu abuelita ya está en el cielo.", "emocao": 9,
+          "intencao": "Corrigir a filha com dor, lembrando a perda.", "voz": "Voz feminina suave, triste, embargada, quase chorando.",
+          "rosto": "MAMA: olhos marejados olhando para baixo, para a NINA, sorriso triste.", "corpo": "MAMA: abaixa um pouco o corpo para falar com a filha.",
+          "camera": "Corte seco. Medium Close-Up da MAMA SOZINHA no quadro, olhando para baixo, lente 85mm, Shallow Focus, postes em Bokeh."
+        },
+        {
+          "rosto": "NINA: determinada.", "corpo": "A NINA solta a mao da MAMA e corre pela praca ate a escadaria da igreja, onde a ABUELA esta sentada.",
+          "camera": "Corte seco. Plano aberto da praca: a NINA correndo de costas em direcao a escadaria da igreja, a ABUELA sentada nos degraus ao fundo. Ninguem fala.", "segundos": 1.2
+        },
+        {
+          "quem": "ABUELA", "para": "NINA", "alvo_no_quadro": true, "fala": "¡Mi Lupita! ¿Eres tú?", "emocao": 10,
+          "intencao": "Reconhecer a neta, sem acreditar, chorando.", "voz": "Voz feminina rouca e fraca, QUEBRANDO de emocao, chorando.",
+          "rosto": "ABUELA: lagrimas escorrendo, boca tremendo, olhos fechados de emocao.", "corpo": "ABUELA: sentada no degrau, abraca a NINA com forca, a mao enrugada nas costas dela.",
+          "camera": "Corte seco. Close-Up do abraco: rosto da ABUELA de frente, a NINA de costas no abraco, lente 85mm, Slow Push In. O clipe termina neste abraco."
+        }
+      ]
+    }
+  ]
+}
