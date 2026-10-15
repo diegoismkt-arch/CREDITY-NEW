@@ -8,7 +8,7 @@
     "FRAME_P1": "frame do clipe 1, plano 1 (por volta do segundo 2): DON AURELIO deitado na cama em primeiro plano, de olhos fechados, camisola azul-clara e oxigenio no nariz; VALERIA de vestido preto em pe ao fundo, de bracos cruzados; o quarto com monitor cardiaco, abajur aceso e soro.",
     "FRAME_JULIAN": "frame do clipe 1, plano 2 (por volta do segundo 5): JULIAN sozinho, terno cinza, camisa branca aberta, bigode fino, relogio de ouro.",
     "FRAME_VALERIA": "frame do clipe 1, plano 3 (por volta do segundo 8): close de VALERIA, cabelo preto liso na altura do queixo, vestido preto, batom vermelho, colar de ouro; o ombro de JULIAN de costas na borda do quadro.",
-    "FRAME_ENFERMERA": "frame do clipe 2, plano 2 (por volta do segundo 5): ENFERMERA sozinha em medium close-up, uniforme azul-claro, cabelo em coque, rosto em choque."
+    "FRAME_ENFERMERA": "frame do clipe 2, plano 3 (por volta do segundo 8): a ENFERMERA entrando pela porta do quarto, uniforme azul-claro, cabelo em coque, rosto visivel; VALERIA de vestido preto passando por ela em primeiro plano."
   },
   "personagens": {
     "DON": {
@@ -105,72 +105,147 @@
       }
     },
     {
-      "nome": "Ele acorda + CTA",
-      "atuacao": "Novela dramatica. Atuacao INTENSA e expressiva: DON AURELIO abre os olhos de repente, firme, urgente e misterioso; a ENFERMERA em CHOQUE, ofegante, sem acreditar. No ultimo plano DON AURELIO olha direto para a camera com um olhar serio e misterioso. Rostos muito expressivos. Nenhuma fala sai neutra ou monotona.",
+      "nome": "Os filhos saem, a enfermeira entra",
+      "atuacao": "Novela dramatica. Atuacao INTENSA: VALERIA e JULIAN saindo do quarto satisfeitos, frios e arrogantes; VALERIA ameacadora com a ENFERMERA; a ENFERMERA intimidada, de cabeca baixa. DON AURELIO imovel, olhos fechados o tempo todo. Nenhuma fala neutra.",
       "imagens": [
-        "FRAME_P1"
+        "FRAME_P1",
+        "FRAME_VALERIA",
+        "FRAME_JULIAN"
+      ],
+      "salvar_frames": [
+        "FRAME_ENFERMERA"
+      ],
+      "personagens": [
+        "DON",
+        "VALERIA",
+        "JULIAN",
+        "ENFERMERA"
+      ],
+      "posicoes": {
+        "DON": "deitado na cama, no centro do quarto, de olhos fechados",
+        "VALERIA": "comeca do lado ESQUERDO da cama e caminha ate a porta",
+        "JULIAN": "ja perto da porta, do lado DIREITO do quarto",
+        "ENFERMERA": "entra pela porta, do lado DIREITO do quarto, no ultimo plano"
+      },
+      "preservar_extra": [
+        "O mesmo quarto de hospital da imagem FRAME_P1, a noite: monitor cardiaco, abajur aceso, soro. A porta do quarto fica do lado DIREITO.",
+        "DON AURELIO SEMPRE de olhos fechados e imovel neste clipe."
+      ],
+      "cenario": "O MESMO quarto de hospital da imagem FRAME_P1, a noite, logo depois da conversa dos irmaos. VALERIA e JULIAN vao embora; no fim a ENFERMERA entra pela porta.",
+      "som": "Saltos de VALERIA no piso, a porta abrindo, o bip lento do monitor.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala"
+      ],
+      "negativos_extra": [
+        "don aurelio abrindo os olhos",
+        "don aurelio se mexendo ou falando",
+        "enfermeira falando",
+        "valeria ou julian tocando no pai"
+      ],
+      "regras_extra": [
+        "A ENFERMERA nao fala neste clipe."
+      ],
+      "planos": [
+        {
+          "quem": "VALERIA",
+          "para": "JULIAN",
+          "fala": "Vámonos, Julián. Mañana volvemos con el abogado.",
+          "emocao": 9,
+          "intencao": "Encerrar a visita, satisfeita com o plano.",
+          "voz": "Voz feminina fria, satisfeita, sem pressa.",
+          "rosto": "VALERIA: sorriso frio de satisfacao, olhando para JULIAN.",
+          "corpo": "VALERIA: pega a bolsa e caminha do lado da cama em direcao a porta, passando pelo pai sem olhar para ele.",
+          "camera": "Plano aberto: DON AURELIO deitado em primeiro plano, de olhos fechados; VALERIA caminhando em direcao a porta ao fundo, JULIAN de costas perto da porta. Eye Level, lente 35mm."
+        },
+        {
+          "quem": "JULIAN",
+          "para": "VALERIA",
+          "fala": "Y que nadie toque a papá hasta que firmemos.",
+          "emocao": 9,
+          "intencao": "Dar a ordem final, controlando tudo.",
+          "voz": "Voz masculina arrogante, baixa e autoritaria.",
+          "rosto": "JULIAN: olhar frio para VALERIA, sorriso de canto.",
+          "corpo": "JULIAN: com a mao na macaneta, abre a porta do quarto.",
+          "camera": "Corte seco. Medium Close-Up de JULIAN SOZINHO no quadro, junto a porta, Eye Level, lente 85mm."
+        },
+        {
+          "quem": "VALERIA",
+          "para": "ENFERMERA",
+          "fala": "Y tú, ni una palabra de lo que oíste.",
+          "emocao": 10,
+          "intencao": "Ameacar a enfermeira que acabou de entrar.",
+          "voz": "Voz feminina baixa, cortante e ameacadora.",
+          "rosto": "VALERIA: olhar duro e ameacador para a ENFERMERA.",
+          "corpo": "VALERIA: para na porta, cara a cara com a ENFERMERA que esta entrando, e depois sai.",
+          "camera": "Corte seco. Plano medio na porta: VALERIA em primeiro plano, de perfil, falando; a ENFERMERA entrando pela porta, rosto visivel, de cabeca baixa, intimidada, SEM falar. Lente 50mm."
+        }
+      ]
+    },
+    {
+      "nome": "Ele acorda devagar + CTA",
+      "atuacao": "Novela dramatica. Atuacao INTENSA: a ENFERMERA triste e carinhosa com o paciente; DON AURELIO abre os olhos DEVAGAR, lucido, urgente e misterioso. No ultimo plano DON AURELIO olha direto para a camera. Nenhuma fala neutra.",
+      "imagens": [
+        "FRAME_P1",
+        "FRAME_ENFERMERA"
       ],
       "personagens": [
         "DON",
         "ENFERMERA"
       ],
+      "posicoes": {
+        "DON": "deitado na cama",
+        "ENFERMERA": "em pe do lado DIREITO da cama, junto ao soro"
+      },
       "preservar_extra": [
-        "O mesmo quarto de hospital da imagem FRAME_P1, a noite: monitor cardiaco, abajur aceso, soro.",
-        "Na imagem FRAME_P1 aparece uma mulher de vestido preto ao fundo (VALERIA): ela NAO aparece neste clipe. Usar a imagem FRAME_P1 somente para o rosto e a roupa de DON AURELIO e para o quarto."
+        "O mesmo quarto de hospital da imagem FRAME_P1, a noite.",
+        "Nas imagens aparece uma mulher de vestido preto (VALERIA): ela NAO aparece neste clipe. Usar as imagens so para os rostos de DON AURELIO e da ENFERMERA e para o quarto."
       ],
-      "cenario": "O MESMO quarto de hospital da imagem FRAME_P1, a noite. VALERIA e JULIAN ja foram embora e NAO aparecem. So DON AURELIO e a ENFERMERA no quarto.",
-      "som": "O bip do monitor cardiaco acelerando, a respiracao ofegante da enfermeira.",
+      "cenario": "O MESMO quarto de hospital da imagem FRAME_P1, a noite. VALERIA e JULIAN ja foram embora. So DON AURELIO e a ENFERMERA no quarto.",
+      "som": "O bip do monitor, que acelera quando ele abre os olhos.",
       "negativos_extra": [
         "mulher de vestido preto aparecendo",
         "valeria ou julian aparecendo",
-        "don aurelio levantando da cama",
-        "enfermeira gritando alto"
+        "don aurelio de olhos abertos no primeiro plano",
+        "don aurelio levantando da cama"
       ],
       "regras_extra": [
         "No ultimo plano, e SOMENTE nele, DON AURELIO olha direto para a lente."
       ],
       "planos": [
         {
-          "quem": "DON",
-          "fala": "No grites, hija. Nunca estuve en coma. Graba lo que digan mañana.",
-          "emocao": 10,
-          "intencao": "Revelar, em segredo e com urgencia, que fingiu o coma e pedir ajuda a enfermeira.",
-          "voz": "Voz grave e ROUCA, sussurrada e urgente, firme em 'nunca estuve en coma'.",
-          "rosto": "DON AURELIO: abre os olhos de repente, olhar intenso e lucido, fixo na enfermeira fora do quadro.",
-          "corpo": "DON AURELIO: deitado, agarra com firmeza o pulso da enfermeira, que entra no quadro so pela mao.",
-          "camera": "Close-Up de DON AURELIO SOZINHO no quadro, deitado no travesseiro, Eye Level, lente 85mm, Shallow Focus, Fast Push In quando ele abre os olhos.",
-          "para": "ENFERMERA"
-        },
-        {
           "quem": "ENFERMERA",
-          "fala": "¿Señor… está despierto?",
-          "emocao": 10,
-          "intencao": "Reagir em choque, sem acreditar no que ve.",
-          "voz": "Voz feminina SUSSURRADA, ofegante e tremula.",
-          "rosto": "ENFERMERA: olhos arregalados, boca entreaberta, mao livre cobrindo o peito.",
-          "corpo": "ENFERMERA: de pe ao lado da cama, o pulso preso pela mao dele.",
-          "camera": "Corte seco. Medium Close-Up da ENFERMERA SOZINHA no quadro, Eye Level, lente 85mm, Shallow Focus.",
-          "para": "DON"
+          "para": "DON",
+          "fala": "Ay, don Aurelio… sus propios hijos.",
+          "emocao": 9,
+          "intencao": "Lamentar baixinho a crueldade dos filhos.",
+          "voz": "Voz feminina baixa, triste, quase um sussurro.",
+          "rosto": "ENFERMERA: olhos marejados olhando para DON, que esta de olhos fechados.",
+          "corpo": "ENFERMERA: ajusta o soro no braco dele com carinho.",
+          "camera": "Medium Close-Up da ENFERMERA SOZINHA no quadro, ao lado da cama, Eye Level, lente 85mm."
         },
         {
           "quem": "DON",
+          "para": "ENFERMERA",
+          "fala": "No grites. Nunca estuve en coma. Graba todo mañana.",
+          "emocao": 10,
+          "intencao": "Revelar o segredo e pedir ajuda.",
+          "voz": "Voz grave e ROUCA, sussurrada e urgente.",
+          "rosto": "DON AURELIO: abre os olhos DEVAGAR, piscando, e fixa o olhar lucido na ENFERMERA.",
+          "corpo": "DON AURELIO: deitado, segura devagar o pulso da enfermeira, que entra no quadro so pela mao.",
+          "camera": "Corte seco. Close-Up de DON AURELIO SOZINHO no quadro, deitado no travesseiro, lente 85mm, Slow Push In."
+        },
+        {
+          "quem": "DON",
+          "para": "CAMERA",
           "fala": "Si quieres saber qué va a pasar, comenta parte dos.",
-          "olha_para_camera": true,
           "emocao": 9,
-          "intencao": "Quebrar a quarta parede e convidar o espectador a comentar para ver a continuacao.",
-          "voz": "Voz grave e rouca, calma, baixa e misteriosa, com um leve sorriso no fim.",
-          "rosto": "DON AURELIO: vira o rosto devagar e olha DIRETO para a lente, olhar serio e misterioso, sobrancelha levemente erguida.",
-          "corpo": "DON AURELIO: deitado, a cabeca vira do lado da enfermeira para a camera.",
-          "camera": "Corte seco. Extreme Close-Up de DON AURELIO SOZINHO no quadro, lente 85mm, Slow Push In. O video termina neste rosto olhando para a lente.",
-          "para": "CAMERA"
+          "olha_para_camera": true,
+          "intencao": "Quebrar a quarta parede e chamar para a Parte 2.",
+          "voz": "Voz grave e rouca, calma e misteriosa.",
+          "rosto": "DON AURELIO: vira o rosto devagar e olha DIRETO para a lente, olhar serio e misterioso.",
+          "corpo": "DON AURELIO: deitado, imovel.",
+          "camera": "Corte seco. Extreme Close-Up de DON AURELIO SOZINHO no quadro, lente 85mm, Slow Push In. O video termina neste rosto olhando para a lente."
         }
-      ],
-      "posicoes": {
-        "DON": "deitado na cama",
-        "ENFERMERA": "em pe do lado DIREITO da cama, junto ao soro"
-      },
-      "salvar_frames": [
-        "FRAME_ENFERMERA"
       ]
     }
   ]
