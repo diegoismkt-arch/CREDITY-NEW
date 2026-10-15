@@ -63,9 +63,10 @@
           "emocao": 9,
           "intencao": "Declarar, com desprezo e impaciencia, que o pai ja e um caso perdido.",
           "voz": "Voz feminina FRIA e seca, impaciente, com desprezo em 'papa'.",
-          "rosto": "VALERIA: olhar de cima para o pai, sobrancelha erguida, labios vermelhos apertados de desprezo.",
+          "rosto": "VALERIA: olha para JULIAN do outro lado da cama, sobrancelha erguida, labios vermelhos apertados de desprezo; aponta o queixo rapidamente para o pai sem olhar para ele.",
           "corpo": "VALERIA: em pe ao lado da cama, bracos cruzados, a bolsa de luxo pendurada no braco.",
-          "camera": "Plano medio: DON AURELIO deitado em primeiro plano, desfocado, de olhos fechados; VALERIA em pe atras da cama, em foco, Eye Level, lente 50mm, Shallow Focus."
+          "camera": "Plano medio: DON AURELIO deitado em primeiro plano, desfocado, de olhos fechados; VALERIA em pe atras da cama, em foco, Eye Level, lente 50mm, Shallow Focus.",
+          "para": "JULIAN"
         },
         {
           "quem": "JULIAN",
@@ -74,8 +75,9 @@
           "intencao": "Propor, com ganancia, desligar o pai para ficar com o dinheiro.",
           "voz": "Voz masculina arrogante, baixa e calculista, com um meio sorriso em 'herencia'.",
           "rosto": "JULIAN: sorriso cruel de canto de boca, olhos frios e gananciosos.",
-          "corpo": "JULIAN: em pe, aponta com a cabeca para o monitor cardiaco e olha o relogio de ouro.",
-          "camera": "Corte seco. Medium Close-Up de JULIAN SOZINHO no quadro, Eye Level, lente 85mm, Shallow Focus, monitor em Bokeh."
+          "corpo": "JULIAN: em pe, olhando para VALERIA, aponta com a cabeca para o monitor cardiaco e olha o relogio de ouro.",
+          "camera": "Corte seco. Medium Close-Up de JULIAN SOZINHO no quadro, Eye Level, lente 85mm, Shallow Focus, monitor em Bokeh.",
+          "para": "VALERIA"
         },
         {
           "quem": "VALERIA",
@@ -84,8 +86,9 @@
           "intencao": "Fechar o plano com satisfacao fria, ja contando o dinheiro.",
           "voz": "Voz feminina baixa, quase sussurrada, satisfeita e cruel.",
           "rosto": "VALERIA: um sorriso lento e cruel, olhos brilhando de ganancia.",
-          "corpo": "VALERIA: ajeita a bolsa no braco e se inclina levemente para o pai.",
-          "camera": "Corte seco. Close-Up de VALERIA SOZINHA no quadro, lente 85mm, Slow Push In."
+          "corpo": "VALERIA: ajeita a bolsa no braco, olhando para JULIAN com cumplicidade.",
+          "camera": "Corte seco. Close-Up de VALERIA SOZINHA no quadro, lente 85mm, Slow Push In.",
+          "para": "JULIAN"
         }
       ],
       "salvar_frames": [
@@ -93,7 +96,12 @@
         "FRAME_DON",
         "FRAME_VALERIA",
         "FRAME_JULIAN"
-      ]
+      ],
+      "posicoes": {
+        "DON": "deitado na cama, no centro do quarto, de olhos fechados",
+        "VALERIA": "em pe do lado ESQUERDO da cama",
+        "JULIAN": "em pe do lado DIREITO da cama, de frente para VALERIA"
+      }
     },
     {
       "nome": "Ele acorda + CTA",
@@ -128,7 +136,8 @@
           "voz": "Voz grave e ROUCA, sussurrada e urgente, firme em 'nunca estuve en coma'.",
           "rosto": "DON AURELIO: abre os olhos de repente, olhar intenso e lucido, fixo na enfermeira fora do quadro.",
           "corpo": "DON AURELIO: deitado, agarra com firmeza o pulso da enfermeira, que entra no quadro so pela mao.",
-          "camera": "Close-Up de DON AURELIO SOZINHO no quadro, deitado no travesseiro, Eye Level, lente 85mm, Shallow Focus, Fast Push In quando ele abre os olhos."
+          "camera": "Close-Up de DON AURELIO SOZINHO no quadro, deitado no travesseiro, Eye Level, lente 85mm, Shallow Focus, Fast Push In quando ele abre os olhos.",
+          "para": "ENFERMERA"
         },
         {
           "quem": "ENFERMERA",
@@ -138,7 +147,8 @@
           "voz": "Voz feminina SUSSURRADA, ofegante e tremula.",
           "rosto": "ENFERMERA: olhos arregalados, boca entreaberta, mao livre cobrindo o peito.",
           "corpo": "ENFERMERA: de pe ao lado da cama, o pulso preso pela mao dele.",
-          "camera": "Corte seco. Medium Close-Up da ENFERMERA SOZINHA no quadro, Eye Level, lente 85mm, Shallow Focus."
+          "camera": "Corte seco. Medium Close-Up da ENFERMERA SOZINHA no quadro, Eye Level, lente 85mm, Shallow Focus.",
+          "para": "DON"
         },
         {
           "quem": "DON",
@@ -149,9 +159,14 @@
           "voz": "Voz grave e rouca, calma, baixa e misteriosa, com um leve sorriso no fim.",
           "rosto": "DON AURELIO: vira o rosto devagar e olha DIRETO para a lente, olhar serio e misterioso, sobrancelha levemente erguida.",
           "corpo": "DON AURELIO: deitado, a cabeca vira do lado da enfermeira para a camera.",
-          "camera": "Corte seco. Extreme Close-Up de DON AURELIO SOZINHO no quadro, lente 85mm, Slow Push In. O video termina neste rosto olhando para a lente."
+          "camera": "Corte seco. Extreme Close-Up de DON AURELIO SOZINHO no quadro, lente 85mm, Slow Push In. O video termina neste rosto olhando para a lente.",
+          "para": "CAMERA"
         }
-      ]
+      ],
+      "posicoes": {
+        "DON": "deitado na cama",
+        "ENFERMERA": "em pe do lado DIREITO da cama, junto ao soro"
+      }
     }
   ]
 }

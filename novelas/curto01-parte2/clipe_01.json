@@ -1,0 +1,141 @@
+{
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao INTENSA: VALERIA autoritaria e cruel, dando ordens; a ENFERMERA nervosa, com medo, mas corajosa, escondendo que esta gravando com o celular. DON AURELIO imovel, olhos fechados. Nenhuma fala neutra.",
+  "input_image": {
+    "required": false,
+    "mode": "Ingredients to Video, sem primeiro frame.",
+    "additional_references": true,
+    "reference_images": [
+      "Imagem 1 — frame salvo da Parte 1: o quarto de hospital particular de luxo a noite, com DON AURELIO deitado na cama, monitor cardiaco, abajur, janela com luzes da cidade.",
+      "Imagem 2 — frame salvo da Parte 1: DON AURELIO deitado na cama, camisola hospitalar azul-clara, oxigenio no nariz, rosto bem visivel.",
+      "Imagem 3 — frame salvo da Parte 1: close de VALERIA, cabelo preto liso, vestido preto, batom vermelho.",
+      "Imagem 4 — frame salvo da Parte 1: close da ENFERMERA, uniforme azul-claro, cabelo em coque."
+    ],
+    "preserve_exactly": [
+      "DON: o MESMO rosto da imagem 2, senhor de 75 anos, pele palida, cabelo grisalho penteado para tras, barba grisalha curta, camisola hospitalar AZUL-CLARA, cateter de oxigenio no nariz e soro no braco.",
+      "VALERIA: o MESMO rosto da imagem 3, mulher de 40 anos, cabelo preto liso e brilhante, maquiagem forte, batom VERMELHO, vestido PRETO de grife, joias de ouro, bolsa de luxo na mao.",
+      "ENFERMERA: o MESMO rosto da imagem 4, enfermeira de 28 anos, rosto gentil, pele morena clara, cabelo escuro preso em coque, uniforme hospitalar AZUL-CLARO, estetoscopio no pescoco.",
+      "O mesmo quarto de hospital da imagem 1, agora de manha, luz do dia entrando pela janela.",
+      "DON AURELIO SEMPRE de olhos fechados e imovel neste clipe."
+    ]
+  },
+  "scene": {
+    "title": "NUNCA ESTUVE EN COMA - PARTE 2",
+    "duration_seconds": 9.9,
+    "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
+    "structure": "3 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Quarto de hospital particular a noite: luz fria azulada do monitor misturada com luz ambar baixa de abajur (Practical Lighting), Shallow Focus nos closes.",
+    "setting": "O MESMO quarto de hospital da imagem 1, na manha seguinte. JULIAN esta no quarto mas NAO aparece neste clipe. DON AURELIO deitado, imovel, de olhos fechados.",
+    "blocking": [
+      "DON: na cama, no centro do quarto",
+      "VALERIA: em pe do lado ESQUERDO da cama",
+      "ENFERMERA: em pe aos pes da cama, junto ao monitor"
+    ],
+    "characters": {
+      "DON": "O MESMO da imagem 2. Personagem ficticio. Voz grave e rouca de homem de 75 anos.",
+      "VALERIA": "O MESMO da imagem 3. Personagem ficticio. Voz feminina fria e impaciente de mulher de 40 anos.",
+      "ENFERMERA": "O MESMO da imagem 4. Personagem ficticio. Voz feminina suave de mulher de 28 anos."
+    }
+  },
+  "timeline": [
+    {
+      "time": "00:00.00-00:02.79",
+      "speaker": "VALERIA",
+      "dialogue": "Ya firmamos. Desconecte esa máquina ahora mismo.",
+      "addressee": "ENFERMERA",
+      "eyeline": "VALERIA fala PARA ENFERMERA e olha para ENFERMERA, que esta em pe aos pes da cama, junto ao monitor, fora do quadro. NAO olha para DON.",
+      "emotion_level": 9,
+      "intention": "Ordenar, com frieza, que desliguem o pai.",
+      "voice": "Voz feminina FRIA, autoritaria e seca.",
+      "face": "VALERIA: olhar duro para a ENFERMERA, queixo erguido, batom vermelho.",
+      "body": "VALERIA: estende um documento assinado na direcao da ENFERMERA.",
+      "camera": "Medium Close-Up de VALERIA SOZINHA no quadro, Eye Level, lente 85mm, Shallow Focus, janela clara em Bokeh. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente VALERIA movimenta os labios."
+    },
+    {
+      "time": "00:02.79-00:07.07",
+      "speaker": "ENFERMERA",
+      "dialogue": "Pero señora, el doctor dijo que su papá todavía puede despertar.",
+      "addressee": "VALERIA",
+      "eyeline": "ENFERMERA fala PARA VALERIA e olha para VALERIA, que esta em pe do lado ESQUERDO da cama, fora do quadro. NAO olha para DON.",
+      "emotion_level": 9,
+      "intention": "Tentar impedir, com medo, enquanto grava tudo escondida.",
+      "voice": "Voz feminina tremula, nervosa, mas firme no final.",
+      "face": "ENFERMERA: olhos assustados olhando para VALERIA, labio tremendo.",
+      "body": "ENFERMERA: segura uma prancheta contra o peito; atras dela, um celular escondido com a tela gravando.",
+      "camera": "Corte seco. Medium Close-Up da ENFERMERA SOZINHA no quadro, Eye Level, lente 85mm, Shallow Focus. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente ENFERMERA movimenta os labios."
+    },
+    {
+      "time": "00:07.07-00:09.86",
+      "speaker": "VALERIA",
+      "dialogue": "Nadie te paga para opinar. Desconéctalo ya.",
+      "addressee": "ENFERMERA",
+      "eyeline": "VALERIA fala PARA ENFERMERA e olha para ENFERMERA, que esta em pe aos pes da cama, junto ao monitor, fora do quadro. NAO olha para DON.",
+      "emotion_level": 10,
+      "intention": "Humilhar a enfermeira e encerrar a conversa.",
+      "voice": "Voz feminina cortante, desprezo total.",
+      "face": "VALERIA: um sorriso cruel e frio olhando para a ENFERMERA.",
+      "body": "VALERIA: da um passo a frente, apontando para o monitor cardiaco.",
+      "camera": "Corte seco. Close-Up de VALERIA SOZINHA no quadro, lente 85mm, Slow Push In. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente VALERIA movimenta os labios."
+    }
+  ],
+  "dialogue_rules": {
+    "language": "Espanol de Mexico, acento mexicano natural, TODAS as palavras em espanhol.",
+    "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
+    "total_dialogue_lines": 3,
+    "exact_order": [
+      "VALERIA",
+      "ENFERMERA",
+      "VALERIA"
+    ],
+    "rules": [
+      "So existem 3 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "A ultima fala termina junto com o video.",
+      "Cada fala e dirigida a: VALERIA -> ENFERMERA; ENFERMERA -> VALERIA; VALERIA -> ENFERMERA.",
+      "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
+      "Nao repetir, misturar, traduzir ou acrescentar palavras.",
+      "Cada frase e dita INTEIRA, do comeco ao fim."
+    ]
+  },
+  "audio": {
+    "single_voice_at_a_time": true,
+    "sound": "O bip lento do monitor cardiaco, o papel do documento sendo amassado.",
+    "music": "Nenhuma.",
+    "narration": "Nenhuma.",
+    "subtitles": "Nao gerar."
+  },
+  "negative_prompt": [
+    "don aurelio abrindo os olhos",
+    "don aurelio se mexendo",
+    "julian aparecendo",
+    "celular aparecendo na mao de valeria",
+    "mudanca de penteado ou maquiagem",
+    "texto ou letras em qualquer lugar",
+    "palavra inventada no ultimo plano",
+    "fala repetida",
+    "fala adiantada ou atrasada para outro plano",
+    "personagem falando ou olhando para quem nao e o destinatario da fala",
+    "fala neutra ou monotona",
+    "rosto neutro ou expressao vazia",
+    "atuacao contida",
+    "dois rostos visiveis nos planos de fala",
+    "voz sem rosto na tela",
+    "tela dividida",
+    "colagem",
+    "formato horizontal",
+    "bordas pretas",
+    "palavras em ingles",
+    "palavras em portugues",
+    "duas vozes simultaneas",
+    "movimento labial do ouvinte",
+    "fala cortada, encurtada ou incompleta",
+    "personagem olhando para a camera",
+    "mudanca de rosto",
+    "mudanca de roupa",
+    "legendas",
+    "logotipo",
+    "marca-d'agua",
+    "trilha sonora"
+  ]
+}

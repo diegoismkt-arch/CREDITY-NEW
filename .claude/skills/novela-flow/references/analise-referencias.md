@@ -59,3 +59,6 @@ Raiva da vilã (retenção até o fim) → identificação (público latino 35�
 
 ## Diferença para a nossa produção
 No Flow cada geração custa créditos, então **cada clipe de 10 s precisa estar cheio de fala**. Os cortes rápidos das referências são feitos DENTRO do clipe: 2 a 4 planos com cortes secos, um falante por plano (modelo de prompt JSON da casa).
+
+## Aprendizados dos testes no Flow
+- **Teste 1 (Parte 1, clipe 1):** a timeline calculada bateu — cortes gerados em 3,7 s e 7,0 s (previsto 3,9 s e 7,1 s), falas completas, roupas consistentes. Erro: a personagem falou olhando para o pai em vez do irmão, porque o campo `face` mandava olhar para o pai. Correção: campos `para`/`posicoes` obrigatórios (eyeline + blocking).

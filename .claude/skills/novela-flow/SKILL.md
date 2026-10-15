@@ -14,7 +14,8 @@ Produz novelas em espanhol (sotaque mexicano) 100% no **Google Flow**, no format
 3. **Tempo da fala = palavras ÷ 2,7 s** (medido nas referências). O script calcula a timeline sozinho; nunca escrever os tempos à mão.
 4. **Imagem de referência só quando precisa.** O **clipe 1 é Text to Video, sem imagem**: cria os personagens pela descrição (vai no campo `consistency`). Depois de gerar, **salvar os frames** dos personagens e do cenário (`salvar_frames`). Os clipes seguintes usam esses frames como referência (Ingredients to Video, `input_image`). Personagem que ainda não apareceu entra descrito por texto e tem o frame salvo no clipe em que aparece. Roupa e rosto FIXOS sempre.
 5. **Prompt em português, falas em espanhol.** Sem legenda, sem texto, sem música — texto ("Comenta PARTE 2 👇") entra na edição.
-6. **Atuação no máximo:** `ATUACAO_PRIORIDADE_MAXIMA` e os campos voice/face de cada plano descrevem emoção forte (voz falhando, lágrimas, desprezo, choque). Nada neutro.
+6. **Toda fala tem destinatário e todo clipe tem posições.** Cada plano falado leva `"para"` (com quem fala, ou `"CAMERA"` no CTA) e o clipe leva `"posicoes"` (onde cada um está no cenário). O script gera `addressee`, `eyeline` ("fala PARA X e olha para X, que está…; NÃO olha para Y") e `blocking`. **Nunca** escrever em `rosto`/`corpo` um olhar para outra pessoa que não o destinatário — no 1º teste a Valeria falou com o pai em vez do irmão porque o rosto dizia "olhar de cima para o pai".
+7. **Atuação no máximo:** `ATUACAO_PRIORIDADE_MAXIMA` e os campos voice/face de cada plano descrevem emoção forte (voz falhando, lágrimas, desprezo, choque). Nada neutro.
 
 ## Formatos
 
@@ -73,6 +74,7 @@ Um longo rende 3 a 5 curtos (cada um com um gancho diferente).
       "imagens": ["FRAME_QUARTO", "FRAME_DON"],
       "salvar_frames": ["FRAME_..."],
       "personagens": ["DON"],
+      "posicoes": { "DON": "deitado na cama", "VALERIA": "em pe do lado ESQUERDO da cama" },
       "preservar_extra": ["O mesmo quarto da imagem FRAME_QUARTO."],
       "cenario": "setting do clipe",
       "som": "sons ambiente",
@@ -81,7 +83,7 @@ Um longo rende 3 a 5 curtos (cada um com um gancho diferente).
       "regras_extra": ["regra de diálogo extra"],
       "planos": [
         {
-          "quem": "DON", "fala": "Frase em espanhol.", "emocao": 10,
+          "quem": "DON", "para": "VALERIA", "fala": "Frase em espanhol.", "emocao": 10,
           "intencao": "...", "voz": "...", "rosto": "...", "corpo": "...",
           "camera": "Close-Up de DON SOZINHO no quadro, lente 85mm...",
           "olha_para_camera": false

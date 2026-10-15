@@ -22,6 +22,7 @@ NEGATIVO_BASE = [
     "palavra inventada no ultimo plano",
     "fala repetida",
     "fala adiantada ou atrasada para outro plano",
+    "personagem falando ou olhando para quem nao e o destinatario da fala",
     "fala neutra ou monotona",
     "rosto neutro ou expressao vazia",
     "atuacao contida",
@@ -59,6 +60,7 @@ def montar(rot, n, clip):
     planos = clip["planos"]
     t = 0.0
     timeline, falantes, avisos = [], [], []
+    erro_para = False
     for p in planos:
         fala = p.get("fala")
         if fala:
@@ -70,6 +72,19 @@ def montar(rot, n, clip):
                 "dialogue": fala or None}
         if fala:
             falantes.append(p["quem"])
+            alvo = p.get("para")
+            if not alvo:
+                avisos.append(f"❌ plano de {p['quem']} sem 'para' (com quem fala)")
+                erro_para = True
+            item["addressee"] = alvo
+            pos = clip.get("posicoes", {})
+            if alvo == "CAMERA":
+                item["eyeline"] = f"{p['quem']} olha DIRETO para a lente."
+            elif alvo:
+                onde = f", que esta {pos[alvo]}" if alvo in pos else ""
+                outros = [k for k in clip["personagens"] if k not in (p["quem"], alvo)]
+                item["eyeline"] = (f"{p['quem']} fala PARA {alvo} e olha para {alvo}{onde}, fora do quadro."
+                                   + (f" NAO olha para {', '.join(outros)}." if outros else ""))
             item.update({
                 "emotion_level": p.get("emocao", 9),
                 "intention": p["intencao"],
@@ -91,7 +106,7 @@ def montar(rot, n, clip):
     total = t
     fala_seg = sum(max(MIN_PLANO_FALA, contar(p["fala"]) / PALAVRAS_POR_SEG + FOLGA_POR_FALA)
                    for p in planos if p.get("fala"))
-    erro = False
+    erro = erro_para
     if total > DURACAO_MAX:
         avisos.append(f"❌ {total:.1f}s — passa de {DURACAO_MAX:.0f}s, corte palavras")
         erro = True
@@ -142,6 +157,7 @@ def montar(rot, n, clip):
                           "do plano de quem fala e terminando antes do corte."),
             "style": rot["estilo"],
             "setting": clip["cenario"],
+            **({"blocking": [f"{k}: {v}" for k, v in clip["posicoes"].items()]} if clip.get("posicoes") else {}),
             "characters": fichas,
         },
         "timeline": timeline,
@@ -154,6 +170,9 @@ def montar(rot, n, clip):
                 f"So existem {len(falantes)} falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
                 f"Depois de {fim_fala:.1f} segundos ninguem fala." if ultima_fala < len(planos) - 1
                 else "A ultima fala termina junto com o video.",
+                "Cada fala e dirigida a: " + "; ".join(
+                    f"{p['quem']} -> {p.get('para')}" for p in planos if p.get("fala")) + ".",
+                "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
                 "Nao repetir, misturar, traduzir ou acrescentar palavras.",
                 "Cada frase e dita INTEIRA, do comeco ao fim.",
             ] + clip.get("regras_extra", []),

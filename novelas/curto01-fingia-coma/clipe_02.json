@@ -21,6 +21,10 @@
     "structure": "3 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
     "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Quarto de hospital particular a noite: luz fria azulada do monitor misturada com luz ambar baixa de abajur (Practical Lighting), Shallow Focus nos closes.",
     "setting": "O MESMO quarto de hospital da imagem 1, a noite. VALERIA e JULIAN ja foram embora e NAO aparecem. So DON AURELIO e a ENFERMERA no quarto.",
+    "blocking": [
+      "DON: deitado na cama",
+      "ENFERMERA: em pe do lado DIREITO da cama, junto ao soro"
+    ],
     "characters": {
       "DON": "O MESMO da imagem 2. Personagem ficticio. Voz grave e rouca de homem de 75 anos.",
       "ENFERMERA": "enfermeira de 28 anos, rosto gentil, pele morena clara, cabelo escuro preso em coque, uniforme hospitalar AZUL-CLARO, estetoscopio no pescoco. Personagem ficticio. Voz feminina suave de mulher de 28 anos."
@@ -31,6 +35,8 @@
       "time": "00:00.00-00:04.64",
       "speaker": "DON",
       "dialogue": "No grites, hija. Nunca estuve en coma. Graba lo que digan mañana.",
+      "addressee": "ENFERMERA",
+      "eyeline": "DON fala PARA ENFERMERA e olha para ENFERMERA, que esta em pe do lado DIREITO da cama, junto ao soro, fora do quadro.",
       "emotion_level": 10,
       "intention": "Revelar, em segredo e com urgencia, que fingiu o coma e pedir ajuda a enfermeira.",
       "voice": "Voz grave e ROUCA, sussurrada e urgente, firme em 'nunca estuve en coma'.",
@@ -43,6 +49,8 @@
       "time": "00:04.64-00:05.96",
       "speaker": "ENFERMERA",
       "dialogue": "¿Señor… está despierto?",
+      "addressee": "DON",
+      "eyeline": "ENFERMERA fala PARA DON e olha para DON, que esta deitado na cama, fora do quadro.",
       "emotion_level": 10,
       "intention": "Reagir em choque, sem acreditar no que ve.",
       "voice": "Voz feminina SUSSURRADA, ofegante e tremula.",
@@ -55,6 +63,8 @@
       "time": "00:05.96-00:09.86",
       "speaker": "DON",
       "dialogue": "Si quieres saber qué va a pasar, comenta parte dos.",
+      "addressee": "CAMERA",
+      "eyeline": "DON olha DIRETO para a lente.",
       "emotion_level": 9,
       "intention": "Quebrar a quarta parede e convidar o espectador a comentar para ver a continuacao.",
       "voice": "Voz grave e rouca, calma, baixa e misteriosa, com um leve sorriso no fim.",
@@ -76,6 +86,8 @@
     "rules": [
       "So existem 3 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
       "A ultima fala termina junto com o video.",
+      "Cada fala e dirigida a: DON -> ENFERMERA; ENFERMERA -> DON; DON -> CAMERA.",
+      "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
       "Nao repetir, misturar, traduzir ou acrescentar palavras.",
       "Cada frase e dita INTEIRA, do comeco ao fim.",
       "No ultimo plano, e SOMENTE nele, DON AURELIO olha direto para a lente."
@@ -96,6 +108,7 @@
     "palavra inventada no ultimo plano",
     "fala repetida",
     "fala adiantada ou atrasada para outro plano",
+    "personagem falando ou olhando para quem nao e o destinatario da fala",
     "fala neutra ou monotona",
     "rosto neutro ou expressao vazia",
     "atuacao contida",
