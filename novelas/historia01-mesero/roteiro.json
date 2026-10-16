@@ -1,0 +1,61 @@
+{
+  "titulo_post": "Humilló al mesero anciano… sin saber que era el dueño de todo 😱",
+  "legenda": "",
+  "texto_final": "",
+  "titulo_interno": "EL MESERO",
+  "estilo": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Restaurante de luxo a noite: luz quente e baixa de lustres e velas (Practical Lighting, Warm Amber), Shallow Focus nos closes.",
+  "imagens": {
+    "FRAME_MESA": "frame do clipe 1, plano 1 (por volta do segundo 1): RICARDO de terno azul-marinho, de pe ao lado da mesa, e DON TOMAS de colete preto com a bandeja, no restaurante de luxo.",
+    "FRAME_TOMAS": "frame do clipe 1, plano 2 (por volta do segundo 4): close de DON TOMAS, cabelo e bigode brancos, colete preto, gravata-borboleta.",
+    "FRAME_RICARDO": "frame do clipe 1, plano 3 (por volta do segundo 8): close de RICARDO, cabelo grisalho nas temporas, terno azul-marinho, expressao de desprezo."
+  },
+  "personagens": {
+    "RICARDO": {
+      "descricao": "empresario de 45 anos, pele clara, cabelo escuro penteado para tras com as temporas GRISALHAS, barba bem feita, terno AZUL-MARINHO sob medida, camisa branca, gravata vinho, relogio de ouro.",
+      "voz": "Voz masculina grave, arrogante e autoritaria de homem de 45 anos.",
+      "frame": "FRAME_RICARDO"
+    },
+    "TOMAS": {
+      "descricao": "garcom idoso de 72 anos, pele morena enrugada, cabelo BRANCO curto bem penteado, bigode branco, olhar sereno, uniforme de garcom: camisa branca, COLETE PRETO, gravata-borboleta preta, pano branco no braco.",
+      "voz": "Voz masculina calma, grave e serena de homem de 72 anos.",
+      "frame": "FRAME_TOMAS"
+    }
+  },
+  "clips": [
+    {
+      "nome": "A humilhacao",
+      "atuacao": "Novela dramatica. Atuacao INTENSA: RICARDO furioso, arrogante e cruel por causa de uma mancha minuscula; DON TOMAS humilde, envergonhado, com as maos tremendo, mas digno. Rostos muito expressivos. Nenhuma fala neutra.",
+      "personagens": ["RICARDO", "TOMAS"],
+      "salvar_frames": ["FRAME_MESA", "FRAME_TOMAS", "FRAME_RICARDO"],
+      "posicoes": {
+        "RICARDO": "de pe ao lado da sua mesa, do lado ESQUERDO",
+        "TOMAS": "de pe ao lado da mesa, do lado DIREITO, segurando uma bandeja"
+      },
+      "preservar_extra": ["Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.", "Uma pequena mancha de sopa na manga do terno de RICARDO."],
+      "cenario": "Restaurante de luxo a noite, mesas com toalhas brancas, tacas de cristal, velas acesas, lustres, clientes elegantes ao fundo desfocados e em silencio olhando a cena.",
+      "som": "Murmurio do restaurante que para de repente, talheres, a respiracao nervosa de DON TOMAS.",
+      "remover_negativos": ["dois rostos visiveis nos planos de fala"],
+      "negativos_extra": ["clientes falando", "outros garcons aparecendo", "ricardo batendo em don tomas", "sopa caindo no chao"],
+      "planos": [
+        {
+          "quem": "RICARDO", "para": "TOMAS", "alvo_no_quadro": true, "fala": "¡Inútil! ¿Sabes cuánto cuesta este traje?", "emocao": 10,
+          "intencao": "Humilhar o garcom na frente de todos por uma mancha minuscula.", "voz": "Voz masculina ALTA, furiosa e desprezivel.",
+          "rosto": "RICARDO: rosto vermelho de raiva, olhar de desprezo para DON TOMAS.", "corpo": "RICARDO: levanta da cadeira de repente, aponta a pequena mancha na manga do terno.",
+          "camera": "Plano medio: RICARDO de pe ao lado da mesa a esquerda, DON TOMAS a direita com a bandeja, clientes desfocados ao fundo. Eye Level, lente 50mm."
+        },
+        {
+          "quem": "TOMAS", "para": "RICARDO", "fala": "Perdón, señor. Mis manos ya no son las de antes.", "emocao": 9,
+          "intencao": "Pedir desculpas com humildade e vergonha.", "voz": "Voz masculina baixa, calma, envergonhada, levemente tremula.",
+          "rosto": "DON TOMAS: olhos baixos, envergonhado, mas sereno e digno.", "corpo": "DON TOMAS: segura a bandeja com as maos tremendo levemente.",
+          "camera": "Corte seco. Medium Close-Up de DON TOMAS SOZINHO no quadro, Eye Level, lente 85mm, Shallow Focus, velas em Bokeh."
+        },
+        {
+          "quem": "RICARDO", "para": "TOMAS", "fala": "Entonces vete a pedir limosna, viejo.", "emocao": 10,
+          "intencao": "Humilhar ainda mais, com crueldade.", "voz": "Voz masculina fria, cruel, com um sorriso de desprezo.",
+          "rosto": "RICARDO: sorriso cruel de canto de boca, olhar de cima para baixo.", "corpo": "RICARDO: ajeita o terno com arrogancia.",
+          "camera": "Corte seco. Close-Up de RICARDO SOZINHO no quadro, Low Angle leve, lente 85mm, Slow Push In."
+        }
+      ]
+    }
+  ]
+}
