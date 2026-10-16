@@ -9,7 +9,8 @@
     "FRAME_TOMAS": "frame do clipe 1, plano 2 (por volta do segundo 4): close de DON TOMAS, cabelo e bigode brancos, colete preto, gravata-borboleta.",
     "FRAME_RICARDO": "frame do clipe 1, plano 3 (por volta do segundo 8): close de RICARDO, cabelo grisalho nas temporas, terno azul-marinho, expressao de desprezo.",
     "FRAME_ANA": "frame do clipe 2, plano 3 (por volta do segundo 4): close de ANA, garconete de rabo de cavalo preto e avental preto, rosto indignado.",
-    "FRAME_TOMAS_MOLHADO": "frame do clipe 2, plano 2 (por volta do segundo 2): close de DON TOMAS com o rosto molhado, olhos fechados."
+    "FRAME_TOMAS_MOLHADO": "frame do clipe 2, plano 2 (por volta do segundo 2): close de DON TOMAS com o rosto molhado, olhos fechados.",
+    "FRAME_RICARDO_TEL": "frame do clipe 3, plano 1 (por volta do segundo 2): RICARDO sentado a mesa, falando ao celular, sorriso arrogante."
   },
   "personagens": {
     "RICARDO": {
@@ -20,7 +21,7 @@
     "TOMAS": {
       "descricao": "garcom idoso de 72 anos, pele morena enrugada, cabelo BRANCO curto bem penteado, bigode branco, olhar sereno, uniforme de garcom: camisa branca, COLETE PRETO, gravata-borboleta preta, pano branco no braco.",
       "voz": "Voz masculina calma, grave e serena de homem de 72 anos.",
-      "frame": "FRAME_TOMAS"
+      "frame": "FRAME_TOMAS_MOLHADO"
     },
     "ANA": {
       "descricao": "garconete de 24 anos, pele morena clara, cabelo PRETO preso em rabo de cavalo, rosto doce, camisa branca de manga comprida, AVENTAL PRETO comprido, sem joias.",
@@ -179,6 +180,91 @@
           "rosto": "RICARDO: olhar gelado e ameacador para ANA, sobrancelha erguida.",
           "corpo": "RICARDO: aponta o dedo para ANA.",
           "camera": "Corte seco. Close-Up de RICARDO SOZINHO no quadro, Low Angle leve, lente 85mm, Slow Push In."
+        }
+      ]
+    },
+    {
+      "nome": "Ricardo se gaba do contrato",
+      "atuacao": "Novela dramatica. Atuacao INTENSA: RICARDO arrogante e satisfeito, se gabando em voz alta como se nada tivesse acontecido; DON TOMAS calmo, enxugando o rosto, com um sorriso DISCRETO e misterioso de quem sabe algo; ANA preocupada e carinhosa. Rostos muito expressivos. Nenhuma fala neutra.",
+      "imagens": [
+        "FRAME_MESA",
+        "FRAME_RICARDO",
+        "FRAME_TOMAS_MOLHADO",
+        "FRAME_ANA"
+      ],
+      "salvar_frames": [
+        "FRAME_RICARDO_TEL"
+      ],
+      "personagens": [
+        "RICARDO",
+        "TOMAS",
+        "ANA"
+      ],
+      "posicoes": {
+        "RICARDO": "sentado de volta a sua mesa, falando ao celular",
+        "TOMAS": "em pe a poucos passos da mesa, do lado DIREITO",
+        "ANA": "ao lado de DON TOMAS, entregando a ele uma toalha"
+      },
+      "preservar_extra": [
+        "O mesmo restaurante de luxo da imagem FRAME_MESA, a noite.",
+        "DON TOMAS com o rosto e o colete ainda um pouco molhados, como na imagem FRAME_TOMAS_MOLHADO."
+      ],
+      "cenario": "O MESMO restaurante de luxo da imagem FRAME_MESA, poucos segundos depois. RICARDO voltou a sentar como se nada tivesse acontecido. Clientes ao fundo desfocados.",
+      "som": "O murmurio do restaurante voltando aos poucos, a voz alta de RICARDO ao telefone.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala"
+      ],
+      "negativos_extra": [
+        "clientes falando",
+        "don tomas falando",
+        "pessoa do outro lado do telefone aparecendo"
+      ],
+      "regras_extra": [
+        "O plano 4 e mudo: so o sorriso discreto de DON TOMAS.",
+        "DON TOMAS nao fala neste clipe."
+      ],
+      "planos": [
+        {
+          "quem": "RICARDO",
+          "para": "SOCIO",
+          "fala": "Sí, socio. Hoy cierro el negocio de mi vida.",
+          "emocao": 9,
+          "eyeline": "RICARDO fala ao CELULAR com o socio (que nao aparece), olhando para o nada, satisfeito, sem olhar para DON TOMAS.",
+          "intencao": "Se gabar em voz alta, mostrando importancia.",
+          "voz": "Voz masculina alta, arrogante e satisfeita.",
+          "rosto": "RICARDO: sorriso arrogante, queixo erguido.",
+          "corpo": "RICARDO: sentado, encostado na cadeira, celular no ouvido, a outra mao girando a taca de vinho.",
+          "camera": "Medium Close-Up de RICARDO SOZINHO no quadro, sentado a mesa, Eye Level, lente 85mm, Shallow Focus."
+        },
+        {
+          "quem": "RICARDO",
+          "para": "SOCIO",
+          "fala": "Con el señor Arango, dueño de toda esta cadena.",
+          "emocao": 9,
+          "eyeline": "RICARDO fala ao CELULAR com o socio (que nao aparece) e olha em volta para o restaurante, orgulhoso.",
+          "intencao": "Revelar com quem vai fechar o contrato, cheio de si.",
+          "voz": "Voz masculina alta, orgulhosa, quase cantando o nome Arango.",
+          "rosto": "RICARDO: sorriso largo de vaidade, sobrancelhas erguidas.",
+          "corpo": "RICARDO: faz um gesto com a mao abrangendo o restaurante.",
+          "camera": "Corte seco. Plano medio: RICARDO sentado a mesa ao celular em primeiro plano; ao fundo, desfocados, DON TOMAS e ANA ouvindo. Lente 50mm."
+        },
+        {
+          "quem": "ANA",
+          "para": "TOMAS",
+          "alvo_no_quadro": true,
+          "fala": "¿Está bien, Don Tomás?",
+          "emocao": 9,
+          "intencao": "Cuidar do colega humilhado.",
+          "voz": "Voz feminina jovem, baixa, preocupada e carinhosa.",
+          "rosto": "ANA: olhar preocupado e carinhoso para DON TOMAS.",
+          "corpo": "ANA entrega uma toalha branca a DON TOMAS.",
+          "camera": "Corte seco. Medium Close-Up de ANA e DON TOMAS lado a lado, ANA falando em foco, lente 85mm, Shallow Focus."
+        },
+        {
+          "rosto": "DON TOMAS: enxuga o rosto devagar e esboca um sorriso DISCRETO e misterioso, olhando para RICARDO fora do quadro.",
+          "corpo": "DON TOMAS segura a toalha branca junto ao rosto.",
+          "camera": "Corte seco. Close-Up de DON TOMAS SOZINHO no quadro, lente 85mm, Slow Push In no sorriso dele. Ninguem fala. O clipe termina neste sorriso.",
+          "segundos": 0.9
         }
       ]
     }
