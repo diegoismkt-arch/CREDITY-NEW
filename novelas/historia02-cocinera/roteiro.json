@@ -13,7 +13,8 @@
     "FRAME_VICTORIA": "frame do clipe 3, plano 4 (por volta do segundo 8): close de DONA VICTORIA, cabelo branco em coque alto, vestido verde-esmeralda, colar de esmeraldas.",
     "FRAME_CARMEN_PE": "frame do clipe 3, plano 1 (por volta do segundo 1): DON JULIAN ajudando DONA CARMEN a se levantar no patio.",
     "FRAME_LLAVE": "frame do clipe 4, plano 5 (por volta do segundo 7): a mao de DON JULIAN aberta mostrando uma chave antiga de ferro.",
-    "FRAME_JULIAN_LLAVE": "frame do clipe 4, plano 6 (por volta do segundo 9): close de DON JULIAN segurando a chave antiga perto do rosto."
+    "FRAME_JULIAN_LLAVE": "frame do clipe 4, plano 6 (por volta do segundo 9): close de DON JULIAN segurando a chave antiga perto do rosto.",
+    "FRAME_DANIELA_TEL": "frame do clipe 5, plano 5 (por volta do segundo 8): close de DANIELA furiosa tentando pegar o celular."
   },
   "personagens": {
     "DANIELA": {
@@ -31,7 +32,7 @@
     "JULIAN": {
       "descricao": "caseiro idoso de 75 anos, pele morena curtida de sol, cabelo BRANCO curto, bigode branco grosso, rosto enrugado e firme, camisa BRANCA de manga comprida, COLETE DE COURO MARROM, calca escura, segura um CHAPEU DE PALHA na mao.",
       "voz": "Voz masculina grave, rouca e firme de homem de 75 anos.",
-      "frame": "FRAME_JULIAN"
+      "frame": "FRAME_JULIAN_LLAVE"
     },
     "VICTORIA": {
       "descricao": "senhora rica de 68 anos, pele clara, cabelo BRANCO prateado em coque alto, maquiagem elegante, VESTIDO LONGO VERDE-ESMERALDA de seda, COLAR DE ESMERALDAS, xale de seda nos ombros, bengala com cabo de prata.",
@@ -435,6 +436,107 @@
           "rosto": "DON JULIAN: olhar serio e penetrante para VICTORIA.",
           "corpo": "DON JULIAN: levanta a chave na altura do rosto.",
           "camera": "Corte seco. Slow Zoom In: tight close-up of DON JULIAN SOZINHO no quadro, head and upper shoulders, a chave perto do rosto, lente 75mm. O clipe termina neste rosto."
+        }
+      ]
+    },
+    {
+      "nome": "O video no celular",
+      "atuacao": "Novela dramatica. Atuacao INTENSA e FISICA: DON JULIAN calmo e acusador; DONA VICTORIA tensa e desconfiada; DONA CARMEN reconhecendo a culpada com indignacao; DANIELA em PANICO, partindo para cima para pegar o celular. Movimento o tempo todo. Rostos muito expressivos.",
+      "imagens": [
+        "FRAME_CARMEN_PE",
+        "FRAME_JULIAN_LLAVE",
+        "FRAME_VICTORIA",
+        "FRAME_DANIELA"
+      ],
+      "salvar_frames": [
+        "FRAME_DANIELA_TEL"
+      ],
+      "personagens": [
+        "JULIAN",
+        "VICTORIA",
+        "CARMEN",
+        "DANIELA"
+      ],
+      "posicoes": {
+        "JULIAN": "no centro, entre CARMEN e VICTORIA, com a chave e o celular",
+        "VICTORIA": "a ESQUERDA, de frente para JULIAN",
+        "CARMEN": "a DIREITA de JULIAN",
+        "DANIELA": "atras de VICTORIA, a ESQUERDA; avanca para JULIAN no fim"
+      },
+      "preservar_extra": [
+        "O mesmo patio da hacienda da imagem FRAME_CARMEN_PE, ao entardecer, convidados ao fundo.",
+        "Na tela do celular: um video escuro de camera de seguranca, a noite, uma mulher de VESTIDO VERMELHO longo abrindo uma porta de madeira antiga; sem nenhum texto na tela."
+      ],
+      "cenario": "O MESMO patio de festa da hacienda, segundos depois. Convidados ao fundo, em silencio, esticando o pescoco para ver.",
+      "som": "Murmurio dos convidados, o som baixinho de uma porta rangendo vindo do celular.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala"
+      ],
+      "negativos_extra": [
+        "convidados falando",
+        "texto na tela do celular",
+        "celular caindo e quebrando",
+        "sangue"
+      ],
+      "regras_extra": [
+        "Os planos 3 e 6 sao mudos."
+      ],
+      "planos": [
+        {
+          "quem": "JULIAN",
+          "para": "VICTORIA",
+          "fala": "Y anoche… alguien entró.",
+          "emocao": 10,
+          "intencao": "Revelar a invasao, olhando para VICTORIA.",
+          "voz": "Voz masculina grave, baixa, lenta e acusadora.",
+          "rosto": "DON JULIAN: olhar serio fixo em VICTORIA.",
+          "corpo": "DON JULIAN: guarda a chave no bolso do colete e tira um celular.",
+          "camera": "Eye Level: tight close-up of DON JULIAN SOZINHO no quadro, head and upper shoulders, lente 75mm, Shallow Focus."
+        },
+        {
+          "quem": "VICTORIA",
+          "para": "JULIAN",
+          "fala": "¿Cómo lo sabes?",
+          "emocao": 9,
+          "intencao": "Perguntar, tensa, tentando disfarcar o nervosismo.",
+          "voz": "Voz feminina grave, tensa, mais baixa.",
+          "rosto": "DONA VICTORIA: olhos estreitos, desconfiada, mandibula travada.",
+          "corpo": "DONA VICTORIA: aperta o cabo da bengala.",
+          "camera": "Corte seco. Over-the-Shoulder: ombro de DON JULIAN desfocado em primeiro plano, rosto de DONA VICTORIA nitido, lente 85mm."
+        },
+        {
+          "rosto": "Sem rostos.",
+          "corpo": "A mao de DON JULIAN segura o celular virado para a camera; na tela, um video escuro de camera de seguranca: a noite, uma mulher de vestido vermelho longo abre uma porta de madeira antiga.",
+          "camera": "Corte seco. Insert shot do celular em escala real na mao de DON JULIAN, lente macro, Rack Focus da mao para a tela. Ninguem fala.",
+          "segundos": 1.2
+        },
+        {
+          "quem": "CARMEN",
+          "para": "DANIELA",
+          "fala": "Ese vestido rojo… es el tuyo, Daniela.",
+          "emocao": 10,
+          "intencao": "Reconhecer e acusar DANIELA.",
+          "voz": "Voz feminina rouca, firme e acusadora.",
+          "rosto": "DONA CARMEN: olhar firme e indignado para DANIELA.",
+          "corpo": "DONA CARMEN: aponta para DANIELA.",
+          "camera": "Corte seco. Slow Zoom In: tight close-up of DONA CARMEN SOZINHA no quadro, head and upper shoulders, lente 75mm."
+        },
+        {
+          "quem": "DANIELA",
+          "para": "JULIAN",
+          "fala": "¡Dame ese teléfono, viejo!",
+          "emocao": 10,
+          "intencao": "Tentar destruir a prova, em panico.",
+          "voz": "Voz feminina aguda, GRITANDO, desesperada.",
+          "rosto": "DANIELA: furia e panico, olhos arregalados.",
+          "corpo": "DANIELA: avanca e estica a mao para arrancar o celular de DON JULIAN.",
+          "camera": "Corte seco. Handheld camera following the action, Whip Pan para DANIELA avancando, plano medio, lente 35mm."
+        },
+        {
+          "rosto": "DON JULIAN: firme. DANIELA: dor e raiva.",
+          "corpo": "DON JULIAN segura com forca o pulso de DANIELA no ar, impedindo que ela pegue o celular.",
+          "camera": "Corte seco. Insert shot: a mao enrugada de DON JULIAN segurando o pulso de DANIELA com a pulseira de diamante, o celular na outra mao ao fundo, lente 50mm. Ninguem fala. O clipe termina aqui.",
+          "segundos": 0.9
         }
       ]
     }
