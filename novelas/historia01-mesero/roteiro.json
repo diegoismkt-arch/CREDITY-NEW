@@ -10,13 +10,15 @@
     "FRAME_RICARDO": "frame do clipe 1, plano 3 (por volta do segundo 8): close de RICARDO, cabelo grisalho nas temporas, terno azul-marinho, expressao de desprezo.",
     "FRAME_ANA": "frame do clipe 2, plano 3 (por volta do segundo 4): close de ANA, garconete de rabo de cavalo preto e avental preto, rosto indignado.",
     "FRAME_TOMAS_MOLHADO": "frame do clipe 2, plano 2 (por volta do segundo 2): close de DON TOMAS com o rosto molhado, olhos fechados.",
-    "FRAME_RICARDO_TEL": "frame do clipe 3, plano 1 (por volta do segundo 2): RICARDO sentado a mesa, falando ao celular, sorriso arrogante."
+    "FRAME_RICARDO_TEL": "frame do clipe 3, plano 1 (por volta do segundo 2): RICARDO sentado a mesa, falando ao celular, sorriso arrogante.",
+    "FRAME_GERENTE": "frame do clipe 4, plano 3 (por volta do segundo 7): close do GERENTE de terno preto, oculos e cracha dourado.",
+    "FRAME_RICARDO_CHOQUE": "frame do clipe 4, plano 4 (por volta do segundo 9): close de RICARDO palido, em choque."
   },
   "personagens": {
     "RICARDO": {
       "descricao": "empresario de 45 anos, pele clara, cabelo escuro penteado para tras com as temporas GRISALHAS, barba bem feita, terno AZUL-MARINHO sob medida, camisa branca, gravata vinho, relogio de ouro.",
       "voz": "Voz masculina grave, arrogante e autoritaria de homem de 45 anos.",
-      "frame": "FRAME_RICARDO"
+      "frame": "FRAME_RICARDO_TEL"
     },
     "TOMAS": {
       "descricao": "garcom idoso de 72 anos, pele morena enrugada, cabelo BRANCO curto bem penteado, bigode branco, olhar sereno, uniforme de garcom: camisa branca, COLETE PRETO, gravata-borboleta preta, pano branco no braco.",
@@ -28,6 +30,11 @@
       "voz": "Voz feminina jovem, firme e corajosa de mulher de 24 anos.",
       "feminino": true,
       "frame": "FRAME_ANA"
+    },
+    "GERENTE": {
+      "descricao": "gerente do restaurante de 50 anos, pele clara, cabelo GRISALHO curto, oculos de armacao fina, terno PRETO, camisa branca, gravata preta, cracha DOURADO no peito.",
+      "voz": "Voz masculina de 50 anos, nervosa e respeitosa.",
+      "frame": "FRAME_GERENTE"
     }
   },
   "clips": [
@@ -264,6 +271,89 @@
           "rosto": "DON TOMAS: enxuga o rosto devagar e esboca um sorriso DISCRETO e misterioso, olhando para RICARDO fora do quadro.",
           "corpo": "DON TOMAS segura a toalha branca junto ao rosto.",
           "camera": "Corte seco. Close-Up de DON TOMAS SOZINHO no quadro, lente 85mm, Slow Push In no sorriso dele. Ninguem fala. O clipe termina neste sorriso.",
+          "segundos": 0.9
+        }
+      ]
+    },
+    {
+      "nome": "O gerente revela quem e Don Tomas",
+      "atuacao": "Novela dramatica. Atuacao INTENSA: o GERENTE desesperado e respeitoso ao ver o dono molhado; RICARDO primeiro debochado, depois PALIDO e em choque; DON TOMAS calmo e digno. Rostos muito expressivos. Nenhuma fala neutra.",
+      "imagens": [
+        "FRAME_MESA",
+        "FRAME_RICARDO_TEL",
+        "FRAME_TOMAS_MOLHADO"
+      ],
+      "salvar_frames": [
+        "FRAME_GERENTE",
+        "FRAME_RICARDO_CHOQUE"
+      ],
+      "personagens": [
+        "RICARDO",
+        "TOMAS",
+        "GERENTE"
+      ],
+      "posicoes": {
+        "RICARDO": "sentado a sua mesa, com o celular na mao",
+        "TOMAS": "em pe a poucos passos da mesa, do lado DIREITO, com a toalha na mao",
+        "GERENTE": "entra correndo pelo fundo do restaurante e para ao lado de DON TOMAS"
+      },
+      "preservar_extra": [
+        "O mesmo restaurante de luxo da imagem FRAME_MESA, a noite.",
+        "DON TOMAS com o rosto e o colete ainda um pouco molhados, como na imagem FRAME_TOMAS_MOLHADO."
+      ],
+      "cenario": "O MESMO restaurante de luxo da imagem FRAME_MESA, logo depois. O GERENTE chega correndo. Clientes ao fundo desfocados, em silencio, olhando.",
+      "som": "Passos rapidos do gerente no piso, o restaurante em silencio, o celular de RICARDO caindo na mesa.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala"
+      ],
+      "negativos_extra": [
+        "clientes falando",
+        "don tomas falando",
+        "ana aparecendo"
+      ],
+      "regras_extra": [
+        "O plano 4 e mudo: so o choque de RICARDO.",
+        "DON TOMAS nao fala neste clipe."
+      ],
+      "planos": [
+        {
+          "quem": "GERENTE",
+          "para": "TOMAS",
+          "alvo_no_quadro": true,
+          "fala": "¡Señor Arango! ¿Qué le hicieron? ¡Está empapado!",
+          "emocao": 10,
+          "intencao": "Socorrer o dono, desesperado.",
+          "voz": "Voz masculina ALTA, desesperada e respeitosa.",
+          "rosto": "GERENTE: olhos arregalados de preocupacao olhando para DON TOMAS.",
+          "corpo": "GERENTE: chega correndo e para ao lado de DON TOMAS, as maos estendidas para ajuda-lo.",
+          "camera": "Plano medio: o GERENTE chegando correndo ate DON TOMAS, que esta com a toalha na mao, clientes desfocados ao fundo. Lente 50mm."
+        },
+        {
+          "quem": "RICARDO",
+          "para": "GERENTE",
+          "fala": "¿Señor Arango? Él es solo un mesero.",
+          "emocao": 9,
+          "intencao": "Debochar, sem entender, achando que e um engano.",
+          "voz": "Voz masculina com uma risada nervosa e debochada.",
+          "rosto": "RICARDO: meio sorriso de deboche, sobrancelhas franzidas de confusao.",
+          "corpo": "RICARDO: sentado, ainda com o celular na mao.",
+          "camera": "Corte seco. Medium Close-Up de RICARDO SOZINHO no quadro, sentado a mesa, lente 85mm."
+        },
+        {
+          "quem": "GERENTE",
+          "para": "RICARDO",
+          "fala": "Es el dueño de toda esta cadena.",
+          "emocao": 10,
+          "intencao": "Revelar a verdade, serio e indignado.",
+          "voz": "Voz masculina firme, seca e indignada.",
+          "rosto": "GERENTE: olhar serio e indignado para RICARDO.",
+          "corpo": "GERENTE: aponta para DON TOMAS com a mao aberta.",
+          "camera": "Corte seco. Close-Up do GERENTE SOZINHO no quadro, lente 85mm, Shallow Focus."
+        },
+        {
+          "rosto": "RICARDO: fica PALIDO, o sorriso some, boca aberta, olhos arregalados.",
+          "corpo": "RICARDO: o celular escorrega da mao e cai na mesa.",
+          "camera": "Corte seco. Close-Up de RICARDO SOZINHO no quadro, lente 85mm, Fast Push In. Ninguem fala. O clipe termina neste rosto.",
           "segundos": 0.9
         }
       ]
