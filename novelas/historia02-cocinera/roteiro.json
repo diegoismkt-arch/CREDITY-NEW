@@ -4,17 +4,30 @@
   "texto_final": "Comenta PARTE 2 👇",
   "titulo_interno": "LA COCINERA",
   "estilo": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Jardim de hacienda mexicana ao entardecer: luz dourada quente, arcos de pedra, Shallow Focus nos closes, cortes rapidos.",
-  "imagens": {},
+  "imagens": {
+    "FRAME_FIESTA": "frame do clipe 1, plano 1 (por volta do segundo 1): DANIELA de vestido vermelho agarrando o braco de DONA CARMEN de uniforme preto e avental bege junto a mesa de doces, festa na hacienda ao fundo.",
+    "FRAME_CARMEN": "frame do clipe 1, plano 2 (por volta do segundo 3): close de DONA CARMEN, cabelo grisalho em coque, rosto de dor.",
+    "FRAME_DANIELA": "frame do clipe 1, plano 3 (por volta do segundo 4): close de DANIELA, cabelo castanho ondulado, batom vermelho, rosto de raiva.",
+    "FRAME_ANILLO": "frame do clipe 1, plano 4 (por volta do segundo 5): o anel antigo de ouro caido no chao de pedra entre petalas brancas.",
+    "FRAME_JULIAN": "frame do clipe 2, plano 3 (por volta do segundo 4): close de DON JULIAN segurando o anel, chapeu de palha na outra mao."
+  },
   "personagens": {
     "DANIELA": {
       "descricao": "noiva de 30 anos, pele clara, cabelo castanho escuro longo e ondulado, maquiagem forte, batom vermelho, VESTIDO LONGO DE CETIM VERMELHO de alcas finas, brincos de diamante, salto alto dourado.",
       "voz": "Voz feminina aguda, arrogante e cruel de mulher de 30 anos.",
-      "feminino": true
+      "feminino": true,
+      "frame": "FRAME_DANIELA"
     },
     "CARMEN": {
       "descricao": "cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, uma corrente fina de ouro no pescoco com um ANEL ANTIGO DE OURO pendurado.",
       "voz": "Voz feminina rouca e humilde de senhora de 62 anos.",
-      "feminino": true
+      "feminino": true,
+      "frame": "FRAME_CARMEN"
+    },
+    "JULIAN": {
+      "descricao": "caseiro idoso de 75 anos, pele morena curtida de sol, cabelo BRANCO curto, bigode branco grosso, rosto enrugado e firme, camisa BRANCA de manga comprida, COLETE DE COURO MARROM, calca escura, segura um CHAPEU DE PALHA na mao.",
+      "voz": "Voz masculina grave, rouca e firme de homem de 75 anos.",
+      "frame": "FRAME_JULIAN"
     }
   },
   "clips": [
@@ -25,7 +38,12 @@
         "DANIELA",
         "CARMEN"
       ],
-      "salvar_frames": [],
+      "salvar_frames": [
+        "FRAME_FIESTA",
+        "FRAME_CARMEN",
+        "FRAME_DANIELA",
+        "FRAME_ANILLO"
+      ],
       "posicoes": {
         "DANIELA": "de pe junto a mesa de doces, do lado ESQUERDO",
         "CARMEN": "junto a mesa de doces, do lado DIREITO; depois ajoelhada no chao de pedra",
@@ -114,6 +132,107 @@
           "rosto": "DANIELA: sorriso cruel, olhando de cima para baixo.",
           "corpo": "DANIELA: de pe, ainda pisando, braco cruzado.",
           "camera": "Corte seco. Low Angle forte (do ponto de vista de CARMEN no chao, horizonte nivelado) com Slow Zoom In: tight close-up of DANIELA SOZINHA no quadro, head and upper shoulders, lente 50mm. O clipe termina neste rosto."
+        }
+      ]
+    },
+    {
+      "nome": "Don Julian e o anel",
+      "atuacao": "Novela dramatica. Atuacao INTENSA e FISICA: DON JULIAN chega firme e indignado, depois fica em CHOQUE ao ler o anel; DONA CARMEN ajoelhada, chorando, revela o segredo com dor e dignidade; DANIELA arrogante que fica PALIDA. Movimento o tempo todo. Rostos muito expressivos.",
+      "imagens": [
+        "FRAME_FIESTA",
+        "FRAME_CARMEN",
+        "FRAME_DANIELA",
+        "FRAME_ANILLO"
+      ],
+      "salvar_frames": [
+        "FRAME_JULIAN"
+      ],
+      "personagens": [
+        "DANIELA",
+        "CARMEN",
+        "JULIAN"
+      ],
+      "posicoes": {
+        "DANIELA": "de pe a ESQUERDA, ainda com o pe perto da mao de CARMEN",
+        "CARMEN": "ajoelhada no chao de pedra, no centro",
+        "JULIAN": "chega pela DIREITA, se abaixa e pega o anel do chao"
+      },
+      "preservar_extra": [
+        "O mesmo patio da hacienda da imagem FRAME_FIESTA, ao entardecer, convidados ao fundo assistindo.",
+        "O MESMO anel antigo de ouro da imagem FRAME_ANILLO, um so anel."
+      ],
+      "cenario": "O MESMO patio de festa da hacienda da imagem FRAME_FIESTA, segundos depois. Convidados ao fundo, em silencio, chocados.",
+      "som": "Murmurio dos convidados, passos firmes de DON JULIAN, o choro baixo de DONA CARMEN.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala"
+      ],
+      "negativos_extra": [
+        "convidados falando",
+        "dois aneis",
+        "letras legiveis no anel",
+        "daniela falando neste clipe"
+      ],
+      "regras_extra": [
+        "O plano 2 e o plano 6 sao mudos.",
+        "DANIELA nao fala neste clipe."
+      ],
+      "planos": [
+        {
+          "quem": "JULIAN",
+          "para": "DANIELA",
+          "fala": "¡Quite el pie, señorita!",
+          "emocao": 10,
+          "intencao": "Defender a cozinheira com autoridade.",
+          "voz": "Voz masculina grave, ALTA e firme.",
+          "rosto": "DON JULIAN: olhar duro e indignado para DANIELA.",
+          "corpo": "DON JULIAN: chega rapido e afasta o pe de DANIELA da mao de CARMEN com a mao.",
+          "camera": "Handheld camera following the action: plano medio, DON JULIAN entrando pela direita e afastando o pe de DANIELA, CARMEN ajoelhada no centro. Lente 35mm, Golden Hour."
+        },
+        {
+          "rosto": "Sem rostos.",
+          "corpo": "A mao enrugada de DON JULIAN pega o anel de ouro do chao de pedra e o vira para ver a parte de dentro.",
+          "camera": "Corte seco. Insert shot: a mao de DON JULIAN pegando o anel em escala real, lente macro, Rack Focus do chao para o anel. Ninguem fala.",
+          "segundos": 1.0
+        },
+        {
+          "quem": "JULIAN",
+          "para": "CARMEN",
+          "fala": "Aquí dice… Rafael y Carmen.",
+          "emocao": 10,
+          "eyeline": "JULIAN le o anel em voz alta, olhando para o ANEL na mao dele, e no fim levanta os olhos para CARMEN, fora do quadro.",
+          "intencao": "Ler a gravacao sem acreditar.",
+          "voz": "Voz masculina grave, baixa, falhando de espanto.",
+          "rosto": "DON JULIAN: sobrancelhas erguidas, olhos arregalados de espanto.",
+          "corpo": "DON JULIAN: segura o anel perto do rosto, apertando os olhos para ler.",
+          "camera": "Corte seco. Slow Zoom In: tight close-up of DON JULIAN SOZINHO no quadro, head and upper shoulders, o anel perto do rosto, lente 75mm."
+        },
+        {
+          "quem": "JULIAN",
+          "para": "CARMEN",
+          "fala": "¿Rafael Montenegro? ¿El patrón?",
+          "emocao": 10,
+          "intencao": "Entender que o patrao falecido era o marido dela.",
+          "voz": "Voz masculina grave, chocada, quase sussurrada.",
+          "rosto": "DON JULIAN: boca entreaberta, olhar fixo em CARMEN.",
+          "corpo": "DON JULIAN: abaixa devagar o anel.",
+          "camera": "Corte seco. Over-the-Shoulder: ombro de CARMEN desfocado em primeiro plano, rosto de DON JULIAN nitido olhando para o ombro dela, lente 85mm."
+        },
+        {
+          "quem": "CARMEN",
+          "para": "JULIAN",
+          "fala": "Era mi esposo.",
+          "emocao": 10,
+          "intencao": "Revelar o segredo de uma vida, com dor e dignidade.",
+          "voz": "Voz feminina rouca, chorando baixinho, firme.",
+          "rosto": "DONA CARMEN: lagrimas escorrendo, olhar firme para cima, para DON JULIAN.",
+          "corpo": "DONA CARMEN: ainda ajoelhada, segura a mao machucada contra o peito.",
+          "camera": "Corte seco. High Angle (camera acima, inclinada para baixo): tight close-up of DONA CARMEN SOZINHA no quadro, head and upper shoulders, lente 75mm, Shallow Focus."
+        },
+        {
+          "rosto": "DANIELA: fica PALIDA, o sorriso some, olhos arregalados.",
+          "corpo": "DANIELA: da um passo para tras.",
+          "camera": "Corte seco. Reaction shot com Crash Zoom In: camera body locked, rapid focal length snap into the face of DANIELA SOZINHA no quadro, radial zoom blur. Ninguem fala. O clipe termina neste rosto.",
+          "segundos": 0.8
         }
       ]
     }
