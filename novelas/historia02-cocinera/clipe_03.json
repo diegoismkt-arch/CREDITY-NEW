@@ -1,0 +1,156 @@
+{
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao INTENSA e FISICA: DON JULIAN respeitoso e emocionado; DANIELA em panico disfarcado de deboche; DONA VICTORIA entra com furia e autoridade, cortando a multidao. Movimento o tempo todo. Rostos muito expressivos.",
+  "input_image": {
+    "required": false,
+    "mode": "Ingredients to Video, sem primeiro frame.",
+    "additional_references": true,
+    "reference_images": [
+      "Imagem 1 — frame do clipe 1, plano 1 (por volta do segundo 1): DANIELA de vestido vermelho agarrando o braco de DONA CARMEN de uniforme preto e avental bege junto a mesa de doces, festa na hacienda ao fundo.",
+      "Imagem 2 — frame do clipe 1, plano 2 (por volta do segundo 3): close de DONA CARMEN, cabelo grisalho em coque, rosto de dor.",
+      "Imagem 3 — frame do clipe 1, plano 3 (por volta do segundo 4): close de DANIELA, cabelo castanho ondulado, batom vermelho, rosto de raiva.",
+      "Imagem 4 — frame do clipe 2, plano 3 (por volta do segundo 4): close de DON JULIAN segurando o anel, chapeu de palha na outra mao."
+    ],
+    "preserve_exactly": [
+      "CARMEN: o MESMO rosto da imagem 2, cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, uma corrente fina de ouro no pescoco com um ANEL ANTIGO DE OURO pendurado.",
+      "JULIAN: o MESMO rosto da imagem 4, caseiro idoso de 75 anos, pele morena curtida de sol, cabelo BRANCO curto, bigode branco grosso, rosto enrugado e firme, camisa BRANCA de manga comprida, COLETE DE COURO MARROM, calca escura, segura um CHAPEU DE PALHA na mao.",
+      "DANIELA: o MESMO rosto da imagem 3, noiva de 30 anos, pele clara, cabelo castanho escuro longo e ondulado, maquiagem forte, batom vermelho, VESTIDO LONGO DE CETIM VERMELHO de alcas finas, brincos de diamante, salto alto dourado.",
+      "VICTORIA: senhora rica de 68 anos, pele clara, cabelo BRANCO prateado em coque alto, maquiagem elegante, VESTIDO LONGO VERDE-ESMERALDA de seda, COLAR DE ESMERALDAS, xale de seda nos ombros, bengala com cabo de prata.",
+      "O mesmo patio da hacienda da imagem 1, ao entardecer, convidados ao fundo.",
+      "O anel antigo de ouro esta na mao de DON JULIAN; NAO esta no pescoco de CARMEN."
+    ]
+  },
+  "scene": {
+    "title": "LA COCINERA",
+    "duration_seconds": 9.4,
+    "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
+    "structure": "4 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Jardim de hacienda mexicana ao entardecer: luz dourada quente, arcos de pedra, Shallow Focus nos closes, cortes rapidos.",
+    "setting": "O MESMO patio de festa da hacienda da imagem 1, segundos depois. Os convidados se afastam para DONA VICTORIA passar.",
+    "blocking": [
+      "CARMEN: no centro, sendo ajudada a se levantar",
+      "JULIAN: ao lado DIREITO de CARMEN, segurando o braco dela e o anel",
+      "DANIELA: de pe a ESQUERDA",
+      "VICTORIA: atravessa os convidados vindo do FUNDO e para ao lado de DANIELA, a ESQUERDA"
+    ],
+    "characters": {
+      "CARMEN": "A MESMA da imagem 2. Personagem ficticia. Voz feminina rouca e humilde de senhora de 62 anos.",
+      "JULIAN": "O MESMO da imagem 4. Personagem ficticio. Voz masculina grave, rouca e firme de homem de 75 anos.",
+      "DANIELA": "A MESMA da imagem 3. Personagem ficticia. Voz feminina aguda, arrogante e cruel de mulher de 30 anos.",
+      "VICTORIA": "senhora rica de 68 anos, pele clara, cabelo BRANCO prateado em coque alto, maquiagem elegante, VESTIDO LONGO VERDE-ESMERALDA de seda, COLAR DE ESMERALDAS, xale de seda nos ombros, bengala com cabo de prata. Personagem ficticia. Voz feminina grave, autoritaria e fria de senhora de 68 anos."
+    }
+  },
+  "timeline": [
+    {
+      "time": "00:00.00-00:02.05",
+      "speaker": "JULIAN",
+      "dialogue": "Entonces la heredera… es usted.",
+      "addressee": "CARMEN",
+      "eyeline": "JULIAN fala PARA CARMEN e olha para CARMEN (no centro, sendo ajudada a se levantar), dentro do quadro. NAO olha para DANIELA, VICTORIA.",
+      "emotion_level": 10,
+      "intention": "Entender e anunciar quem e a verdadeira herdeira, com respeito.",
+      "voice": "Voz masculina grave, emocionada, baixa e solene.",
+      "face": "DON JULIAN: olhos marejados de respeito olhando para CARMEN.",
+      "body": "DON JULIAN: ajuda DONA CARMEN a se levantar, segurando o braco dela.",
+      "camera": "Two-shot de DON JULIAN e DONA CARMEN, the space between them doing narrative work, ele ajudando ela a levantar, convidados desfocados ao fundo, lente 50mm, Golden Hour. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente JULIAN movimenta os labios."
+    },
+    {
+      "time": "00:02.05-00:04.47",
+      "speaker": "DANIELA",
+      "dialogue": "¿Heredera? ¡Esa sirvienta no es nadie!",
+      "addressee": "JULIAN",
+      "eyeline": "DANIELA fala PARA JULIAN e olha para JULIAN (ao lado DIREITO de CARMEN, segurando o braco dela e o anel), fora do quadro. NAO olha para CARMEN, VICTORIA.",
+      "emotion_level": 10,
+      "intention": "Negar, desesperada, disfarcando o medo com deboche.",
+      "voice": "Voz feminina aguda, nervosa, debochada.",
+      "face": "DANIELA: riso nervoso e forcado, olhos assustados.",
+      "body": "DANIELA: aponta para CARMEN com desprezo.",
+      "camera": "Corte seco. Low Angle (horizonte nivelado): tight close-up of DANIELA SOZINHA no quadro, head and upper shoulders, lente 75mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente DANIELA movimenta os labios."
+    },
+    {
+      "time": "00:04.47-00:06.16",
+      "speaker": "VICTORIA",
+      "dialogue": "¡Esta vieja miente, Julián!",
+      "addressee": "JULIAN",
+      "eyeline": "VICTORIA fala PARA JULIAN e olha para JULIAN (ao lado DIREITO de CARMEN, segurando o braco dela e o anel), fora do quadro. NAO olha para CARMEN, DANIELA.",
+      "emotion_level": 10,
+      "intention": "Entrar na briga com furia, impondo autoridade.",
+      "voice": "Voz feminina grave, ALTA, furiosa e autoritaria.",
+      "face": "DONA VICTORIA: olhar de furia, queixo erguido.",
+      "body": "DONA VICTORIA: atravessa os convidados batendo a bengala no chao, que abrem caminho.",
+      "camera": "Corte seco. Dolly In: plano medio de DONA VICTORIA caminhando rapido em direcao a camera entre os convidados que se afastam, true parallax, lente 35mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente VICTORIA movimenta os labios."
+    },
+    {
+      "time": "00:06.16-00:09.32",
+      "speaker": "VICTORIA",
+      "dialogue": "Yo soy la única dueña de esta hacienda.",
+      "addressee": "JULIAN",
+      "eyeline": "VICTORIA fala PARA JULIAN e olha para JULIAN (ao lado DIREITO de CARMEN, segurando o braco dela e o anel), fora do quadro. NAO olha para CARMEN, DANIELA.",
+      "emotion_level": 10,
+      "intention": "Reafirmar o poder, ameacadora.",
+      "voice": "Voz feminina grave, fria, lenta e ameacadora.",
+      "face": "DONA VICTORIA: olhar gelado e superior para DON JULIAN.",
+      "body": "DONA VICTORIA: para ao lado de DANIELA e bate a bengala uma vez no chao.",
+      "camera": "Corte seco. Low Angle com Slow Zoom In: tight close-up of DONA VICTORIA SOZINHA no quadro, head and upper shoulders, Rim Light dourada, lente 75mm. O clipe termina neste rosto. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente VICTORIA movimenta os labios."
+    }
+  ],
+  "dialogue_rules": {
+    "language": "Espanol de Mexico, acento mexicano natural, TODAS as palavras em espanhol.",
+    "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
+    "total_dialogue_lines": 4,
+    "exact_order": [
+      "JULIAN",
+      "DANIELA",
+      "VICTORIA",
+      "VICTORIA"
+    ],
+    "rules": [
+      "So existem 4 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "A ultima fala termina junto com o video.",
+      "Cada fala e dirigida a: JULIAN -> CARMEN; DANIELA -> JULIAN; VICTORIA -> JULIAN; VICTORIA -> JULIAN.",
+      "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
+      "Nao repetir, misturar, traduzir ou acrescentar palavras.",
+      "Cada frase e dita INTEIRA, do comeco ao fim."
+    ]
+  },
+  "audio": {
+    "single_voice_at_a_time": true,
+    "sound": "Murmurio dos convidados, o toc-toc da bengala de VICTORIA no chao de pedra se aproximando.",
+    "music": "Nenhuma.",
+    "narration": "Nenhuma.",
+    "subtitles": "Nao gerar."
+  },
+  "negative_prompt": [
+    "convidados falando",
+    "dois aneis",
+    "victoria tocando em carmen neste clipe",
+    "texto ou letras em qualquer lugar",
+    "palavra inventada no ultimo plano",
+    "fala repetida",
+    "fala adiantada ou atrasada para outro plano",
+    "personagem falando ou olhando para quem nao e o destinatario da fala",
+    "fala neutra ou monotona",
+    "rosto neutro ou expressao vazia",
+    "atuacao contida",
+    "voz sem rosto na tela",
+    "tela dividida",
+    "colagem",
+    "formato horizontal",
+    "bordas pretas",
+    "palavras em ingles",
+    "palavras em portugues",
+    "duas vozes simultaneas",
+    "movimento labial do ouvinte",
+    "fala cortada, encurtada ou incompleta",
+    "personagem olhando para a camera",
+    "mudanca de rosto",
+    "mudanca de roupa",
+    "legendas",
+    "logotipo",
+    "marca-d'agua",
+    "trilha sonora"
+  ]
+}

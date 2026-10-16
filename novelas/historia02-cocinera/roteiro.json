@@ -9,7 +9,9 @@
     "FRAME_CARMEN": "frame do clipe 1, plano 2 (por volta do segundo 3): close de DONA CARMEN, cabelo grisalho em coque, rosto de dor.",
     "FRAME_DANIELA": "frame do clipe 1, plano 3 (por volta do segundo 4): close de DANIELA, cabelo castanho ondulado, batom vermelho, rosto de raiva.",
     "FRAME_ANILLO": "frame do clipe 1, plano 4 (por volta do segundo 5): o anel antigo de ouro caido no chao de pedra entre petalas brancas.",
-    "FRAME_JULIAN": "frame do clipe 2, plano 3 (por volta do segundo 4): close de DON JULIAN segurando o anel, chapeu de palha na outra mao."
+    "FRAME_JULIAN": "frame do clipe 2, plano 3 (por volta do segundo 4): close de DON JULIAN segurando o anel, chapeu de palha na outra mao.",
+    "FRAME_VICTORIA": "frame do clipe 3, plano 4 (por volta do segundo 8): close de DONA VICTORIA, cabelo branco em coque alto, vestido verde-esmeralda, colar de esmeraldas.",
+    "FRAME_CARMEN_PE": "frame do clipe 3, plano 1 (por volta do segundo 1): DON JULIAN ajudando DONA CARMEN a se levantar no patio."
   },
   "personagens": {
     "DANIELA": {
@@ -28,6 +30,12 @@
       "descricao": "caseiro idoso de 75 anos, pele morena curtida de sol, cabelo BRANCO curto, bigode branco grosso, rosto enrugado e firme, camisa BRANCA de manga comprida, COLETE DE COURO MARROM, calca escura, segura um CHAPEU DE PALHA na mao.",
       "voz": "Voz masculina grave, rouca e firme de homem de 75 anos.",
       "frame": "FRAME_JULIAN"
+    },
+    "VICTORIA": {
+      "descricao": "senhora rica de 68 anos, pele clara, cabelo BRANCO prateado em coque alto, maquiagem elegante, VESTIDO LONGO VERDE-ESMERALDA de seda, COLAR DE ESMERALDAS, xale de seda nos ombros, bengala com cabo de prata.",
+      "voz": "Voz feminina grave, autoritaria e fria de senhora de 68 anos.",
+      "feminino": true,
+      "frame": "FRAME_VICTORIA"
     }
   },
   "clips": [
@@ -235,6 +243,93 @@
           "corpo": "DANIELA: da um passo para tras.",
           "camera": "Corte seco. Reaction shot com Crash Zoom In: camera body locked, rapid focal length snap into the face of DANIELA SOZINHA no quadro, radial zoom blur. Ninguem fala. O clipe termina neste rosto.",
           "segundos": 0.8
+        }
+      ]
+    },
+    {
+      "nome": "A heredera + Victoria entra",
+      "atuacao": "Novela dramatica. Atuacao INTENSA e FISICA: DON JULIAN respeitoso e emocionado; DANIELA em panico disfarcado de deboche; DONA VICTORIA entra com furia e autoridade, cortando a multidao. Movimento o tempo todo. Rostos muito expressivos.",
+      "imagens": [
+        "FRAME_FIESTA",
+        "FRAME_CARMEN",
+        "FRAME_DANIELA",
+        "FRAME_JULIAN"
+      ],
+      "salvar_frames": [
+        "FRAME_CARMEN_PE",
+        "FRAME_VICTORIA"
+      ],
+      "personagens": [
+        "CARMEN",
+        "JULIAN",
+        "DANIELA",
+        "VICTORIA"
+      ],
+      "posicoes": {
+        "CARMEN": "no centro, sendo ajudada a se levantar",
+        "JULIAN": "ao lado DIREITO de CARMEN, segurando o braco dela e o anel",
+        "DANIELA": "de pe a ESQUERDA",
+        "VICTORIA": "atravessa os convidados vindo do FUNDO e para ao lado de DANIELA, a ESQUERDA"
+      },
+      "preservar_extra": [
+        "O mesmo patio da hacienda da imagem FRAME_FIESTA, ao entardecer, convidados ao fundo.",
+        "O anel antigo de ouro esta na mao de DON JULIAN; NAO esta no pescoco de CARMEN."
+      ],
+      "cenario": "O MESMO patio de festa da hacienda da imagem FRAME_FIESTA, segundos depois. Os convidados se afastam para DONA VICTORIA passar.",
+      "som": "Murmurio dos convidados, o toc-toc da bengala de VICTORIA no chao de pedra se aproximando.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala"
+      ],
+      "negativos_extra": [
+        "convidados falando",
+        "dois aneis",
+        "victoria tocando em carmen neste clipe"
+      ],
+      "planos": [
+        {
+          "quem": "JULIAN",
+          "para": "CARMEN",
+          "alvo_no_quadro": true,
+          "fala": "Entonces la heredera… es usted.",
+          "emocao": 10,
+          "intencao": "Entender e anunciar quem e a verdadeira herdeira, com respeito.",
+          "voz": "Voz masculina grave, emocionada, baixa e solene.",
+          "rosto": "DON JULIAN: olhos marejados de respeito olhando para CARMEN.",
+          "corpo": "DON JULIAN: ajuda DONA CARMEN a se levantar, segurando o braco dela.",
+          "camera": "Two-shot de DON JULIAN e DONA CARMEN, the space between them doing narrative work, ele ajudando ela a levantar, convidados desfocados ao fundo, lente 50mm, Golden Hour."
+        },
+        {
+          "quem": "DANIELA",
+          "para": "JULIAN",
+          "fala": "¿Heredera? ¡Esa sirvienta no es nadie!",
+          "emocao": 10,
+          "intencao": "Negar, desesperada, disfarcando o medo com deboche.",
+          "voz": "Voz feminina aguda, nervosa, debochada.",
+          "rosto": "DANIELA: riso nervoso e forcado, olhos assustados.",
+          "corpo": "DANIELA: aponta para CARMEN com desprezo.",
+          "camera": "Corte seco. Low Angle (horizonte nivelado): tight close-up of DANIELA SOZINHA no quadro, head and upper shoulders, lente 75mm."
+        },
+        {
+          "quem": "VICTORIA",
+          "para": "JULIAN",
+          "fala": "¡Esta vieja miente, Julián!",
+          "emocao": 10,
+          "intencao": "Entrar na briga com furia, impondo autoridade.",
+          "voz": "Voz feminina grave, ALTA, furiosa e autoritaria.",
+          "rosto": "DONA VICTORIA: olhar de furia, queixo erguido.",
+          "corpo": "DONA VICTORIA: atravessa os convidados batendo a bengala no chao, que abrem caminho.",
+          "camera": "Corte seco. Dolly In: plano medio de DONA VICTORIA caminhando rapido em direcao a camera entre os convidados que se afastam, true parallax, lente 35mm."
+        },
+        {
+          "quem": "VICTORIA",
+          "para": "JULIAN",
+          "fala": "Yo soy la única dueña de esta hacienda.",
+          "emocao": 10,
+          "intencao": "Reafirmar o poder, ameacadora.",
+          "voz": "Voz feminina grave, fria, lenta e ameacadora.",
+          "rosto": "DONA VICTORIA: olhar gelado e superior para DON JULIAN.",
+          "corpo": "DONA VICTORIA: para ao lado de DANIELA e bate a bengala uma vez no chao.",
+          "camera": "Corte seco. Low Angle com Slow Zoom In: tight close-up of DONA VICTORIA SOZINHA no quadro, head and upper shoulders, Rim Light dourada, lente 75mm. O clipe termina neste rosto."
         }
       ]
     }
