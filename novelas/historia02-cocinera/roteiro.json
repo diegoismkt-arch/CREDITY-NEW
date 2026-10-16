@@ -27,10 +27,10 @@
       "descricao": "cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, SEM nada no pescoco (a corrente arrebentou).",
       "voz": "Voz feminina rouca e humilde de senhora de 62 anos.",
       "feminino": true,
-      "frame": "FRAME_CARMEN"
+      "frame": "FRAME_CARMEN_PE"
     },
     "JULIAN": {
-      "descricao": "caseiro idoso de 75 anos, pele morena curtida de sol, cabelo BRANCO curto, bigode branco grosso, rosto enrugado e firme, camisa BRANCA de manga comprida, COLETE DE COURO MARROM, calca escura, segura um CHAPEU DE PALHA na mao.",
+      "descricao": "caseiro idoso de 75 anos, pele morena curtida de sol, cabelo BRANCO curto, bigode branco grosso, rosto enrugado e firme, camisa BRANCA de manga comprida, COLETE DE COURO MARROM, calca escura.",
       "voz": "Voz masculina grave, rouca e firme de homem de 75 anos.",
       "frame": "FRAME_JULIAN_LLAVE"
     },
@@ -535,7 +535,7 @@
         {
           "rosto": "DON JULIAN: firme. DANIELA: dor e raiva.",
           "corpo": "DON JULIAN segura com forca o pulso de DANIELA no ar, impedindo que ela pegue o celular.",
-          "camera": "Corte seco. Insert shot: a mao enrugada de DON JULIAN segurando o pulso de DANIELA com a pulseira de diamante, o celular na outra mao ao fundo, lente 50mm. Ninguem fala. O clipe termina aqui.",
+          "camera": "Corte seco. Insert shot: a mao enrugada de DON JULIAN segurando o pulso de DANIELA, o celular na outra mao ao fundo, lente 50mm. Ninguem fala. O clipe termina aqui.",
           "segundos": 0.9
         }
       ]

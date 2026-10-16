@@ -12,8 +12,8 @@
     ],
     "preserve_exactly": [
       "VICTORIA: o MESMO rosto da imagem 2, senhora rica de 68 anos, pele clara, cabelo BRANCO prateado em coque alto, maquiagem elegante, VESTIDO LONGO VERDE-ESMERALDA de seda, COLAR DE ESMERALDAS, xale de seda nos ombros, bengala com cabo de prata.",
-      "CARMEN: o MESMO rosto da imagem 4, cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, SEM nada no pescoco (a corrente arrebentou).",
-      "JULIAN: caseiro idoso de 75 anos, pele morena curtida de sol, cabelo BRANCO curto, bigode branco grosso, rosto enrugado e firme, camisa BRANCA de manga comprida, COLETE DE COURO MARROM, calca escura, segura um CHAPEU DE PALHA na mao.",
+      "CARMEN: o MESMO rosto da imagem 1, cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, SEM nada no pescoco (a corrente arrebentou).",
+      "JULIAN: caseiro idoso de 75 anos, pele morena curtida de sol, cabelo BRANCO curto, bigode branco grosso, rosto enrugado e firme, camisa BRANCA de manga comprida, COLETE DE COURO MARROM, calca escura.",
       "O mesmo patio da hacienda da imagem 1, ao entardecer, convidados ao fundo assistindo.",
       "DANIELA esta ao fundo, desfocada, sem falar.",
       "Uma UNICA chave antiga de ferro, grande, com argola ornamentada."
@@ -33,8 +33,8 @@
     ],
     "characters": {
       "VICTORIA": "A MESMA da imagem 2. Personagem ficticia. Voz feminina grave, autoritaria e fria de senhora de 68 anos.",
-      "CARMEN": "A MESMA da imagem 4. Personagem ficticia. Voz feminina rouca e humilde de senhora de 62 anos.",
-      "JULIAN": "caseiro idoso de 75 anos, pele morena curtida de sol, cabelo BRANCO curto, bigode branco grosso, rosto enrugado e firme, camisa BRANCA de manga comprida, COLETE DE COURO MARROM, calca escura, segura um CHAPEU DE PALHA na mao. Personagem ficticio. Voz masculina grave, rouca e firme de homem de 75 anos."
+      "CARMEN": "A MESMA da imagem 1. Personagem ficticia. Voz feminina rouca e humilde de senhora de 62 anos.",
+      "JULIAN": "caseiro idoso de 75 anos, pele morena curtida de sol, cabelo BRANCO curto, bigode branco grosso, rosto enrugado e firme, camisa BRANCA de manga comprida, COLETE DE COURO MARROM, calca escura. Personagem ficticio. Voz masculina grave, rouca e firme de homem de 75 anos."
     }
   },
   "timeline": [

@@ -208,8 +208,8 @@ Referências, nesta ordem: 1) FRAME_FIESTA; 2) FRAME_CARMEN; 3) FRAME_DANIELA; 4
     ],
     "preserve_exactly": [
       "DANIELA: o MESMO rosto da imagem 3, noiva de 30 anos, pele clara, cabelo castanho escuro longo e ondulado, maquiagem forte, batom vermelho, VESTIDO LONGO DE CETIM VERMELHO de alcas finas, brincos de diamante, salto alto dourado.",
-      "CARMEN: o MESMO rosto da imagem 2, cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, SEM nada no pescoco (a corrente arrebentou).",
-      "JULIAN: caseiro idoso de 75 anos, pele morena curtida de sol, cabelo BRANCO curto, bigode branco grosso, rosto enrugado e firme, camisa BRANCA de manga comprida, COLETE DE COURO MARROM, calca escura, segura um CHAPEU DE PALHA na mao.",
+      "CARMEN: cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, SEM nada no pescoco (a corrente arrebentou).",
+      "JULIAN: caseiro idoso de 75 anos, pele morena curtida de sol, cabelo BRANCO curto, bigode branco grosso, rosto enrugado e firme, camisa BRANCA de manga comprida, COLETE DE COURO MARROM, calca escura.",
       "O mesmo patio da hacienda da imagem 1, ao entardecer, convidados ao fundo assistindo.",
       "O MESMO anel antigo de ouro da imagem 4, um so anel.",
       "A corrente de CARMEN arrebentou: o anel NAO esta mais no pescoco dela; agora esta na mao de DON JULIAN."
@@ -229,8 +229,8 @@ Referências, nesta ordem: 1) FRAME_FIESTA; 2) FRAME_CARMEN; 3) FRAME_DANIELA; 4
     ],
     "characters": {
       "DANIELA": "A MESMA da imagem 3. Personagem ficticia. Voz feminina aguda, arrogante e cruel de mulher de 30 anos.",
-      "CARMEN": "A MESMA da imagem 2. Personagem ficticia. Voz feminina rouca e humilde de senhora de 62 anos.",
-      "JULIAN": "caseiro idoso de 75 anos, pele morena curtida de sol, cabelo BRANCO curto, bigode branco grosso, rosto enrugado e firme, camisa BRANCA de manga comprida, COLETE DE COURO MARROM, calca escura, segura um CHAPEU DE PALHA na mao. Personagem ficticio. Voz masculina grave, rouca e firme de homem de 75 anos."
+      "CARMEN": "cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, SEM nada no pescoco (a corrente arrebentou). Personagem ficticia. Voz feminina rouca e humilde de senhora de 62 anos.",
+      "JULIAN": "caseiro idoso de 75 anos, pele morena curtida de sol, cabelo BRANCO curto, bigode branco grosso, rosto enrugado e firme, camisa BRANCA de manga comprida, COLETE DE COURO MARROM, calca escura. Personagem ficticio. Voz masculina grave, rouca e firme de homem de 75 anos."
     }
   },
   "timeline": [
@@ -394,8 +394,8 @@ Referências, nesta ordem: 1) FRAME_FIESTA; 2) FRAME_CARMEN; 3) FRAME_DANIELA; 4
       "Imagem 4 — frame do clipe 2, plano 3 (por volta do segundo 4): close de DON JULIAN segurando o anel, chapeu de palha na outra mao."
     ],
     "preserve_exactly": [
-      "CARMEN: o MESMO rosto da imagem 2, cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, SEM nada no pescoco (a corrente arrebentou).",
-      "JULIAN: caseiro idoso de 75 anos, pele morena curtida de sol, cabelo BRANCO curto, bigode branco grosso, rosto enrugado e firme, camisa BRANCA de manga comprida, COLETE DE COURO MARROM, calca escura, segura um CHAPEU DE PALHA na mao.",
+      "CARMEN: cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, SEM nada no pescoco (a corrente arrebentou).",
+      "JULIAN: caseiro idoso de 75 anos, pele morena curtida de sol, cabelo BRANCO curto, bigode branco grosso, rosto enrugado e firme, camisa BRANCA de manga comprida, COLETE DE COURO MARROM, calca escura.",
       "DANIELA: o MESMO rosto da imagem 3, noiva de 30 anos, pele clara, cabelo castanho escuro longo e ondulado, maquiagem forte, batom vermelho, VESTIDO LONGO DE CETIM VERMELHO de alcas finas, brincos de diamante, salto alto dourado.",
       "VICTORIA: senhora rica de 68 anos, pele clara, cabelo BRANCO prateado em coque alto, maquiagem elegante, VESTIDO LONGO VERDE-ESMERALDA de seda, COLAR DE ESMERALDAS, xale de seda nos ombros, bengala com cabo de prata.",
       "O mesmo patio da hacienda da imagem 1, ao entardecer, convidados ao fundo.",
@@ -416,8 +416,8 @@ Referências, nesta ordem: 1) FRAME_FIESTA; 2) FRAME_CARMEN; 3) FRAME_DANIELA; 4
       "VICTORIA: atravessa os convidados vindo do FUNDO e para ao lado de DANIELA, a ESQUERDA"
     ],
     "characters": {
-      "CARMEN": "A MESMA da imagem 2. Personagem ficticia. Voz feminina rouca e humilde de senhora de 62 anos.",
-      "JULIAN": "caseiro idoso de 75 anos, pele morena curtida de sol, cabelo BRANCO curto, bigode branco grosso, rosto enrugado e firme, camisa BRANCA de manga comprida, COLETE DE COURO MARROM, calca escura, segura um CHAPEU DE PALHA na mao. Personagem ficticio. Voz masculina grave, rouca e firme de homem de 75 anos.",
+      "CARMEN": "cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, SEM nada no pescoco (a corrente arrebentou). Personagem ficticia. Voz feminina rouca e humilde de senhora de 62 anos.",
+      "JULIAN": "caseiro idoso de 75 anos, pele morena curtida de sol, cabelo BRANCO curto, bigode branco grosso, rosto enrugado e firme, camisa BRANCA de manga comprida, COLETE DE COURO MARROM, calca escura. Personagem ficticio. Voz masculina grave, rouca e firme de homem de 75 anos.",
       "DANIELA": "A MESMA da imagem 3. Personagem ficticia. Voz feminina aguda, arrogante e cruel de mulher de 30 anos.",
       "VICTORIA": "senhora rica de 68 anos, pele clara, cabelo BRANCO prateado em coque alto, maquiagem elegante, VESTIDO LONGO VERDE-ESMERALDA de seda, COLAR DE ESMERALDAS, xale de seda nos ombros, bengala com cabo de prata. Personagem ficticia. Voz feminina grave, autoritaria e fria de senhora de 68 anos."
     }
@@ -564,8 +564,8 @@ Referências, nesta ordem: 1) FRAME_CARMEN_PE; 2) FRAME_VICTORIA; 3) FRAME_JULIA
     ],
     "preserve_exactly": [
       "VICTORIA: o MESMO rosto da imagem 2, senhora rica de 68 anos, pele clara, cabelo BRANCO prateado em coque alto, maquiagem elegante, VESTIDO LONGO VERDE-ESMERALDA de seda, COLAR DE ESMERALDAS, xale de seda nos ombros, bengala com cabo de prata.",
-      "CARMEN: o MESMO rosto da imagem 4, cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, SEM nada no pescoco (a corrente arrebentou).",
-      "JULIAN: caseiro idoso de 75 anos, pele morena curtida de sol, cabelo BRANCO curto, bigode branco grosso, rosto enrugado e firme, camisa BRANCA de manga comprida, COLETE DE COURO MARROM, calca escura, segura um CHAPEU DE PALHA na mao.",
+      "CARMEN: o MESMO rosto da imagem 1, cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, SEM nada no pescoco (a corrente arrebentou).",
+      "JULIAN: caseiro idoso de 75 anos, pele morena curtida de sol, cabelo BRANCO curto, bigode branco grosso, rosto enrugado e firme, camisa BRANCA de manga comprida, COLETE DE COURO MARROM, calca escura.",
       "O mesmo patio da hacienda da imagem 1, ao entardecer, convidados ao fundo assistindo.",
       "DANIELA esta ao fundo, desfocada, sem falar.",
       "Uma UNICA chave antiga de ferro, grande, com argola ornamentada."
@@ -585,8 +585,8 @@ Referências, nesta ordem: 1) FRAME_CARMEN_PE; 2) FRAME_VICTORIA; 3) FRAME_JULIA
     ],
     "characters": {
       "VICTORIA": "A MESMA da imagem 2. Personagem ficticia. Voz feminina grave, autoritaria e fria de senhora de 68 anos.",
-      "CARMEN": "A MESMA da imagem 4. Personagem ficticia. Voz feminina rouca e humilde de senhora de 62 anos.",
-      "JULIAN": "caseiro idoso de 75 anos, pele morena curtida de sol, cabelo BRANCO curto, bigode branco grosso, rosto enrugado e firme, camisa BRANCA de manga comprida, COLETE DE COURO MARROM, calca escura, segura um CHAPEU DE PALHA na mao. Personagem ficticio. Voz masculina grave, rouca e firme de homem de 75 anos."
+      "CARMEN": "A MESMA da imagem 1. Personagem ficticia. Voz feminina rouca e humilde de senhora de 62 anos.",
+      "JULIAN": "caseiro idoso de 75 anos, pele morena curtida de sol, cabelo BRANCO curto, bigode branco grosso, rosto enrugado e firme, camisa BRANCA de manga comprida, COLETE DE COURO MARROM, calca escura. Personagem ficticio. Voz masculina grave, rouca e firme de homem de 75 anos."
     }
   },
   "timeline": [
@@ -751,9 +751,9 @@ Referências, nesta ordem: 1) FRAME_CARMEN_PE; 2) FRAME_JULIAN_LLAVE; 3) FRAME_V
       "Imagem 4 — frame do clipe 1, plano 3 (por volta do segundo 4): close de DANIELA, cabelo castanho ondulado, batom vermelho, rosto de raiva."
     ],
     "preserve_exactly": [
-      "JULIAN: o MESMO rosto da imagem 2, caseiro idoso de 75 anos, pele morena curtida de sol, cabelo BRANCO curto, bigode branco grosso, rosto enrugado e firme, camisa BRANCA de manga comprida, COLETE DE COURO MARROM, calca escura, segura um CHAPEU DE PALHA na mao.",
+      "JULIAN: o MESMO rosto da imagem 2, caseiro idoso de 75 anos, pele morena curtida de sol, cabelo BRANCO curto, bigode branco grosso, rosto enrugado e firme, camisa BRANCA de manga comprida, COLETE DE COURO MARROM, calca escura.",
       "VICTORIA: o MESMO rosto da imagem 3, senhora rica de 68 anos, pele clara, cabelo BRANCO prateado em coque alto, maquiagem elegante, VESTIDO LONGO VERDE-ESMERALDA de seda, COLAR DE ESMERALDAS, xale de seda nos ombros, bengala com cabo de prata.",
-      "CARMEN: cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, SEM nada no pescoco (a corrente arrebentou).",
+      "CARMEN: o MESMO rosto da imagem 1, cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, SEM nada no pescoco (a corrente arrebentou).",
       "DANIELA: o MESMO rosto da imagem 4, noiva de 30 anos, pele clara, cabelo castanho escuro longo e ondulado, maquiagem forte, batom vermelho, VESTIDO LONGO DE CETIM VERMELHO de alcas finas, brincos de diamante, salto alto dourado.",
       "O mesmo patio da hacienda da imagem 1, ao entardecer, convidados ao fundo.",
       "Na tela do celular: um video escuro de camera de seguranca, a noite, uma mulher de VESTIDO VERMELHO longo abrindo uma porta de madeira antiga; sem nenhum texto na tela."
@@ -775,7 +775,7 @@ Referências, nesta ordem: 1) FRAME_CARMEN_PE; 2) FRAME_JULIAN_LLAVE; 3) FRAME_V
     "characters": {
       "JULIAN": "O MESMO da imagem 2. Personagem ficticio. Voz masculina grave, rouca e firme de homem de 75 anos.",
       "VICTORIA": "A MESMA da imagem 3. Personagem ficticia. Voz feminina grave, autoritaria e fria de senhora de 68 anos.",
-      "CARMEN": "cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, SEM nada no pescoco (a corrente arrebentou). Personagem ficticia. Voz feminina rouca e humilde de senhora de 62 anos.",
+      "CARMEN": "A MESMA da imagem 1. Personagem ficticia. Voz feminina rouca e humilde de senhora de 62 anos.",
       "DANIELA": "A MESMA da imagem 4. Personagem ficticia. Voz feminina aguda, arrogante e cruel de mulher de 30 anos."
     }
   },
@@ -851,7 +851,7 @@ Referências, nesta ordem: 1) FRAME_CARMEN_PE; 2) FRAME_JULIAN_LLAVE; 3) FRAME_V
       "dialogue": null,
       "face": "DON JULIAN: firme. DANIELA: dor e raiva.",
       "body": "DON JULIAN segura com forca o pulso de DANIELA no ar, impedindo que ela pegue o celular.",
-      "camera": "Corte seco. Insert shot: a mao enrugada de DON JULIAN segurando o pulso de DANIELA com a pulseira de diamante, o celular na outra mao ao fundo, lente 50mm. Ninguem fala. O clipe termina aqui.",
+      "camera": "Corte seco. Insert shot: a mao enrugada de DON JULIAN segurando o pulso de DANIELA, o celular na outra mao ao fundo, lente 50mm. Ninguem fala. O clipe termina aqui.",
       "mouths": "Bocas FECHADAS. Ninguem fala."
     }
   ],
