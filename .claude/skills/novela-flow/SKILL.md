@@ -9,7 +9,7 @@ Produz novelas em espanhol (sotaque mexicano) 100% no **Google Flow**, no format
 
 ## Regras de ouro (créditos do Flow)
 
-1. **Clipe de até 10 s com fala do primeiro ao último segundo.** Clipe vazio = crédito jogado fora. O script recusa clipe com menos de 75% de fala.
+1. **Clipe de até 10 s com fala do primeiro ao último segundo.** Clipe vazio = crédito jogado fora. O script recusa clipe com menos de 65% de fala (o resto pode ser insert mudo de objeto ou reação, ~1 s cada).
 2. **Um falante por plano, cortes secos dentro do clipe.** Cada clipe tem 2 a 4 planos; em cada plano só o rosto de quem fala aparece e só ele mexe a boca. A fala começa no primeiro instante do plano.
 3. **Tempo da fala = palavras ÷ 2,7 s** (medido nas referências). O script calcula a timeline sozinho; nunca escrever os tempos à mão.
 4. **Imagem de referência só quando precisa.** O **clipe 1 é Text to Video, sem imagem**: cria os personagens pela descrição (vai no campo `consistency`). Depois de gerar, **salvar os frames** dos personagens e do cenário (`salvar_frames`). Os clipes seguintes usam esses frames como referência (Ingredients to Video, `input_image`). Personagem que ainda não apareceu entra descrito por texto e tem o frame salvo no clipe em que aparece. Roupa e rosto FIXOS sempre.

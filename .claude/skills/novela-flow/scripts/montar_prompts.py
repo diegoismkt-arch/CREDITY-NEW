@@ -15,7 +15,7 @@ PALAVRAS_POR_SEG = 2.7   # medido nas referências: "Esse anel era da minha filh
 FOLGA_POR_FALA = 0.2     # respiro antes do corte seco
 MIN_PLANO_FALA = 1.2
 DURACAO_MAX = 10.0
-OCUPACAO_MIN = 0.75      # pelo menos 75% do clipe com fala
+OCUPACAO_MIN = 0.65      # pelo menos 65% do clipe com fala (estilo viral usa inserts mudos de ~1 s)
 
 NEGATIVO_BASE = [
     "texto ou letras em qualquer lugar",
