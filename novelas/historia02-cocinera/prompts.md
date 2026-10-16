@@ -49,7 +49,7 @@ Sem imagem de referência (Text to Video).
       "voice": "Voz feminina ALTA, aguda e furiosa.",
       "face": "DANIELA: rosto deformado de raiva, olhos arregalados.",
       "body": "DANIELA: agarra com forca o braco de DONA CARMEN e a puxa.",
-      "camera": "Handheld com Whip Pan entrando na acao: plano medio das duas junto a mesa de doces, DANIELA a esquerda agarrando o braco de CARMEN a direita, convidados desfocados ao fundo. Lente 35mm, Golden Hour. A fala comeca no primeiro instante do plano.",
+      "camera": "Handheld camera following the action, entrando com Whip Pan: plano medio das duas junto a mesa de doces, DANIELA a esquerda agarrando o braco de CARMEN a direita, convidados desfocados ao fundo. Lente 35mm, Golden Hour. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente DANIELA movimenta os labios."
     },
     {
@@ -63,7 +63,7 @@ Sem imagem de referência (Text to Video).
       "voice": "Voz feminina rouca, assustada, com dor.",
       "face": "DONA CARMEN: rosto de dor e medo, olhando para DANIELA.",
       "body": "DONA CARMEN: tenta puxar o braco de volta.",
-      "camera": "Corte seco. High Angle (camera um pouco acima): Close-Up de DONA CARMEN SOZINHA no quadro, frágil, Handheld leve, lente 85mm, Shallow Focus. A fala comeca no primeiro instante do plano.",
+      "camera": "Corte seco. High Angle (camera acima dos olhos, inclinada para baixo): tight close-up of DONA CARMEN SOZINHA no quadro, head and upper shoulders, lente 75mm, Shallow Focus. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente CARMEN movimenta os labios."
     },
     {
@@ -77,7 +77,7 @@ Sem imagem de referência (Text to Video).
       "voice": "Voz feminina cortante, cheia de desprezo.",
       "face": "DANIELA: dentes cerrados, olhar de odio.",
       "body": "DANIELA: levanta a mao aberta como quem vai dar um tapa e puxa o colar de CARMEN.",
-      "camera": "Corte seco. Low Angle com Snap Zoom rapido no rosto: Close-Up de DANIELA SOZINHA no quadro, a mao levantada entrando no quadro, lente 85mm, Rim Light dourada. A fala comeca no primeiro instante do plano.",
+      "camera": "Corte seco. Low Angle (camera abaixo dos olhos, inclinada para cima, horizonte nivelado) com Crash Zoom In: camera body locked, rapid focal length snap into the face of DANIELA SOZINHA no quadro, radial zoom blur, a mao levantada entrando no quadro, Rim Light dourada. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente DANIELA movimenta os labios."
     },
     {
@@ -86,7 +86,7 @@ Sem imagem de referência (Text to Video).
       "dialogue": null,
       "face": "Sem rostos.",
       "body": "A corrente fina de ouro arrebenta e o anel antigo de ouro cai e quica no chao de pedra.",
-      "camera": "Corte seco. Insert em Extreme Close-Up, lente macro, Slow Motion: a corrente arrebenta e o anel de ouro cai e quica no chao de pedra entre petalas brancas, Rack Focus no anel. Ninguem fala.",
+      "camera": "Corte seco. Insert shot em Slow Motion: a corrente fina arrebenta e o anel de ouro em escala real cai e quica no chao de pedra entre petalas brancas, lente macro, Rack Focus do anel para as petalas. Ninguem fala.",
       "mouths": "Bocas FECHADAS. Ninguem fala."
     },
     {
@@ -100,7 +100,7 @@ Sem imagem de referência (Text to Video).
       "voice": "Voz feminina rouca, DESESPERADA, gritando com dor.",
       "face": "DONA CARMEN: desespero e dor, lagrimas nos olhos.",
       "body": "DONA CARMEN: ajoelha e estica a mao para o anel; o salto dourado de DANIELA pisa em cima da mao dela.",
-      "camera": "Corte seco. Ground Level com Dutch Angle (camera inclinada no chao): a mao de CARMEN sobre o anel, o salto dourado de DANIELA pisando nela, o rosto de CARMEN ao fundo gritando. Lente 35mm. A fala comeca no primeiro instante do plano.",
+      "camera": "Corte seco. Ground Level com Dutch Angle (camera rolled 20 degrees, diagonal horizon, static cant): a mao de CARMEN sobre o anel, o salto dourado de DANIELA pisando nela, o rosto de CARMEN ao fundo gritando. Lente 35mm. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente CARMEN movimenta os labios."
     },
     {
@@ -114,7 +114,7 @@ Sem imagem de referência (Text to Video).
       "voice": "Voz feminina fria, debochada e cruel.",
       "face": "DANIELA: sorriso cruel, olhando de cima para baixo.",
       "body": "DANIELA: de pe, ainda pisando, braco cruzado.",
-      "camera": "Corte seco. Low Angle forte (vista de baixo, do ponto de vista de CARMEN no chao) com Slow Push In: Close-Up de DANIELA SOZINHA no quadro, lente 50mm. O clipe termina neste rosto. A fala comeca no primeiro instante do plano.",
+      "camera": "Corte seco. Low Angle forte (do ponto de vista de CARMEN no chao, horizonte nivelado) com Slow Zoom In: tight close-up of DANIELA SOZINHA no quadro, head and upper shoulders, lente 50mm. O clipe termina neste rosto. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente DANIELA movimenta os labios."
     }
   ],
