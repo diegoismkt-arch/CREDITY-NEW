@@ -211,7 +211,8 @@ Referências, nesta ordem: 1) FRAME_FIESTA; 2) FRAME_CARMEN; 3) FRAME_DANIELA; 4
       "CARMEN: o MESMO rosto da imagem 2, cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, uma corrente fina de ouro no pescoco com um ANEL ANTIGO DE OURO pendurado.",
       "JULIAN: caseiro idoso de 75 anos, pele morena curtida de sol, cabelo BRANCO curto, bigode branco grosso, rosto enrugado e firme, camisa BRANCA de manga comprida, COLETE DE COURO MARROM, calca escura, segura um CHAPEU DE PALHA na mao.",
       "O mesmo patio da hacienda da imagem 1, ao entardecer, convidados ao fundo assistindo.",
-      "O MESMO anel antigo de ouro da imagem 4, um so anel."
+      "O MESMO anel antigo de ouro da imagem 4, um so anel.",
+      "A corrente de CARMEN arrebentou: o anel NAO esta mais no pescoco dela; agora esta na mao de DON JULIAN."
     ]
   },
   "scene": {
@@ -289,7 +290,7 @@ Referências, nesta ordem: 1) FRAME_FIESTA; 2) FRAME_CARMEN; 3) FRAME_DANIELA; 4
       "speaker": "CARMEN",
       "dialogue": "Era mi esposo.",
       "addressee": "JULIAN",
-      "eyeline": "CARMEN fala PARA JULIAN e olha para JULIAN (chega pela DIREITA, se abaixa e pega o anel do chao), fora do quadro. NAO olha para DANIELA.",
+      "eyeline": "CARMEN fala PARA JULIAN e olha para CIMA, para DON JULIAN de pe ao lado dela, fora do quadro. NAO olha para DANIELA.",
       "emotion_level": 10,
       "intention": "Revelar o segredo de uma vida, com dor e dignidade.",
       "voice": "Voz feminina rouca, chorando baixinho, firme.",

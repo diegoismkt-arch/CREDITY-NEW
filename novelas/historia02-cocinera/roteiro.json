@@ -159,7 +159,8 @@
       },
       "preservar_extra": [
         "O mesmo patio da hacienda da imagem FRAME_FIESTA, ao entardecer, convidados ao fundo assistindo.",
-        "O MESMO anel antigo de ouro da imagem FRAME_ANILLO, um so anel."
+        "O MESMO anel antigo de ouro da imagem FRAME_ANILLO, um so anel.",
+        "A corrente de CARMEN arrebentou: o anel NAO esta mais no pescoco dela; agora esta na mao de DON JULIAN."
       ],
       "cenario": "O MESMO patio de festa da hacienda da imagem FRAME_FIESTA, segundos depois. Convidados ao fundo, em silencio, chocados.",
       "som": "Murmurio dos convidados, passos firmes de DON JULIAN, o choro baixo de DONA CARMEN.",
@@ -226,7 +227,8 @@
           "voz": "Voz feminina rouca, chorando baixinho, firme.",
           "rosto": "DONA CARMEN: lagrimas escorrendo, olhar firme para cima, para DON JULIAN.",
           "corpo": "DONA CARMEN: ainda ajoelhada, segura a mao machucada contra o peito.",
-          "camera": "Corte seco. High Angle (camera acima, inclinada para baixo): tight close-up of DONA CARMEN SOZINHA no quadro, head and upper shoulders, lente 75mm, Shallow Focus."
+          "camera": "Corte seco. High Angle (camera acima, inclinada para baixo): tight close-up of DONA CARMEN SOZINHA no quadro, head and upper shoulders, lente 75mm, Shallow Focus.",
+          "eyeline": "CARMEN fala PARA JULIAN e olha para CIMA, para DON JULIAN de pe ao lado dela, fora do quadro. NAO olha para DANIELA."
         },
         {
           "rosto": "DANIELA: fica PALIDA, o sorriso some, olhos arregalados.",
