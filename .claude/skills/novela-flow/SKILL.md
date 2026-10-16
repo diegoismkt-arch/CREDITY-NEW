@@ -19,6 +19,17 @@ Produz novelas em espanhol (sotaque mexicano) 100% no **Google Flow**, no format
 8. **Continuidade dentro do clipe, com cortes.** Toda mudança de situação (alguém sai, alguém entra, alguém acorda) tem que ACONTECER na tela — nunca pular direto para o estado seguinte. Resolver DENTRO do mesmo clipe com cortes rápidos: falas curtas (1–3 s) e, para transições, um plano mudo de ~1 s (ex.: a enfermeira entrando). O vídeo curto tem **2 clipes**; não criar clipe extra sem o usuário pedir.
 9. **Atuação no máximo:** `ATUACAO_PRIORIDADE_MAXIMA` e os campos voice/face de cada plano descrevem emoção forte (voz falhando, lágrimas, desprezo, choque). Nada neutro.
 
+## Estilo VIRAL (aprendido com o vídeo de 2 milhões de views — prioridade)
+- **Falas curtas:** 1 a 6 palavras por fala, 4 a 6 falas por clipe, em pingue-pongue (pergunta curta → resposta curta). Evitar fala longa de 10+ palavras, exceto na revelação.
+- **1º segundo = ação física**, não fala: agarrar o braço, mão levantada, empurrão, objeto caindo.
+- **Ninguém fala parado:** cada plano tem uma ação de corpo (agarrar, puxar, abrir, mostrar, recuar).
+- **Objeto-pista a cada ~10 s** em INSERT de mão/objeto (medalhão, chave, celular com vídeo, documento, assinatura, bolsa). Planos de insert são mudos e curtos (~1 s).
+- **Cadeia de revelações:** cada resposta abre nova pergunta; nunca resolver. Terminar numa frase-bomba curta ("Fui yo.") ou numa revelação sem explicação.
+- **Plateia:** testemunhas reagindo; humilhação pública. 4–5 personagens ativos.
+- **Trocar de cenário** no meio de um vídeo longo para dar sensação de investigação.
+- **CTA falado é opcional:** se o gancho final for forte, terminar seco no rosto em choque e pôr "Comenta PARTE 2 👇" só como texto na edição.
+- A regra de ocupação de fala continua: falas curtas, mas MUITAS, mais inserts de ~1 s — o clipe nunca fica parado.
+
 ## Formatos
 
 ### Curto — 2 a 3 clipes (20–30 s) → fase de crescimento da página

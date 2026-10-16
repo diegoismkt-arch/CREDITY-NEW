@@ -79,3 +79,19 @@ No Flow cada geração custa créditos, então **cada clipe de 10 s precisa esta
 - Clipe 1: pai e filho andando à noite numa rua; o menino aponta: "Papá, mamá está sentada allí." Pai, com dor: "No, querido, tu madre ya no está." O menino solta a mão e corre até uma mulher sem-teto sentada na calçada e a abraça. Ela, chorando: "Mi hijo más querido."
 - Clipe 2: o pai, em choque: "Sofía, pero yo te enterré." Ela: "Entonces te has equivocado de persona." O pai se ajoelha e abraça os dois: "Nunca más te dejaré ir."
 - Mecânica: criança reconhece quem o adulto acha que morreu → adulto nega → corrida + abraço (imagem forte) → adulto reconhece → reencontro (catarse). Emoção de lágrima, não de raiva. 6 cortes, ~3 s cada.
+
+## Curto E — VIRAL (2 milhões de views, muitos pedidos de Parte 2): "La heredera" (90 s, 41 cortes)
+**História:** casamento de luxo num pátio colonial. A noiva (vilã, vestido de cetim) agride a empregada idosa ("¡Suéltame!" / "Baja la mano"). Cai um medalhão do pescoço da empregada. O mordomo idoso abre: foto antiga do casal → "¿De quién era eso?" "De mi esposo." "¿Cómo se llamaba?" "Arturo Salcedo." → a empregada é a viúva verdadeira → "Entonces tú no eres la heredera." A matriarca de vinho entra na briga ("Está vieja está mintiendo" / "No vuelvas a tocarla" / "Yo soy la dueña" / "Enséñame los papeles"). Chave antiga: "Llevas cerrado 28 años. Anoche alguien entró." Vídeo no celular mostra a invasão. Puxa-puxa da pasta, agarrar pulso. Corte para o escritório trancado: gaveta vazia, foto de casamento, "aquí estaba el testamento". "Enséñame tu bolso." Dentro: a última página do testamento. "Esa no es la firma de Arturo." — "Fui yo." FIM (sem CTA falado).
+
+**O que é diferente do que estávamos fazendo:**
+1. **Falas MUITO curtas (1–6 palavras), muitas por clipe** — pingue-pongue rápido (pergunta → resposta de 2 palavras). Nós fazíamos 3 falas longas por clipe.
+2. **Começa na AGRESSÃO FÍSICA, não numa fala** — mão levantada, braço agarrado no 1º segundo.
+3. **Ação física o tempo todo:** tapa, pisar na mão, agarrar pulso, arrancar pasta, revirar bolsa, abrir porta. Ninguém fica parado falando.
+4. **Objetos-pista em insert a cada ~10 s:** medalhão com foto, chave antiga, vídeo no celular, pasta, gaveta vazia, foto de casamento, envelope, bolsa, página do testamento, assinatura. ~25% dos planos são INSERTS de mãos/objetos (sem rosto).
+5. **Cadeia de revelações:** cada resposta abre outra pergunta (quem é o marido → ela é a herdeira → quem entrou no escritório → onde está o testamento → a assinatura é falsa → quem foi?). Nunca resolve. Termina numa CONFISSÃO ("Fui yo") sem explicar.
+6. **Plateia/testemunhas:** convidados olhando, 5 personagens ativos, todos reagem. A humilhação é pública.
+7. **Muda de cenário no meio** (pátio → corredor → escritório trancado): sensação de "investigação" avançando.
+8. **Sem CTA falado:** o cliffhanger sozinho gera os pedidos de Parte 2.
+9. **Close extremo de olhos/rosto na reação** e **planos de 1–2 s**.
+
+**Por que viralizou:** injustiça física contra idosa humilde (raiva) + Cinderela invertida (a empregada é a dona) + mistério de detetive com pistas visíveis + escalada a cada 10 s + final com confissão sem explicação → pessoa assiste até o fim, reassiste para entender as pistas e comenta teorias e "parte 2".
