@@ -11,7 +11,7 @@
     ],
     "preserve_exactly": [
       "RICARDO: o MESMO rosto da imagem 2, empresario de 45 anos, pele clara, cabelo escuro penteado para tras com as temporas GRISALHAS, barba bem feita, terno AZUL-MARINHO sob medida, camisa branca, gravata vinho, relogio de ouro.",
-      "TOMAS: o MESMO rosto da imagem 3, garcom idoso de 72 anos, pele morena enrugada, cabelo BRANCO curto bem penteado, bigode branco, olhar sereno, uniforme de garcom: camisa branca, COLETE PRETO, gravata-borboleta preta, pano branco no braco.",
+      "TOMAS: garcom idoso de 72 anos, pele morena enrugada, cabelo BRANCO curto bem penteado, bigode branco, olhar sereno, uniforme de garcom: camisa branca, COLETE PRETO, gravata-borboleta preta, pano branco no braco.",
       "O mesmo restaurante de luxo da imagem 1, a noite.",
       "DON TOMAS com o rosto ja seco e o colete ainda levemente molhado.",
       "O GERENTE e ANA NAO aparecem neste clipe."
@@ -30,7 +30,7 @@
     ],
     "characters": {
       "RICARDO": "O MESMO da imagem 2. Personagem ficticio. Voz masculina grave, arrogante e autoritaria de homem de 45 anos.",
-      "TOMAS": "O MESMO da imagem 3. Personagem ficticio. Voz masculina calma, grave e serena de homem de 72 anos."
+      "TOMAS": "garcom idoso de 72 anos, pele morena enrugada, cabelo BRANCO curto bem penteado, bigode branco, olhar sereno, uniforme de garcom: camisa branca, COLETE PRETO, gravata-borboleta preta, pano branco no braco. Personagem ficticio. Voz masculina calma, grave e serena de homem de 72 anos."
     }
   },
   "timeline": [

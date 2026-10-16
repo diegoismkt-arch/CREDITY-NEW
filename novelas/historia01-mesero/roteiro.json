@@ -1,6 +1,6 @@
 {
   "titulo_post": "Humilló al mesero anciano… sin saber que era el dueño de todo 😱",
-  "legenda": "",
+  "legenda": "Humilló al mesero anciano frente a todos… sin saber que era el dueño de todo 😱\n\nPero eso no fue lo peor. Él no estaba ahí por casualidad… 🤫\n\n¿Qué crees que le hizo a Elena? 👇\n\n💬 Comenta PARTE 2 y te la traigo mañana.\n\n#LaHistoriaPrincipal #telenovela #novela #humildad #karma #drama #historiasdevida",
   "texto_final": "",
   "titulo_interno": "EL MESERO",
   "estilo": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Restaurante de luxo a noite: luz quente e baixa de lustres e velas (Practical Lighting, Warm Amber), Shallow Focus nos closes.",
@@ -24,7 +24,7 @@
     "TOMAS": {
       "descricao": "garcom idoso de 72 anos, pele morena enrugada, cabelo BRANCO curto bem penteado, bigode branco, olhar sereno, uniforme de garcom: camisa branca, COLETE PRETO, gravata-borboleta preta, pano branco no braco.",
       "voz": "Voz masculina calma, grave e serena de homem de 72 anos.",
-      "frame": "FRAME_TOMAS"
+      "frame": "FRAME_TOMAS_FIRME"
     },
     "ANA": {
       "descricao": "garconete de 24 anos, pele morena clara, cabelo PRETO preso em rabo de cavalo, rosto doce, camisa branca de manga comprida, AVENTAL PRETO comprido, sem joias.",
@@ -428,6 +428,87 @@
           "rosto": "DON TOMAS: olhar frio e definitivo para RICARDO.",
           "corpo": "DON TOMAS: deixa a toalha sobre a mesa de RICARDO.",
           "camera": "Corte seco. Plano medio dos dois frente a frente ao lado da mesa: DON TOMAS a direita falando, RICARDO a esquerda de costas para a camera, desmoronando. Lente 50mm."
+        }
+      ]
+    },
+    {
+      "nome": "A foto de Elena + CTA",
+      "atuacao": "Novela dramatica. Atuacao INTENSA: DON TOMAS firme, com dor contida nos olhos ao falar da filha; RICARDO PALIDO de terror ao ver a foto, sem ar. No ultimo plano DON TOMAS olha direto para a camera, serio e misterioso. Rostos muito expressivos. Nenhuma fala neutra.",
+      "imagens": [
+        "FRAME_MESA",
+        "FRAME_TOMAS_FIRME",
+        "FRAME_RICARDO_CHOQUE"
+      ],
+      "personagens": [
+        "RICARDO",
+        "TOMAS"
+      ],
+      "posicoes": {
+        "RICARDO": "de pe ao lado da sua mesa, do lado ESQUERDO, de frente para DON TOMAS",
+        "TOMAS": "de pe do lado DIREITO, de frente para RICARDO"
+      },
+      "preservar_extra": [
+        "O mesmo restaurante de luxo da imagem FRAME_MESA, a noite.",
+        "Uma UNICA foto antiga, pequena, amarelada, de uma jovem sorridente de cabelo castanho, que DON TOMAS tira do bolso do colete.",
+        "O GERENTE e ANA NAO aparecem neste clipe."
+      ],
+      "cenario": "O MESMO restaurante de luxo da imagem FRAME_MESA, logo depois de DON TOMAS cancelar o contrato. Clientes ao fundo desfocados, em silencio.",
+      "som": "Silencio pesado no restaurante, a respiracao presa de RICARDO.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala"
+      ],
+      "negativos_extra": [
+        "clientes falando",
+        "gerente aparecendo",
+        "ana aparecendo",
+        "duas fotos",
+        "texto na foto",
+        "ricardo tocando na foto"
+      ],
+      "regras_extra": [
+        "No ultimo plano, e SOMENTE nele, DON TOMAS olha direto para a lente.",
+        "O plano 2 e mudo: so a foto na mao de DON TOMAS."
+      ],
+      "planos": [
+        {
+          "quem": "TOMAS",
+          "para": "RICARDO",
+          "fala": "¿Te acuerdas de Elena? Era mi hija.",
+          "emocao": 10,
+          "intencao": "Revelar o verdadeiro motivo de tudo, com dor contida.",
+          "voz": "Voz masculina grave, baixa, firme, embargando em 'mi hija'.",
+          "rosto": "DON TOMAS: olhar firme em RICARDO, olhos marejados de dor contida.",
+          "corpo": "DON TOMAS: tira devagar uma foto antiga do bolso do colete e a mostra para RICARDO.",
+          "camera": "Medium Close-Up de DON TOMAS SOZINHO no quadro, segurando a foto, lente 85mm, Shallow Focus, Slow Push In."
+        },
+        {
+          "rosto": "Sem rostos: so a foto.",
+          "corpo": "A mao enrugada de DON TOMAS segura a foto antiga e amarelada de uma jovem sorridente de cabelo castanho.",
+          "camera": "Corte seco. Insert em Extreme Close-Up da foto na mao de DON TOMAS, lente macro, Shallow Focus. Ninguem fala.",
+          "segundos": 1.0
+        },
+        {
+          "quem": "RICARDO",
+          "para": "TOMAS",
+          "fala": "No… no puede ser.",
+          "emocao": 10,
+          "intencao": "Reconhecer a moca da foto, aterrorizado.",
+          "voz": "Voz masculina SUSSURRADA, sem ar, tremula.",
+          "rosto": "RICARDO: palido, olhos arregalados fixos na foto, boca tremendo.",
+          "corpo": "RICARDO: da um passo para tras, apoiando a mao na mesa.",
+          "camera": "Corte seco. Close-Up de RICARDO SOZINHO no quadro, lente 85mm, Fast Push In."
+        },
+        {
+          "quem": "TOMAS",
+          "para": "CAMERA",
+          "olha_para_camera": true,
+          "fala": "¿Quieres saber qué le hizo? Comenta parte dos.",
+          "emocao": 9,
+          "intencao": "Quebrar a quarta parede e chamar para a Parte 2.",
+          "voz": "Voz masculina grave, calma, seria e misteriosa.",
+          "rosto": "DON TOMAS: vira o rosto devagar e olha DIRETO para a lente, olhar serio, olhos ainda marejados.",
+          "corpo": "DON TOMAS: imovel, a foto junto ao peito.",
+          "camera": "Corte seco. Extreme Close-Up de DON TOMAS SOZINHO no quadro, lente 85mm, Slow Push In. O video termina neste rosto olhando para a lente."
         }
       ]
     }

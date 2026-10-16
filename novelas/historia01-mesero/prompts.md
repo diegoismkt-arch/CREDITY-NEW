@@ -1,6 +1,14 @@
 # Humilló al mesero anciano… sin saber que era el dueño de todo 😱
 
-**Legenda:** 
+**Legenda:** Humilló al mesero anciano frente a todos… sin saber que era el dueño de todo 😱
+
+Pero eso no fue lo peor. Él no estaba ahí por casualidad… 🤫
+
+¿Qué crees que le hizo a Elena? 👇
+
+💬 Comenta PARTE 2 y te la traigo mañana.
+
+#LaHistoriaPrincipal #telenovela #novela #humildad #karma #drama #historiasdevida
 
 **Texto na edição (final):** 
 
@@ -164,7 +172,7 @@ Referências, nesta ordem: 1) FRAME_MESA; 2) FRAME_TOMAS; 3) FRAME_RICARDO
     ],
     "preserve_exactly": [
       "RICARDO: empresario de 45 anos, pele clara, cabelo escuro penteado para tras com as temporas GRISALHAS, barba bem feita, terno AZUL-MARINHO sob medida, camisa branca, gravata vinho, relogio de ouro.",
-      "TOMAS: o MESMO rosto da imagem 2, garcom idoso de 72 anos, pele morena enrugada, cabelo BRANCO curto bem penteado, bigode branco, olhar sereno, uniforme de garcom: camisa branca, COLETE PRETO, gravata-borboleta preta, pano branco no braco.",
+      "TOMAS: garcom idoso de 72 anos, pele morena enrugada, cabelo BRANCO curto bem penteado, bigode branco, olhar sereno, uniforme de garcom: camisa branca, COLETE PRETO, gravata-borboleta preta, pano branco no braco.",
       "ANA: garconete de 24 anos, pele morena clara, cabelo PRETO preso em rabo de cavalo, rosto doce, camisa branca de manga comprida, AVENTAL PRETO comprido, sem joias.",
       "O mesmo restaurante de luxo da imagem 1, a noite, velas e lustres.",
       "A mesma pequena mancha de sopa na manga do terno de RICARDO."
@@ -184,7 +192,7 @@ Referências, nesta ordem: 1) FRAME_MESA; 2) FRAME_TOMAS; 3) FRAME_RICARDO
     ],
     "characters": {
       "RICARDO": "empresario de 45 anos, pele clara, cabelo escuro penteado para tras com as temporas GRISALHAS, barba bem feita, terno AZUL-MARINHO sob medida, camisa branca, gravata vinho, relogio de ouro. Personagem ficticio. Voz masculina grave, arrogante e autoritaria de homem de 45 anos.",
-      "TOMAS": "O MESMO da imagem 2. Personagem ficticio. Voz masculina calma, grave e serena de homem de 72 anos.",
+      "TOMAS": "garcom idoso de 72 anos, pele morena enrugada, cabelo BRANCO curto bem penteado, bigode branco, olhar sereno, uniforme de garcom: camisa branca, COLETE PRETO, gravata-borboleta preta, pano branco no braco. Personagem ficticio. Voz masculina calma, grave e serena de homem de 72 anos.",
       "ANA": "garconete de 24 anos, pele morena clara, cabelo PRETO preso em rabo de cavalo, rosto doce, camisa branca de manga comprida, AVENTAL PRETO comprido, sem joias. Personagem ficticia. Voz feminina jovem, firme e corajosa de mulher de 24 anos."
     }
   },
@@ -648,7 +656,7 @@ Referências, nesta ordem: 1) FRAME_MESA; 2) FRAME_RICARDO_CHOQUE; 3) FRAME_TOMA
     ],
     "preserve_exactly": [
       "RICARDO: o MESMO rosto da imagem 2, empresario de 45 anos, pele clara, cabelo escuro penteado para tras com as temporas GRISALHAS, barba bem feita, terno AZUL-MARINHO sob medida, camisa branca, gravata vinho, relogio de ouro.",
-      "TOMAS: o MESMO rosto da imagem 3, garcom idoso de 72 anos, pele morena enrugada, cabelo BRANCO curto bem penteado, bigode branco, olhar sereno, uniforme de garcom: camisa branca, COLETE PRETO, gravata-borboleta preta, pano branco no braco.",
+      "TOMAS: garcom idoso de 72 anos, pele morena enrugada, cabelo BRANCO curto bem penteado, bigode branco, olhar sereno, uniforme de garcom: camisa branca, COLETE PRETO, gravata-borboleta preta, pano branco no braco.",
       "O mesmo restaurante de luxo da imagem 1, a noite.",
       "DON TOMAS com o rosto ja seco e o colete ainda levemente molhado.",
       "O GERENTE e ANA NAO aparecem neste clipe."
@@ -667,7 +675,7 @@ Referências, nesta ordem: 1) FRAME_MESA; 2) FRAME_RICARDO_CHOQUE; 3) FRAME_TOMA
     ],
     "characters": {
       "RICARDO": "O MESMO da imagem 2. Personagem ficticio. Voz masculina grave, arrogante e autoritaria de homem de 45 anos.",
-      "TOMAS": "O MESMO da imagem 3. Personagem ficticio. Voz masculina calma, grave e serena de homem de 72 anos."
+      "TOMAS": "garcom idoso de 72 anos, pele morena enrugada, cabelo BRANCO curto bem penteado, bigode branco, olhar sereno, uniforme de garcom: camisa branca, COLETE PRETO, gravata-borboleta preta, pano branco no braco. Personagem ficticio. Voz masculina calma, grave e serena de homem de 72 anos."
     }
   },
   "timeline": [
@@ -776,3 +784,160 @@ Referências, nesta ordem: 1) FRAME_MESA; 2) FRAME_RICARDO_CHOQUE; 3) FRAME_TOMA
 
 **Depois de gerar este clipe, salve os frames:**
 - **FRAME_TOMAS_FIRME:** frame do clipe 5, plano 2 (por volta do segundo 5): close de DON TOMAS firme e sereno, colete preto.
+
+## Clipe 6 — A foto de Elena + CTA
+
+clipe 6: 8.6s, 7.6s de fala (19 palavras, 4 planos, falantes: TOMAS, RICARDO) ✅
+
+Referências, nesta ordem: 1) FRAME_MESA; 2) FRAME_TOMAS_FIRME; 3) FRAME_RICARDO_CHOQUE
+
+```json
+{
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao INTENSA: DON TOMAS firme, com dor contida nos olhos ao falar da filha; RICARDO PALIDO de terror ao ver a foto, sem ar. No ultimo plano DON TOMAS olha direto para a camera, serio e misterioso. Rostos muito expressivos. Nenhuma fala neutra.",
+  "input_image": {
+    "required": false,
+    "mode": "Ingredients to Video, sem primeiro frame.",
+    "additional_references": true,
+    "reference_images": [
+      "Imagem 1 — frame do clipe 1, plano 1 (por volta do segundo 1): RICARDO de terno azul-marinho, de pe ao lado da mesa, e DON TOMAS de colete preto com a bandeja, no restaurante de luxo.",
+      "Imagem 2 — frame do clipe 5, plano 2 (por volta do segundo 5): close de DON TOMAS firme e sereno, colete preto.",
+      "Imagem 3 — frame do clipe 4, plano 4 (por volta do segundo 9): close de RICARDO palido, em choque."
+    ],
+    "preserve_exactly": [
+      "RICARDO: o MESMO rosto da imagem 3, empresario de 45 anos, pele clara, cabelo escuro penteado para tras com as temporas GRISALHAS, barba bem feita, terno AZUL-MARINHO sob medida, camisa branca, gravata vinho, relogio de ouro.",
+      "TOMAS: o MESMO rosto da imagem 2, garcom idoso de 72 anos, pele morena enrugada, cabelo BRANCO curto bem penteado, bigode branco, olhar sereno, uniforme de garcom: camisa branca, COLETE PRETO, gravata-borboleta preta, pano branco no braco.",
+      "O mesmo restaurante de luxo da imagem 1, a noite.",
+      "Uma UNICA foto antiga, pequena, amarelada, de uma jovem sorridente de cabelo castanho, que DON TOMAS tira do bolso do colete.",
+      "O GERENTE e ANA NAO aparecem neste clipe."
+    ]
+  },
+  "scene": {
+    "title": "EL MESERO",
+    "duration_seconds": 8.7,
+    "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
+    "structure": "4 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Restaurante de luxo a noite: luz quente e baixa de lustres e velas (Practical Lighting, Warm Amber), Shallow Focus nos closes.",
+    "setting": "O MESMO restaurante de luxo da imagem 1, logo depois de DON TOMAS cancelar o contrato. Clientes ao fundo desfocados, em silencio.",
+    "blocking": [
+      "RICARDO: de pe ao lado da sua mesa, do lado ESQUERDO, de frente para DON TOMAS",
+      "TOMAS: de pe do lado DIREITO, de frente para RICARDO"
+    ],
+    "characters": {
+      "RICARDO": "O MESMO da imagem 3. Personagem ficticio. Voz masculina grave, arrogante e autoritaria de homem de 45 anos.",
+      "TOMAS": "O MESMO da imagem 2. Personagem ficticio. Voz masculina calma, grave e serena de homem de 72 anos."
+    }
+  },
+  "timeline": [
+    {
+      "time": "00:00.00-00:02.79",
+      "speaker": "TOMAS",
+      "dialogue": "¿Te acuerdas de Elena? Era mi hija.",
+      "addressee": "RICARDO",
+      "eyeline": "TOMAS fala PARA RICARDO e olha para RICARDO (de pe ao lado da sua mesa, do lado ESQUERDO, de frente para DON TOMAS), fora do quadro.",
+      "emotion_level": 10,
+      "intention": "Revelar o verdadeiro motivo de tudo, com dor contida.",
+      "voice": "Voz masculina grave, baixa, firme, embargando em 'mi hija'.",
+      "face": "DON TOMAS: olhar firme em RICARDO, olhos marejados de dor contida.",
+      "body": "DON TOMAS: tira devagar uma foto antiga do bolso do colete e a mostra para RICARDO.",
+      "camera": "Medium Close-Up de DON TOMAS SOZINHO no quadro, segurando a foto, lente 85mm, Shallow Focus, Slow Push In. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente TOMAS movimenta os labios."
+    },
+    {
+      "time": "00:02.79-00:03.79",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "Sem rostos: so a foto.",
+      "body": "A mao enrugada de DON TOMAS segura a foto antiga e amarelada de uma jovem sorridente de cabelo castanho.",
+      "camera": "Corte seco. Insert em Extreme Close-Up da foto na mao de DON TOMAS, lente macro, Shallow Focus. Ninguem fala.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    },
+    {
+      "time": "00:03.79-00:05.47",
+      "speaker": "RICARDO",
+      "dialogue": "No… no puede ser.",
+      "addressee": "TOMAS",
+      "eyeline": "RICARDO fala PARA TOMAS e olha para TOMAS (de pe do lado DIREITO, de frente para RICARDO), fora do quadro.",
+      "emotion_level": 10,
+      "intention": "Reconhecer a moca da foto, aterrorizado.",
+      "voice": "Voz masculina SUSSURRADA, sem ar, tremula.",
+      "face": "RICARDO: palido, olhos arregalados fixos na foto, boca tremendo.",
+      "body": "RICARDO: da um passo para tras, apoiando a mao na mesa.",
+      "camera": "Corte seco. Close-Up de RICARDO SOZINHO no quadro, lente 85mm, Fast Push In. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente RICARDO movimenta os labios."
+    },
+    {
+      "time": "00:05.47-00:08.64",
+      "speaker": "TOMAS",
+      "dialogue": "¿Quieres saber qué le hizo? Comenta parte dos.",
+      "addressee": "CAMERA",
+      "eyeline": "TOMAS olha DIRETO para a lente.",
+      "emotion_level": 9,
+      "intention": "Quebrar a quarta parede e chamar para a Parte 2.",
+      "voice": "Voz masculina grave, calma, seria e misteriosa.",
+      "face": "DON TOMAS: vira o rosto devagar e olha DIRETO para a lente, olhar serio, olhos ainda marejados.",
+      "body": "DON TOMAS: imovel, a foto junto ao peito.",
+      "camera": "Corte seco. Extreme Close-Up de DON TOMAS SOZINHO no quadro, lente 85mm, Slow Push In. O video termina neste rosto olhando para a lente. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente TOMAS movimenta os labios. Olha DIRETO para a lente, quebrando a quarta parede."
+    }
+  ],
+  "dialogue_rules": {
+    "language": "Espanol de Mexico, acento mexicano natural, TODAS as palavras em espanhol.",
+    "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
+    "total_dialogue_lines": 3,
+    "exact_order": [
+      "TOMAS",
+      "RICARDO",
+      "TOMAS"
+    ],
+    "rules": [
+      "So existem 3 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "A ultima fala termina junto com o video.",
+      "Cada fala e dirigida a: TOMAS -> RICARDO; RICARDO -> TOMAS; TOMAS -> CAMERA.",
+      "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
+      "Nao repetir, misturar, traduzir ou acrescentar palavras.",
+      "Cada frase e dita INTEIRA, do comeco ao fim.",
+      "No ultimo plano, e SOMENTE nele, DON TOMAS olha direto para a lente.",
+      "O plano 2 e mudo: so a foto na mao de DON TOMAS."
+    ]
+  },
+  "audio": {
+    "single_voice_at_a_time": true,
+    "sound": "Silencio pesado no restaurante, a respiracao presa de RICARDO.",
+    "music": "Nenhuma.",
+    "narration": "Nenhuma.",
+    "subtitles": "Nao gerar."
+  },
+  "negative_prompt": [
+    "clientes falando",
+    "gerente aparecendo",
+    "ana aparecendo",
+    "duas fotos",
+    "texto na foto",
+    "ricardo tocando na foto",
+    "texto ou letras em qualquer lugar",
+    "palavra inventada no ultimo plano",
+    "fala repetida",
+    "fala adiantada ou atrasada para outro plano",
+    "personagem falando ou olhando para quem nao e o destinatario da fala",
+    "fala neutra ou monotona",
+    "rosto neutro ou expressao vazia",
+    "atuacao contida",
+    "voz sem rosto na tela",
+    "tela dividida",
+    "colagem",
+    "formato horizontal",
+    "bordas pretas",
+    "palavras em ingles",
+    "palavras em portugues",
+    "duas vozes simultaneas",
+    "movimento labial do ouvinte",
+    "fala cortada, encurtada ou incompleta",
+    "mudanca de rosto",
+    "mudanca de roupa",
+    "legendas",
+    "logotipo",
+    "marca-d'agua",
+    "trilha sonora"
+  ]
+}
+```
