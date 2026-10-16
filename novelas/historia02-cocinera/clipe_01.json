@@ -2,7 +2,7 @@
   "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao INTENSA e FISICA: DANIELA furiosa, cruel e descontrolada, agarrando e pisando; DONA CARMEN assustada, com dor e humilhada, mas protegendo o anel com desespero. Movimento o tempo todo, ninguem parado. Rostos muito expressivos.",
   "consistency": [
     "DANIELA: noiva de 30 anos, pele clara, cabelo castanho escuro longo e ondulado, maquiagem forte, batom vermelho, VESTIDO LONGO DE CETIM VERMELHO de alcas finas, brincos de diamante, salto alto dourado.",
-    "CARMEN: cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, uma corrente fina de ouro no pescoco com um ANEL ANTIGO DE OURO pendurado.",
+    "CARMEN: cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, SEM nada no pescoco (a corrente arrebentou).",
     "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
     "Um UNICO anel antigo de ouro, sempre o mesmo."
   ],
@@ -20,7 +20,7 @@
     ],
     "characters": {
       "DANIELA": "noiva de 30 anos, pele clara, cabelo castanho escuro longo e ondulado, maquiagem forte, batom vermelho, VESTIDO LONGO DE CETIM VERMELHO de alcas finas, brincos de diamante, salto alto dourado. Personagem ficticia. Voz feminina aguda, arrogante e cruel de mulher de 30 anos.",
-      "CARMEN": "cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, uma corrente fina de ouro no pescoco com um ANEL ANTIGO DE OURO pendurado. Personagem ficticia. Voz feminina rouca e humilde de senhora de 62 anos."
+      "CARMEN": "cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, SEM nada no pescoco (a corrente arrebentou). Personagem ficticia. Voz feminina rouca e humilde de senhora de 62 anos."
     }
   },
   "timeline": [

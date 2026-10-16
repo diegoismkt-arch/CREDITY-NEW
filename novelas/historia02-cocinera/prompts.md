@@ -16,7 +16,7 @@ Sem imagem de referência (Text to Video).
   "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao INTENSA e FISICA: DANIELA furiosa, cruel e descontrolada, agarrando e pisando; DONA CARMEN assustada, com dor e humilhada, mas protegendo o anel com desespero. Movimento o tempo todo, ninguem parado. Rostos muito expressivos.",
   "consistency": [
     "DANIELA: noiva de 30 anos, pele clara, cabelo castanho escuro longo e ondulado, maquiagem forte, batom vermelho, VESTIDO LONGO DE CETIM VERMELHO de alcas finas, brincos de diamante, salto alto dourado.",
-    "CARMEN: cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, uma corrente fina de ouro no pescoco com um ANEL ANTIGO DE OURO pendurado.",
+    "CARMEN: cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, SEM nada no pescoco (a corrente arrebentou).",
     "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
     "Um UNICO anel antigo de ouro, sempre o mesmo."
   ],
@@ -34,7 +34,7 @@ Sem imagem de referência (Text to Video).
     ],
     "characters": {
       "DANIELA": "noiva de 30 anos, pele clara, cabelo castanho escuro longo e ondulado, maquiagem forte, batom vermelho, VESTIDO LONGO DE CETIM VERMELHO de alcas finas, brincos de diamante, salto alto dourado. Personagem ficticia. Voz feminina aguda, arrogante e cruel de mulher de 30 anos.",
-      "CARMEN": "cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, uma corrente fina de ouro no pescoco com um ANEL ANTIGO DE OURO pendurado. Personagem ficticia. Voz feminina rouca e humilde de senhora de 62 anos."
+      "CARMEN": "cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, SEM nada no pescoco (a corrente arrebentou). Personagem ficticia. Voz feminina rouca e humilde de senhora de 62 anos."
     }
   },
   "timeline": [
@@ -208,7 +208,7 @@ Referências, nesta ordem: 1) FRAME_FIESTA; 2) FRAME_CARMEN; 3) FRAME_DANIELA; 4
     ],
     "preserve_exactly": [
       "DANIELA: o MESMO rosto da imagem 3, noiva de 30 anos, pele clara, cabelo castanho escuro longo e ondulado, maquiagem forte, batom vermelho, VESTIDO LONGO DE CETIM VERMELHO de alcas finas, brincos de diamante, salto alto dourado.",
-      "CARMEN: o MESMO rosto da imagem 2, cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, uma corrente fina de ouro no pescoco com um ANEL ANTIGO DE OURO pendurado.",
+      "CARMEN: o MESMO rosto da imagem 2, cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, SEM nada no pescoco (a corrente arrebentou).",
       "JULIAN: caseiro idoso de 75 anos, pele morena curtida de sol, cabelo BRANCO curto, bigode branco grosso, rosto enrugado e firme, camisa BRANCA de manga comprida, COLETE DE COURO MARROM, calca escura, segura um CHAPEU DE PALHA na mao.",
       "O mesmo patio da hacienda da imagem 1, ao entardecer, convidados ao fundo assistindo.",
       "O MESMO anel antigo de ouro da imagem 4, um so anel.",
@@ -394,7 +394,7 @@ Referências, nesta ordem: 1) FRAME_FIESTA; 2) FRAME_CARMEN; 3) FRAME_DANIELA; 4
       "Imagem 4 — frame do clipe 2, plano 3 (por volta do segundo 4): close de DON JULIAN segurando o anel, chapeu de palha na outra mao."
     ],
     "preserve_exactly": [
-      "CARMEN: o MESMO rosto da imagem 2, cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, uma corrente fina de ouro no pescoco com um ANEL ANTIGO DE OURO pendurado.",
+      "CARMEN: o MESMO rosto da imagem 2, cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, SEM nada no pescoco (a corrente arrebentou).",
       "JULIAN: o MESMO rosto da imagem 4, caseiro idoso de 75 anos, pele morena curtida de sol, cabelo BRANCO curto, bigode branco grosso, rosto enrugado e firme, camisa BRANCA de manga comprida, COLETE DE COURO MARROM, calca escura, segura um CHAPEU DE PALHA na mao.",
       "DANIELA: o MESMO rosto da imagem 3, noiva de 30 anos, pele clara, cabelo castanho escuro longo e ondulado, maquiagem forte, batom vermelho, VESTIDO LONGO DE CETIM VERMELHO de alcas finas, brincos de diamante, salto alto dourado.",
       "VICTORIA: senhora rica de 68 anos, pele clara, cabelo BRANCO prateado em coque alto, maquiagem elegante, VESTIDO LONGO VERDE-ESMERALDA de seda, COLAR DE ESMERALDAS, xale de seda nos ombros, bengala com cabo de prata.",
