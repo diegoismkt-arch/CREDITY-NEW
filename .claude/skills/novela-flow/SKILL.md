@@ -5,7 +5,7 @@ description: Cria mininovelas dramáticas em espanhol (estilo "Relatos que Ense�
 
 # Novela Flow
 
-Produz novelas em espanhol (sotaque mexicano) 100% no **Google Flow**, no formato das páginas de "relatos" que viralizam no Facebook. Por que viralizam e como as referências são feitas: `references/analise-referencias.md`. Identidade da página (nome, bio, CTA, medidas): `references/pagina.md`.
+Produz novelas em espanhol (sotaque mexicano) 100% no **Google Flow**, no formato das páginas de "relatos" que viralizam no Facebook. Por que viralizam e como as referências são feitas: `references/analise-referencias.md`. Identidade da página (nome, bio, CTA, medidas): `references/pagina.md`. **Linguagem de câmera (técnicas cinematográficas por momento da história): `references/cinematografia.md` — usar SEMPRE no campo `camera` de cada plano.**
 
 ## Regras de ouro (créditos do Flow)
 
