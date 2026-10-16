@@ -542,3 +542,191 @@ Referências, nesta ordem: 1) FRAME_FIESTA; 2) FRAME_CARMEN; 3) FRAME_DANIELA; 4
 **Depois de gerar este clipe, salve os frames:**
 - **FRAME_CARMEN_PE:** frame do clipe 3, plano 1 (por volta do segundo 1): DON JULIAN ajudando DONA CARMEN a se levantar no patio.
 - **FRAME_VICTORIA:** frame do clipe 3, plano 4 (por volta do segundo 8): close de DONA VICTORIA, cabelo branco em coque alto, vestido verde-esmeralda, colar de esmeraldas.
+
+## Clipe 4 — O tapa + a chave
+
+clipe 4: 9.5s, 7.7s de fala (17 palavras, 6 planos, falantes: VICTORIA, CARMEN, JULIAN) ✅
+
+Referências, nesta ordem: 1) FRAME_CARMEN_PE; 2) FRAME_VICTORIA; 3) FRAME_JULIAN; 4) FRAME_CARMEN
+
+```json
+{
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao INTENSA e FISICA: DONA VICTORIA furiosa e violenta; DONA CARMEN pela primeira vez FIRME, sem medo; DON JULIAN protetor e decidido, revelando a chave com gravidade. Movimento o tempo todo. Rostos muito expressivos.",
+  "input_image": {
+    "required": false,
+    "mode": "Ingredients to Video, sem primeiro frame.",
+    "additional_references": true,
+    "reference_images": [
+      "Imagem 1 — frame do clipe 3, plano 1 (por volta do segundo 1): DON JULIAN ajudando DONA CARMEN a se levantar no patio.",
+      "Imagem 2 — frame do clipe 3, plano 4 (por volta do segundo 8): close de DONA VICTORIA, cabelo branco em coque alto, vestido verde-esmeralda, colar de esmeraldas.",
+      "Imagem 3 — frame do clipe 2, plano 3 (por volta do segundo 4): close de DON JULIAN segurando o anel, chapeu de palha na outra mao.",
+      "Imagem 4 — frame do clipe 1, plano 2 (por volta do segundo 3): close de DONA CARMEN, cabelo grisalho em coque, rosto de dor."
+    ],
+    "preserve_exactly": [
+      "VICTORIA: o MESMO rosto da imagem 2, senhora rica de 68 anos, pele clara, cabelo BRANCO prateado em coque alto, maquiagem elegante, VESTIDO LONGO VERDE-ESMERALDA de seda, COLAR DE ESMERALDAS, xale de seda nos ombros, bengala com cabo de prata.",
+      "CARMEN: o MESMO rosto da imagem 4, cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, SEM nada no pescoco (a corrente arrebentou).",
+      "JULIAN: o MESMO rosto da imagem 3, caseiro idoso de 75 anos, pele morena curtida de sol, cabelo BRANCO curto, bigode branco grosso, rosto enrugado e firme, camisa BRANCA de manga comprida, COLETE DE COURO MARROM, calca escura, segura um CHAPEU DE PALHA na mao.",
+      "O mesmo patio da hacienda da imagem 1, ao entardecer, convidados ao fundo assistindo.",
+      "DANIELA esta ao fundo, desfocada, sem falar.",
+      "Uma UNICA chave antiga de ferro, grande, com argola ornamentada."
+    ]
+  },
+  "scene": {
+    "title": "LA COCINERA",
+    "duration_seconds": 9.6,
+    "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
+    "structure": "6 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Jardim de hacienda mexicana ao entardecer: luz dourada quente, arcos de pedra, Shallow Focus nos closes, cortes rapidos.",
+    "setting": "O MESMO patio de festa da hacienda, segundos depois. Convidados ao fundo, chocados, alguns cobrindo a boca.",
+    "blocking": [
+      "VICTORIA: de pe a ESQUERDA, de frente para CARMEN",
+      "CARMEN: de pe no centro",
+      "JULIAN: a DIREITA de CARMEN; depois se coloca entre CARMEN e VICTORIA"
+    ],
+    "characters": {
+      "VICTORIA": "A MESMA da imagem 2. Personagem ficticia. Voz feminina grave, autoritaria e fria de senhora de 68 anos.",
+      "CARMEN": "A MESMA da imagem 4. Personagem ficticia. Voz feminina rouca e humilde de senhora de 62 anos.",
+      "JULIAN": "O MESMO da imagem 3. Personagem ficticio. Voz masculina grave, rouca e firme de homem de 75 anos."
+    }
+  },
+  "timeline": [
+    {
+      "time": "00:00.00-00:01.68",
+      "speaker": "VICTORIA",
+      "dialogue": "¿Papeles? ¡Enséñame los papeles!",
+      "addressee": "CARMEN",
+      "eyeline": "VICTORIA fala PARA CARMEN e olha para CARMEN (de pe no centro), dentro do quadro. NAO olha para JULIAN.",
+      "emotion_level": 10,
+      "intention": "Desafiar a cozinheira a provar, com desprezo.",
+      "voice": "Voz feminina grave, ALTA e furiosa.",
+      "face": "DONA VICTORIA: olhar de furia, dentes cerrados.",
+      "body": "DONA VICTORIA: agarra o braco de CARMEN com forca.",
+      "camera": "Handheld camera following the action: plano medio de DONA VICTORIA agarrando o braco de DONA CARMEN, convidados desfocados ao fundo, lente 35mm, Golden Hour. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente VICTORIA movimenta os labios."
+    },
+    {
+      "time": "00:01.68-00:02.88",
+      "speaker": "CARMEN",
+      "dialogue": "¡Suélteme!",
+      "addressee": "VICTORIA",
+      "eyeline": "CARMEN fala PARA VICTORIA e olha para VICTORIA (de pe a ESQUERDA, de frente para CARMEN), fora do quadro. NAO olha para JULIAN.",
+      "emotion_level": 10,
+      "intention": "Se impor pela primeira vez, sem medo.",
+      "voice": "Voz feminina rouca, FIRME e forte.",
+      "face": "DONA CARMEN: olhar firme e digno, sem lagrimas.",
+      "body": "DONA CARMEN: puxa o braco e se solta.",
+      "camera": "Corte seco. Eye Level: tight close-up of DONA CARMEN SOZINHA no quadro, head and upper shoulders, lente 75mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente CARMEN movimenta os labios."
+    },
+    {
+      "time": "00:02.88-00:03.78",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "DONA VICTORIA: furia descontrolada. DONA CARMEN: vira o rosto com o tapa.",
+      "body": "DONA VICTORIA da um tapa no rosto de DONA CARMEN.",
+      "camera": "Corte seco. Crash Zoom In curto no momento do tapa, plano medio das duas, radial zoom blur. Ninguem fala.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    },
+    {
+      "time": "00:03.78-00:05.46",
+      "speaker": "JULIAN",
+      "dialogue": "¡No vuelva a tocarla!",
+      "addressee": "VICTORIA",
+      "eyeline": "JULIAN fala PARA VICTORIA e olha para VICTORIA (de pe a ESQUERDA, de frente para CARMEN), fora do quadro. NAO olha para CARMEN.",
+      "emotion_level": 10,
+      "intention": "Proteger CARMEN com autoridade.",
+      "voice": "Voz masculina grave, ALTA, firme e ameacadora.",
+      "face": "DON JULIAN: olhar duro e furioso para VICTORIA.",
+      "body": "DON JULIAN: se coloca entre CARMEN e VICTORIA, com o braco estendido protegendo CARMEN.",
+      "camera": "Corte seco. Low Angle (horizonte nivelado): plano medio de DON JULIAN entrando entre as duas, lente 50mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente JULIAN movimenta os labios."
+    },
+    {
+      "time": "00:05.46-00:06.36",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "Sem rostos.",
+      "body": "A mao enrugada de DON JULIAN se abre mostrando uma chave antiga de ferro.",
+      "camera": "Corte seco. Insert shot: a mao de DON JULIAN abrindo e mostrando a chave antiga em escala real, lente macro, Rack Focus da mao para a chave. Ninguem fala.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    },
+    {
+      "time": "00:06.36-00:09.53",
+      "speaker": "JULIAN",
+      "dialogue": "El despacho del patrón lleva veinticinco años cerrado.",
+      "addressee": "VICTORIA",
+      "eyeline": "JULIAN fala PARA VICTORIA e olha para VICTORIA (de pe a ESQUERDA, de frente para CARMEN), fora do quadro. NAO olha para CARMEN.",
+      "emotion_level": 10,
+      "intention": "Lancar o mistério com gravidade.",
+      "voice": "Voz masculina grave, baixa, lenta e misteriosa.",
+      "face": "DON JULIAN: olhar serio e penetrante para VICTORIA.",
+      "body": "DON JULIAN: levanta a chave na altura do rosto.",
+      "camera": "Corte seco. Slow Zoom In: tight close-up of DON JULIAN SOZINHO no quadro, head and upper shoulders, a chave perto do rosto, lente 75mm. O clipe termina neste rosto. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente JULIAN movimenta os labios."
+    }
+  ],
+  "dialogue_rules": {
+    "language": "Espanol de Mexico, acento mexicano natural, TODAS as palavras em espanhol.",
+    "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
+    "total_dialogue_lines": 4,
+    "exact_order": [
+      "VICTORIA",
+      "CARMEN",
+      "JULIAN",
+      "JULIAN"
+    ],
+    "rules": [
+      "So existem 4 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "A ultima fala termina junto com o video.",
+      "Cada fala e dirigida a: VICTORIA -> CARMEN; CARMEN -> VICTORIA; JULIAN -> VICTORIA; JULIAN -> VICTORIA.",
+      "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
+      "Nao repetir, misturar, traduzir ou acrescentar palavras.",
+      "Cada frase e dita INTEIRA, do comeco ao fim.",
+      "Os planos 3 e 5 sao mudos."
+    ]
+  },
+  "audio": {
+    "single_voice_at_a_time": true,
+    "sound": "O estalo seco do tapa, o 'oh' abafado dos convidados, o tilintar da chave.",
+    "music": "Nenhuma.",
+    "narration": "Nenhuma.",
+    "subtitles": "Nao gerar."
+  },
+  "negative_prompt": [
+    "convidados falando",
+    "sangue",
+    "daniela falando",
+    "duas chaves",
+    "carmen caindo no chao",
+    "texto ou letras em qualquer lugar",
+    "palavra inventada no ultimo plano",
+    "fala repetida",
+    "fala adiantada ou atrasada para outro plano",
+    "personagem falando ou olhando para quem nao e o destinatario da fala",
+    "fala neutra ou monotona",
+    "rosto neutro ou expressao vazia",
+    "atuacao contida",
+    "voz sem rosto na tela",
+    "tela dividida",
+    "colagem",
+    "formato horizontal",
+    "bordas pretas",
+    "palavras em ingles",
+    "palavras em portugues",
+    "duas vozes simultaneas",
+    "movimento labial do ouvinte",
+    "fala cortada, encurtada ou incompleta",
+    "personagem olhando para a camera",
+    "mudanca de rosto",
+    "mudanca de roupa",
+    "legendas",
+    "logotipo",
+    "marca-d'agua",
+    "trilha sonora"
+  ]
+}
+```
+
+**Depois de gerar este clipe, salve os frames:**
+- **FRAME_LLAVE:** frame do clipe 4, plano 5 (por volta do segundo 7): a mao de DON JULIAN aberta mostrando uma chave antiga de ferro.
+- **FRAME_JULIAN_LLAVE:** frame do clipe 4, plano 6 (por volta do segundo 9): close de DON JULIAN segurando a chave antiga perto do rosto.
