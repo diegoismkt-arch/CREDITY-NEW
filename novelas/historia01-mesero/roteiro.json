@@ -7,7 +7,9 @@
   "imagens": {
     "FRAME_MESA": "frame do clipe 1, plano 1 (por volta do segundo 1): RICARDO de terno azul-marinho, de pe ao lado da mesa, e DON TOMAS de colete preto com a bandeja, no restaurante de luxo.",
     "FRAME_TOMAS": "frame do clipe 1, plano 2 (por volta do segundo 4): close de DON TOMAS, cabelo e bigode brancos, colete preto, gravata-borboleta.",
-    "FRAME_RICARDO": "frame do clipe 1, plano 3 (por volta do segundo 8): close de RICARDO, cabelo grisalho nas temporas, terno azul-marinho, expressao de desprezo."
+    "FRAME_RICARDO": "frame do clipe 1, plano 3 (por volta do segundo 8): close de RICARDO, cabelo grisalho nas temporas, terno azul-marinho, expressao de desprezo.",
+    "FRAME_ANA": "frame do clipe 2, plano 3 (por volta do segundo 4): close de ANA, garconete de rabo de cavalo preto e avental preto, rosto indignado.",
+    "FRAME_TOMAS_MOLHADO": "frame do clipe 2, plano 2 (por volta do segundo 2): close de DON TOMAS com o rosto molhado, olhos fechados."
   },
   "personagens": {
     "RICARDO": {
@@ -19,40 +21,163 @@
       "descricao": "garcom idoso de 72 anos, pele morena enrugada, cabelo BRANCO curto bem penteado, bigode branco, olhar sereno, uniforme de garcom: camisa branca, COLETE PRETO, gravata-borboleta preta, pano branco no braco.",
       "voz": "Voz masculina calma, grave e serena de homem de 72 anos.",
       "frame": "FRAME_TOMAS"
+    },
+    "ANA": {
+      "descricao": "garconete de 24 anos, pele morena clara, cabelo PRETO preso em rabo de cavalo, rosto doce, camisa branca de manga comprida, AVENTAL PRETO comprido, sem joias.",
+      "voz": "Voz feminina jovem, firme e corajosa de mulher de 24 anos.",
+      "feminino": true,
+      "frame": "FRAME_ANA"
     }
   },
   "clips": [
     {
       "nome": "A humilhacao",
       "atuacao": "Novela dramatica. Atuacao INTENSA: RICARDO furioso, arrogante e cruel por causa de uma mancha minuscula; DON TOMAS humilde, envergonhado, com as maos tremendo, mas digno. Rostos muito expressivos. Nenhuma fala neutra.",
-      "personagens": ["RICARDO", "TOMAS"],
-      "salvar_frames": ["FRAME_MESA", "FRAME_TOMAS", "FRAME_RICARDO"],
+      "personagens": [
+        "RICARDO",
+        "TOMAS"
+      ],
+      "salvar_frames": [
+        "FRAME_MESA",
+        "FRAME_TOMAS",
+        "FRAME_RICARDO"
+      ],
       "posicoes": {
         "RICARDO": "de pe ao lado da sua mesa, do lado ESQUERDO",
         "TOMAS": "de pe ao lado da mesa, do lado DIREITO, segurando uma bandeja"
       },
-      "preservar_extra": ["Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.", "Uma pequena mancha de sopa na manga do terno de RICARDO."],
+      "preservar_extra": [
+        "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
+        "Uma pequena mancha de sopa na manga do terno de RICARDO."
+      ],
       "cenario": "Restaurante de luxo a noite, mesas com toalhas brancas, tacas de cristal, velas acesas, lustres, clientes elegantes ao fundo desfocados e em silencio olhando a cena.",
       "som": "Murmurio do restaurante que para de repente, talheres, a respiracao nervosa de DON TOMAS.",
-      "remover_negativos": ["dois rostos visiveis nos planos de fala"],
-      "negativos_extra": ["clientes falando", "outros garcons aparecendo", "ricardo batendo em don tomas", "sopa caindo no chao"],
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala"
+      ],
+      "negativos_extra": [
+        "clientes falando",
+        "outros garcons aparecendo",
+        "ricardo batendo em don tomas",
+        "sopa caindo no chao"
+      ],
       "planos": [
         {
-          "quem": "RICARDO", "para": "TOMAS", "alvo_no_quadro": true, "fala": "¡Inútil! ¿Sabes cuánto cuesta este traje?", "emocao": 10,
-          "intencao": "Humilhar o garcom na frente de todos por uma mancha minuscula.", "voz": "Voz masculina ALTA, furiosa e desprezivel.",
-          "rosto": "RICARDO: rosto vermelho de raiva, olhar de desprezo para DON TOMAS.", "corpo": "RICARDO: levanta da cadeira de repente, aponta a pequena mancha na manga do terno.",
+          "quem": "RICARDO",
+          "para": "TOMAS",
+          "alvo_no_quadro": true,
+          "fala": "¡Inútil! ¿Sabes cuánto cuesta este traje?",
+          "emocao": 10,
+          "intencao": "Humilhar o garcom na frente de todos por uma mancha minuscula.",
+          "voz": "Voz masculina ALTA, furiosa e desprezivel.",
+          "rosto": "RICARDO: rosto vermelho de raiva, olhar de desprezo para DON TOMAS.",
+          "corpo": "RICARDO: levanta da cadeira de repente, aponta a pequena mancha na manga do terno.",
           "camera": "Plano medio: RICARDO de pe ao lado da mesa a esquerda, DON TOMAS a direita com a bandeja, clientes desfocados ao fundo. Eye Level, lente 50mm."
         },
         {
-          "quem": "TOMAS", "para": "RICARDO", "fala": "Perdón, señor. Mis manos ya no son las de antes.", "emocao": 9,
-          "intencao": "Pedir desculpas com humildade e vergonha.", "voz": "Voz masculina baixa, calma, envergonhada, levemente tremula.",
-          "rosto": "DON TOMAS: olhos baixos, envergonhado, mas sereno e digno.", "corpo": "DON TOMAS: segura a bandeja com as maos tremendo levemente.",
+          "quem": "TOMAS",
+          "para": "RICARDO",
+          "fala": "Perdón, señor. Mis manos ya no son las de antes.",
+          "emocao": 9,
+          "intencao": "Pedir desculpas com humildade e vergonha.",
+          "voz": "Voz masculina baixa, calma, envergonhada, levemente tremula.",
+          "rosto": "DON TOMAS: olhos baixos, envergonhado, mas sereno e digno.",
+          "corpo": "DON TOMAS: segura a bandeja com as maos tremendo levemente.",
           "camera": "Corte seco. Medium Close-Up de DON TOMAS SOZINHO no quadro, Eye Level, lente 85mm, Shallow Focus, velas em Bokeh."
         },
         {
-          "quem": "RICARDO", "para": "TOMAS", "fala": "Entonces vete a pedir limosna, viejo.", "emocao": 10,
-          "intencao": "Humilhar ainda mais, com crueldade.", "voz": "Voz masculina fria, cruel, com um sorriso de desprezo.",
-          "rosto": "RICARDO: sorriso cruel de canto de boca, olhar de cima para baixo.", "corpo": "RICARDO: ajeita o terno com arrogancia.",
+          "quem": "RICARDO",
+          "para": "TOMAS",
+          "fala": "Entonces vete a pedir limosna, viejo.",
+          "emocao": 10,
+          "intencao": "Humilhar ainda mais, com crueldade.",
+          "voz": "Voz masculina fria, cruel, com um sorriso de desprezo.",
+          "rosto": "RICARDO: sorriso cruel de canto de boca, olhar de cima para baixo.",
+          "corpo": "RICARDO: ajeita o terno com arrogancia.",
+          "camera": "Corte seco. Close-Up de RICARDO SOZINHO no quadro, Low Angle leve, lente 85mm, Slow Push In."
+        }
+      ]
+    },
+    {
+      "nome": "A agua no rosto + Ana defende",
+      "atuacao": "Novela dramatica. Atuacao INTENSA: RICARDO cruel e descontrolado; DON TOMAS humilhado mas DIGNO, imovel, sem reagir; ANA indignada e corajosa, depois assustada com a ameaca. Rostos muito expressivos. Nenhuma fala neutra.",
+      "imagens": [
+        "FRAME_MESA",
+        "FRAME_TOMAS",
+        "FRAME_RICARDO"
+      ],
+      "salvar_frames": [
+        "FRAME_ANA",
+        "FRAME_TOMAS_MOLHADO"
+      ],
+      "personagens": [
+        "RICARDO",
+        "TOMAS",
+        "ANA"
+      ],
+      "posicoes": {
+        "RICARDO": "de pe ao lado da sua mesa, do lado ESQUERDO",
+        "TOMAS": "de pe ao lado da mesa, do lado DIREITO, segurando a bandeja",
+        "ANA": "chega correndo pelo lado DIREITO e para ao lado de DON TOMAS, de frente para RICARDO"
+      },
+      "preservar_extra": [
+        "O mesmo restaurante de luxo da imagem FRAME_MESA, a noite, velas e lustres.",
+        "A mesma pequena mancha de sopa na manga do terno de RICARDO."
+      ],
+      "cenario": "O MESMO restaurante de luxo da imagem FRAME_MESA, logo depois da humilhacao. Clientes ao fundo, desfocados, em silencio, chocados.",
+      "som": "O barulho da agua batendo no rosto, o restaurante em silencio total, um copo sendo colocado com forca na mesa.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala"
+      ],
+      "negativos_extra": [
+        "clientes falando",
+        "ricardo batendo em alguem",
+        "copo quebrando",
+        "don tomas revidando ou falando"
+      ],
+      "regras_extra": [
+        "O plano 2 e mudo: so DON TOMAS com o rosto molhado.",
+        "DON TOMAS nao fala neste clipe."
+      ],
+      "planos": [
+        {
+          "quem": "RICARDO",
+          "para": "TOMAS",
+          "alvo_no_quadro": true,
+          "fala": "¡Toma, para que aprendas!",
+          "emocao": 10,
+          "intencao": "Humilhar jogando agua no rosto do idoso.",
+          "voz": "Voz masculina ALTA, cruel e debochada.",
+          "rosto": "RICARDO: sorriso cruel, olhar de desprezo para DON TOMAS.",
+          "corpo": "RICARDO: pega o copo de agua da mesa e joga a agua no rosto de DON TOMAS.",
+          "camera": "Plano medio dos dois ao lado da mesa: RICARDO a esquerda jogando a agua, DON TOMAS a direita, clientes desfocados ao fundo. Lente 50mm."
+        },
+        {
+          "rosto": "DON TOMAS: rosto e bigode pingando agua, olhos fechados, imovel, digno, maxilar firme.",
+          "corpo": "DON TOMAS: continua segurando a bandeja, sem reagir.",
+          "camera": "Corte seco. Close-Up de DON TOMAS SOZINHO no quadro, agua escorrendo pelo rosto, lente 85mm, camera lenta sutil. Ninguem fala.",
+          "segundos": 0.9
+        },
+        {
+          "quem": "ANA",
+          "para": "RICARDO",
+          "fala": "¡Basta, señor! Don Tomás no se merece eso.",
+          "emocao": 10,
+          "intencao": "Defender o colega idoso com coragem.",
+          "voz": "Voz feminina jovem, FIRME e indignada, levemente tremula.",
+          "rosto": "ANA: olhar indignado e corajoso para RICARDO, olhos marejados.",
+          "corpo": "ANA: chega correndo e para ao lado de DON TOMAS, entre ele e RICARDO.",
+          "camera": "Corte seco. Medium Close-Up de ANA SOZINHA no quadro, Eye Level, lente 85mm, Shallow Focus."
+        },
+        {
+          "quem": "RICARDO",
+          "para": "ANA",
+          "fala": "Cállate, o te quedas sin trabajo tú también.",
+          "emocao": 10,
+          "intencao": "Ameacar a garconete e mostrar poder.",
+          "voz": "Voz masculina baixa, fria e ameacadora.",
+          "rosto": "RICARDO: olhar gelado e ameacador para ANA, sobrancelha erguida.",
+          "corpo": "RICARDO: aponta o dedo para ANA.",
           "camera": "Corte seco. Close-Up de RICARDO SOZINHO no quadro, Low Angle leve, lente 85mm, Slow Push In."
         }
       ]
