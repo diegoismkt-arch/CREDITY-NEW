@@ -12,7 +12,7 @@
     ],
     "preserve_exactly": [
       "RICARDO: empresario de 45 anos, pele clara, cabelo escuro penteado para tras com as temporas GRISALHAS, barba bem feita, terno AZUL-MARINHO sob medida, camisa branca, gravata vinho, relogio de ouro.",
-      "TOMAS: o MESMO rosto da imagem 3, garcom idoso de 72 anos, pele morena enrugada, cabelo BRANCO curto bem penteado, bigode branco, olhar sereno, uniforme de garcom: camisa branca, COLETE PRETO, gravata-borboleta preta, pano branco no braco.",
+      "TOMAS: garcom idoso de 72 anos, pele morena enrugada, cabelo BRANCO curto bem penteado, bigode branco, olhar sereno, uniforme de garcom: camisa branca, COLETE PRETO, gravata-borboleta preta, pano branco no braco.",
       "ANA: o MESMO rosto da imagem 4, garconete de 24 anos, pele morena clara, cabelo PRETO preso em rabo de cavalo, rosto doce, camisa branca de manga comprida, AVENTAL PRETO comprido, sem joias.",
       "O mesmo restaurante de luxo da imagem 1, a noite.",
       "DON TOMAS com o rosto e o colete ainda um pouco molhados, como na imagem 3."
@@ -32,7 +32,7 @@
     ],
     "characters": {
       "RICARDO": "empresario de 45 anos, pele clara, cabelo escuro penteado para tras com as temporas GRISALHAS, barba bem feita, terno AZUL-MARINHO sob medida, camisa branca, gravata vinho, relogio de ouro. Personagem ficticio. Voz masculina grave, arrogante e autoritaria de homem de 45 anos.",
-      "TOMAS": "O MESMO da imagem 3. Personagem ficticio. Voz masculina calma, grave e serena de homem de 72 anos.",
+      "TOMAS": "garcom idoso de 72 anos, pele morena enrugada, cabelo BRANCO curto bem penteado, bigode branco, olhar sereno, uniforme de garcom: camisa branca, COLETE PRETO, gravata-borboleta preta, pano branco no braco. Personagem ficticio. Voz masculina calma, grave e serena de homem de 72 anos.",
       "ANA": "A MESMA da imagem 4. Personagem ficticia. Voz feminina jovem, firme e corajosa de mulher de 24 anos."
     }
   },

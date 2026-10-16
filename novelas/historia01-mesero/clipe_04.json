@@ -10,8 +10,8 @@
       "Imagem 3 — frame do clipe 2, plano 2 (por volta do segundo 2): close de DON TOMAS com o rosto molhado, olhos fechados."
     ],
     "preserve_exactly": [
-      "RICARDO: o MESMO rosto da imagem 2, empresario de 45 anos, pele clara, cabelo escuro penteado para tras com as temporas GRISALHAS, barba bem feita, terno AZUL-MARINHO sob medida, camisa branca, gravata vinho, relogio de ouro.",
-      "TOMAS: o MESMO rosto da imagem 3, garcom idoso de 72 anos, pele morena enrugada, cabelo BRANCO curto bem penteado, bigode branco, olhar sereno, uniforme de garcom: camisa branca, COLETE PRETO, gravata-borboleta preta, pano branco no braco.",
+      "RICARDO: empresario de 45 anos, pele clara, cabelo escuro penteado para tras com as temporas GRISALHAS, barba bem feita, terno AZUL-MARINHO sob medida, camisa branca, gravata vinho, relogio de ouro.",
+      "TOMAS: garcom idoso de 72 anos, pele morena enrugada, cabelo BRANCO curto bem penteado, bigode branco, olhar sereno, uniforme de garcom: camisa branca, COLETE PRETO, gravata-borboleta preta, pano branco no braco.",
       "GERENTE: gerente do restaurante de 50 anos, pele clara, cabelo GRISALHO curto, oculos de armacao fina, terno PRETO, camisa branca, gravata preta, cracha DOURADO no peito.",
       "O mesmo restaurante de luxo da imagem 1, a noite.",
       "DON TOMAS com o rosto e o colete ainda um pouco molhados, como na imagem 3."
@@ -30,8 +30,8 @@
       "GERENTE: entra correndo pelo fundo do restaurante e para ao lado de DON TOMAS"
     ],
     "characters": {
-      "RICARDO": "O MESMO da imagem 2. Personagem ficticio. Voz masculina grave, arrogante e autoritaria de homem de 45 anos.",
-      "TOMAS": "O MESMO da imagem 3. Personagem ficticio. Voz masculina calma, grave e serena de homem de 72 anos.",
+      "RICARDO": "empresario de 45 anos, pele clara, cabelo escuro penteado para tras com as temporas GRISALHAS, barba bem feita, terno AZUL-MARINHO sob medida, camisa branca, gravata vinho, relogio de ouro. Personagem ficticio. Voz masculina grave, arrogante e autoritaria de homem de 45 anos.",
+      "TOMAS": "garcom idoso de 72 anos, pele morena enrugada, cabelo BRANCO curto bem penteado, bigode branco, olhar sereno, uniforme de garcom: camisa branca, COLETE PRETO, gravata-borboleta preta, pano branco no braco. Personagem ficticio. Voz masculina calma, grave e serena de homem de 72 anos.",
       "GERENTE": "gerente do restaurante de 50 anos, pele clara, cabelo GRISALHO curto, oculos de armacao fina, terno PRETO, camisa branca, gravata preta, cracha DOURADO no peito. Personagem ficticio. Voz masculina de 50 anos, nervosa e respeitosa."
     }
   },

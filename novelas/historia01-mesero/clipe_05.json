@@ -1,0 +1,137 @@
+{
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao INTENSA: RICARDO desesperado, humilhado, suando, implorando; DON TOMAS sereno, firme e poderoso, sem levantar a voz, com uma autoridade calma. Rostos muito expressivos. Nenhuma fala neutra.",
+  "input_image": {
+    "required": false,
+    "mode": "Ingredients to Video, sem primeiro frame.",
+    "additional_references": true,
+    "reference_images": [
+      "Imagem 1 — frame do clipe 1, plano 1 (por volta do segundo 1): RICARDO de terno azul-marinho, de pe ao lado da mesa, e DON TOMAS de colete preto com a bandeja, no restaurante de luxo.",
+      "Imagem 2 — frame do clipe 4, plano 4 (por volta do segundo 9): close de RICARDO palido, em choque.",
+      "Imagem 3 — frame do clipe 1, plano 2 (por volta do segundo 4): close de DON TOMAS, cabelo e bigode brancos, colete preto, gravata-borboleta."
+    ],
+    "preserve_exactly": [
+      "RICARDO: o MESMO rosto da imagem 2, empresario de 45 anos, pele clara, cabelo escuro penteado para tras com as temporas GRISALHAS, barba bem feita, terno AZUL-MARINHO sob medida, camisa branca, gravata vinho, relogio de ouro.",
+      "TOMAS: o MESMO rosto da imagem 3, garcom idoso de 72 anos, pele morena enrugada, cabelo BRANCO curto bem penteado, bigode branco, olhar sereno, uniforme de garcom: camisa branca, COLETE PRETO, gravata-borboleta preta, pano branco no braco.",
+      "O mesmo restaurante de luxo da imagem 1, a noite.",
+      "DON TOMAS com o rosto ja seco e o colete ainda levemente molhado.",
+      "O GERENTE e ANA NAO aparecem neste clipe."
+    ]
+  },
+  "scene": {
+    "title": "EL MESERO",
+    "duration_seconds": 9.2,
+    "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
+    "structure": "3 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Restaurante de luxo a noite: luz quente e baixa de lustres e velas (Practical Lighting, Warm Amber), Shallow Focus nos closes.",
+    "setting": "O MESMO restaurante de luxo da imagem 1, logo depois da revelacao. Clientes ao fundo desfocados, em silencio, assistindo.",
+    "blocking": [
+      "RICARDO: de pe ao lado da sua mesa, do lado ESQUERDO, de frente para DON TOMAS",
+      "TOMAS: de pe do lado DIREITO, de frente para RICARDO, com a toalha dobrada no braco"
+    ],
+    "characters": {
+      "RICARDO": "O MESMO da imagem 2. Personagem ficticio. Voz masculina grave, arrogante e autoritaria de homem de 45 anos.",
+      "TOMAS": "O MESMO da imagem 3. Personagem ficticio. Voz masculina calma, grave e serena de homem de 72 anos."
+    }
+  },
+  "timeline": [
+    {
+      "time": "00:00.00-00:03.53",
+      "speaker": "RICARDO",
+      "dialogue": "Señor Arango, perdóneme. Yo no sabía quién era usted.",
+      "addressee": "TOMAS",
+      "eyeline": "RICARDO fala PARA TOMAS e olha para TOMAS (de pe do lado DIREITO, de frente para RICARDO, com a toalha dobrada no braco), fora do quadro.",
+      "emotion_level": 10,
+      "intention": "Implorar perdao, desesperado para salvar o contrato.",
+      "voice": "Voz masculina tremula, desesperada, gaguejando.",
+      "face": "RICARDO: palido, suando, sorriso nervoso e forcado, olhos implorando.",
+      "body": "RICARDO: levanta da cadeira depressa, ajeita o terno, as maos juntas como quem implora.",
+      "camera": "Medium Close-Up de RICARDO SOZINHO no quadro, de pe, Eye Level, lente 85mm, Shallow Focus. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente RICARDO movimenta os labios."
+    },
+    {
+      "time": "00:03.53-00:07.81",
+      "speaker": "TOMAS",
+      "dialogue": "Ese es el problema. Usted solo respeta a quien cree poderoso.",
+      "addressee": "RICARDO",
+      "eyeline": "TOMAS fala PARA RICARDO e olha para RICARDO (de pe ao lado da sua mesa, do lado ESQUERDO, de frente para DON TOMAS), fora do quadro.",
+      "emotion_level": 9,
+      "intention": "Dar uma licao, calmo e firme.",
+      "voice": "Voz masculina grave, calma, firme e pausada.",
+      "face": "DON TOMAS: olhar sereno e firme, sem raiva, fixo em RICARDO.",
+      "body": "DON TOMAS: de pe, ereto, a toalha dobrada no braco.",
+      "camera": "Corte seco. Close-Up de DON TOMAS SOZINHO no quadro, Low Angle leve, lente 85mm, Slow Push In. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente TOMAS movimenta os labios."
+    },
+    {
+      "time": "00:07.81-00:09.12",
+      "speaker": "TOMAS",
+      "dialogue": "No hay contrato.",
+      "addressee": "RICARDO",
+      "eyeline": "TOMAS fala PARA RICARDO e olha para RICARDO (de pe ao lado da sua mesa, do lado ESQUERDO, de frente para DON TOMAS), fora do quadro.",
+      "emotion_level": 10,
+      "intention": "Dar o golpe final, seco.",
+      "voice": "Voz masculina grave, baixa, seca e definitiva.",
+      "face": "DON TOMAS: olhar frio e definitivo para RICARDO.",
+      "body": "DON TOMAS: deixa a toalha sobre a mesa de RICARDO.",
+      "camera": "Corte seco. Plano medio dos dois frente a frente ao lado da mesa: DON TOMAS a direita falando, RICARDO a esquerda de costas para a camera, desmoronando. Lente 50mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente TOMAS movimenta os labios."
+    }
+  ],
+  "dialogue_rules": {
+    "language": "Espanol de Mexico, acento mexicano natural, TODAS as palavras em espanhol.",
+    "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
+    "total_dialogue_lines": 3,
+    "exact_order": [
+      "RICARDO",
+      "TOMAS",
+      "TOMAS"
+    ],
+    "rules": [
+      "So existem 3 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "A ultima fala termina junto com o video.",
+      "Cada fala e dirigida a: RICARDO -> TOMAS; TOMAS -> RICARDO; TOMAS -> RICARDO.",
+      "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
+      "Nao repetir, misturar, traduzir ou acrescentar palavras.",
+      "Cada frase e dita INTEIRA, do comeco ao fim."
+    ]
+  },
+  "audio": {
+    "single_voice_at_a_time": true,
+    "sound": "Silencio total no restaurante, a respiracao nervosa de RICARDO.",
+    "music": "Nenhuma.",
+    "narration": "Nenhuma.",
+    "subtitles": "Nao gerar."
+  },
+  "negative_prompt": [
+    "clientes falando",
+    "gerente aparecendo",
+    "ana aparecendo",
+    "ricardo ajoelhado",
+    "don tomas gritando",
+    "texto ou letras em qualquer lugar",
+    "palavra inventada no ultimo plano",
+    "fala repetida",
+    "fala adiantada ou atrasada para outro plano",
+    "personagem falando ou olhando para quem nao e o destinatario da fala",
+    "fala neutra ou monotona",
+    "rosto neutro ou expressao vazia",
+    "atuacao contida",
+    "voz sem rosto na tela",
+    "tela dividida",
+    "colagem",
+    "formato horizontal",
+    "bordas pretas",
+    "palavras em ingles",
+    "palavras em portugues",
+    "duas vozes simultaneas",
+    "movimento labial do ouvinte",
+    "fala cortada, encurtada ou incompleta",
+    "personagem olhando para a camera",
+    "mudanca de rosto",
+    "mudanca de roupa",
+    "legendas",
+    "logotipo",
+    "marca-d'agua",
+    "trilha sonora"
+  ]
+}

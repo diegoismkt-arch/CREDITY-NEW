@@ -12,18 +12,19 @@
     "FRAME_TOMAS_MOLHADO": "frame do clipe 2, plano 2 (por volta do segundo 2): close de DON TOMAS com o rosto molhado, olhos fechados.",
     "FRAME_RICARDO_TEL": "frame do clipe 3, plano 1 (por volta do segundo 2): RICARDO sentado a mesa, falando ao celular, sorriso arrogante.",
     "FRAME_GERENTE": "frame do clipe 4, plano 3 (por volta do segundo 7): close do GERENTE de terno preto, oculos e cracha dourado.",
-    "FRAME_RICARDO_CHOQUE": "frame do clipe 4, plano 4 (por volta do segundo 9): close de RICARDO palido, em choque."
+    "FRAME_RICARDO_CHOQUE": "frame do clipe 4, plano 4 (por volta do segundo 9): close de RICARDO palido, em choque.",
+    "FRAME_TOMAS_FIRME": "frame do clipe 5, plano 2 (por volta do segundo 5): close de DON TOMAS firme e sereno, colete preto."
   },
   "personagens": {
     "RICARDO": {
       "descricao": "empresario de 45 anos, pele clara, cabelo escuro penteado para tras com as temporas GRISALHAS, barba bem feita, terno AZUL-MARINHO sob medida, camisa branca, gravata vinho, relogio de ouro.",
       "voz": "Voz masculina grave, arrogante e autoritaria de homem de 45 anos.",
-      "frame": "FRAME_RICARDO_TEL"
+      "frame": "FRAME_RICARDO_CHOQUE"
     },
     "TOMAS": {
       "descricao": "garcom idoso de 72 anos, pele morena enrugada, cabelo BRANCO curto bem penteado, bigode branco, olhar sereno, uniforme de garcom: camisa branca, COLETE PRETO, gravata-borboleta preta, pano branco no braco.",
       "voz": "Voz masculina calma, grave e serena de homem de 72 anos.",
-      "frame": "FRAME_TOMAS_MOLHADO"
+      "frame": "FRAME_TOMAS"
     },
     "ANA": {
       "descricao": "garconete de 24 anos, pele morena clara, cabelo PRETO preso em rabo de cavalo, rosto doce, camisa branca de manga comprida, AVENTAL PRETO comprido, sem joias.",
@@ -355,6 +356,78 @@
           "corpo": "RICARDO: o celular escorrega da mao e cai na mesa.",
           "camera": "Corte seco. Close-Up de RICARDO SOZINHO no quadro, lente 85mm, Fast Push In. Ninguem fala. O clipe termina neste rosto.",
           "segundos": 0.9
+        }
+      ]
+    },
+    {
+      "nome": "Ricardo implora + sem contrato",
+      "atuacao": "Novela dramatica. Atuacao INTENSA: RICARDO desesperado, humilhado, suando, implorando; DON TOMAS sereno, firme e poderoso, sem levantar a voz, com uma autoridade calma. Rostos muito expressivos. Nenhuma fala neutra.",
+      "imagens": [
+        "FRAME_MESA",
+        "FRAME_RICARDO_CHOQUE",
+        "FRAME_TOMAS"
+      ],
+      "salvar_frames": [
+        "FRAME_TOMAS_FIRME"
+      ],
+      "personagens": [
+        "RICARDO",
+        "TOMAS"
+      ],
+      "posicoes": {
+        "RICARDO": "de pe ao lado da sua mesa, do lado ESQUERDO, de frente para DON TOMAS",
+        "TOMAS": "de pe do lado DIREITO, de frente para RICARDO, com a toalha dobrada no braco"
+      },
+      "preservar_extra": [
+        "O mesmo restaurante de luxo da imagem FRAME_MESA, a noite.",
+        "DON TOMAS com o rosto ja seco e o colete ainda levemente molhado.",
+        "O GERENTE e ANA NAO aparecem neste clipe."
+      ],
+      "cenario": "O MESMO restaurante de luxo da imagem FRAME_MESA, logo depois da revelacao. Clientes ao fundo desfocados, em silencio, assistindo.",
+      "som": "Silencio total no restaurante, a respiracao nervosa de RICARDO.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala"
+      ],
+      "negativos_extra": [
+        "clientes falando",
+        "gerente aparecendo",
+        "ana aparecendo",
+        "ricardo ajoelhado",
+        "don tomas gritando"
+      ],
+      "planos": [
+        {
+          "quem": "RICARDO",
+          "para": "TOMAS",
+          "fala": "Señor Arango, perdóneme. Yo no sabía quién era usted.",
+          "emocao": 10,
+          "intencao": "Implorar perdao, desesperado para salvar o contrato.",
+          "voz": "Voz masculina tremula, desesperada, gaguejando.",
+          "rosto": "RICARDO: palido, suando, sorriso nervoso e forcado, olhos implorando.",
+          "corpo": "RICARDO: levanta da cadeira depressa, ajeita o terno, as maos juntas como quem implora.",
+          "camera": "Medium Close-Up de RICARDO SOZINHO no quadro, de pe, Eye Level, lente 85mm, Shallow Focus."
+        },
+        {
+          "quem": "TOMAS",
+          "para": "RICARDO",
+          "fala": "Ese es el problema. Usted solo respeta a quien cree poderoso.",
+          "emocao": 9,
+          "intencao": "Dar uma licao, calmo e firme.",
+          "voz": "Voz masculina grave, calma, firme e pausada.",
+          "rosto": "DON TOMAS: olhar sereno e firme, sem raiva, fixo em RICARDO.",
+          "corpo": "DON TOMAS: de pe, ereto, a toalha dobrada no braco.",
+          "camera": "Corte seco. Close-Up de DON TOMAS SOZINHO no quadro, Low Angle leve, lente 85mm, Slow Push In."
+        },
+        {
+          "quem": "TOMAS",
+          "para": "RICARDO",
+          "fala": "No hay contrato.",
+          "emocao": 10,
+          "intencao": "Dar o golpe final, seco.",
+          "voz": "Voz masculina grave, baixa, seca e definitiva.",
+          "rosto": "DON TOMAS: olhar frio e definitivo para RICARDO.",
+          "corpo": "DON TOMAS: deixa a toalha sobre a mesa de RICARDO.",
+          "camera": "Corte seco. Plano medio dos dois frente a frente ao lado da mesa: DON TOMAS a direita falando, RICARDO a esquerda de costas para a camera, desmoronando. Lente 50mm."
         }
       ]
     }
