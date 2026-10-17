@@ -334,13 +334,11 @@
       "imagens": [
         "FRAME_SAGUAO",
         "FRAME_ISABEL_CHOQUE",
-        "FRAME_CAMILA_PULSERA",
-        "FRAME_ROSA_NOCHE",
-        "FRAME_MENDOZA"
+        "FRAME_CAMILA",
+        "FRAME_ROSA_NOCHE"
       ],
       "frames": {
         "ISABEL": "FRAME_ISABEL_CHOQUE",
-        "CAMILA": "FRAME_CAMILA_PULSERA",
         "ROSA": "FRAME_ROSA_NOCHE"
       },
       "salvar_frames": [
@@ -350,17 +348,16 @@
       "personagens": [
         "CAMILA",
         "ISABEL",
-        "ROSA",
-        "MENDOZA"
+        "ROSA"
       ],
       "posicoes": {
         "ISABEL": "no centro do saguao",
         "CAMILA": "a ESQUERDA de ISABEL",
-        "ROSA": "a DIREITA de ISABEL, de frente para ela",
-        "MENDOZA": "atras de ISABEL, um pouco a direita, calado, com a pasta azul fechada"
+        "ROSA": "a DIREITA de ISABEL, de frente para ela"
       },
       "preservar_extra": [
         "O MESMO saguao de hospital da imagem FRAME_SAGUAO, com pessoas olhando ao fundo.",
+        "CAMILA usa SEMPRE o MESMO VESTIDO AZUL-CLARO de manga curta da imagem FRAME_CAMILA; o texto escrito embaixo dessa imagem NAO aparece no video.",
         "ISABEL continua com a mancha de cafe no tailleur vinho.",
         "ROSA com o rosto vermelho do tapa."
       ],
@@ -372,10 +369,15 @@
       "negativos_extra": [
         "texto legivel na pasta ou em papeis",
         "cracha com texto legivel",
-        "mendoza falando"
+        "medico falando",
+        "camila de vestido bege, branco ou de alcinha",
+        "isabel no ultimo plano",
+        "rosto loiro no ultimo plano",
+        "mientes repetido"
       ],
       "regras_extra": [
-        "O DR. MENDOZA nao fala neste clipe."
+        "A fala '¡Mientes!' e dita UMA UNICA VEZ.",
+        "O ultimo plano e o rosto de CAMILA (a jovem MORENA de cabelo castanho ondulado e vestido azul-claro), NUNCA o de ISABEL."
       ],
       "planos": [
         {
@@ -385,7 +387,7 @@
           "emocao": 10,
           "intencao": "Perguntar desmoronando, sem entender.",
           "voz": "Voz feminina embargada, falhando, quase um sussurro.",
-          "rosto": "CAMILA: lagrimas escorrendo, labios tremendo.",
+          "rosto": "CAMILA (vestido azul-claro): lagrimas escorrendo, labios tremendo.",
           "corpo": "CAMILA: da um passo para tras, a mao na boca.",
           "camera": "Tight close-up of CAMILA SOZINHA no quadro, head and upper shoulders, Slow Push In, lente 75mm."
         },
@@ -423,9 +425,9 @@
           "camera": "Corte seco. Crash Zoom In em tight close-up of ISABEL SOZINHA no quadro, lente 75mm."
         },
         {
-          "rosto": "CAMILA: olha para ROSA, chorando em silencio, como se a visse pela primeira vez. Boca fechada.",
+          "rosto": "CAMILA (a jovem MORENA de cabelo castanho escuro ondulado e vestido azul-claro): olha para ROSA chorando em silencio, como se a visse pela primeira vez. Boca fechada.",
           "corpo": "CAMILA: imovel.",
-          "camera": "Corte seco. Extreme Close-Up nos olhos de CAMILA, cheios de lagrimas, Rack Focus. Ninguem fala. O clipe termina neste rosto.",
+          "camera": "Corte seco. Tight close-up de CAMILA SOZINHA no quadro (cabelo castanho escuro, vestido azul-claro), olhos cheios de lagrimas, Slow Push In, lente 85mm. Ninguem fala. O clipe termina neste rosto.",
           "segundos": 1.0
         }
       ]
