@@ -95,3 +95,5 @@ No Flow cada geração custa créditos, então **cada clipe de 10 s precisa esta
 9. **Close extremo de olhos/rosto na reação** e **planos de 1–2 s**.
 
 **Por que viralizou:** injustiça física contra idosa humilde (raiva) + Cinderela invertida (a empregada é a dona) + mistério de detetive com pistas visíveis + escalada a cada 10 s + final com confissão sem explicação → pessoa assiste até o fim, reassiste para entender as pistas e comenta teorias e "parte 2".
+
+- **La Enfermera, clipe 1:** falas, ordem, tapa e insert da pulseira saíram certos. Erro: o Flow escreveu "CAMILA / 30 y- Camila" na tela, no close da Camila (letreiro de apresentação inventado a partir da ficha com nome + idade); o crachá da Rosa saiu com "ROSA". Correção: negativos fixos contra nome/idade escritos e letreiro de apresentação.

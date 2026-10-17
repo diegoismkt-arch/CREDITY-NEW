@@ -19,6 +19,8 @@ OCUPACAO_MIN = 0.65      # pelo menos 65% do clipe com fala (estilo viral usa in
 
 NEGATIVO_BASE = [
     "texto ou letras em qualquer lugar",
+    "nome ou idade de personagem escrito na tela",
+    "letreiro de apresentacao de personagem (lower third)",
     "palavra inventada no ultimo plano",
     "fala repetida",
     "fala adiantada ou atrasada para outro plano",
