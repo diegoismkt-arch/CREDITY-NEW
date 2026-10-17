@@ -913,15 +913,15 @@ Referências, nesta ordem: 1) FRAME_SAGUAO; 2) FRAME_ISABEL_CHOQUE; 3) FRAME_CAM
 - **FRAME_ARCHIVO:** frame do clipe 5, plano 4 (por volta do segundo 4,5): ROSA de uniforme branco na porta de metal do arquivo, prateleiras com caixas de papelao e lampada fluorescente atras dela.
 - **FRAME_CAJA:** frame do clipe 5, plano 6 (por volta do segundo 8,5): ROSA puxando uma caixa velha de papelao da prateleira de metal no arquivo escuro, poeira no ar.
 
-## Clipe 6 — A ficha arrancada e a foto dos dois berços
+## Clipe 6 — A ficha arrancada e a foto das duas mães
 
-clipe 6: 9.8s, 7.3s de fala (18 palavras, 4 planos, falantes: ROSA, ISABEL, CAMILA) ✅
+clipe 6: 9.4s, 6.9s de fala (17 palavras, 4 planos, falantes: ROSA, ISABEL, CAMILA) ✅
 
 Referências, nesta ordem: 1) FRAME_ARCHIVO; 2) FRAME_CAJA; 3) FRAME_ISABEL_CHOQUE; 4) FRAME_CAMILA_LIMPA
 
 ```json
 {
-  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao INTENSA: ROSA grave, mostrando a prova; ISABEL nervosa, arrancando a foto da caixa; CAMILA desesperada, chorando. Suspense crescente. Rostos muito expressivos. Nenhuma fala neutra.",
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao INTENSA: ROSA grave, mostrando a prova; ISABEL nervosa, arrancando a foto da caixa; CAMILA em choque, chorando. Suspense crescente. Rostos muito expressivos. Nenhuma fala neutra.",
   "input_image": {
     "required": false,
     "mode": "Ingredients to Video, sem primeiro frame.",
@@ -944,7 +944,7 @@ Referências, nesta ordem: 1) FRAME_ARCHIVO; 2) FRAME_CAJA; 3) FRAME_ISABEL_CHOQ
   },
   "scene": {
     "title": "LA ENFERMERA",
-    "duration_seconds": 9.8,
+    "duration_seconds": 9.4,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
     "structure": "4 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
     "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Dentro do ARQUIVO velho do subsolo do hospital: Low-key, uma unica lampada fluorescente piscando, poeira flutuando no feixe de luz, prateleiras de metal enferrujadas com caixas de papelao amareladas. Shallow Focus nos closes, cortes rapidos.",
@@ -962,21 +962,21 @@ Referências, nesta ordem: 1) FRAME_ARCHIVO; 2) FRAME_CAJA; 3) FRAME_ISABEL_CHOQ
   },
   "timeline": [
     {
-      "time": "00:00.00-00:03.16",
+      "time": "00:00.00-00:02.79",
       "speaker": "ROSA",
-      "dialogue": "Mire. Alguien arrancó la ficha de su bebé.",
+      "dialogue": "Mire. Alguien arrancó su ficha de parto.",
       "addressee": "ISABEL",
       "eyeline": "ROSA fala PARA ISABEL e olha para ISABEL (de frente para ROSA, a DIREITA), fora do quadro. NAO olha para CAMILA.",
       "emotion_level": 10,
       "intention": "Mostrar a prova, grave.",
       "voice": "Voz feminina rouca, baixa, firme.",
       "face": "ROSA: olhar grave e triste.",
-      "body": "ROSA: tira da caixa uma ficha de papel amarelado com a metade de cima RASGADA e a levanta.",
+      "body": "ROSA: tira da caixa uma ficha antiga de papel amarelado com a metade de cima RASGADA e a levanta.",
       "camera": "Medium Close-Up de ROSA SOZINHA no quadro segurando a ficha rasgada, luz fluorescente fria de cima, poeira, lente 50mm. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente ROSA movimenta os labios."
     },
     {
-      "time": "00:03.16-00:04.47",
+      "time": "00:02.79-00:04.10",
       "speaker": "ISABEL",
       "dialogue": "¿Y esta foto?",
       "addressee": "ROSA",
@@ -990,25 +990,25 @@ Referências, nesta ordem: 1) FRAME_ARCHIVO; 2) FRAME_CAJA; 3) FRAME_ISABEL_CHOQ
       "mouths": "Somente ISABEL movimenta os labios."
     },
     {
-      "time": "00:04.47-00:06.97",
+      "time": "00:04.10-00:06.60",
       "speaker": "NONE",
       "dialogue": null,
       "face": "Sem rostos.",
-      "body": "Uma fotografia antiga e desbotada, cores dos anos noventa: dois bercos de hospital lado a lado, em cada um uma recem-nascida enrolada em manta rosa, as duas com a MESMA pulseirinha amarelada no pulso. As maos de ISABEL tremendo segurando a foto.",
+      "body": "Uma fotografia antiga e desbotada, cores dos anos noventa: um quarto de hospital com duas camas lado a lado; na cama da esquerda, uma mulher de uns 25 anos de cabelo LOIRO platinado (ISABEL jovem); na cama da direita, uma mulher morena de uns 32 anos de cabelo escuro preso em coque, com o MESMO rosto de ROSA mais jovem; as duas de camisola hospitalar, sorrindo cansadas. So adultos na foto. As maos de ISABEL tremendo segurando a foto.",
       "camera": "Corte seco. Insert shot da foto em escala real nas maos de ISABEL, Slow Zoom In ate a foto ocupar o quadro, Rack Focus das maos para a foto. A foto fica bem visivel. Ninguem fala.",
       "mouths": "Bocas FECHADAS. Ninguem fala."
     },
     {
-      "time": "00:06.97-00:09.77",
+      "time": "00:06.60-00:09.40",
       "speaker": "CAMILA",
-      "dialogue": "¿Y cuál de las dos soy yo?",
+      "dialogue": "¿Por qué estás tú en esa foto?",
       "addressee": "ROSA",
       "eyeline": "CAMILA fala PARA ROSA e olha para ROSA (junto a prateleira, com a caixa aberta nas maos), fora do quadro. NAO olha para ISABEL.",
       "emotion_level": 10,
-      "intention": "Perguntar desesperada, chorando.",
+      "intention": "Perguntar em choque, reconhecendo ROSA jovem na foto.",
       "voice": "Voz feminina embargada, falhando, subindo no fim.",
-      "face": "CAMILA: lagrimas escorrendo, olhar suplicante para ROSA.",
-      "body": "CAMILA: segura o braco de ROSA.",
+      "face": "CAMILA: lagrimas escorrendo, olhos arregalados para ROSA.",
+      "body": "CAMILA: aponta para a foto e segura o braco de ROSA.",
       "camera": "Corte seco. Dolly In: tight close-up of CAMILA SOZINHA no quadro, head and upper shoulders, cabelo castanho escuro, vestido azul-claro, luz fria, lente 75mm. O clipe termina neste rosto. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente CAMILA movimenta os labios."
     }
@@ -1039,6 +1039,8 @@ Referências, nesta ordem: 1) FRAME_ARCHIVO; 2) FRAME_CAJA; 3) FRAME_ISABEL_CHOQ
     "subtitles": "Nao gerar."
   },
   "negative_prompt": [
+    "bebes ou criancas",
+    "bercos",
     "letras ou numeros legiveis na ficha ou na foto",
     "cracha com texto legivel",
     "saguao",
@@ -1077,5 +1079,5 @@ Referências, nesta ordem: 1) FRAME_ARCHIVO; 2) FRAME_CAJA; 3) FRAME_ISABEL_CHOQ
 
 **Depois de gerar este clipe, salve os frames:**
 - **FRAME_ROSA_FICHA:** frame do clipe 6, plano 1 (por volta do segundo 1,5): ROSA no arquivo segurando a ficha amarelada rasgada.
-- **FRAME_FOTO:** frame do clipe 6, plano 3 (por volta do segundo 5): a foto antiga de dois bercos com duas recem-nascidas.
+- **FRAME_FOTO:** frame do clipe 6, plano 3 (por volta do segundo 5,5): a foto antiga de duas mulheres em camas de hospital lado a lado.
 - **FRAME_CAMILA_ARCHIVO:** frame do clipe 6, plano 4 (por volta do segundo 8): close de CAMILA no arquivo escuro, vestido azul-claro, chorando.
