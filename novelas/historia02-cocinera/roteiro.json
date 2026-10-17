@@ -1,6 +1,6 @@
 {
   "titulo_post": "La novia humilló a la cocinera… sin saber que ella era la verdadera dueña de la hacienda 😱",
-  "legenda": "Estaban leyendo el testamento… y alguien gritó desde la oscuridad. ¿Quién crees que fue? Comenta PARTE 2 👇",
+  "legenda": "La última página del testamento decía que no fue un accidente… y alguien gritó desde la oscuridad. ¿Quién crees que fue? Comenta PARTE 2 👇",
   "texto_final": "Comenta PARTE 2 👇",
   "titulo_interno": "LA COCINERA",
   "estilo": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Jardim de hacienda mexicana ao entardecer: luz dourada quente, arcos de pedra, Shallow Focus nos closes, cortes rapidos.",
@@ -750,7 +750,7 @@
     },
     {
       "nome": "A última página + ¡Fui yo!",
-      "atuacao": "Novela dramatica. Atuacao INTENSA: DONA VICTORIA le o papel e passa da confianca ao CHOQUE; DONA CARMEN chora de emocao. No meio da leitura uma VOZ de homem GRITA '¡Fui yo!' de FORA DO QUADRO: todos CONGELAM e se viram para a porta. NINGUEM aparece e ninguem sabe de quem e a voz. Suspense maximo.",
+      "atuacao": "Novela dramatica. Atuacao INTENSA: DONA VICTORIA le a ultima pagina do testamento e fica APAVORADA; DONA CARMEN chora e exige saber quem matou o marido. Uma VOZ de homem GRITA '¡Fui yo!' de FORA DO QUADRO, do corredor. Todos CONGELAM olhando para a porta, de onde vem a camera. NINGUEM aparece e ninguem sabe de quem e a voz. Suspense maximo.",
       "estilo": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Interior escuro e empoeirado: Low-key, Window Light em faixas pelas frestas da janela, poeira no ar, Shallow Focus nos closes, cortes rapidos.",
       "imagens": [
         "FRAME_DESPACHO",
@@ -803,15 +803,16 @@
         "vulto ou sombra de pessoa na porta",
         "porta se abrindo",
         "rosto visivel no plano do grito",
-        "victoria abrindo a boca depois da fala dela",
-        "boca aberta no plano de grupo"
+        "boca aberta no plano de grupo",
+        "alguem abrindo a boca no ultimo plano",
+        "personagens olhando para lados diferentes no ultimo plano"
       ],
       "regras_extra": [
         "DON JULIAN e DANIELA nao falam neste clipe.",
         "A fala '¡Fui yo!' e de uma VOZ masculina FORA DO QUADRO e toca SOBRE o plano da porta escura (plano 4), onde NAO ha nenhum rosto.",
-        "No plano 5 (grupo) e no plano 6 TODOS ficam de boca FECHADA: ninguem fala, ninguem grita.",
-        "A porta fica IMOVEL e o corredor PRETO e VAZIO: ninguem aparece em momento nenhum.",
-        "O video termina no rosto de VICTORIA em choque, sem ninguem falar."
+        "No ultimo plano a camera e o ponto de vista de quem gritou, na porta: os quatro olham JUNTOS para a lente, todos de boca FECHADA, ninguem fala.",
+        "Ninguem aparece no corredor nem na porta em momento nenhum.",
+        "O video termina no plano dos quatro juntos olhando para a lente."
       ],
       "planos": [
         {
@@ -829,24 +830,24 @@
         {
           "quem": "VICTORIA",
           "para": "CARMEN",
-          "fala": "«Dejo todo… a mi esposa, Carmen».",
+          "fala": "«Si muero de repente… no fue un accidente».",
           "emocao": 10,
           "eyeline": "VICTORIA le o PAPEL em voz alta e no fim levanta os olhos para CARMEN, fora do quadro.",
-          "intencao": "Ler a frase e perceber que perdeu tudo.",
-          "voz": "Voz feminina grave que vai FALHANDO a cada palavra, incredula.",
-          "rosto": "DONA VICTORIA: a confianca some, o rosto empalidece, boca tremendo.",
+          "intencao": "Ler a frase e ficar apavorada com o que ela significa.",
+          "voz": "Voz feminina grave que vai FALHANDO, baixando ate quase um sussurro.",
+          "rosto": "DONA VICTORIA: a cor some do rosto, olhos arregalados, boca tremendo.",
           "corpo": "DONA VICTORIA: as maos com o papel comecam a tremer.",
           "camera": "Corte seco. Slow Zoom In: tight close-up of DONA VICTORIA SOZINHA no quadro, head and upper shoulders, o papel na borda do quadro, Rembrandt lighting, lente 75mm."
         },
         {
           "quem": "CARMEN",
           "para": "VICTORIA",
-          "fala": "Mi Rafael… no me olvidó.",
+          "fala": "¿Quién mató a mi Rafael?",
           "emocao": 10,
-          "intencao": "Emocionar-se: o marido a deixou como herdeira.",
-          "voz": "Voz feminina rouca, embargada, quase um sussurro.",
-          "rosto": "DONA CARMEN: lagrimas escorrendo, labios tremendo, um sorriso de dor.",
-          "corpo": "DONA CARMEN: leva a mao ao peito.",
+          "intencao": "Exigir a verdade, entre lagrimas e furia.",
+          "voz": "Voz feminina rouca, embargada, subindo ate um grito quebrado.",
+          "rosto": "DONA CARMEN: lagrimas escorrendo, olhar de dor e furia.",
+          "corpo": "DONA CARMEN: agarra o braco de VICTORIA.",
           "camera": "Corte seco. Dolly In: tight close-up of DONA CARMEN SOZINHA no quadro, head and upper shoulders, Low-key com Eye Light, lente 75mm."
         },
         {
@@ -863,16 +864,11 @@
           "bocas": "NENHUM rosto no quadro: a voz vem do corredor escuro. Ninguem na tela fala."
         },
         {
-          "rosto": "VICTORIA, CARMEN, DANIELA e JULIAN: olhos arregalados de susto, BOCAS FECHADAS e apertadas, ninguem fala.",
-          "corpo": "Os quatro viram a cabeca e o corpo ao mesmo tempo para a ESQUERDA do quadro, onde fica a porta, de costas para a camera em tres-quartos; VICTORIA aperta o papel contra o peito.",
-          "camera": "Corte seco. Plano de grupo, Eye Level, lente 35mm, camera parada: os quatro se viram para a porta fora do quadro, a ESQUERDA. Ninguem fala, todas as bocas fechadas.",
-          "segundos": 1.2
-        },
-        {
-          "rosto": "DONA VICTORIA: em CHOQUE, olhos arregalados olhando para a ESQUERDA (a porta), labios FECHADOS e apertados, o papel tremendo nas maos.",
-          "corpo": "DONA VICTORIA: imovel.",
-          "camera": "Corte seco. Dolly Zoom lento em tight close-up de DONA VICTORIA SOZINHA no quadro, Low-key com Eye Light. O video termina neste rosto. Ninguem fala.",
-          "segundos": 0.8
+          "rosto": "VICTORIA, CARMEN, DANIELA e JULIAN: todos juntos, olhando DIRETO para a lente (a pessoa na porta que eles nao conseguem ver), olhos arregalados de choque e medo, BOCAS FECHADAS.",
+          "corpo": "Os quatro juntos, imoveis, virados para a porta; VICTORIA aperta o papel contra o peito, CARMEN ainda segura o braco dela.",
+          "camera": "Corte seco. Ponto de vista de QUEM ESTA NA PORTA: a camera parte do batente da porta, com a borda escura da porta em primeiro plano desfocada, e faz um Slow Dolly In em direcao aos quatro, juntos no centro do escritorio, todos olhando para a lente. Termina em plano proximo dos quatro juntos. Ninguem fala. O video termina neste plano.",
+          "segundos": 2.0,
+          "olha_para_camera": true
         }
       ],
       "descricoes": {

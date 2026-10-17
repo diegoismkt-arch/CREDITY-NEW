@@ -1,6 +1,6 @@
 # La novia humilló a la cocinera… sin saber que ella era la verdadera dueña de la hacienda 😱
 
-**Legenda:** Estaban leyendo el testamento… y alguien gritó desde la oscuridad. ¿Quién crees que fue? Comenta PARTE 2 👇
+**Legenda:** La última página del testamento decía que no fue un accidente… y alguien gritó desde la oscuridad. ¿Quién crees que fue? Comenta PARTE 2 👇
 
 **Texto na edição (final):** Comenta PARTE 2 👇
 
@@ -1287,13 +1287,13 @@ Referências, nesta ordem: 1) FRAME_DESPACHO; 2) FRAME_CARMEN_PE; 3) FRAME_DANIE
 
 ## Clipe 8 — A última página + ¡Fui yo!
 
-clipe 8: 9.7s, 7.7s de fala (18 palavras, 6 planos, falantes: VICTORIA, CARMEN, VOZ (fora do quadro)) ✅
+clipe 8: 10.5s, 8.5s de fala (20 palavras, 5 planos, falantes: VICTORIA, CARMEN, VOZ (fora do quadro)) ❌ 10.5s — passa de 10s, corte palavras
 
 Referências, nesta ordem: 1) FRAME_DESPACHO; 2) FRAME_VICTORIA; 3) FRAME_CARMEN_PE; 4) FRAME_PAPEL; 5) FRAME_DANIELA_TEL
 
 ```json
 {
-  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao INTENSA: DONA VICTORIA le o papel e passa da confianca ao CHOQUE; DONA CARMEN chora de emocao. No meio da leitura uma VOZ de homem GRITA '¡Fui yo!' de FORA DO QUADRO: todos CONGELAM e se viram para a porta. NINGUEM aparece e ninguem sabe de quem e a voz. Suspense maximo.",
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao INTENSA: DONA VICTORIA le a ultima pagina do testamento e fica APAVORADA; DONA CARMEN chora e exige saber quem matou o marido. Uma VOZ de homem GRITA '¡Fui yo!' de FORA DO QUADRO, do corredor. Todos CONGELAM olhando para a porta, de onde vem a camera. NINGUEM aparece e ninguem sabe de quem e a voz. Suspense maximo.",
   "input_image": {
     "required": false,
     "mode": "Ingredients to Video, sem primeiro frame.",
@@ -1318,9 +1318,9 @@ Referências, nesta ordem: 1) FRAME_DESPACHO; 2) FRAME_VICTORIA; 3) FRAME_CARMEN
   },
   "scene": {
     "title": "LA COCINERA",
-    "duration_seconds": 9.8,
+    "duration_seconds": 10.0,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
-    "structure": "6 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "structure": "5 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
     "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Interior escuro e empoeirado: Low-key, Window Light em faixas pelas frestas da janela, poeira no ar, Shallow Focus nos closes, cortes rapidos.",
     "setting": "O MESMO escritorio antigo do patrao da imagem 1, logo depois do papel cair da bolsa de DANIELA.",
     "blocking": [
@@ -1353,35 +1353,35 @@ Referências, nesta ordem: 1) FRAME_DESPACHO; 2) FRAME_VICTORIA; 3) FRAME_CARMEN
       "mouths": "Somente VICTORIA movimenta os labios."
     },
     {
-      "time": "00:02.05-00:04.47",
+      "time": "00:02.05-00:05.21",
       "speaker": "VICTORIA",
-      "dialogue": "«Dejo todo… a mi esposa, Carmen».",
+      "dialogue": "«Si muero de repente… no fue un accidente».",
       "addressee": "CARMEN",
       "eyeline": "VICTORIA le o PAPEL em voz alta e no fim levanta os olhos para CARMEN, fora do quadro.",
       "emotion_level": 10,
-      "intention": "Ler a frase e perceber que perdeu tudo.",
-      "voice": "Voz feminina grave que vai FALHANDO a cada palavra, incredula.",
-      "face": "DONA VICTORIA: a confianca some, o rosto empalidece, boca tremendo.",
+      "intention": "Ler a frase e ficar apavorada com o que ela significa.",
+      "voice": "Voz feminina grave que vai FALHANDO, baixando ate quase um sussurro.",
+      "face": "DONA VICTORIA: a cor some do rosto, olhos arregalados, boca tremendo.",
       "body": "DONA VICTORIA: as maos com o papel comecam a tremer.",
       "camera": "Corte seco. Slow Zoom In: tight close-up of DONA VICTORIA SOZINHA no quadro, head and upper shoulders, o papel na borda do quadro, Rembrandt lighting, lente 75mm. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente VICTORIA movimenta os labios."
     },
     {
-      "time": "00:04.47-00:06.53",
+      "time": "00:05.21-00:07.27",
       "speaker": "CARMEN",
-      "dialogue": "Mi Rafael… no me olvidó.",
+      "dialogue": "¿Quién mató a mi Rafael?",
       "addressee": "VICTORIA",
       "eyeline": "CARMEN fala PARA VICTORIA e olha para VICTORIA (no centro do escritorio, segurando o papel aberto), fora do quadro. NAO olha para DANIELA, JULIAN.",
       "emotion_level": 10,
-      "intention": "Emocionar-se: o marido a deixou como herdeira.",
-      "voice": "Voz feminina rouca, embargada, quase um sussurro.",
-      "face": "DONA CARMEN: lagrimas escorrendo, labios tremendo, um sorriso de dor.",
-      "body": "DONA CARMEN: leva a mao ao peito.",
+      "intention": "Exigir a verdade, entre lagrimas e furia.",
+      "voice": "Voz feminina rouca, embargada, subindo ate um grito quebrado.",
+      "face": "DONA CARMEN: lagrimas escorrendo, olhar de dor e furia.",
+      "body": "DONA CARMEN: agarra o braco de VICTORIA.",
       "camera": "Corte seco. Dolly In: tight close-up of DONA CARMEN SOZINHA no quadro, head and upper shoulders, Low-key com Eye Light, lente 75mm. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente CARMEN movimenta os labios."
     },
     {
-      "time": "00:06.53-00:07.73",
+      "time": "00:07.27-00:08.47",
       "speaker": "VOZ (fora do quadro)",
       "dialogue": "¡Fui yo!",
       "addressee": "TODOS",
@@ -1395,21 +1395,12 @@ Referências, nesta ordem: 1) FRAME_DESPACHO; 2) FRAME_VICTORIA; 3) FRAME_CARMEN
       "mouths": "NENHUM rosto no quadro: a voz vem do corredor escuro. Ninguem na tela fala."
     },
     {
-      "time": "00:07.73-00:08.93",
+      "time": "00:08.47-00:10.47",
       "speaker": "NONE",
       "dialogue": null,
-      "face": "VICTORIA, CARMEN, DANIELA e JULIAN: olhos arregalados de susto, BOCAS FECHADAS e apertadas, ninguem fala.",
-      "body": "Os quatro viram a cabeca e o corpo ao mesmo tempo para a ESQUERDA do quadro, onde fica a porta, de costas para a camera em tres-quartos; VICTORIA aperta o papel contra o peito.",
-      "camera": "Corte seco. Plano de grupo, Eye Level, lente 35mm, camera parada: os quatro se viram para a porta fora do quadro, a ESQUERDA. Ninguem fala, todas as bocas fechadas.",
-      "mouths": "Bocas FECHADAS. Ninguem fala."
-    },
-    {
-      "time": "00:08.93-00:09.73",
-      "speaker": "NONE",
-      "dialogue": null,
-      "face": "DONA VICTORIA: em CHOQUE, olhos arregalados olhando para a ESQUERDA (a porta), labios FECHADOS e apertados, o papel tremendo nas maos.",
-      "body": "DONA VICTORIA: imovel.",
-      "camera": "Corte seco. Dolly Zoom lento em tight close-up de DONA VICTORIA SOZINHA no quadro, Low-key com Eye Light. O video termina neste rosto. Ninguem fala.",
+      "face": "VICTORIA, CARMEN, DANIELA e JULIAN: todos juntos, olhando DIRETO para a lente (a pessoa na porta que eles nao conseguem ver), olhos arregalados de choque e medo, BOCAS FECHADAS.",
+      "body": "Os quatro juntos, imoveis, virados para a porta; VICTORIA aperta o papel contra o peito, CARMEN ainda segura o braco dela.",
+      "camera": "Corte seco. Ponto de vista de QUEM ESTA NA PORTA: a camera parte do batente da porta, com a borda escura da porta em primeiro plano desfocada, e faz um Slow Dolly In em direcao aos quatro, juntos no centro do escritorio, todos olhando para a lente. Termina em plano proximo dos quatro juntos. Ninguem fala. O video termina neste plano.",
       "mouths": "Bocas FECHADAS. Ninguem fala."
     }
   ],
@@ -1425,16 +1416,16 @@ Referências, nesta ordem: 1) FRAME_DESPACHO; 2) FRAME_VICTORIA; 3) FRAME_CARMEN
     ],
     "rules": [
       "So existem 4 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
-      "Depois de 7.7 segundos ninguem fala.",
+      "Depois de 8.5 segundos ninguem fala.",
       "Cada fala e dirigida a: VICTORIA -> CARMEN; VICTORIA -> CARMEN; CARMEN -> VICTORIA; VOZ (fora do quadro) -> TODOS.",
       "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
       "Nao repetir, misturar, traduzir ou acrescentar palavras.",
       "Cada frase e dita INTEIRA, do comeco ao fim.",
       "DON JULIAN e DANIELA nao falam neste clipe.",
       "A fala '¡Fui yo!' e de uma VOZ masculina FORA DO QUADRO e toca SOBRE o plano da porta escura (plano 4), onde NAO ha nenhum rosto.",
-      "No plano 5 (grupo) e no plano 6 TODOS ficam de boca FECHADA: ninguem fala, ninguem grita.",
-      "A porta fica IMOVEL e o corredor PRETO e VAZIO: ninguem aparece em momento nenhum.",
-      "O video termina no rosto de VICTORIA em choque, sem ninguem falar."
+      "No ultimo plano a camera e o ponto de vista de quem gritou, na porta: os quatro olham JUNTOS para a lente, todos de boca FECHADA, ninguem fala.",
+      "Ninguem aparece no corredor nem na porta em momento nenhum.",
+      "O video termina no plano dos quatro juntos olhando para a lente."
     ]
   },
   "audio": {
@@ -1459,8 +1450,9 @@ Referências, nesta ordem: 1) FRAME_DESPACHO; 2) FRAME_VICTORIA; 3) FRAME_CARMEN
     "vulto ou sombra de pessoa na porta",
     "porta se abrindo",
     "rosto visivel no plano do grito",
-    "victoria abrindo a boca depois da fala dela",
     "boca aberta no plano de grupo",
+    "alguem abrindo a boca no ultimo plano",
+    "personagens olhando para lados diferentes no ultimo plano",
     "texto ou letras em qualquer lugar",
     "palavra inventada no ultimo plano",
     "fala repetida",
@@ -1478,7 +1470,6 @@ Referências, nesta ordem: 1) FRAME_DESPACHO; 2) FRAME_VICTORIA; 3) FRAME_CARMEN
     "duas vozes simultaneas",
     "movimento labial do ouvinte",
     "fala cortada, encurtada ou incompleta",
-    "personagem olhando para a camera",
     "mudanca de rosto",
     "mudanca de roupa",
     "legendas",
