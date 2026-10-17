@@ -117,8 +117,6 @@
     "subtitles": "Nao gerar."
   },
   "negative_prompt": [
-    "bebes ou criancas",
-    "bercos",
     "letras ou numeros legiveis na ficha ou na foto",
     "cracha com texto legivel",
     "saguao",

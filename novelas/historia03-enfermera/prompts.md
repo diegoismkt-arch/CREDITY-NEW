@@ -1039,8 +1039,6 @@ Referências, nesta ordem: 1) FRAME_ARCHIVO; 2) FRAME_CAJA; 3) FRAME_ISABEL_CHOQ
     "subtitles": "Nao gerar."
   },
   "negative_prompt": [
-    "bebes ou criancas",
-    "bercos",
     "letras ou numeros legiveis na ficha ou na foto",
     "cracha com texto legivel",
     "saguao",
