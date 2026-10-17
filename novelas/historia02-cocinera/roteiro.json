@@ -756,7 +756,7 @@
         "FRAME_DESPACHO",
         "FRAME_VICTORIA",
         "FRAME_CARMEN_PE",
-        "FRAME_DANIELA_TEL"
+        "FRAME_PAPEL"
       ],
       "salvar_frames": [
         "FRAME_VICTORIA_PAPEL",
@@ -777,7 +777,8 @@
       },
       "preservar_extra": [
         "O MESMO escritorio antigo e escuro da imagem FRAME_DESPACHO.",
-        "Nas maos de VICTORIA, o papel antigo amarelado que caiu da bolsa de DANIELA, com a borda de cima RASGADA (foi arrancado de um caderno de folhas). Nenhuma letra legivel.",
+        "O MESMO papel antigo amarelado e a MESMA bolsa dourada da imagem FRAME_PAPEL: no comeco a bolsa esta caida no chao de madeira e VICTORIA pega o papel dobrado que saiu dela. O papel tem a borda de cima RASGADA. Nenhuma letra legivel.",
+        "A bolsa dourada continua caida no chao ate o fim do clipe.",
         "A voz que grita '¡Fui yo!' vem de FORA DO QUADRO. NINGUEM novo aparece no video."
       ],
       "cenario": "O MESMO escritorio antigo do patrao da imagem FRAME_DESPACHO, logo depois do papel cair da bolsa de DANIELA.",
@@ -796,7 +797,8 @@
         "homem na porta",
         "silhueta na porta",
         "alguem entrando no escritorio",
-        "personagem visivel movendo a boca no plano do grito"
+        "personagem visivel movendo a boca no plano do grito",
+        "bolsa dourada nas maos de daniela"
       ],
       "regras_extra": [
         "DON JULIAN e DANIELA nao falam neste clipe.",
@@ -815,7 +817,7 @@
           "voz": "Voz feminina grave, baixa e tensa.",
           "rosto": "DONA VICTORIA: olhos fixos no papel, sobrancelhas erguidas.",
           "corpo": "DONA VICTORIA: pega o papel do chao e o desdobra devagar.",
-          "camera": "Medium Shot de DONA VICTORIA desdobrando o papel no escritorio escuro, faixa de luz da janela sobre o papel, lente 50mm."
+          "camera": "Medium Shot de DONA VICTORIA se abaixando e pegando o papel dobrado do chao, ao lado da bolsa dourada caida (como na imagem FRAME_PAPEL), e desdobrando no escritorio escuro, faixa de luz da janela sobre o papel, lente 50mm."
         },
         {
           "quem": "VICTORIA",
