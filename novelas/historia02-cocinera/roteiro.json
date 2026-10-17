@@ -35,7 +35,7 @@
     "JULIAN": {
       "descricao": "caseiro idoso de 75 anos, pele morena curtida de sol, cabelo BRANCO curto, bigode branco grosso, rosto enrugado e firme, camisa BRANCA de manga comprida, COLETE DE COURO MARROM, calca escura.",
       "voz": "Voz masculina grave, rouca e firme de homem de 75 anos.",
-      "frame": "FRAME_JULIAN_LLAVE"
+      "frame": "FRAME_DESPACHO"
     },
     "VICTORIA": {
       "descricao": "senhora rica de 68 anos, pele clara, cabelo BRANCO prateado em coque alto, maquiagem elegante, VESTIDO LONGO VERDE-ESMERALDA de seda, COLAR DE ESMERALDAS, xale de seda nos ombros, bengala com cabo de prata.",
@@ -690,7 +690,7 @@
         {
           "quem": "CARMEN",
           "para": "DANIELA",
-          "fala": "Daniela, enséñame lo que llevas en el bolso.",
+          "fala": "Daniela, enséñame lo que llevas ahí.",
           "emocao": 10,
           "intencao": "Exigir ver a bolsa, firme e desconfiada.",
           "voz": "Voz feminina rouca, FIRME, baixa e acusadora.",
