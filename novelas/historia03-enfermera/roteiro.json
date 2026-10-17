@@ -25,8 +25,10 @@
     "FRAME_MENDOZA": "frame do clipe 3, plano 1 (por volta do segundo 1): DR. MENDOZA de jaleco branco, gravata azul, oculos, chegando pelo saguao com a pasta azul aberta; pessoas ao fundo.",
     "FRAME_ISABEL_CHOQUE": "frame do clipe 3, plano 4 (por volta do segundo 8): close de ISABEL em choque, olhos arregalados, boca aberta, tailleur vinho com mancha de cafe, oculos escuros no cabelo.",
     "FRAME_CAMILA_LAGRIMAS": "frame do clipe 4, plano 1 (por volta do segundo 1): close de CAMILA chorando.",
-    "FRAME_ROSA_CONFIESA": "frame do clipe 4, plano 3 (por volta do segundo 5): close de ROSA confessando, lagrimas no rosto.",
-    "FRAME_CAMILA_LIMPA": "frame do clipe 4 (segunda versao), ultimo plano (por volta do segundo 9,5): close de CAMILA chorando em silencio, cabelo castanho escuro ondulado, VESTIDO AZUL-CLARO, saguao claro ao fundo."
+    "FRAME_ROSA_CONFIESA": "frame do clipe 4, plano 3 (por volta do segundo 5): close de ROSA confessando, uniforme branco, cracha, saguao claro ao fundo.",
+    "FRAME_CAMILA_LIMPA": "frame do clipe 4, ultimo plano (por volta do segundo 9,5): close de CAMILA chorando, cabelo castanho escuro ondulado, VESTIDO AZUL-CLARO de manga curta, saguao claro ao fundo.",
+    "FRAME_ARCHIVO": "frame do clipe 5, plano 4 (por volta do segundo 4): ROSA abrindo a porta do arquivo velho, prateleiras de metal com caixas de papelao e poeira na luz.",
+    "FRAME_CAJA": "frame do clipe 5, plano 6 (por volta do segundo 9): ROSA puxando uma caixa velha da prateleira no arquivo escuro."
   },
   "personagens": {
     "ROSA": {
@@ -433,6 +435,117 @@
           "corpo": "CAMILA: imovel.",
           "camera": "Corte seco. Tight close-up de CAMILA SOZINHA no quadro (cabelo castanho escuro, vestido azul-claro), olhos cheios de lagrimas, Slow Push In, lente 85mm. Ninguem fala. O clipe termina neste rosto.",
           "segundos": 1.0
+        }
+      ]
+    },
+    {
+      "nome": "Do saguão para o arquivo velho",
+      "atuacao": "Novela dramatica. Atuacao INTENSA: ROSA decidida, chorando mas firme, guia as duas; ISABEL desconfiada e nervosa; CAMILA ansiosa, com medo da verdade. Rostos muito expressivos. Nenhuma fala neutra.",
+      "estilo": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Comeca no saguao claro do hospital e passa para um ARQUIVO velho no subsolo: Low-key, uma unica lampada fluorescente piscando, poeira flutuando no feixe de luz, prateleiras de metal enferrujadas com caixas de papelao amareladas. Shallow Focus nos closes, cortes rapidos.",
+      "imagens": [
+        "FRAME_SAGUAO",
+        "FRAME_ISABEL_CHOQUE",
+        "FRAME_CAMILA_LIMPA",
+        "FRAME_ROSA_CONFIESA"
+      ],
+      "frames": {
+        "ISABEL": "FRAME_ISABEL_CHOQUE",
+        "CAMILA": "FRAME_CAMILA_LIMPA",
+        "ROSA": "FRAME_ROSA_CONFIESA"
+      },
+      "salvar_frames": [
+        "FRAME_ARCHIVO",
+        "FRAME_CAJA"
+      ],
+      "personagens": [
+        "ROSA",
+        "ISABEL",
+        "CAMILA"
+      ],
+      "posicoes": {
+        "ROSA": "sempre na FRENTE, guiando; no arquivo, junto as prateleiras",
+        "ISABEL": "atras de ROSA, a DIREITA",
+        "CAMILA": "atras de ROSA, a ESQUERDA"
+      },
+      "preservar_extra": [
+        "Plano 1 no MESMO saguao da imagem FRAME_SAGUAO; do plano 2 em diante, corredor de servico e depois o ARQUIVO velho e escuro.",
+        "CAMILA usa SEMPRE o VESTIDO AZUL-CLARO de manga curta; ISABEL SEMPRE o TAILLEUR VERMELHO-VINHO com a mancha de cafe; ROSA SEMPRE o uniforme BRANCO.",
+        "Caixas e pastas do arquivo SEM nenhuma letra legivel."
+      ],
+      "cenario": "Comeca no saguao do hospital logo depois da discussao. ROSA leva ISABEL e CAMILA por um corredor de servico ate o arquivo velho do subsolo, onde ficam os registros de nascimento de 30 anos atras.",
+      "som": "Murmurios do saguao no plano 1; depois passos rapidos ecoando no corredor, uma porta de metal rangendo, o zumbido da lampada fluorescente piscando.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala"
+      ],
+      "negativos_extra": [
+        "placa ou texto na porta",
+        "letras legiveis nas caixas ou pastas",
+        "cracha com texto legivel",
+        "medico aparecendo",
+        "isabel de vestido azul",
+        "roupa de uma personagem em outra"
+      ],
+      "planos": [
+        {
+          "quem": "ROSA",
+          "para": "ISABEL",
+          "fala": "Puedo probarlo. Vengan conmigo.",
+          "emocao": 10,
+          "intencao": "Decidir mostrar a prova, firme.",
+          "voz": "Voz feminina rouca, firme, sem chorar.",
+          "rosto": "ROSA: enxuga as lagrimas, olhar decidido.",
+          "corpo": "ROSA: vira-se e comeca a andar.",
+          "camera": "Tight close-up of ROSA SOZINHA no quadro, head and upper shoulders, saguao claro ao fundo, lente 75mm."
+        },
+        {
+          "rosto": "Sem rostos de frente: as tres vistas de costas.",
+          "corpo": "ROSA na frente, ISABEL e CAMILA atras, caminham rapido por um corredor de servico estreito, de paredes verdes desbotadas.",
+          "camera": "Corte seco. Handheld seguindo as tres por tras no corredor, lente 35mm. Ninguem fala.",
+          "segundos": 1.0
+        },
+        {
+          "quem": "ISABEL",
+          "para": "ROSA",
+          "fala": "¿Adónde nos llevas?",
+          "emocao": 9,
+          "intencao": "Perguntar desconfiada e nervosa.",
+          "voz": "Voz feminina aguda, nervosa, um pouco ofegante.",
+          "rosto": "ISABEL: olhar desconfiado, testa franzida.",
+          "corpo": "ISABEL: anda rapido, a bolsa preta apertada contra o corpo.",
+          "camera": "Corte seco. Medium Close-Up de ISABEL SOZINHA no quadro andando no corredor, Handheld, lente 50mm."
+        },
+        {
+          "quem": "ROSA",
+          "para": "ISABEL",
+          "fala": "Al archivo de hace treinta años.",
+          "emocao": 10,
+          "intencao": "Revelar o destino, solene.",
+          "voz": "Voz feminina rouca, baixa, solene.",
+          "rosto": "ROSA: olhar firme, iluminado de lado pela lampada que pisca.",
+          "corpo": "ROSA: empurra uma porta de metal pesada; a lampada fluorescente acende piscando sobre prateleiras empoeiradas.",
+          "camera": "Corte seco. Medium Shot de ROSA SOZINHA no quadro abrindo a porta do arquivo escuro, poeira no feixe de luz, lente 35mm."
+        },
+        {
+          "quem": "CAMILA",
+          "para": "ROSA",
+          "fala": "¿Y qué hay aquí?",
+          "emocao": 10,
+          "intencao": "Perguntar com medo da resposta.",
+          "voz": "Voz feminina baixa, tremula.",
+          "rosto": "CAMILA: olhos arregalados, ainda com lagrimas, olhando as prateleiras.",
+          "corpo": "CAMILA: entra devagar, abracando os proprios bracos.",
+          "camera": "Corte seco. Tight close-up of CAMILA SOZINHA no quadro, head and upper shoulders, luz fria piscando no rosto, lente 75mm."
+        },
+        {
+          "quem": "ROSA",
+          "para": "CAMILA",
+          "fala": "La verdad.",
+          "emocao": 10,
+          "intencao": "Responder curto e pesado.",
+          "voz": "Voz feminina rouca, quase um sussurro.",
+          "rosto": "ROSA: olhar fixo na caixa.",
+          "corpo": "ROSA: puxa uma caixa velha de papelao da prateleira de metal, levantando poeira.",
+          "camera": "Corte seco. Low Angle, Medium Shot de ROSA SOZINHA no quadro puxando a caixa, poeira na luz, Slow Push In, lente 50mm. O clipe termina nesta imagem."
         }
       ]
     }

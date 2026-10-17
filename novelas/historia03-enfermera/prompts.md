@@ -545,7 +545,7 @@ Referências, nesta ordem: 1) FRAME_SAGUAO; 2) FRAME_ISABEL_CHOQUE; 3) FRAME_CAM
     "reference_images": [
       "Imagem 1 — frame do clipe 1, plano 1 (por volta do segundo 1): ISABEL de tailleur vinho com mancha de cafe agarrando o pulso de ROSA, que aparece de costas (coque grisalho, uniforme branco) na DIREITA; o saguao de marmore com pessoas olhando ao fundo.",
       "Imagem 2 — frame do clipe 3, plano 4 (por volta do segundo 8): close de ISABEL em choque, olhos arregalados, boca aberta, tailleur vinho com mancha de cafe, oculos escuros no cabelo.",
-      "Imagem 3 — frame do clipe 4 (segunda versao), ultimo plano (por volta do segundo 9,5): close de CAMILA chorando em silencio, cabelo castanho escuro ondulado, VESTIDO AZUL-CLARO, saguao claro ao fundo.",
+      "Imagem 3 — frame do clipe 4, ultimo plano (por volta do segundo 9,5): close de CAMILA chorando, cabelo castanho escuro ondulado, VESTIDO AZUL-CLARO de manga curta, saguao claro ao fundo.",
       "Imagem 4 — frame do clipe 2, plano 5 (por volta do segundo 8): close de ROSA chorando, a mao no rosto vermelho do tapa."
     ],
     "preserve_exactly": [
@@ -715,4 +715,200 @@ Referências, nesta ordem: 1) FRAME_SAGUAO; 2) FRAME_ISABEL_CHOQUE; 3) FRAME_CAM
 
 **Depois de gerar este clipe, salve os frames:**
 - **FRAME_CAMILA_LAGRIMAS:** frame do clipe 4, plano 1 (por volta do segundo 1): close de CAMILA chorando.
-- **FRAME_ROSA_CONFIESA:** frame do clipe 4, plano 3 (por volta do segundo 5): close de ROSA confessando, lagrimas no rosto.
+- **FRAME_ROSA_CONFIESA:** frame do clipe 4, plano 3 (por volta do segundo 5): close de ROSA confessando, uniforme branco, cracha, saguao claro ao fundo.
+
+## Clipe 5 — Do saguão para o arquivo velho
+
+clipe 5: 9.3s, 8.3s de fala (19 palavras, 6 planos, falantes: ROSA, ISABEL, CAMILA) ✅
+
+Referências, nesta ordem: 1) FRAME_SAGUAO; 2) FRAME_ISABEL_CHOQUE; 3) FRAME_CAMILA_LIMPA; 4) FRAME_ROSA_CONFIESA
+
+```json
+{
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao INTENSA: ROSA decidida, chorando mas firme, guia as duas; ISABEL desconfiada e nervosa; CAMILA ansiosa, com medo da verdade. Rostos muito expressivos. Nenhuma fala neutra.",
+  "input_image": {
+    "required": false,
+    "mode": "Ingredients to Video, sem primeiro frame.",
+    "additional_references": true,
+    "reference_images": [
+      "Imagem 1 — frame do clipe 1, plano 1 (por volta do segundo 1): ISABEL de tailleur vinho com mancha de cafe agarrando o pulso de ROSA, que aparece de costas (coque grisalho, uniforme branco) na DIREITA; o saguao de marmore com pessoas olhando ao fundo.",
+      "Imagem 2 — frame do clipe 3, plano 4 (por volta do segundo 8): close de ISABEL em choque, olhos arregalados, boca aberta, tailleur vinho com mancha de cafe, oculos escuros no cabelo.",
+      "Imagem 3 — frame do clipe 4, ultimo plano (por volta do segundo 9,5): close de CAMILA chorando, cabelo castanho escuro ondulado, VESTIDO AZUL-CLARO de manga curta, saguao claro ao fundo.",
+      "Imagem 4 — frame do clipe 4, plano 3 (por volta do segundo 5): close de ROSA confessando, uniforme branco, cracha, saguao claro ao fundo."
+    ],
+    "preserve_exactly": [
+      "ROSA: o MESMO rosto da imagem 4, enfermeira de 62 anos, pele morena, rosto bondoso e cansado, rugas finas, cabelo GRISALHO preso em coque baixo, uniforme de enfermeira BRANCO de manga curta, cracha no peito, relogio simples de pulseira de couro, sapatos brancos.",
+      "ISABEL: o MESMO rosto da imagem 2, senhora rica de 55 anos, pele clara, cabelo LOIRO platinado em chanel liso, maquiagem forte, batom vermelho, TAILLEUR VERMELHO-VINHO de grife, colar de PEROLAS, oculos escuros presos no cabelo, bolsa de grife PRETA no braco.",
+      "CAMILA: o MESMO rosto da imagem 3, mulher de 30 anos, pele morena clara, cabelo castanho escuro ondulado na altura dos ombros, maquiagem leve, VESTIDO AZUL-CLARO simples e elegante, brincos pequenos de prata, rosto doce.",
+      "Plano 1 no MESMO saguao da imagem 1; do plano 2 em diante, corredor de servico e depois o ARQUIVO velho e escuro.",
+      "CAMILA usa SEMPRE o VESTIDO AZUL-CLARO de manga curta; ISABEL SEMPRE o TAILLEUR VERMELHO-VINHO com a mancha de cafe; ROSA SEMPRE o uniforme BRANCO.",
+      "Caixas e pastas do arquivo SEM nenhuma letra legivel."
+    ]
+  },
+  "scene": {
+    "title": "LA ENFERMERA",
+    "duration_seconds": 9.3,
+    "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
+    "structure": "6 planos de cinema em tela cheia, ligados por cortes secos. 5 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Comeca no saguao claro do hospital e passa para um ARQUIVO velho no subsolo: Low-key, uma unica lampada fluorescente piscando, poeira flutuando no feixe de luz, prateleiras de metal enferrujadas com caixas de papelao amareladas. Shallow Focus nos closes, cortes rapidos.",
+    "setting": "Comeca no saguao do hospital logo depois da discussao. ROSA leva ISABEL e CAMILA por um corredor de servico ate o arquivo velho do subsolo, onde ficam os registros de nascimento de 30 anos atras.",
+    "blocking": [
+      "ROSA: sempre na FRENTE, guiando; no arquivo, junto as prateleiras",
+      "ISABEL: atras de ROSA, a DIREITA",
+      "CAMILA: atras de ROSA, a ESQUERDA"
+    ],
+    "characters": {
+      "ROSA": "A MESMA da imagem 4. Personagem ficticia. Voz feminina rouca, doce e humilde de senhora de 62 anos.",
+      "ISABEL": "A MESMA da imagem 2. Personagem ficticia. Voz feminina aguda, arrogante e cortante de senhora de 55 anos.",
+      "CAMILA": "A MESMA da imagem 3. Personagem ficticia. Voz feminina suave e firme de mulher de 30 anos."
+    }
+  },
+  "timeline": [
+    {
+      "time": "00:00.00-00:01.68",
+      "speaker": "ROSA",
+      "dialogue": "Puedo probarlo. Vengan conmigo.",
+      "addressee": "ISABEL",
+      "eyeline": "ROSA fala PARA ISABEL e olha para ISABEL (atras de ROSA, a DIREITA), fora do quadro. NAO olha para CAMILA.",
+      "emotion_level": 10,
+      "intention": "Decidir mostrar a prova, firme.",
+      "voice": "Voz feminina rouca, firme, sem chorar.",
+      "face": "ROSA: enxuga as lagrimas, olhar decidido.",
+      "body": "ROSA: vira-se e comeca a andar.",
+      "camera": "Tight close-up of ROSA SOZINHA no quadro, head and upper shoulders, saguao claro ao fundo, lente 75mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente ROSA movimenta os labios."
+    },
+    {
+      "time": "00:01.68-00:02.68",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "Sem rostos de frente: as tres vistas de costas.",
+      "body": "ROSA na frente, ISABEL e CAMILA atras, caminham rapido por um corredor de servico estreito, de paredes verdes desbotadas.",
+      "camera": "Corte seco. Handheld seguindo as tres por tras no corredor, lente 35mm. Ninguem fala.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    },
+    {
+      "time": "00:02.68-00:03.99",
+      "speaker": "ISABEL",
+      "dialogue": "¿Adónde nos llevas?",
+      "addressee": "ROSA",
+      "eyeline": "ISABEL fala PARA ROSA e olha para ROSA (sempre na FRENTE, guiando; no arquivo, junto as prateleiras), fora do quadro. NAO olha para CAMILA.",
+      "emotion_level": 9,
+      "intention": "Perguntar desconfiada e nervosa.",
+      "voice": "Voz feminina aguda, nervosa, um pouco ofegante.",
+      "face": "ISABEL: olhar desconfiado, testa franzida.",
+      "body": "ISABEL: anda rapido, a bolsa preta apertada contra o corpo.",
+      "camera": "Corte seco. Medium Close-Up de ISABEL SOZINHA no quadro andando no corredor, Handheld, lente 50mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente ISABEL movimenta os labios."
+    },
+    {
+      "time": "00:03.99-00:06.41",
+      "speaker": "ROSA",
+      "dialogue": "Al archivo de hace treinta años.",
+      "addressee": "ISABEL",
+      "eyeline": "ROSA fala PARA ISABEL e olha para ISABEL (atras de ROSA, a DIREITA), fora do quadro. NAO olha para CAMILA.",
+      "emotion_level": 10,
+      "intention": "Revelar o destino, solene.",
+      "voice": "Voz feminina rouca, baixa, solene.",
+      "face": "ROSA: olhar firme, iluminado de lado pela lampada que pisca.",
+      "body": "ROSA: empurra uma porta de metal pesada; a lampada fluorescente acende piscando sobre prateleiras empoeiradas.",
+      "camera": "Corte seco. Medium Shot de ROSA SOZINHA no quadro abrindo a porta do arquivo escuro, poeira no feixe de luz, lente 35mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente ROSA movimenta os labios."
+    },
+    {
+      "time": "00:06.41-00:08.10",
+      "speaker": "CAMILA",
+      "dialogue": "¿Y qué hay aquí?",
+      "addressee": "ROSA",
+      "eyeline": "CAMILA fala PARA ROSA e olha para ROSA (sempre na FRENTE, guiando; no arquivo, junto as prateleiras), fora do quadro. NAO olha para ISABEL.",
+      "emotion_level": 10,
+      "intention": "Perguntar com medo da resposta.",
+      "voice": "Voz feminina baixa, tremula.",
+      "face": "CAMILA: olhos arregalados, ainda com lagrimas, olhando as prateleiras.",
+      "body": "CAMILA: entra devagar, abracando os proprios bracos.",
+      "camera": "Corte seco. Tight close-up of CAMILA SOZINHA no quadro, head and upper shoulders, luz fria piscando no rosto, lente 75mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente CAMILA movimenta os labios."
+    },
+    {
+      "time": "00:08.10-00:09.30",
+      "speaker": "ROSA",
+      "dialogue": "La verdad.",
+      "addressee": "CAMILA",
+      "eyeline": "ROSA fala PARA CAMILA e olha para CAMILA (atras de ROSA, a ESQUERDA), fora do quadro. NAO olha para ISABEL.",
+      "emotion_level": 10,
+      "intention": "Responder curto e pesado.",
+      "voice": "Voz feminina rouca, quase um sussurro.",
+      "face": "ROSA: olhar fixo na caixa.",
+      "body": "ROSA: puxa uma caixa velha de papelao da prateleira de metal, levantando poeira.",
+      "camera": "Corte seco. Low Angle, Medium Shot de ROSA SOZINHA no quadro puxando a caixa, poeira na luz, Slow Push In, lente 50mm. O clipe termina nesta imagem. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente ROSA movimenta os labios."
+    }
+  ],
+  "dialogue_rules": {
+    "language": "Espanol de Mexico, acento mexicano natural, TODAS as palavras em espanhol.",
+    "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
+    "total_dialogue_lines": 5,
+    "exact_order": [
+      "ROSA",
+      "ISABEL",
+      "ROSA",
+      "CAMILA",
+      "ROSA"
+    ],
+    "rules": [
+      "So existem 5 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "A ultima fala termina junto com o video.",
+      "Cada fala e dirigida a: ROSA -> ISABEL; ISABEL -> ROSA; ROSA -> ISABEL; CAMILA -> ROSA; ROSA -> CAMILA.",
+      "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
+      "Nao repetir, misturar, traduzir ou acrescentar palavras.",
+      "Cada frase e dita INTEIRA, do comeco ao fim."
+    ]
+  },
+  "audio": {
+    "single_voice_at_a_time": true,
+    "sound": "Murmurios do saguao no plano 1; depois passos rapidos ecoando no corredor, uma porta de metal rangendo, o zumbido da lampada fluorescente piscando.",
+    "music": "Nenhuma.",
+    "narration": "Nenhuma.",
+    "subtitles": "Nao gerar."
+  },
+  "negative_prompt": [
+    "placa ou texto na porta",
+    "letras legiveis nas caixas ou pastas",
+    "cracha com texto legivel",
+    "medico aparecendo",
+    "isabel de vestido azul",
+    "roupa de uma personagem em outra",
+    "texto ou letras em qualquer lugar",
+    "nome ou idade de personagem escrito na tela",
+    "letreiro de apresentacao de personagem (lower third)",
+    "palavra inventada no ultimo plano",
+    "fala repetida",
+    "fala adiantada ou atrasada para outro plano",
+    "personagem falando ou olhando para quem nao e o destinatario da fala",
+    "fala neutra ou monotona",
+    "rosto neutro ou expressao vazia",
+    "atuacao contida",
+    "voz sem rosto na tela",
+    "tela dividida",
+    "colagem",
+    "formato horizontal",
+    "bordas pretas",
+    "palavras em ingles",
+    "palavras em portugues",
+    "duas vozes simultaneas",
+    "movimento labial do ouvinte",
+    "fala cortada, encurtada ou incompleta",
+    "personagem olhando para a camera",
+    "mudanca de rosto",
+    "mudanca de roupa",
+    "legendas",
+    "logotipo",
+    "marca-d'agua",
+    "trilha sonora"
+  ]
+}
+```
+
+**Depois de gerar este clipe, salve os frames:**
+- **FRAME_ARCHIVO:** frame do clipe 5, plano 4 (por volta do segundo 4): ROSA abrindo a porta do arquivo velho, prateleiras de metal com caixas de papelao e poeira na luz.
+- **FRAME_CAJA:** frame do clipe 5, plano 6 (por volta do segundo 9): ROSA puxando uma caixa velha da prateleira no arquivo escuro.
