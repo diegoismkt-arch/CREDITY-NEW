@@ -1,0 +1,138 @@
+{
+  "titulo_post": "Humilló a la enfermera… sin saber lo que pasó la noche que nació su hija 😱",
+  "legenda": "",
+  "texto_final": "Comenta PARTE 2 👇",
+  "titulo_interno": "LA ENFERMERA",
+  "plano_historia": [
+    "1 Saguao: cafe derrubado, tapa, a pulseirinha de bebe cai do bolso da Rosa",
+    "2 Camila pega a pulseira: 'Bebe Montero' - Isabel: por que voce tem isso?",
+    "3 Dr. Mendoza chega com o exame: Camila nao pode doar, sangue incompativel",
+    "4 'Usted no puede ser su hija biologica' - Isabel em choque, Rosa chora",
+    "5 Rosa: 'Yo trabajaba en el cunero esa noche' - Isabel agarra o braco dela",
+    "6 Troca de cenario: arquivo velho do hospital, caixas, poeira",
+    "7 Ficha de nascimento rasgada, foto de dois bercos",
+    "8 Camila: 'Entonces, ¿quien es mi madre?'",
+    "9 Rosa: 'Yo.' - fim"
+  ],
+  "estilo": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Saguao de hospital particular de luxo de dia: luz natural branca e suave entrando por janelas altas (Window Light) misturada com luminarias quentes do teto (Practical Lighting), piso de marmore branco brilhante, Shallow Focus nos closes, cortes rapidos.",
+  "imagens": {
+    "FRAME_SAGUAO": "frame do clipe 1, plano 1 (por volta do segundo 1): ISABEL com a mancha de cafe no tailleur vinho, agarrando o pulso de ROSA (de costas, so o ombro e o uniforme branco), o saguao de marmore do hospital ao fundo com pessoas olhando.",
+    "FRAME_ROSA": "frame do clipe 1, plano 2 (por volta do segundo 3): close de ROSA, enfermeira idosa de uniforme branco, assustada.",
+    "FRAME_PULSERA": "frame do clipe 1, plano 5 (por volta do segundo 7): a pulseirinha antiga de bebe caida no piso de marmore.",
+    "FRAME_CAMILA": "frame do clipe 1, plano 6 (por volta do segundo 9): close de CAMILA, vestido azul-claro, olhando para a mae."
+  },
+  "personagens": {
+    "ROSA": {
+      "descricao": "enfermeira de 62 anos, pele morena, rosto bondoso e cansado, rugas finas, cabelo GRISALHO preso em coque baixo, uniforme de enfermeira BRANCO de manga curta, cracha no peito, relogio simples de pulseira de couro, sapatos brancos.",
+      "voz": "Voz feminina rouca, doce e humilde de senhora de 62 anos.",
+      "frame": "FRAME_ROSA",
+      "feminino": true
+    },
+    "ISABEL": {
+      "descricao": "senhora rica de 55 anos, pele clara, cabelo LOIRO platinado em chanel liso, maquiagem forte, batom vermelho, TAILLEUR VERMELHO-VINHO de grife, colar de PEROLAS, oculos escuros presos no cabelo, bolsa de grife PRETA no braco.",
+      "voz": "Voz feminina aguda, arrogante e cortante de senhora de 55 anos.",
+      "frame": "FRAME_SAGUAO",
+      "feminino": true
+    },
+    "CAMILA": {
+      "descricao": "mulher de 30 anos, pele morena clara, cabelo castanho escuro ondulado na altura dos ombros, maquiagem leve, VESTIDO AZUL-CLARO simples e elegante, brincos pequenos de prata, rosto doce.",
+      "voz": "Voz feminina suave e firme de mulher de 30 anos.",
+      "frame": "FRAME_CAMILA",
+      "feminino": true
+    }
+  },
+  "clips": [
+    {
+      "nome": "O café, o tapa e a pulseira",
+      "atuacao": "Novela dramatica. Atuacao INTENSA: ISABEL furiosa, arrogante, cheia de desprezo pela enfermeira; ROSA humilde, assustada, quase chorando; CAMILA envergonhada da mae e indignada. Rostos muito expressivos. Nenhuma fala neutra.",
+      "personagens": [
+        "ISABEL",
+        "ROSA",
+        "CAMILA"
+      ],
+      "posicoes": {
+        "ISABEL": "no centro do saguao, de frente para ROSA",
+        "ROSA": "na frente de ISABEL, a DIREITA dela, com uma bandeja na mao",
+        "CAMILA": "atras de ISABEL, a ESQUERDA dela, a um passo"
+      },
+      "preservar_extra": [
+        "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
+        "A partir do primeiro plano, ISABEL tem uma mancha de cafe no tailleur vinho."
+      ],
+      "cenario": "O saguao de um hospital particular de luxo, de dia: piso de marmore branco, recepcao de madeira clara, plantas altas, janelas grandes. Pacientes e acompanhantes ao fundo param e olham a cena (plateia).",
+      "som": "Ruido baixo do saguao, uma xicara quebrando no chao, o estalo do tapa, murmurios das pessoas olhando.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala"
+      ],
+      "negativos_extra": [
+        "texto legivel na pulseira",
+        "rosa revidando",
+        "camila batendo em alguem"
+      ],
+      "salvar_frames": [
+        "FRAME_SAGUAO",
+        "FRAME_ROSA",
+        "FRAME_PULSERA",
+        "FRAME_CAMILA"
+      ],
+      "planos": [
+        {
+          "quem": "ISABEL",
+          "para": "ROSA",
+          "fala": "¡Mira lo que hiciste, inútil!",
+          "emocao": 10,
+          "intencao": "Humilhar a enfermeira na frente de todos.",
+          "voz": "Voz feminina aguda, gritando de raiva.",
+          "rosto": "ISABEL: olhos faiscando de raiva, labios vermelhos tensos de desprezo.",
+          "corpo": "ISABEL: a xicara da bandeja de ROSA cai e se quebra no chao, o cafe mancha o tailleur vinho; ela agarra com forca o pulso de ROSA.",
+          "camera": "Low Angle, Medium Shot de ISABEL, o ombro de ROSA de costas desfocado na borda do quadro, o saguao de marmore e pessoas olhando ao fundo, lente 50mm, Handheld leve."
+        },
+        {
+          "quem": "ROSA",
+          "para": "ISABEL",
+          "fala": "Perdón, señora, fue sin querer.",
+          "emocao": 10,
+          "intencao": "Pedir desculpas, assustada e humilde.",
+          "voz": "Voz feminina rouca, tremula, quase chorando.",
+          "rosto": "ROSA: olhos marejados, sobrancelhas erguidas de medo.",
+          "corpo": "ROSA: tenta soltar o pulso, segurando a bandeja vazia contra o peito.",
+          "camera": "Corte seco. High Angle, tight close-up of ROSA SOZINHA no quadro, head and upper shoulders, lente 75mm."
+        },
+        {
+          "rosto": "ROSA: o rosto vira com o impacto do tapa, olhos fechados de dor.",
+          "corpo": "A mao de ISABEL atinge o rosto de ROSA.",
+          "camera": "Corte seco. Crash Zoom In curto no momento do tapa: camera body locked, rapid focal length change, radial zoom blur, plano medio das duas. Ninguem fala.",
+          "segundos": 0.8
+        },
+        {
+          "quem": "ISABEL",
+          "para": "ROSA",
+          "fala": "¡Lárgate de aquí, vieja!",
+          "emocao": 10,
+          "intencao": "Expulsar a enfermeira com desprezo.",
+          "voz": "Voz feminina cortante, cheia de nojo.",
+          "rosto": "ISABEL: queixo erguido, olhar de nojo de cima para baixo.",
+          "corpo": "ISABEL: aponta para a saida com a mao que deu o tapa.",
+          "camera": "Corte seco. Low Angle, tight close-up of ISABEL SOZINHA no quadro, head and upper shoulders, lente 75mm."
+        },
+        {
+          "rosto": "Sem rostos.",
+          "corpo": "Do bolso do uniforme branco de ROSA cai uma pulseirinha antiga de hospital de bebe, de plastico amarelado, e bate no piso de marmore.",
+          "camera": "Corte seco. Insert shot em Slow Motion, lente macro, ao nivel do chao: a pulseirinha de bebe cai e para no marmore brilhante. Ninguem fala.",
+          "segundos": 1.0
+        },
+        {
+          "quem": "CAMILA",
+          "para": "ISABEL",
+          "fala": "¡Mamá, basta! Todos te miran.",
+          "emocao": 10,
+          "intencao": "Frear a mae, envergonhada e indignada.",
+          "voz": "Voz feminina firme, baixa e envergonhada.",
+          "rosto": "CAMILA: testa franzida, olhar de vergonha e indignacao para a mae.",
+          "corpo": "CAMILA: segura o braco de ISABEL e a puxa para tras.",
+          "camera": "Corte seco. Tight close-up of CAMILA SOZINHA no quadro, head and upper shoulders, Eye Level, lente 75mm, pessoas olhando desfocadas ao fundo."
+        }
+      ]
+    }
+  ]
+}
