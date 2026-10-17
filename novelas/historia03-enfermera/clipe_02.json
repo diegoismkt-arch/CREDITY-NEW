@@ -11,7 +11,7 @@
       "Imagem 4 — frame do clipe 1, plano 6 (por volta do segundo 8): close de CAMILA de vestido azul-claro, preocupada, pessoas olhando ao fundo. (Essa imagem tem um texto escrito embaixo: ele NAO deve aparecer no video.)"
     ],
     "preserve_exactly": [
-      "CAMILA: o MESMO rosto da imagem 4, mulher de 30 anos, pele morena clara, cabelo castanho escuro ondulado na altura dos ombros, maquiagem leve, VESTIDO AZUL-CLARO simples e elegante, brincos pequenos de prata, rosto doce.",
+      "CAMILA: mulher de 30 anos, pele morena clara, cabelo castanho escuro ondulado na altura dos ombros, maquiagem leve, VESTIDO AZUL-CLARO simples e elegante, brincos pequenos de prata, rosto doce.",
       "ROSA: o MESMO rosto da imagem 2, enfermeira de 62 anos, pele morena, rosto bondoso e cansado, rugas finas, cabelo GRISALHO preso em coque baixo, uniforme de enfermeira BRANCO de manga curta, cracha no peito, relogio simples de pulseira de couro, sapatos brancos.",
       "ISABEL: o MESMO rosto da imagem 1, senhora rica de 55 anos, pele clara, cabelo LOIRO platinado em chanel liso, maquiagem forte, batom vermelho, TAILLEUR VERMELHO-VINHO de grife, colar de PEROLAS, oculos escuros presos no cabelo, bolsa de grife PRETA no braco.",
       "O MESMO saguao de hospital da imagem 1, com as mesmas pessoas olhando ao fundo.",
@@ -34,7 +34,7 @@
       "CAMILA: a ESQUERDA de ISABEL, agachada no chao e depois em pe, entre as duas"
     ],
     "characters": {
-      "CAMILA": "A MESMA da imagem 4. Personagem ficticia. Voz feminina suave e firme de mulher de 30 anos.",
+      "CAMILA": "mulher de 30 anos, pele morena clara, cabelo castanho escuro ondulado na altura dos ombros, maquiagem leve, VESTIDO AZUL-CLARO simples e elegante, brincos pequenos de prata, rosto doce. Personagem ficticia. Voz feminina suave e firme de mulher de 30 anos.",
       "ROSA": "A MESMA da imagem 2. Personagem ficticia. Voz feminina rouca, doce e humilde de senhora de 62 anos.",
       "ISABEL": "A MESMA da imagem 1. Personagem ficticia. Voz feminina aguda, arrogante e cortante de senhora de 55 anos."
     }

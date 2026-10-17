@@ -25,7 +25,8 @@
     "FRAME_MENDOZA": "frame do clipe 3, plano 1 (por volta do segundo 1): DR. MENDOZA de jaleco branco, gravata azul, oculos, chegando pelo saguao com a pasta azul aberta; pessoas ao fundo.",
     "FRAME_ISABEL_CHOQUE": "frame do clipe 3, plano 4 (por volta do segundo 8): close de ISABEL em choque, olhos arregalados, boca aberta, tailleur vinho com mancha de cafe, oculos escuros no cabelo.",
     "FRAME_CAMILA_LAGRIMAS": "frame do clipe 4, plano 1 (por volta do segundo 1): close de CAMILA chorando.",
-    "FRAME_ROSA_CONFIESA": "frame do clipe 4, plano 3 (por volta do segundo 5): close de ROSA confessando, lagrimas no rosto."
+    "FRAME_ROSA_CONFIESA": "frame do clipe 4, plano 3 (por volta do segundo 5): close de ROSA confessando, lagrimas no rosto.",
+    "FRAME_CAMILA_LIMPA": "frame do clipe 4 (segunda versao), ultimo plano (por volta do segundo 9,5): close de CAMILA chorando em silencio, cabelo castanho escuro ondulado, VESTIDO AZUL-CLARO, saguao claro ao fundo."
   },
   "personagens": {
     "ROSA": {
@@ -43,7 +44,7 @@
     "CAMILA": {
       "descricao": "mulher de 30 anos, pele morena clara, cabelo castanho escuro ondulado na altura dos ombros, maquiagem leve, VESTIDO AZUL-CLARO simples e elegante, brincos pequenos de prata, rosto doce.",
       "voz": "Voz feminina suave e firme de mulher de 30 anos.",
-      "frame": "FRAME_CAMILA",
+      "frame": "FRAME_CAMILA_LIMPA",
       "feminino": true
     },
     "MENDOZA": {
@@ -334,7 +335,7 @@
       "imagens": [
         "FRAME_SAGUAO",
         "FRAME_ISABEL_CHOQUE",
-        "FRAME_CAMILA",
+        "FRAME_CAMILA_LIMPA",
         "FRAME_ROSA_NOCHE"
       ],
       "frames": {
@@ -357,9 +358,10 @@
       },
       "preservar_extra": [
         "O MESMO saguao de hospital da imagem FRAME_SAGUAO, com pessoas olhando ao fundo.",
-        "CAMILA usa SEMPRE o MESMO VESTIDO AZUL-CLARO de manga curta da imagem FRAME_CAMILA; o texto escrito embaixo dessa imagem NAO aparece no video.",
+        "CAMILA usa SEMPRE o MESMO VESTIDO AZUL-CLARO de manga curta da imagem FRAME_CAMILA_LIMPA.",
         "ISABEL continua com a mancha de cafe no tailleur vinho.",
-        "ROSA com o rosto vermelho do tapa."
+        "ROSA com o rosto vermelho do tapa.",
+        "ISABEL usa SEMPRE o TAILLEUR VERMELHO-VINHO; so CAMILA usa azul-claro."
       ],
       "cenario": "O MESMO saguao do hospital da imagem FRAME_SAGUAO, segundos depois do medico dizer que CAMILA nao e filha biologica de ISABEL.",
       "som": "Murmurios do saguao, um soluco de choro, respiracoes pesadas.",
@@ -373,7 +375,9 @@
         "camila de vestido bege, branco ou de alcinha",
         "isabel no ultimo plano",
         "rosto loiro no ultimo plano",
-        "mientes repetido"
+        "mientes repetido",
+        "isabel de vestido azul",
+        "roupa de uma personagem em outra"
       ],
       "regras_extra": [
         "A fala '¡Mientes!' e dita UMA UNICA VEZ.",

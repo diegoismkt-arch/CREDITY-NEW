@@ -202,7 +202,7 @@ Referências, nesta ordem: 1) FRAME_SAGUAO; 2) FRAME_ROSA; 3) FRAME_PULSERA; 4) 
       "Imagem 4 — frame do clipe 1, plano 6 (por volta do segundo 8): close de CAMILA de vestido azul-claro, preocupada, pessoas olhando ao fundo. (Essa imagem tem um texto escrito embaixo: ele NAO deve aparecer no video.)"
     ],
     "preserve_exactly": [
-      "CAMILA: o MESMO rosto da imagem 4, mulher de 30 anos, pele morena clara, cabelo castanho escuro ondulado na altura dos ombros, maquiagem leve, VESTIDO AZUL-CLARO simples e elegante, brincos pequenos de prata, rosto doce.",
+      "CAMILA: mulher de 30 anos, pele morena clara, cabelo castanho escuro ondulado na altura dos ombros, maquiagem leve, VESTIDO AZUL-CLARO simples e elegante, brincos pequenos de prata, rosto doce.",
       "ROSA: o MESMO rosto da imagem 2, enfermeira de 62 anos, pele morena, rosto bondoso e cansado, rugas finas, cabelo GRISALHO preso em coque baixo, uniforme de enfermeira BRANCO de manga curta, cracha no peito, relogio simples de pulseira de couro, sapatos brancos.",
       "ISABEL: o MESMO rosto da imagem 1, senhora rica de 55 anos, pele clara, cabelo LOIRO platinado em chanel liso, maquiagem forte, batom vermelho, TAILLEUR VERMELHO-VINHO de grife, colar de PEROLAS, oculos escuros presos no cabelo, bolsa de grife PRETA no braco.",
       "O MESMO saguao de hospital da imagem 1, com as mesmas pessoas olhando ao fundo.",
@@ -225,7 +225,7 @@ Referências, nesta ordem: 1) FRAME_SAGUAO; 2) FRAME_ROSA; 3) FRAME_PULSERA; 4) 
       "CAMILA: a ESQUERDA de ISABEL, agachada no chao e depois em pe, entre as duas"
     ],
     "characters": {
-      "CAMILA": "A MESMA da imagem 4. Personagem ficticia. Voz feminina suave e firme de mulher de 30 anos.",
+      "CAMILA": "mulher de 30 anos, pele morena clara, cabelo castanho escuro ondulado na altura dos ombros, maquiagem leve, VESTIDO AZUL-CLARO simples e elegante, brincos pequenos de prata, rosto doce. Personagem ficticia. Voz feminina suave e firme de mulher de 30 anos.",
       "ROSA": "A MESMA da imagem 2. Personagem ficticia. Voz feminina rouca, doce e humilde de senhora de 62 anos.",
       "ISABEL": "A MESMA da imagem 1. Personagem ficticia. Voz feminina aguda, arrogante e cortante de senhora de 55 anos."
     }
@@ -533,7 +533,7 @@ Referências, nesta ordem: 1) FRAME_SAGUAO; 2) FRAME_CAMILA_PULSERA; 3) FRAME_RO
 
 clipe 4: 9.1s, 8.1s de fala (18 palavras, 5 planos, falantes: CAMILA, ISABEL, ROSA) ✅
 
-Referências, nesta ordem: 1) FRAME_SAGUAO; 2) FRAME_ISABEL_CHOQUE; 3) FRAME_CAMILA; 4) FRAME_ROSA_NOCHE
+Referências, nesta ordem: 1) FRAME_SAGUAO; 2) FRAME_ISABEL_CHOQUE; 3) FRAME_CAMILA_LIMPA; 4) FRAME_ROSA_NOCHE
 
 ```json
 {
@@ -545,7 +545,7 @@ Referências, nesta ordem: 1) FRAME_SAGUAO; 2) FRAME_ISABEL_CHOQUE; 3) FRAME_CAM
     "reference_images": [
       "Imagem 1 — frame do clipe 1, plano 1 (por volta do segundo 1): ISABEL de tailleur vinho com mancha de cafe agarrando o pulso de ROSA, que aparece de costas (coque grisalho, uniforme branco) na DIREITA; o saguao de marmore com pessoas olhando ao fundo.",
       "Imagem 2 — frame do clipe 3, plano 4 (por volta do segundo 8): close de ISABEL em choque, olhos arregalados, boca aberta, tailleur vinho com mancha de cafe, oculos escuros no cabelo.",
-      "Imagem 3 — frame do clipe 1, plano 6 (por volta do segundo 8): close de CAMILA de vestido azul-claro, preocupada, pessoas olhando ao fundo. (Essa imagem tem um texto escrito embaixo: ele NAO deve aparecer no video.)",
+      "Imagem 3 — frame do clipe 4 (segunda versao), ultimo plano (por volta do segundo 9,5): close de CAMILA chorando em silencio, cabelo castanho escuro ondulado, VESTIDO AZUL-CLARO, saguao claro ao fundo.",
       "Imagem 4 — frame do clipe 2, plano 5 (por volta do segundo 8): close de ROSA chorando, a mao no rosto vermelho do tapa."
     ],
     "preserve_exactly": [
@@ -553,9 +553,10 @@ Referências, nesta ordem: 1) FRAME_SAGUAO; 2) FRAME_ISABEL_CHOQUE; 3) FRAME_CAM
       "ISABEL: o MESMO rosto da imagem 2, senhora rica de 55 anos, pele clara, cabelo LOIRO platinado em chanel liso, maquiagem forte, batom vermelho, TAILLEUR VERMELHO-VINHO de grife, colar de PEROLAS, oculos escuros presos no cabelo, bolsa de grife PRETA no braco.",
       "ROSA: o MESMO rosto da imagem 4, enfermeira de 62 anos, pele morena, rosto bondoso e cansado, rugas finas, cabelo GRISALHO preso em coque baixo, uniforme de enfermeira BRANCO de manga curta, cracha no peito, relogio simples de pulseira de couro, sapatos brancos.",
       "O MESMO saguao de hospital da imagem 1, com pessoas olhando ao fundo.",
-      "CAMILA usa SEMPRE o MESMO VESTIDO AZUL-CLARO de manga curta da imagem 3; o texto escrito embaixo dessa imagem NAO aparece no video.",
+      "CAMILA usa SEMPRE o MESMO VESTIDO AZUL-CLARO de manga curta da imagem 3.",
       "ISABEL continua com a mancha de cafe no tailleur vinho.",
-      "ROSA com o rosto vermelho do tapa."
+      "ROSA com o rosto vermelho do tapa.",
+      "ISABEL usa SEMPRE o TAILLEUR VERMELHO-VINHO; so CAMILA usa azul-claro."
     ]
   },
   "scene": {
@@ -679,6 +680,8 @@ Referências, nesta ordem: 1) FRAME_SAGUAO; 2) FRAME_ISABEL_CHOQUE; 3) FRAME_CAM
     "isabel no ultimo plano",
     "rosto loiro no ultimo plano",
     "mientes repetido",
+    "isabel de vestido azul",
+    "roupa de uma personagem em outra",
     "texto ou letras em qualquer lugar",
     "nome ou idade de personagem escrito na tela",
     "letreiro de apresentacao de personagem (lower third)",
