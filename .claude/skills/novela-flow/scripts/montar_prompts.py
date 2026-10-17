@@ -100,7 +100,7 @@ def montar(rot, n, clip):
         item["camera"] = cam
         if fala:
             olha_camera = p.get("olha_para_camera", False)
-            item["mouths"] = (f"Somente {p['quem']} movimenta os labios."
+            item["mouths"] = p.get("bocas") or (f"Somente {p['quem']} movimenta os labios."
                               + (" Olha DIRETO para a lente, quebrando a quarta parede." if olha_camera else ""))
         else:
             item["mouths"] = "Bocas FECHADAS. Ninguem fala."
@@ -132,7 +132,9 @@ def montar(rot, n, clip):
     pers = rot["personagens"]
     fichas, preservar = {}, []
     for k in usados:
-        d = pers[k]
+        d = dict(pers[k])
+        if k in clip.get("frames", {}):
+            d["frame"] = clip["frames"][k]  # frame mais recente deste personagem, só neste clipe
         o, fic = ("A MESMA", "ficticia") if d.get("feminino") else ("O MESMO", "ficticio")
         if d.get("frame") in imagens:
             # personagem já existe num frame salvo de clipe anterior

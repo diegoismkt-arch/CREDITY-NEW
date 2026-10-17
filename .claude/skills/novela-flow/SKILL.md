@@ -24,7 +24,7 @@ Produz novelas em espanhol (sotaque mexicano) 100% no **Google Flow**, no format
 - **1º segundo = ação física**, não fala: agarrar o braço, mão levantada, empurrão, objeto caindo.
 - **Ninguém fala parado:** cada plano tem uma ação de corpo (agarrar, puxar, abrir, mostrar, recuar).
 - **Objeto-pista a cada ~10 s** em INSERT de mão/objeto (medalhão, chave, celular com vídeo, documento, assinatura, bolsa). Insert de objeto simples (anel caindo, chave na mão): ~1 s. **Insert de algo que o público precisa LER ou ASSISTIR (tela de celular, documento, foto, assinatura): mínimo 2,5 s**, com Slow Zoom In até a tela/papel ocupar o quadro.
-- **Cadeia de revelações:** cada resposta abre nova pergunta; nunca resolver. Terminar numa frase-bomba curta ("Fui yo.") ou numa revelação sem explicação.
+- **Cadeia de revelações:** cada resposta abre nova pergunta; nunca resolver. Terminar numa frase-bomba curta ou numa revelação sem explicação. Final mais forte: uma VOZ fora do quadro grita "¡Fui yo!", todos se viram para a porta e NINGUÉM aparece (no plano: `"quem": "VOZ (fora do quadro)"`, `"bocas"` com todos de boca fechada, e tirar "voz sem rosto na tela" dos negativos).
 - **Plateia:** testemunhas reagindo; humilhação pública. 4–5 personagens ativos.
 - **Trocar de cenário** no meio de um vídeo longo para dar sensação de investigação.
 - **CTA falado é opcional:** se o gancho final for forte, terminar seco no rosto em choque e pôr "Comenta PARTE 2 👇" só como texto na edição.
@@ -112,6 +112,8 @@ Um longo rende 3 a 5 curtos (cada um com um gancho diferente).
 ```
 
 - `imagens` vazio/ausente = clipe sem referência (Text to Video). Com `imagens`, o personagem cujo `frame` está na lista vira "O MESMO da imagem N"; os demais são descritos por texto.
+- `frames` (por clipe, opcional): `{"VICTORIA": "FRAME_VICTORIA_PAPEL"}` troca o frame de referência do personagem só naquele clipe (quando um frame mais novo mostra melhor o rosto).
+- `bocas` (por plano, opcional): troca o texto padrão do campo `mouths` (ex.: voz fora do quadro).
 - Nos textos, citar imagens pelo NOME (`imagem FRAME_DON`); o script troca pelo número certo de cada clipe ("imagem 2").
 - Plano sem `fala` = plano mudo de reação (use pouco, no máximo ~0,8 s, só no fim).
 - O negative prompt padrão (tela dividida, legendas, fala repetida, dois rostos nos planos de fala, etc.) já vem no script.

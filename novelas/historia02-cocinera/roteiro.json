@@ -1,6 +1,6 @@
 {
   "titulo_post": "La novia humilló a la cocinera… sin saber que ella era la verdadera dueña de la hacienda 😱",
-  "legenda": "",
+  "legenda": "Estaban leyendo el testamento… y alguien gritó desde la oscuridad. ¿Quién crees que fue? Comenta PARTE 2 👇",
   "texto_final": "Comenta PARTE 2 👇",
   "titulo_interno": "LA COCINERA",
   "estilo": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Jardim de hacienda mexicana ao entardecer: luz dourada quente, arcos de pedra, Shallow Focus nos closes, cortes rapidos.",
@@ -18,8 +18,8 @@
     "FRAME_DESPACHO": "frame do clipe 6, plano 4 (por volta do segundo 7): o escritorio antigo e escuro com a escrivaninha de madeira, DON JULIAN junto a gaveta aberta e vazia.",
     "FRAME_FOTO": "frame do clipe 6, plano 2 (por volta do segundo 4): a foto antiga de casamento em preto e branco num porta-retrato sobre a escrivaninha.",
     "FRAME_PAPEL": "frame do clipe 7, plano 5 (por volta do segundo 8): a bolsa dourada caida no chao de madeira com um papel antigo amarelado dobrado saindo de dentro.",
-    "FRAME_VICTORIA_PAPEL": "frame do clipe 8, plano 2 (por volta do segundo 4): close de DONA VICTORIA lendo o papel antigo amarelado com um sorriso.",
-    "FRAME_CARMEN_FIRMA": "frame do clipe 8, plano 4 (por volta do segundo 9): close de DONA CARMEN firme, no escritorio escuro."
+    "FRAME_VICTORIA_PAPEL": "frame do clipe 8, plano 2 (por volta do segundo 3): close de DONA VICTORIA lendo o papel antigo amarelado, em choque.",
+    "FRAME_CARMEN_LAGRIMAS": "frame do clipe 8, plano 4 (por volta do segundo 6): close de DONA CARMEN com lagrimas nos olhos, no escritorio escuro."
   },
   "personagens": {
     "DANIELA": {
@@ -749,52 +749,60 @@
       ]
     },
     {
-      "nome": "O testamento e a assinatura falsa",
-      "atuacao": "Novela dramatica. Atuacao INTENSA: DONA VICTORIA le o papel com um sorriso de vitoria crescente; DONA CARMEN olha a assinatura e endurece, com certeza absoluta. Suspense maximo. Rostos muito expressivos.",
+      "nome": "A última página + ¡Fui yo!",
+      "atuacao": "Novela dramatica. Atuacao INTENSA: DONA VICTORIA le o papel e passa da confianca ao CHOQUE; DONA CARMEN chora de emocao. No meio da leitura uma VOZ de homem GRITA '¡Fui yo!' de FORA DO QUADRO: todos CONGELAM e se viram para a porta. NINGUEM aparece e ninguem sabe de quem e a voz. Suspense maximo.",
       "estilo": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Interior escuro e empoeirado: Low-key, Window Light em faixas pelas frestas da janela, poeira no ar, Shallow Focus nos closes, cortes rapidos.",
       "imagens": [
         "FRAME_DESPACHO",
         "FRAME_VICTORIA",
         "FRAME_CARMEN_PE",
-        "FRAME_PAPEL"
+        "FRAME_DANIELA_TEL"
       ],
       "salvar_frames": [
         "FRAME_VICTORIA_PAPEL",
-        "FRAME_CARMEN_FIRMA"
+        "FRAME_CARMEN_LAGRIMAS"
       ],
       "personagens": [
         "VICTORIA",
         "CARMEN",
-        "JULIAN",
-        "DANIELA"
+        "DANIELA",
+        "JULIAN"
       ],
       "posicoes": {
         "VICTORIA": "no centro do escritorio, segurando o papel aberto",
-        "CARMEN": "ao lado DIREITO de VICTORIA, olhando o papel",
-        "JULIAN": "atras da escrivaninha, calado",
-        "DANIELA": "perto da porta, ao fundo, calada"
+        "CARMEN": "ao lado DIREITO de VICTORIA",
+        "DANIELA": "a ESQUERDA de VICTORIA, perto da porta",
+        "JULIAN": "atras da escrivaninha",
+        "PORTA": "a porta do escritorio fica no FUNDO, atras de DANIELA; fica entreaberta e ESCURA"
       },
       "preservar_extra": [
         "O MESMO escritorio antigo e escuro da imagem FRAME_DESPACHO.",
-        "O MESMO papel antigo amarelado da imagem FRAME_PAPEL, agora aberto nas maos de VICTORIA.",
-        "No pe do papel, uma assinatura a tinta, um rabisco elegante ILEGIVEL; nenhuma outra letra legivel."
+        "Nas maos de VICTORIA, o papel antigo amarelado que caiu da bolsa de DANIELA, com a borda de cima RASGADA (foi arrancado de um caderno de folhas). Nenhuma letra legivel.",
+        "A voz que grita '¡Fui yo!' vem de FORA DO QUADRO. NINGUEM novo aparece no video."
       ],
-      "cenario": "O MESMO escritorio antigo do patrao da imagem FRAME_DESPACHO, logo depois do papel cair da bolsa.",
-      "som": "O papel sendo desdobrado, silencio pesado, a respiracao de todos.",
+      "cenario": "O MESMO escritorio antigo do patrao da imagem FRAME_DESPACHO, logo depois do papel cair da bolsa de DANIELA.",
+      "som": "O papel sendo desdobrado, silencio pesado; de repente um grito masculino vem do corredor escuro, com eco; a porta range.",
       "remover_negativos": [
-        "dois rostos visiveis nos planos de fala"
+        "dois rostos visiveis nos planos de fala",
+        "voz sem rosto na tela"
       ],
       "negativos_extra": [
         "patio",
         "convidados",
         "texto legivel no papel",
-        "letras legiveis na assinatura",
+        "assinatura em destaque",
         "julian falando",
-        "daniela falando"
+        "pessoa nova aparecendo",
+        "homem na porta",
+        "silhueta na porta",
+        "alguem entrando no escritorio",
+        "personagem visivel movendo a boca no plano do grito"
       ],
       "regras_extra": [
-        "O plano 3 e mudo e longo: a assinatura precisa ficar bem visivel.",
-        "DON JULIAN e DANIELA nao falam neste clipe."
+        "DON JULIAN e DANIELA nao falam neste clipe.",
+        "A fala '¡Fui yo!' e de uma VOZ masculina FORA DO QUADRO: no plano 4 TODOS os personagens visiveis ficam de boca FECHADA.",
+        "Ninguem aparece na porta: ela fica entreaberta e escura ate o fim.",
+        "O video termina no rosto de VICTORIA em choque, sem ninguem falar."
       ],
       "planos": [
         {
@@ -803,7 +811,7 @@
           "fala": "La última página del testamento.",
           "emocao": 9,
           "eyeline": "VICTORIA olha para o PAPEL nas maos dela enquanto fala.",
-          "intencao": "Anunciar o que encontrou, com tensao.",
+          "intencao": "Anunciar o que encontrou, ainda confiante.",
           "voz": "Voz feminina grave, baixa e tensa.",
           "rosto": "DONA VICTORIA: olhos fixos no papel, sobrancelhas erguidas.",
           "corpo": "DONA VICTORIA: pega o papel do chao e o desdobra devagar.",
@@ -812,31 +820,50 @@
         {
           "quem": "VICTORIA",
           "para": "CARMEN",
-          "fala": "«Dejo todo… a mi hermana Victoria».",
+          "fala": "«Dejo todo… a mi esposa, Carmen».",
           "emocao": 10,
           "eyeline": "VICTORIA le o PAPEL em voz alta e no fim levanta os olhos para CARMEN, fora do quadro.",
-          "intencao": "Ler a frase com um sorriso de vitoria crescente.",
-          "voz": "Voz feminina grave, lenta, saboreando cada palavra.",
-          "rosto": "DONA VICTORIA: um sorriso lento de vitoria se abrindo.",
-          "corpo": "DONA VICTORIA: segura o papel perto do rosto.",
+          "intencao": "Ler a frase e perceber que perdeu tudo.",
+          "voz": "Voz feminina grave que vai FALHANDO a cada palavra, incredula.",
+          "rosto": "DONA VICTORIA: a confianca some, o rosto empalidece, boca tremendo.",
+          "corpo": "DONA VICTORIA: as maos com o papel comecam a tremer.",
           "camera": "Corte seco. Slow Zoom In: tight close-up of DONA VICTORIA SOZINHA no quadro, head and upper shoulders, o papel na borda do quadro, Rembrandt lighting, lente 75mm."
-        },
-        {
-          "rosto": "Sem rostos.",
-          "corpo": "No pe do papel antigo amarelado, uma assinatura a tinta preta, um rabisco elegante e ilegivel; o dedo de DONA CARMEN aponta para ela.",
-          "camera": "Corte seco. Insert shot da assinatura em escala real, lente macro, Slow Zoom In ate a assinatura ocupar o quadro, Rack Focus do dedo para a tinta. A assinatura fica bem visivel. Ninguem fala.",
-          "segundos": 2.5
         },
         {
           "quem": "CARMEN",
           "para": "VICTORIA",
-          "fala": "Esa no es la firma de Rafael.",
+          "fala": "Mi Rafael… no me olvidó.",
           "emocao": 10,
-          "intencao": "Afirmar com certeza absoluta que a assinatura e falsa.",
-          "voz": "Voz feminina rouca, BAIXA, firme e cortante.",
-          "rosto": "DONA CARMEN: olhar firme e frio para VICTORIA, sem piscar.",
-          "corpo": "DONA CARMEN: tira o dedo do papel e levanta o rosto.",
-          "camera": "Corte seco. Dolly In: tight close-up of DONA CARMEN SOZINHA no quadro, head and upper shoulders, Low-key com Eye Light, lente 75mm. O clipe termina neste rosto."
+          "intencao": "Emocionar-se: o marido a deixou como herdeira.",
+          "voz": "Voz feminina rouca, embargada, quase um sussurro.",
+          "rosto": "DONA CARMEN: lagrimas escorrendo, labios tremendo, um sorriso de dor.",
+          "corpo": "DONA CARMEN: leva a mao ao peito.",
+          "camera": "Corte seco. Dolly In: tight close-up of DONA CARMEN SOZINHA no quadro, head and upper shoulders, Low-key com Eye Light, lente 75mm."
+        },
+        {
+          "quem": "VOZ (fora do quadro)",
+          "para": "TODOS",
+          "fala": "¡Fui yo!",
+          "emocao": 10,
+          "eyeline": "Ninguem visivel fala. A voz vem do corredor escuro atras da porta, fora do quadro.",
+          "intencao": "Gritar a confissao de fora da sala, interrompendo a leitura.",
+          "voz": "Voz masculina grave, GRITANDO forte, com eco do corredor.",
+          "rosto": "VICTORIA, CARMEN, DANIELA e JULIAN: congelam, olhos arregalados, BOCAS FECHADAS.",
+          "corpo": "Todos viram a cabeca ao mesmo tempo para a porta, fora do quadro.",
+          "camera": "Corte seco. Plano de grupo, Eye Level, lente 35mm: VICTORIA com o papel, CARMEN, DANIELA e JULIAN congelam e viram a cabeca para a porta fora do quadro; ninguem mexe a boca.",
+          "bocas": "TODOS os rostos visiveis com a boca FECHADA. A voz vem de fora do quadro; ninguem na tela fala."
+        },
+        {
+          "rosto": "Sem rostos.",
+          "corpo": "A porta do escritorio entreaberta, so escuridao no corredor; ninguem aparece.",
+          "camera": "Corte seco. Ponto de vista do grupo: Slow Dolly In na porta entreaberta e escura, Backlight fraco do corredor. Ninguem fala.",
+          "segundos": 1.2
+        },
+        {
+          "rosto": "DONA VICTORIA: em CHOQUE, olhos arregalados para a porta, boca fechada, o papel tremendo nas maos.",
+          "corpo": "DONA VICTORIA: imovel.",
+          "camera": "Corte seco. Dolly Zoom lento em tight close-up de DONA VICTORIA SOZINHA no quadro, Low-key com Eye Light. O video termina neste rosto. Ninguem fala.",
+          "segundos": 0.8
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao INTENSA: DONA VICTORIA le o papel com um sorriso de vitoria crescente; DONA CARMEN olha a assinatura e endurece, com certeza absoluta. Suspense maximo. Rostos muito expressivos.",
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao INTENSA: DONA VICTORIA le o papel e passa da confianca ao CHOQUE; DONA CARMEN chora de emocao. No meio da leitura uma VOZ de homem GRITA '¡Fui yo!' de FORA DO QUADRO: todos CONGELAM e se viram para a porta. NINGUEM aparece e ninguem sabe de quem e a voz. Suspense maximo.",
   "input_image": {
     "required": false,
     "mode": "Ingredients to Video, sem primeiro frame.",
@@ -8,36 +8,37 @@
       "Imagem 1 — frame do clipe 6, plano 4 (por volta do segundo 7): o escritorio antigo e escuro com a escrivaninha de madeira, DON JULIAN junto a gaveta aberta e vazia.",
       "Imagem 2 — frame do clipe 3, plano 4 (por volta do segundo 8): close de DONA VICTORIA, cabelo branco em coque alto, vestido verde-esmeralda, colar de esmeraldas.",
       "Imagem 3 — frame do clipe 3, plano 1 (por volta do segundo 1): DON JULIAN ajudando DONA CARMEN a se levantar no patio.",
-      "Imagem 4 — frame do clipe 7, plano 5 (por volta do segundo 8): a bolsa dourada caida no chao de madeira com um papel antigo amarelado dobrado saindo de dentro."
+      "Imagem 4 — frame do clipe 5, plano 5 (por volta do segundo 8): close de DANIELA furiosa tentando pegar o celular."
     ],
     "preserve_exactly": [
       "VICTORIA: o MESMO rosto da imagem 2, senhora rica de 68 anos, pele clara, cabelo BRANCO prateado em coque alto, maquiagem elegante, VESTIDO LONGO VERDE-ESMERALDA de seda, COLAR DE ESMERALDAS, xale de seda nos ombros, bengala com cabo de prata.",
       "CARMEN: o MESMO rosto da imagem 3, cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, SEM nada no pescoco (a corrente arrebentou).",
+      "DANIELA: o MESMO rosto da imagem 4, noiva de 30 anos, pele clara, cabelo castanho escuro longo e ondulado, maquiagem forte, batom vermelho, VESTIDO LONGO DE CETIM VERMELHO de alcas finas, brincos de diamante, salto alto dourado, pequena BOLSA DE MAO DOURADA (clutch) na mao.",
       "JULIAN: o MESMO rosto da imagem 1, caseiro idoso de 75 anos, pele morena curtida de sol, cabelo BRANCO curto, bigode branco grosso, rosto enrugado e firme, camisa BRANCA de manga comprida, COLETE DE COURO MARROM, calca escura.",
-      "DANIELA: noiva de 30 anos, pele clara, cabelo castanho escuro longo e ondulado, maquiagem forte, batom vermelho, VESTIDO LONGO DE CETIM VERMELHO de alcas finas, brincos de diamante, salto alto dourado, pequena BOLSA DE MAO DOURADA (clutch) na mao.",
       "O MESMO escritorio antigo e escuro da imagem 1.",
-      "O MESMO papel antigo amarelado da imagem 4, agora aberto nas maos de VICTORIA.",
-      "No pe do papel, uma assinatura a tinta, um rabisco elegante ILEGIVEL; nenhuma outra letra legivel."
+      "Nas maos de VICTORIA, o papel antigo amarelado que caiu da bolsa de DANIELA, com a borda de cima RASGADA (foi arrancado de um caderno de folhas). Nenhuma letra legivel.",
+      "A voz que grita '¡Fui yo!' vem de FORA DO QUADRO. NINGUEM novo aparece no video."
     ]
   },
   "scene": {
     "title": "LA COCINERA",
     "duration_seconds": 9.8,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
-    "structure": "4 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "structure": "6 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
     "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Interior escuro e empoeirado: Low-key, Window Light em faixas pelas frestas da janela, poeira no ar, Shallow Focus nos closes, cortes rapidos.",
-    "setting": "O MESMO escritorio antigo do patrao da imagem 1, logo depois do papel cair da bolsa.",
+    "setting": "O MESMO escritorio antigo do patrao da imagem 1, logo depois do papel cair da bolsa de DANIELA.",
     "blocking": [
       "VICTORIA: no centro do escritorio, segurando o papel aberto",
-      "CARMEN: ao lado DIREITO de VICTORIA, olhando o papel",
-      "JULIAN: atras da escrivaninha, calado",
-      "DANIELA: perto da porta, ao fundo, calada"
+      "CARMEN: ao lado DIREITO de VICTORIA",
+      "DANIELA: a ESQUERDA de VICTORIA, perto da porta",
+      "JULIAN: atras da escrivaninha",
+      "PORTA: a porta do escritorio fica no FUNDO, atras de DANIELA; fica entreaberta e ESCURA"
     ],
     "characters": {
       "VICTORIA": "A MESMA da imagem 2. Personagem ficticia. Voz feminina grave, autoritaria e fria de senhora de 68 anos.",
       "CARMEN": "A MESMA da imagem 3. Personagem ficticia. Voz feminina rouca e humilde de senhora de 62 anos.",
-      "JULIAN": "O MESMO da imagem 1. Personagem ficticio. Voz masculina grave, rouca e firme de homem de 75 anos.",
-      "DANIELA": "noiva de 30 anos, pele clara, cabelo castanho escuro longo e ondulado, maquiagem forte, batom vermelho, VESTIDO LONGO DE CETIM VERMELHO de alcas finas, brincos de diamante, salto alto dourado, pequena BOLSA DE MAO DOURADA (clutch) na mao. Personagem ficticia. Voz feminina aguda, arrogante e cruel de mulher de 30 anos."
+      "DANIELA": "A MESMA da imagem 4. Personagem ficticia. Voz feminina aguda, arrogante e cruel de mulher de 30 anos.",
+      "JULIAN": "O MESMO da imagem 1. Personagem ficticio. Voz masculina grave, rouca e firme de homem de 75 anos."
     }
   },
   "timeline": [
@@ -48,7 +49,7 @@
       "addressee": "CARMEN",
       "eyeline": "VICTORIA olha para o PAPEL nas maos dela enquanto fala.",
       "emotion_level": 9,
-      "intention": "Anunciar o que encontrou, com tensao.",
+      "intention": "Anunciar o que encontrou, ainda confiante.",
       "voice": "Voz feminina grave, baixa e tensa.",
       "face": "DONA VICTORIA: olhos fixos no papel, sobrancelhas erguidas.",
       "body": "DONA VICTORIA: pega o papel do chao e o desdobra devagar.",
@@ -58,64 +59,90 @@
     {
       "time": "00:02.05-00:04.47",
       "speaker": "VICTORIA",
-      "dialogue": "«Dejo todo… a mi hermana Victoria».",
+      "dialogue": "«Dejo todo… a mi esposa, Carmen».",
       "addressee": "CARMEN",
       "eyeline": "VICTORIA le o PAPEL em voz alta e no fim levanta os olhos para CARMEN, fora do quadro.",
       "emotion_level": 10,
-      "intention": "Ler a frase com um sorriso de vitoria crescente.",
-      "voice": "Voz feminina grave, lenta, saboreando cada palavra.",
-      "face": "DONA VICTORIA: um sorriso lento de vitoria se abrindo.",
-      "body": "DONA VICTORIA: segura o papel perto do rosto.",
+      "intention": "Ler a frase e perceber que perdeu tudo.",
+      "voice": "Voz feminina grave que vai FALHANDO a cada palavra, incredula.",
+      "face": "DONA VICTORIA: a confianca some, o rosto empalidece, boca tremendo.",
+      "body": "DONA VICTORIA: as maos com o papel comecam a tremer.",
       "camera": "Corte seco. Slow Zoom In: tight close-up of DONA VICTORIA SOZINHA no quadro, head and upper shoulders, o papel na borda do quadro, Rembrandt lighting, lente 75mm. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente VICTORIA movimenta os labios."
     },
     {
-      "time": "00:04.47-00:06.97",
+      "time": "00:04.47-00:06.53",
+      "speaker": "CARMEN",
+      "dialogue": "Mi Rafael… no me olvidó.",
+      "addressee": "VICTORIA",
+      "eyeline": "CARMEN fala PARA VICTORIA e olha para VICTORIA (no centro do escritorio, segurando o papel aberto), fora do quadro. NAO olha para DANIELA, JULIAN.",
+      "emotion_level": 10,
+      "intention": "Emocionar-se: o marido a deixou como herdeira.",
+      "voice": "Voz feminina rouca, embargada, quase um sussurro.",
+      "face": "DONA CARMEN: lagrimas escorrendo, labios tremendo, um sorriso de dor.",
+      "body": "DONA CARMEN: leva a mao ao peito.",
+      "camera": "Corte seco. Dolly In: tight close-up of DONA CARMEN SOZINHA no quadro, head and upper shoulders, Low-key com Eye Light, lente 75mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente CARMEN movimenta os labios."
+    },
+    {
+      "time": "00:06.53-00:07.73",
+      "speaker": "VOZ (fora do quadro)",
+      "dialogue": "¡Fui yo!",
+      "addressee": "TODOS",
+      "eyeline": "Ninguem visivel fala. A voz vem do corredor escuro atras da porta, fora do quadro.",
+      "emotion_level": 10,
+      "intention": "Gritar a confissao de fora da sala, interrompendo a leitura.",
+      "voice": "Voz masculina grave, GRITANDO forte, com eco do corredor.",
+      "face": "VICTORIA, CARMEN, DANIELA e JULIAN: congelam, olhos arregalados, BOCAS FECHADAS.",
+      "body": "Todos viram a cabeca ao mesmo tempo para a porta, fora do quadro.",
+      "camera": "Corte seco. Plano de grupo, Eye Level, lente 35mm: VICTORIA com o papel, CARMEN, DANIELA e JULIAN congelam e viram a cabeca para a porta fora do quadro; ninguem mexe a boca. A fala comeca no primeiro instante do plano.",
+      "mouths": "TODOS os rostos visiveis com a boca FECHADA. A voz vem de fora do quadro; ninguem na tela fala."
+    },
+    {
+      "time": "00:07.73-00:08.93",
       "speaker": "NONE",
       "dialogue": null,
       "face": "Sem rostos.",
-      "body": "No pe do papel antigo amarelado, uma assinatura a tinta preta, um rabisco elegante e ilegivel; o dedo de DONA CARMEN aponta para ela.",
-      "camera": "Corte seco. Insert shot da assinatura em escala real, lente macro, Slow Zoom In ate a assinatura ocupar o quadro, Rack Focus do dedo para a tinta. A assinatura fica bem visivel. Ninguem fala.",
+      "body": "A porta do escritorio entreaberta, so escuridao no corredor; ninguem aparece.",
+      "camera": "Corte seco. Ponto de vista do grupo: Slow Dolly In na porta entreaberta e escura, Backlight fraco do corredor. Ninguem fala.",
       "mouths": "Bocas FECHADAS. Ninguem fala."
     },
     {
-      "time": "00:06.97-00:09.77",
-      "speaker": "CARMEN",
-      "dialogue": "Esa no es la firma de Rafael.",
-      "addressee": "VICTORIA",
-      "eyeline": "CARMEN fala PARA VICTORIA e olha para VICTORIA (no centro do escritorio, segurando o papel aberto), fora do quadro. NAO olha para JULIAN, DANIELA.",
-      "emotion_level": 10,
-      "intention": "Afirmar com certeza absoluta que a assinatura e falsa.",
-      "voice": "Voz feminina rouca, BAIXA, firme e cortante.",
-      "face": "DONA CARMEN: olhar firme e frio para VICTORIA, sem piscar.",
-      "body": "DONA CARMEN: tira o dedo do papel e levanta o rosto.",
-      "camera": "Corte seco. Dolly In: tight close-up of DONA CARMEN SOZINHA no quadro, head and upper shoulders, Low-key com Eye Light, lente 75mm. O clipe termina neste rosto. A fala comeca no primeiro instante do plano.",
-      "mouths": "Somente CARMEN movimenta os labios."
+      "time": "00:08.93-00:09.73",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "DONA VICTORIA: em CHOQUE, olhos arregalados para a porta, boca fechada, o papel tremendo nas maos.",
+      "body": "DONA VICTORIA: imovel.",
+      "camera": "Corte seco. Dolly Zoom lento em tight close-up de DONA VICTORIA SOZINHA no quadro, Low-key com Eye Light. O video termina neste rosto. Ninguem fala.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
     }
   ],
   "dialogue_rules": {
     "language": "Espanol de Mexico, acento mexicano natural, TODAS as palavras em espanhol.",
     "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
-    "total_dialogue_lines": 3,
+    "total_dialogue_lines": 4,
     "exact_order": [
       "VICTORIA",
       "VICTORIA",
-      "CARMEN"
+      "CARMEN",
+      "VOZ (fora do quadro)"
     ],
     "rules": [
-      "So existem 3 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
-      "A ultima fala termina junto com o video.",
-      "Cada fala e dirigida a: VICTORIA -> CARMEN; VICTORIA -> CARMEN; CARMEN -> VICTORIA.",
+      "So existem 4 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "Depois de 7.7 segundos ninguem fala.",
+      "Cada fala e dirigida a: VICTORIA -> CARMEN; VICTORIA -> CARMEN; CARMEN -> VICTORIA; VOZ (fora do quadro) -> TODOS.",
       "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
       "Nao repetir, misturar, traduzir ou acrescentar palavras.",
       "Cada frase e dita INTEIRA, do comeco ao fim.",
-      "O plano 3 e mudo e longo: a assinatura precisa ficar bem visivel.",
-      "DON JULIAN e DANIELA nao falam neste clipe."
+      "DON JULIAN e DANIELA nao falam neste clipe.",
+      "A fala '¡Fui yo!' e de uma VOZ masculina FORA DO QUADRO: no plano 4 TODOS os personagens visiveis ficam de boca FECHADA.",
+      "Ninguem aparece na porta: ela fica entreaberta e escura ate o fim.",
+      "O video termina no rosto de VICTORIA em choque, sem ninguem falar."
     ]
   },
   "audio": {
     "single_voice_at_a_time": true,
-    "sound": "O papel sendo desdobrado, silencio pesado, a respiracao de todos.",
+    "sound": "O papel sendo desdobrado, silencio pesado; de repente um grito masculino vem do corredor escuro, com eco; a porta range.",
     "music": "Nenhuma.",
     "narration": "Nenhuma.",
     "subtitles": "Nao gerar."
@@ -124,9 +151,13 @@
     "patio",
     "convidados",
     "texto legivel no papel",
-    "letras legiveis na assinatura",
+    "assinatura em destaque",
     "julian falando",
-    "daniela falando",
+    "pessoa nova aparecendo",
+    "homem na porta",
+    "silhueta na porta",
+    "alguem entrando no escritorio",
+    "personagem visivel movendo a boca no plano do grito",
     "texto ou letras em qualquer lugar",
     "palavra inventada no ultimo plano",
     "fala repetida",
@@ -135,7 +166,6 @@
     "fala neutra ou monotona",
     "rosto neutro ou expressao vazia",
     "atuacao contida",
-    "voz sem rosto na tela",
     "tela dividida",
     "colagem",
     "formato horizontal",
