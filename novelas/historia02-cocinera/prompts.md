@@ -1287,7 +1287,7 @@ Referências, nesta ordem: 1) FRAME_DESPACHO; 2) FRAME_CARMEN_PE; 3) FRAME_DANIE
 
 ## Clipe 8 — A última página + ¡Fui yo!
 
-clipe 8: 10.5s, 8.5s de fala (20 palavras, 5 planos, falantes: VICTORIA, CARMEN, VOZ (fora do quadro)) ❌ 10.5s — passa de 10s, corte palavras
+clipe 8: 9.7s, 7.7s de fala (18 palavras, 5 planos, falantes: VICTORIA, CARMEN, VOZ (fora do quadro)) ✅
 
 Referências, nesta ordem: 1) FRAME_DESPACHO; 2) FRAME_VICTORIA; 3) FRAME_CARMEN_PE; 4) FRAME_PAPEL; 5) FRAME_DANIELA_TEL
 
@@ -1318,7 +1318,7 @@ Referências, nesta ordem: 1) FRAME_DESPACHO; 2) FRAME_VICTORIA; 3) FRAME_CARMEN
   },
   "scene": {
     "title": "LA COCINERA",
-    "duration_seconds": 10.0,
+    "duration_seconds": 9.8,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
     "structure": "5 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
     "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Interior escuro e empoeirado: Low-key, Window Light em faixas pelas frestas da janela, poeira no ar, Shallow Focus nos closes, cortes rapidos.",
@@ -1339,9 +1339,9 @@ Referências, nesta ordem: 1) FRAME_DESPACHO; 2) FRAME_VICTORIA; 3) FRAME_CARMEN
   },
   "timeline": [
     {
-      "time": "00:00.00-00:02.05",
+      "time": "00:00.00-00:01.31",
       "speaker": "VICTORIA",
-      "dialogue": "La última página del testamento.",
+      "dialogue": "La última página…",
       "addressee": "CARMEN",
       "eyeline": "VICTORIA olha para o PAPEL nas maos dela enquanto fala.",
       "emotion_level": 9,
@@ -1353,7 +1353,7 @@ Referências, nesta ordem: 1) FRAME_DESPACHO; 2) FRAME_VICTORIA; 3) FRAME_CARMEN
       "mouths": "Somente VICTORIA movimenta os labios."
     },
     {
-      "time": "00:02.05-00:05.21",
+      "time": "00:01.31-00:04.47",
       "speaker": "VICTORIA",
       "dialogue": "«Si muero de repente… no fue un accidente».",
       "addressee": "CARMEN",
@@ -1367,7 +1367,7 @@ Referências, nesta ordem: 1) FRAME_DESPACHO; 2) FRAME_VICTORIA; 3) FRAME_CARMEN
       "mouths": "Somente VICTORIA movimenta os labios."
     },
     {
-      "time": "00:05.21-00:07.27",
+      "time": "00:04.47-00:06.53",
       "speaker": "CARMEN",
       "dialogue": "¿Quién mató a mi Rafael?",
       "addressee": "VICTORIA",
@@ -1381,7 +1381,7 @@ Referências, nesta ordem: 1) FRAME_DESPACHO; 2) FRAME_VICTORIA; 3) FRAME_CARMEN
       "mouths": "Somente CARMEN movimenta os labios."
     },
     {
-      "time": "00:07.27-00:08.47",
+      "time": "00:06.53-00:07.73",
       "speaker": "VOZ (fora do quadro)",
       "dialogue": "¡Fui yo!",
       "addressee": "TODOS",
@@ -1395,7 +1395,7 @@ Referências, nesta ordem: 1) FRAME_DESPACHO; 2) FRAME_VICTORIA; 3) FRAME_CARMEN
       "mouths": "NENHUM rosto no quadro: a voz vem do corredor escuro. Ninguem na tela fala."
     },
     {
-      "time": "00:08.47-00:10.47",
+      "time": "00:07.73-00:09.73",
       "speaker": "NONE",
       "dialogue": null,
       "face": "VICTORIA, CARMEN, DANIELA e JULIAN: todos juntos, olhando DIRETO para a lente (a pessoa na porta que eles nao conseguem ver), olhos arregalados de choque e medo, BOCAS FECHADAS.",
@@ -1416,7 +1416,7 @@ Referências, nesta ordem: 1) FRAME_DESPACHO; 2) FRAME_VICTORIA; 3) FRAME_CARMEN
     ],
     "rules": [
       "So existem 4 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
-      "Depois de 8.5 segundos ninguem fala.",
+      "Depois de 7.7 segundos ninguem fala.",
       "Cada fala e dirigida a: VICTORIA -> CARMEN; VICTORIA -> CARMEN; CARMEN -> VICTORIA; VOZ (fora do quadro) -> TODOS.",
       "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
       "Nao repetir, misturar, traduzir ou acrescentar palavras.",
