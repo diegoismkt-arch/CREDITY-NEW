@@ -22,8 +22,10 @@
     "FRAME_CAMILA": "frame do clipe 1, plano 6 (por volta do segundo 8): close de CAMILA de vestido azul-claro, preocupada, pessoas olhando ao fundo. (Essa imagem tem um texto escrito embaixo: ele NAO deve aparecer no video.)",
     "FRAME_CAMILA_PULSERA": "frame do clipe 2, plano 2 (por volta do segundo 2): close de CAMILA segurando a pulseirinha de bebe perto do rosto.",
     "FRAME_ROSA_NOCHE": "frame do clipe 2, plano 5 (por volta do segundo 8): close de ROSA chorando, a mao no rosto vermelho do tapa.",
-    "FRAME_MENDOZA": "frame do clipe 3, plano 1 (por volta do segundo 1): DR. MENDOZA de jaleco branco chegando com a pasta azul, o saguao ao fundo.",
-    "FRAME_ISABEL_CHOQUE": "frame do clipe 3, plano 4 (por volta do segundo 8): close de ISABEL em choque, a mancha de cafe no tailleur vinho."
+    "FRAME_MENDOZA": "frame do clipe 3, plano 1 (por volta do segundo 1): DR. MENDOZA de jaleco branco, gravata azul, oculos, chegando pelo saguao com a pasta azul aberta; pessoas ao fundo.",
+    "FRAME_ISABEL_CHOQUE": "frame do clipe 3, plano 4 (por volta do segundo 8): close de ISABEL em choque, olhos arregalados, boca aberta, tailleur vinho com mancha de cafe, oculos escuros no cabelo.",
+    "FRAME_CAMILA_LAGRIMAS": "frame do clipe 4, plano 1 (por volta do segundo 1): close de CAMILA chorando.",
+    "FRAME_ROSA_CONFIESA": "frame do clipe 4, plano 3 (por volta do segundo 5): close de ROSA confessando, lagrimas no rosto."
   },
   "personagens": {
     "ROSA": {
@@ -323,6 +325,108 @@
           "corpo": "ISABEL: a pulseirinha escorrega da mao dela.",
           "camera": "Corte seco. Dolly Zoom (dolly in com zoom out) em tight close-up de ISABEL SOZINHA no quadro, o fundo do saguao se distorcendo. Ninguem fala. O clipe termina neste rosto.",
           "segundos": 1.2
+        }
+      ]
+    },
+    {
+      "nome": "Esa noche nacieron dos niñas",
+      "atuacao": "Novela dramatica. Atuacao INTENSA: CAMILA desmoronando, chorando; ISABEL furiosa e apavorada, agarra a enfermeira; ROSA chorando mas firme ao contar o segredo. Rostos muito expressivos. Nenhuma fala neutra.",
+      "imagens": [
+        "FRAME_SAGUAO",
+        "FRAME_ISABEL_CHOQUE",
+        "FRAME_CAMILA_PULSERA",
+        "FRAME_ROSA_NOCHE",
+        "FRAME_MENDOZA"
+      ],
+      "frames": {
+        "ISABEL": "FRAME_ISABEL_CHOQUE",
+        "CAMILA": "FRAME_CAMILA_PULSERA",
+        "ROSA": "FRAME_ROSA_NOCHE"
+      },
+      "salvar_frames": [
+        "FRAME_CAMILA_LAGRIMAS",
+        "FRAME_ROSA_CONFIESA"
+      ],
+      "personagens": [
+        "CAMILA",
+        "ISABEL",
+        "ROSA",
+        "MENDOZA"
+      ],
+      "posicoes": {
+        "ISABEL": "no centro do saguao",
+        "CAMILA": "a ESQUERDA de ISABEL",
+        "ROSA": "a DIREITA de ISABEL, de frente para ela",
+        "MENDOZA": "atras de ISABEL, um pouco a direita, calado, com a pasta azul fechada"
+      },
+      "preservar_extra": [
+        "O MESMO saguao de hospital da imagem FRAME_SAGUAO, com pessoas olhando ao fundo.",
+        "ISABEL continua com a mancha de cafe no tailleur vinho.",
+        "ROSA com o rosto vermelho do tapa."
+      ],
+      "cenario": "O MESMO saguao do hospital da imagem FRAME_SAGUAO, segundos depois do medico dizer que CAMILA nao e filha biologica de ISABEL.",
+      "som": "Murmurios do saguao, um soluco de choro, respiracoes pesadas.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala"
+      ],
+      "negativos_extra": [
+        "texto legivel na pasta ou em papeis",
+        "cracha com texto legivel",
+        "mendoza falando"
+      ],
+      "regras_extra": [
+        "O DR. MENDOZA nao fala neste clipe."
+      ],
+      "planos": [
+        {
+          "quem": "CAMILA",
+          "para": "ISABEL",
+          "fala": "¿Mamá… de quién soy hija?",
+          "emocao": 10,
+          "intencao": "Perguntar desmoronando, sem entender.",
+          "voz": "Voz feminina embargada, falhando, quase um sussurro.",
+          "rosto": "CAMILA: lagrimas escorrendo, labios tremendo.",
+          "corpo": "CAMILA: da um passo para tras, a mao na boca.",
+          "camera": "Tight close-up of CAMILA SOZINHA no quadro, head and upper shoulders, Slow Push In, lente 75mm."
+        },
+        {
+          "quem": "ISABEL",
+          "para": "ROSA",
+          "fala": "¡Tú! ¿Qué pasó esa noche?",
+          "emocao": 10,
+          "intencao": "Exigir a verdade, com furia e medo.",
+          "voz": "Voz feminina aguda, gritando, a voz tremendo.",
+          "rosto": "ISABEL: olhos arregalados de furia e panico.",
+          "corpo": "ISABEL: agarra o braco de ROSA com forca e a sacode.",
+          "camera": "Corte seco. Handheld, Low Angle, Medium Close-Up de ISABEL SOZINHA no quadro, lente 50mm."
+        },
+        {
+          "quem": "ROSA",
+          "para": "ISABEL",
+          "fala": "Nacieron dos niñas… y alguien las cambió.",
+          "emocao": 10,
+          "intencao": "Revelar o segredo de 30 anos, chorando mas firme.",
+          "voz": "Voz feminina rouca, baixa, embargada, cada palavra pesada.",
+          "rosto": "ROSA: lagrimas escorrendo, olhar firme direto em ISABEL.",
+          "corpo": "ROSA: nao tenta soltar o braco.",
+          "camera": "Corte seco. Dolly In: tight close-up of ROSA SOZINHA no quadro, head and upper shoulders, lente 75mm."
+        },
+        {
+          "quem": "ISABEL",
+          "para": "ROSA",
+          "fala": "¡Mientes!",
+          "emocao": 10,
+          "intencao": "Negar em desespero.",
+          "voz": "Voz feminina gritando, quebrada.",
+          "rosto": "ISABEL: rosto contorcido, lagrimas de raiva.",
+          "corpo": "ISABEL: solta o braco de ROSA e recua.",
+          "camera": "Corte seco. Crash Zoom In em tight close-up of ISABEL SOZINHA no quadro, lente 75mm."
+        },
+        {
+          "rosto": "CAMILA: olha para ROSA, chorando em silencio, como se a visse pela primeira vez. Boca fechada.",
+          "corpo": "CAMILA: imovel.",
+          "camera": "Corte seco. Extreme Close-Up nos olhos de CAMILA, cheios de lagrimas, Rack Focus. Ninguem fala. O clipe termina neste rosto.",
+          "segundos": 1.0
         }
       ]
     }

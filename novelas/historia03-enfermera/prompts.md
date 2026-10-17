@@ -526,5 +526,188 @@ Referências, nesta ordem: 1) FRAME_SAGUAO; 2) FRAME_CAMILA_PULSERA; 3) FRAME_RO
 ```
 
 **Depois de gerar este clipe, salve os frames:**
-- **FRAME_MENDOZA:** frame do clipe 3, plano 1 (por volta do segundo 1): DR. MENDOZA de jaleco branco chegando com a pasta azul, o saguao ao fundo.
-- **FRAME_ISABEL_CHOQUE:** frame do clipe 3, plano 4 (por volta do segundo 8): close de ISABEL em choque, a mancha de cafe no tailleur vinho.
+- **FRAME_MENDOZA:** frame do clipe 3, plano 1 (por volta do segundo 1): DR. MENDOZA de jaleco branco, gravata azul, oculos, chegando pelo saguao com a pasta azul aberta; pessoas ao fundo.
+- **FRAME_ISABEL_CHOQUE:** frame do clipe 3, plano 4 (por volta do segundo 8): close de ISABEL em choque, olhos arregalados, boca aberta, tailleur vinho com mancha de cafe, oculos escuros no cabelo.
+
+## Clipe 4 — Esa noche nacieron dos niñas
+
+clipe 4: 9.1s, 8.1s de fala (18 palavras, 5 planos, falantes: CAMILA, ISABEL, ROSA) ✅
+
+Referências, nesta ordem: 1) FRAME_SAGUAO; 2) FRAME_ISABEL_CHOQUE; 3) FRAME_CAMILA_PULSERA; 4) FRAME_ROSA_NOCHE; 5) FRAME_MENDOZA
+
+```json
+{
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao INTENSA: CAMILA desmoronando, chorando; ISABEL furiosa e apavorada, agarra a enfermeira; ROSA chorando mas firme ao contar o segredo. Rostos muito expressivos. Nenhuma fala neutra.",
+  "input_image": {
+    "required": false,
+    "mode": "Ingredients to Video, sem primeiro frame.",
+    "additional_references": true,
+    "reference_images": [
+      "Imagem 1 — frame do clipe 1, plano 1 (por volta do segundo 1): ISABEL de tailleur vinho com mancha de cafe agarrando o pulso de ROSA, que aparece de costas (coque grisalho, uniforme branco) na DIREITA; o saguao de marmore com pessoas olhando ao fundo.",
+      "Imagem 2 — frame do clipe 3, plano 4 (por volta do segundo 8): close de ISABEL em choque, olhos arregalados, boca aberta, tailleur vinho com mancha de cafe, oculos escuros no cabelo.",
+      "Imagem 3 — frame do clipe 2, plano 2 (por volta do segundo 2): close de CAMILA segurando a pulseirinha de bebe perto do rosto.",
+      "Imagem 4 — frame do clipe 2, plano 5 (por volta do segundo 8): close de ROSA chorando, a mao no rosto vermelho do tapa.",
+      "Imagem 5 — frame do clipe 3, plano 1 (por volta do segundo 1): DR. MENDOZA de jaleco branco, gravata azul, oculos, chegando pelo saguao com a pasta azul aberta; pessoas ao fundo."
+    ],
+    "preserve_exactly": [
+      "CAMILA: o MESMO rosto da imagem 3, mulher de 30 anos, pele morena clara, cabelo castanho escuro ondulado na altura dos ombros, maquiagem leve, VESTIDO AZUL-CLARO simples e elegante, brincos pequenos de prata, rosto doce.",
+      "ISABEL: o MESMO rosto da imagem 2, senhora rica de 55 anos, pele clara, cabelo LOIRO platinado em chanel liso, maquiagem forte, batom vermelho, TAILLEUR VERMELHO-VINHO de grife, colar de PEROLAS, oculos escuros presos no cabelo, bolsa de grife PRETA no braco.",
+      "ROSA: o MESMO rosto da imagem 4, enfermeira de 62 anos, pele morena, rosto bondoso e cansado, rugas finas, cabelo GRISALHO preso em coque baixo, uniforme de enfermeira BRANCO de manga curta, cracha no peito, relogio simples de pulseira de couro, sapatos brancos.",
+      "MENDOZA: o MESMO rosto da imagem 5, medico de 55 anos, pele clara, cabelo GRISALHO curto, oculos de armacao fina, barba feita, JALECO BRANCO comprido sobre camisa AZUL-CLARA e gravata azul-marinho, estetoscopio no pescoco, segurando uma PASTA AZUL de exames.",
+      "O MESMO saguao de hospital da imagem 1, com pessoas olhando ao fundo.",
+      "ISABEL continua com a mancha de cafe no tailleur vinho.",
+      "ROSA com o rosto vermelho do tapa."
+    ]
+  },
+  "scene": {
+    "title": "LA ENFERMERA",
+    "duration_seconds": 9.1,
+    "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
+    "structure": "5 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Saguao de hospital particular de luxo de dia: luz natural branca e suave entrando por janelas altas (Window Light) misturada com luminarias quentes do teto (Practical Lighting), piso de marmore branco brilhante, Shallow Focus nos closes, cortes rapidos.",
+    "setting": "O MESMO saguao do hospital da imagem 1, segundos depois do medico dizer que CAMILA nao e filha biologica de ISABEL.",
+    "blocking": [
+      "ISABEL: no centro do saguao",
+      "CAMILA: a ESQUERDA de ISABEL",
+      "ROSA: a DIREITA de ISABEL, de frente para ela",
+      "MENDOZA: atras de ISABEL, um pouco a direita, calado, com a pasta azul fechada"
+    ],
+    "characters": {
+      "CAMILA": "A MESMA da imagem 3. Personagem ficticia. Voz feminina suave e firme de mulher de 30 anos.",
+      "ISABEL": "A MESMA da imagem 2. Personagem ficticia. Voz feminina aguda, arrogante e cortante de senhora de 55 anos.",
+      "ROSA": "A MESMA da imagem 4. Personagem ficticia. Voz feminina rouca, doce e humilde de senhora de 62 anos.",
+      "MENDOZA": "O MESMO da imagem 5. Personagem ficticio. Voz masculina grave, calma e seria de homem de 55 anos."
+    }
+  },
+  "timeline": [
+    {
+      "time": "00:00.00-00:02.05",
+      "speaker": "CAMILA",
+      "dialogue": "¿Mamá… de quién soy hija?",
+      "addressee": "ISABEL",
+      "eyeline": "CAMILA fala PARA ISABEL e olha para ISABEL (no centro do saguao), fora do quadro. NAO olha para ROSA, MENDOZA.",
+      "emotion_level": 10,
+      "intention": "Perguntar desmoronando, sem entender.",
+      "voice": "Voz feminina embargada, falhando, quase um sussurro.",
+      "face": "CAMILA: lagrimas escorrendo, labios tremendo.",
+      "body": "CAMILA: da um passo para tras, a mao na boca.",
+      "camera": "Tight close-up of CAMILA SOZINHA no quadro, head and upper shoulders, Slow Push In, lente 75mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente CAMILA movimenta os labios."
+    },
+    {
+      "time": "00:02.05-00:04.10",
+      "speaker": "ISABEL",
+      "dialogue": "¡Tú! ¿Qué pasó esa noche?",
+      "addressee": "ROSA",
+      "eyeline": "ISABEL fala PARA ROSA e olha para ROSA (a DIREITA de ISABEL, de frente para ela), fora do quadro. NAO olha para CAMILA, MENDOZA.",
+      "emotion_level": 10,
+      "intention": "Exigir a verdade, com furia e medo.",
+      "voice": "Voz feminina aguda, gritando, a voz tremendo.",
+      "face": "ISABEL: olhos arregalados de furia e panico.",
+      "body": "ISABEL: agarra o braco de ROSA com forca e a sacode.",
+      "camera": "Corte seco. Handheld, Low Angle, Medium Close-Up de ISABEL SOZINHA no quadro, lente 50mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente ISABEL movimenta os labios."
+    },
+    {
+      "time": "00:04.10-00:06.90",
+      "speaker": "ROSA",
+      "dialogue": "Nacieron dos niñas… y alguien las cambió.",
+      "addressee": "ISABEL",
+      "eyeline": "ROSA fala PARA ISABEL e olha para ISABEL (no centro do saguao), fora do quadro. NAO olha para CAMILA, MENDOZA.",
+      "emotion_level": 10,
+      "intention": "Revelar o segredo de 30 anos, chorando mas firme.",
+      "voice": "Voz feminina rouca, baixa, embargada, cada palavra pesada.",
+      "face": "ROSA: lagrimas escorrendo, olhar firme direto em ISABEL.",
+      "body": "ROSA: nao tenta soltar o braco.",
+      "camera": "Corte seco. Dolly In: tight close-up of ROSA SOZINHA no quadro, head and upper shoulders, lente 75mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente ROSA movimenta os labios."
+    },
+    {
+      "time": "00:06.90-00:08.10",
+      "speaker": "ISABEL",
+      "dialogue": "¡Mientes!",
+      "addressee": "ROSA",
+      "eyeline": "ISABEL fala PARA ROSA e olha para ROSA (a DIREITA de ISABEL, de frente para ela), fora do quadro. NAO olha para CAMILA, MENDOZA.",
+      "emotion_level": 10,
+      "intention": "Negar em desespero.",
+      "voice": "Voz feminina gritando, quebrada.",
+      "face": "ISABEL: rosto contorcido, lagrimas de raiva.",
+      "body": "ISABEL: solta o braco de ROSA e recua.",
+      "camera": "Corte seco. Crash Zoom In em tight close-up of ISABEL SOZINHA no quadro, lente 75mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente ISABEL movimenta os labios."
+    },
+    {
+      "time": "00:08.10-00:09.10",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "CAMILA: olha para ROSA, chorando em silencio, como se a visse pela primeira vez. Boca fechada.",
+      "body": "CAMILA: imovel.",
+      "camera": "Corte seco. Extreme Close-Up nos olhos de CAMILA, cheios de lagrimas, Rack Focus. Ninguem fala. O clipe termina neste rosto.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    }
+  ],
+  "dialogue_rules": {
+    "language": "Espanol de Mexico, acento mexicano natural, TODAS as palavras em espanhol.",
+    "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
+    "total_dialogue_lines": 4,
+    "exact_order": [
+      "CAMILA",
+      "ISABEL",
+      "ROSA",
+      "ISABEL"
+    ],
+    "rules": [
+      "So existem 4 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "Depois de 8.1 segundos ninguem fala.",
+      "Cada fala e dirigida a: CAMILA -> ISABEL; ISABEL -> ROSA; ROSA -> ISABEL; ISABEL -> ROSA.",
+      "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
+      "Nao repetir, misturar, traduzir ou acrescentar palavras.",
+      "Cada frase e dita INTEIRA, do comeco ao fim.",
+      "O DR. MENDOZA nao fala neste clipe."
+    ]
+  },
+  "audio": {
+    "single_voice_at_a_time": true,
+    "sound": "Murmurios do saguao, um soluco de choro, respiracoes pesadas.",
+    "music": "Nenhuma.",
+    "narration": "Nenhuma.",
+    "subtitles": "Nao gerar."
+  },
+  "negative_prompt": [
+    "texto legivel na pasta ou em papeis",
+    "cracha com texto legivel",
+    "mendoza falando",
+    "texto ou letras em qualquer lugar",
+    "nome ou idade de personagem escrito na tela",
+    "letreiro de apresentacao de personagem (lower third)",
+    "palavra inventada no ultimo plano",
+    "fala repetida",
+    "fala adiantada ou atrasada para outro plano",
+    "personagem falando ou olhando para quem nao e o destinatario da fala",
+    "fala neutra ou monotona",
+    "rosto neutro ou expressao vazia",
+    "atuacao contida",
+    "voz sem rosto na tela",
+    "tela dividida",
+    "colagem",
+    "formato horizontal",
+    "bordas pretas",
+    "palavras em ingles",
+    "palavras em portugues",
+    "duas vozes simultaneas",
+    "movimento labial do ouvinte",
+    "fala cortada, encurtada ou incompleta",
+    "personagem olhando para a camera",
+    "mudanca de rosto",
+    "mudanca de roupa",
+    "legendas",
+    "logotipo",
+    "marca-d'agua",
+    "trilha sonora"
+  ]
+}
+```
+
+**Depois de gerar este clipe, salve os frames:**
+- **FRAME_CAMILA_LAGRIMAS:** frame do clipe 4, plano 1 (por volta do segundo 1): close de CAMILA chorando.
+- **FRAME_ROSA_CONFIESA:** frame do clipe 4, plano 3 (por volta do segundo 5): close de ROSA confessando, lagrimas no rosto.
