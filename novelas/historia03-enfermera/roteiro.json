@@ -21,7 +21,9 @@
     "FRAME_PULSERA": "frame do clipe 1, plano 5 (por volta do segundo 7): a pulseirinha amarelada de bebe caida no piso de marmore branco, ao lado da perna da calca branca de ROSA.",
     "FRAME_CAMILA": "frame do clipe 1, plano 6 (por volta do segundo 8): close de CAMILA de vestido azul-claro, preocupada, pessoas olhando ao fundo. (Essa imagem tem um texto escrito embaixo: ele NAO deve aparecer no video.)",
     "FRAME_CAMILA_PULSERA": "frame do clipe 2, plano 2 (por volta do segundo 2): close de CAMILA segurando a pulseirinha de bebe perto do rosto.",
-    "FRAME_ROSA_NOCHE": "frame do clipe 2, plano 5 (por volta do segundo 8): close de ROSA chorando, a mao no rosto vermelho do tapa."
+    "FRAME_ROSA_NOCHE": "frame do clipe 2, plano 5 (por volta do segundo 8): close de ROSA chorando, a mao no rosto vermelho do tapa.",
+    "FRAME_MENDOZA": "frame do clipe 3, plano 1 (por volta do segundo 1): DR. MENDOZA de jaleco branco chegando com a pasta azul, o saguao ao fundo.",
+    "FRAME_ISABEL_CHOQUE": "frame do clipe 3, plano 4 (por volta do segundo 8): close de ISABEL em choque, a mancha de cafe no tailleur vinho."
   },
   "personagens": {
     "ROSA": {
@@ -41,6 +43,11 @@
       "voz": "Voz feminina suave e firme de mulher de 30 anos.",
       "frame": "FRAME_CAMILA",
       "feminino": true
+    },
+    "MENDOZA": {
+      "descricao": "medico de 55 anos, pele clara, cabelo GRISALHO curto, oculos de armacao fina, barba feita, JALECO BRANCO comprido sobre camisa AZUL-CLARA e gravata azul-marinho, estetoscopio no pescoco, segurando uma PASTA AZUL de exames.",
+      "voz": "Voz masculina grave, calma e seria de homem de 55 anos.",
+      "frame": "FRAME_MENDOZA"
     }
   },
   "clips": [
@@ -227,6 +234,95 @@
           "rosto": "ROSA: lagrimas escorrendo, olhar firme pela primeira vez.",
           "corpo": "ROSA: leva a mao ao rosto vermelho do tapa.",
           "camera": "Corte seco. Dolly In: tight close-up of ROSA SOZINHA no quadro, head and upper shoulders, lente 75mm. O clipe termina neste rosto."
+        }
+      ]
+    },
+    {
+      "nome": "O exame de sangue",
+      "atuacao": "Novela dramatica. Atuacao INTENSA: o DR. MENDOZA serio e constrangido de dar a noticia; ISABEL impaciente e arrogante, depois em CHOQUE total, perdendo a cor. Rostos muito expressivos. Nenhuma fala neutra.",
+      "imagens": [
+        "FRAME_SAGUAO",
+        "FRAME_CAMILA_PULSERA",
+        "FRAME_ROSA_NOCHE"
+      ],
+      "frames": {
+        "CAMILA": "FRAME_CAMILA_PULSERA",
+        "ROSA": "FRAME_ROSA_NOCHE"
+      },
+      "salvar_frames": [
+        "FRAME_MENDOZA",
+        "FRAME_ISABEL_CHOQUE"
+      ],
+      "personagens": [
+        "MENDOZA",
+        "ISABEL",
+        "CAMILA",
+        "ROSA"
+      ],
+      "posicoes": {
+        "MENDOZA": "chega pela DIREITA do saguao e para na frente de ISABEL",
+        "ISABEL": "no centro do saguao, de frente para o DR. MENDOZA",
+        "CAMILA": "a ESQUERDA de ISABEL",
+        "ROSA": "um passo atras, a DIREITA, calada, a mao no rosto"
+      },
+      "preservar_extra": [
+        "O MESMO saguao de hospital da imagem FRAME_SAGUAO, com as pessoas olhando ao fundo.",
+        "ISABEL continua com a mancha de cafe no tailleur vinho e aperta a pulseirinha de bebe na mao.",
+        "O DR. MENDOZA e um personagem NOVO, criado pela descricao."
+      ],
+      "cenario": "O MESMO saguao do hospital da imagem FRAME_SAGUAO, logo depois. ISABEL vai fazer uma cirurgia e CAMILA veio doar sangue para ela. O medico chega com o resultado do exame.",
+      "som": "Passos do medico no marmore, murmurios baixos do saguao; depois, silencio total.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala"
+      ],
+      "negativos_extra": [
+        "texto legivel na pasta ou em papeis",
+        "cracha com texto legivel",
+        "camila falando",
+        "rosa falando"
+      ],
+      "regras_extra": [
+        "CAMILA e ROSA nao falam neste clipe."
+      ],
+      "planos": [
+        {
+          "quem": "MENDOZA",
+          "para": "ISABEL",
+          "fala": "Señora Montero, los análisis de su hija.",
+          "emocao": 9,
+          "intencao": "Chegar com uma noticia dificil, serio.",
+          "voz": "Voz masculina grave, seria e contida.",
+          "rosto": "DR. MENDOZA: testa franzida, olhar serio e constrangido.",
+          "corpo": "DR. MENDOZA: caminha ate ela e abre a pasta azul.",
+          "camera": "Medium Shot do DR. MENDOZA SOZINHO no quadro chegando pelo saguao, Dolly acompanhando, lente 50mm."
+        },
+        {
+          "quem": "ISABEL",
+          "para": "MENDOZA",
+          "fala": "¿Puede donarme o no?",
+          "emocao": 9,
+          "intencao": "Cobrar com impaciencia e arrogancia.",
+          "voz": "Voz feminina aguda, seca e impaciente.",
+          "rosto": "ISABEL: sobrancelha erguida, impaciente.",
+          "corpo": "ISABEL: esconde a pulseirinha na mao fechada.",
+          "camera": "Corte seco. Low Angle, tight close-up of ISABEL SOZINHA no quadro, head and upper shoulders, lente 75mm."
+        },
+        {
+          "quem": "MENDOZA",
+          "para": "ISABEL",
+          "fala": "No puede. Ella no es su hija biológica.",
+          "emocao": 10,
+          "intencao": "Dar a noticia com cuidado e firmeza.",
+          "voz": "Voz masculina grave, baixa, cada palavra pesada.",
+          "rosto": "DR. MENDOZA: olhar firme, sem piscar.",
+          "corpo": "DR. MENDOZA: fecha a pasta devagar.",
+          "camera": "Corte seco. Slow Push In: tight close-up of DR. MENDOZA SOZINHO no quadro, head and upper shoulders, lente 75mm."
+        },
+        {
+          "rosto": "ISABEL: CHOQUE total, olhos arregalados, a cor some do rosto, boca entreaberta sem som.",
+          "corpo": "ISABEL: a pulseirinha escorrega da mao dela.",
+          "camera": "Corte seco. Dolly Zoom (dolly in com zoom out) em tight close-up de ISABEL SOZINHA no quadro, o fundo do saguao se distorcendo. Ninguem fala. O clipe termina neste rosto.",
+          "segundos": 1.2
         }
       ]
     }

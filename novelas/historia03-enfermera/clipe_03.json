@@ -1,0 +1,154 @@
+{
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao INTENSA: o DR. MENDOZA serio e constrangido de dar a noticia; ISABEL impaciente e arrogante, depois em CHOQUE total, perdendo a cor. Rostos muito expressivos. Nenhuma fala neutra.",
+  "input_image": {
+    "required": false,
+    "mode": "Ingredients to Video, sem primeiro frame.",
+    "additional_references": true,
+    "reference_images": [
+      "Imagem 1 — frame do clipe 1, plano 1 (por volta do segundo 1): ISABEL de tailleur vinho com mancha de cafe agarrando o pulso de ROSA, que aparece de costas (coque grisalho, uniforme branco) na DIREITA; o saguao de marmore com pessoas olhando ao fundo.",
+      "Imagem 2 — frame do clipe 2, plano 2 (por volta do segundo 2): close de CAMILA segurando a pulseirinha de bebe perto do rosto.",
+      "Imagem 3 — frame do clipe 2, plano 5 (por volta do segundo 8): close de ROSA chorando, a mao no rosto vermelho do tapa."
+    ],
+    "preserve_exactly": [
+      "MENDOZA: medico de 55 anos, pele clara, cabelo GRISALHO curto, oculos de armacao fina, barba feita, JALECO BRANCO comprido sobre camisa AZUL-CLARA e gravata azul-marinho, estetoscopio no pescoco, segurando uma PASTA AZUL de exames.",
+      "ISABEL: o MESMO rosto da imagem 1, senhora rica de 55 anos, pele clara, cabelo LOIRO platinado em chanel liso, maquiagem forte, batom vermelho, TAILLEUR VERMELHO-VINHO de grife, colar de PEROLAS, oculos escuros presos no cabelo, bolsa de grife PRETA no braco.",
+      "CAMILA: o MESMO rosto da imagem 2, mulher de 30 anos, pele morena clara, cabelo castanho escuro ondulado na altura dos ombros, maquiagem leve, VESTIDO AZUL-CLARO simples e elegante, brincos pequenos de prata, rosto doce.",
+      "ROSA: o MESMO rosto da imagem 3, enfermeira de 62 anos, pele morena, rosto bondoso e cansado, rugas finas, cabelo GRISALHO preso em coque baixo, uniforme de enfermeira BRANCO de manga curta, cracha no peito, relogio simples de pulseira de couro, sapatos brancos.",
+      "O MESMO saguao de hospital da imagem 1, com as pessoas olhando ao fundo.",
+      "ISABEL continua com a mancha de cafe no tailleur vinho e aperta a pulseirinha de bebe na mao.",
+      "O DR. MENDOZA e um personagem NOVO, criado pela descricao."
+    ]
+  },
+  "scene": {
+    "title": "LA ENFERMERA",
+    "duration_seconds": 8.9,
+    "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
+    "structure": "4 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Saguao de hospital particular de luxo de dia: luz natural branca e suave entrando por janelas altas (Window Light) misturada com luminarias quentes do teto (Practical Lighting), piso de marmore branco brilhante, Shallow Focus nos closes, cortes rapidos.",
+    "setting": "O MESMO saguao do hospital da imagem 1, logo depois. ISABEL vai fazer uma cirurgia e CAMILA veio doar sangue para ela. O medico chega com o resultado do exame.",
+    "blocking": [
+      "MENDOZA: chega pela DIREITA do saguao e para na frente de ISABEL",
+      "ISABEL: no centro do saguao, de frente para o DR. MENDOZA",
+      "CAMILA: a ESQUERDA de ISABEL",
+      "ROSA: um passo atras, a DIREITA, calada, a mao no rosto"
+    ],
+    "characters": {
+      "MENDOZA": "medico de 55 anos, pele clara, cabelo GRISALHO curto, oculos de armacao fina, barba feita, JALECO BRANCO comprido sobre camisa AZUL-CLARA e gravata azul-marinho, estetoscopio no pescoco, segurando uma PASTA AZUL de exames. Personagem ficticio. Voz masculina grave, calma e seria de homem de 55 anos.",
+      "ISABEL": "A MESMA da imagem 1. Personagem ficticia. Voz feminina aguda, arrogante e cortante de senhora de 55 anos.",
+      "CAMILA": "A MESMA da imagem 2. Personagem ficticia. Voz feminina suave e firme de mulher de 30 anos.",
+      "ROSA": "A MESMA da imagem 3. Personagem ficticia. Voz feminina rouca, doce e humilde de senhora de 62 anos."
+    }
+  },
+  "timeline": [
+    {
+      "time": "00:00.00-00:02.79",
+      "speaker": "MENDOZA",
+      "dialogue": "Señora Montero, los análisis de su hija.",
+      "addressee": "ISABEL",
+      "eyeline": "MENDOZA fala PARA ISABEL e olha para ISABEL (no centro do saguao, de frente para o DR. MENDOZA), fora do quadro. NAO olha para CAMILA, ROSA.",
+      "emotion_level": 9,
+      "intention": "Chegar com uma noticia dificil, serio.",
+      "voice": "Voz masculina grave, seria e contida.",
+      "face": "DR. MENDOZA: testa franzida, olhar serio e constrangido.",
+      "body": "DR. MENDOZA: caminha ate ela e abre a pasta azul.",
+      "camera": "Medium Shot do DR. MENDOZA SOZINHO no quadro chegando pelo saguao, Dolly acompanhando, lente 50mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente MENDOZA movimenta os labios."
+    },
+    {
+      "time": "00:02.79-00:04.47",
+      "speaker": "ISABEL",
+      "dialogue": "¿Puede donarme o no?",
+      "addressee": "MENDOZA",
+      "eyeline": "ISABEL fala PARA MENDOZA e olha para MENDOZA (chega pela DIREITA do saguao e para na frente de ISABEL), fora do quadro. NAO olha para CAMILA, ROSA.",
+      "emotion_level": 9,
+      "intention": "Cobrar com impaciencia e arrogancia.",
+      "voice": "Voz feminina aguda, seca e impaciente.",
+      "face": "ISABEL: sobrancelha erguida, impaciente.",
+      "body": "ISABEL: esconde a pulseirinha na mao fechada.",
+      "camera": "Corte seco. Low Angle, tight close-up of ISABEL SOZINHA no quadro, head and upper shoulders, lente 75mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente ISABEL movimenta os labios."
+    },
+    {
+      "time": "00:04.47-00:07.64",
+      "speaker": "MENDOZA",
+      "dialogue": "No puede. Ella no es su hija biológica.",
+      "addressee": "ISABEL",
+      "eyeline": "MENDOZA fala PARA ISABEL e olha para ISABEL (no centro do saguao, de frente para o DR. MENDOZA), fora do quadro. NAO olha para CAMILA, ROSA.",
+      "emotion_level": 10,
+      "intention": "Dar a noticia com cuidado e firmeza.",
+      "voice": "Voz masculina grave, baixa, cada palavra pesada.",
+      "face": "DR. MENDOZA: olhar firme, sem piscar.",
+      "body": "DR. MENDOZA: fecha a pasta devagar.",
+      "camera": "Corte seco. Slow Push In: tight close-up of DR. MENDOZA SOZINHO no quadro, head and upper shoulders, lente 75mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente MENDOZA movimenta os labios."
+    },
+    {
+      "time": "00:07.64-00:08.84",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "ISABEL: CHOQUE total, olhos arregalados, a cor some do rosto, boca entreaberta sem som.",
+      "body": "ISABEL: a pulseirinha escorrega da mao dela.",
+      "camera": "Corte seco. Dolly Zoom (dolly in com zoom out) em tight close-up de ISABEL SOZINHA no quadro, o fundo do saguao se distorcendo. Ninguem fala. O clipe termina neste rosto.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    }
+  ],
+  "dialogue_rules": {
+    "language": "Espanol de Mexico, acento mexicano natural, TODAS as palavras em espanhol.",
+    "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
+    "total_dialogue_lines": 3,
+    "exact_order": [
+      "MENDOZA",
+      "ISABEL",
+      "MENDOZA"
+    ],
+    "rules": [
+      "So existem 3 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "Depois de 7.6 segundos ninguem fala.",
+      "Cada fala e dirigida a: MENDOZA -> ISABEL; ISABEL -> MENDOZA; MENDOZA -> ISABEL.",
+      "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
+      "Nao repetir, misturar, traduzir ou acrescentar palavras.",
+      "Cada frase e dita INTEIRA, do comeco ao fim.",
+      "CAMILA e ROSA nao falam neste clipe."
+    ]
+  },
+  "audio": {
+    "single_voice_at_a_time": true,
+    "sound": "Passos do medico no marmore, murmurios baixos do saguao; depois, silencio total.",
+    "music": "Nenhuma.",
+    "narration": "Nenhuma.",
+    "subtitles": "Nao gerar."
+  },
+  "negative_prompt": [
+    "texto legivel na pasta ou em papeis",
+    "cracha com texto legivel",
+    "camila falando",
+    "rosa falando",
+    "texto ou letras em qualquer lugar",
+    "nome ou idade de personagem escrito na tela",
+    "letreiro de apresentacao de personagem (lower third)",
+    "palavra inventada no ultimo plano",
+    "fala repetida",
+    "fala adiantada ou atrasada para outro plano",
+    "personagem falando ou olhando para quem nao e o destinatario da fala",
+    "fala neutra ou monotona",
+    "rosto neutro ou expressao vazia",
+    "atuacao contida",
+    "voz sem rosto na tela",
+    "tela dividida",
+    "colagem",
+    "formato horizontal",
+    "bordas pretas",
+    "palavras em ingles",
+    "palavras em portugues",
+    "duas vozes simultaneas",
+    "movimento labial do ouvinte",
+    "fala cortada, encurtada ou incompleta",
+    "personagem olhando para a camera",
+    "mudanca de rosto",
+    "mudanca de roupa",
+    "legendas",
+    "logotipo",
+    "marca-d'agua",
+    "trilha sonora"
+  ]
+}
