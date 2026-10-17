@@ -114,6 +114,9 @@ Um longo rende 3 a 5 curtos (cada um com um gancho diferente).
 - `imagens` vazio/ausente = clipe sem referência (Text to Video). Com `imagens`, o personagem cujo `frame` está na lista vira "O MESMO da imagem N"; os demais são descritos por texto.
 - `frames` (por clipe, opcional): `{"VICTORIA": "FRAME_VICTORIA_PAPEL"}` troca o frame de referência do personagem só naquele clipe (quando um frame mais novo mostra melhor o rosto).
 - `descricoes` (por clipe, opcional): troca a descrição do personagem só naquele clipe (ex.: perdeu a bolsa, rasgou o vestido).
+- `primeiro_frame: true` (por clipe): a imagem 1 vira o PRIMEIRO FRAME do vídeo (Frames to Video), para continuar exatamente de um frame bom de um clipe que errou depois.
+- `sem_fala: true` (por clipe): libera a regra de 65% de fala — só quando o usuário pedir um clipe mudo (ex.: reação final; a fala entra na edição, tirada de outro clipe).
+- `estrutura` (por clipe): troca o texto do campo `structure` (ex.: plano único contínuo sem corte).
 - `bocas` (por plano, opcional): troca o texto padrão do campo `mouths` (ex.: voz fora do quadro).
 - Nos textos, citar imagens pelo NOME (`imagem FRAME_DON`); o script troca pelo número certo de cada clipe ("imagem 2").
 - Plano sem `fala` = plano mudo de reação (use pouco, no máximo ~0,8 s, só no fim).

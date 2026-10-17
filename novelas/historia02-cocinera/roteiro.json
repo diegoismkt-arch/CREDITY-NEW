@@ -19,7 +19,8 @@
     "FRAME_FOTO": "frame do clipe 6, plano 2 (por volta do segundo 4): a foto antiga de casamento em preto e branco num porta-retrato sobre a escrivaninha.",
     "FRAME_PAPEL": "frame do clipe 7, plano 5 (por volta do segundo 8): a bolsa dourada caida no chao de madeira com um papel antigo amarelado dobrado saindo de dentro.",
     "FRAME_VICTORIA_PAPEL": "frame do clipe 8, plano 2 (por volta do segundo 3): close de DONA VICTORIA lendo o papel antigo amarelado, em choque.",
-    "FRAME_CARMEN_LAGRIMAS": "frame do clipe 8, plano 4 (por volta do segundo 6): close de DONA CARMEN com lagrimas nos olhos, no escritorio escuro."
+    "FRAME_CARMEN_LAGRIMAS": "frame do clipe 8, plano 4 (por volta do segundo 6): close de DONA CARMEN com lagrimas nos olhos, no escritorio escuro.",
+    "FRAME_GRUPO_FINAL": "frame do clipe 8, plano 3 (pouco antes do grito, por volta do segundo 6,5) — a imagem enviada: DANIELA de vestido vermelho na ESQUERDA, VICTORIA de verde no centro segurando o papel, CARMEN de avental a DIREITA segurando o papel com ela, DON JULIAN atras ao fundo; todos de perfil, olhando para o papel; estante de livros ao fundo."
   },
   "personagens": {
     "DANIELA": {
@@ -877,6 +878,92 @@
       "descricoes": {
         "DANIELA": "noiva de 30 anos, pele clara, cabelo castanho escuro longo e ondulado, maquiagem forte, batom vermelho, VESTIDO LONGO DE CETIM VERMELHO de alcas finas, brincos de diamante, salto alto dourado, MAOS VAZIAS: a bolsa dourada dela esta caida no chao."
       }
+    },
+    {
+      "nome": "A porta abre — todos olham para a câmera",
+      "atuacao": "Novela dramatica. SEM FALAS. Atuacao INTENSA so com o rosto: os quatro ouvem a porta abrindo atras da camera, viram o rosto devagar e ficam olhando para a lente com MEDO e CHOQUE, paralisados. Suspense maximo.",
+      "estilo": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Interior escuro e empoeirado: Low-key, Window Light em faixas pelas frestas da janela, poeira no ar, foco em todos os rostos.",
+      "primeiro_frame": true,
+      "sem_fala": true,
+      "imagens": [
+        "FRAME_GRUPO_FINAL"
+      ],
+      "frames": {
+        "DANIELA": "FRAME_GRUPO_FINAL",
+        "VICTORIA": "FRAME_GRUPO_FINAL",
+        "CARMEN": "FRAME_GRUPO_FINAL",
+        "JULIAN": "FRAME_GRUPO_FINAL"
+      },
+      "descricoes": {
+        "DANIELA": "noiva de 30 anos, pele clara, cabelo castanho escuro longo e ondulado, maquiagem forte, batom vermelho, VESTIDO LONGO DE CETIM VERMELHO de alcas finas, brincos de diamante, salto alto dourado, MAOS VAZIAS: a bolsa dourada dela esta caida no chao."
+      },
+      "personagens": [
+        "DANIELA",
+        "VICTORIA",
+        "CARMEN",
+        "JULIAN"
+      ],
+      "posicoes": {
+        "DANIELA": "na ESQUERDA do quadro",
+        "VICTORIA": "no centro, segurando o papel",
+        "CARMEN": "a DIREITA, segurando o papel junto com VICTORIA",
+        "JULIAN": "atras, ao fundo, a direita",
+        "PORTA": "atras da CAMERA, fora do quadro; ninguem aparece"
+      },
+      "preservar_extra": [
+        "O video COMECA EXATAMENTE na imagem 1: mesma composicao, mesmas posicoes, mesma luz, mesma estante ao fundo.",
+        "O papel antigo amarelado continua nas maos de VICTORIA e CARMEN.",
+        "Ninguem novo aparece: a porta que abre fica atras da camera, fora do quadro."
+      ],
+      "cenario": "O MESMO escritorio antigo da imagem 1, um instante depois. Uma porta range e se abre atras da camera, fora do quadro.",
+      "som": "Silencio pesado; o RANGIDO longo e lento de uma porta antiga de madeira se abrindo atras da camera; passos leves no piso de madeira; respiracoes assustadas. Nenhuma voz.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "voz sem rosto na tela"
+      ],
+      "negativos_extra": [
+        "qualquer fala",
+        "qualquer palavra",
+        "boca aberta",
+        "labios se movendo",
+        "grito",
+        "julian falando",
+        "pessoa nova aparecendo",
+        "porta aparecendo no quadro",
+        "silhueta ou vulto",
+        "sombra de pessoa entrando no quadro",
+        "corte",
+        "troca de angulo",
+        "close individual",
+        "bolsa dourada nas maos de daniela"
+      ],
+      "regras_extra": [
+        "Um UNICO plano continuo, SEM CORTE, do comeco ao fim.",
+        "O som da porta abrindo vem de tras da camera; ninguem aparece."
+      ],
+      "planos": [
+        {
+          "rosto": "Os quatro ainda de perfil olhando para o papel, como na imagem 1; ao ouvir o rangido, os olhos de todos se arregalam. BOCAS FECHADAS.",
+          "corpo": "Imoveis, o papel nas maos de VICTORIA e CARMEN.",
+          "camera": "Comeca EXATAMENTE na imagem 1, camera parada. O rangido da porta comeca atras da camera.",
+          "segundos": 1.5
+        },
+        {
+          "rosto": "Os quatro viram o ROSTO devagar, ao mesmo tempo, do perfil para a camera, e olham DIRETO para a lente, com MEDO e CHOQUE. BOCAS FECHADAS.",
+          "corpo": "So a cabeca vira; o corpo continua no lugar. VICTORIA aperta o papel contra o peito; CARMEN leva a mao a boca sem abrir os labios.",
+          "camera": "SEM CORTE, camera ainda parada.",
+          "segundos": 2.0,
+          "olha_para_camera": true
+        },
+        {
+          "rosto": "Os quatro paralisados, olhando DIRETO para a lente (para quem abriu a porta), olhos arregalados, respiracao presa. BOCAS FECHADAS.",
+          "corpo": "Imoveis, juntos.",
+          "camera": "SEM CORTE: Slow Dolly Out — a camera se AFASTA devagar para tras, como quem recua pela porta, revelando mais do escritorio escuro em volta deles; os quatro ficam menores no quadro, sempre olhando para a lente. O video termina neste movimento.",
+          "segundos": 4.5,
+          "olha_para_camera": true
+        }
+      ],
+      "estrutura": "UM UNICO plano continuo em tela cheia, SEM NENHUM CORTE, em 3 momentos: o rangido da porta, os rostos virando para a camera, a camera se afastando. Nenhuma fala."
     }
   ]
 }

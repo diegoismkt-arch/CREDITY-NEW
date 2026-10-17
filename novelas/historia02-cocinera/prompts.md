@@ -1485,3 +1485,139 @@ Referências, nesta ordem: 1) FRAME_DESPACHO; 2) FRAME_VICTORIA; 3) FRAME_CARMEN
 **Depois de gerar este clipe, salve os frames:**
 - **FRAME_VICTORIA_PAPEL:** frame do clipe 8, plano 2 (por volta do segundo 3): close de DONA VICTORIA lendo o papel antigo amarelado, em choque.
 - **FRAME_CARMEN_LAGRIMAS:** frame do clipe 8, plano 4 (por volta do segundo 6): close de DONA CARMEN com lagrimas nos olhos, no escritorio escuro.
+
+## Clipe 9 — A porta abre — todos olham para a câmera
+
+clipe 9: 8.0s, 0.0s de fala (0 palavras, 3 planos, falantes: ) ✅
+
+Referências, nesta ordem: 1) FRAME_GRUPO_FINAL
+
+```json
+{
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. SEM FALAS. Atuacao INTENSA so com o rosto: os quatro ouvem a porta abrindo atras da camera, viram o rosto devagar e ficam olhando para a lente com MEDO e CHOQUE, paralisados. Suspense maximo.",
+  "input_image": {
+    "required": true,
+    "mode": "Frames to Video: a imagem 1 e o PRIMEIRO FRAME exato do video.",
+    "additional_references": true,
+    "reference_images": [
+      "Imagem 1 — frame do clipe 8, plano 3 (pouco antes do grito, por volta do segundo 6,5) — a imagem enviada: DANIELA de vestido vermelho na ESQUERDA, VICTORIA de verde no centro segurando o papel, CARMEN de avental a DIREITA segurando o papel com ela, DON JULIAN atras ao fundo; todos de perfil, olhando para o papel; estante de livros ao fundo."
+    ],
+    "preserve_exactly": [
+      "DANIELA: o MESMO rosto da imagem 1, noiva de 30 anos, pele clara, cabelo castanho escuro longo e ondulado, maquiagem forte, batom vermelho, VESTIDO LONGO DE CETIM VERMELHO de alcas finas, brincos de diamante, salto alto dourado, MAOS VAZIAS: a bolsa dourada dela esta caida no chao.",
+      "VICTORIA: o MESMO rosto da imagem 1, senhora rica de 68 anos, pele clara, cabelo BRANCO prateado em coque alto, maquiagem elegante, VESTIDO LONGO VERDE-ESMERALDA de seda, COLAR DE ESMERALDAS, xale de seda nos ombros, bengala com cabo de prata.",
+      "CARMEN: o MESMO rosto da imagem 1, cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, SEM nada no pescoco (a corrente arrebentou).",
+      "JULIAN: o MESMO rosto da imagem 1, caseiro idoso de 75 anos, pele morena curtida de sol, cabelo BRANCO curto, bigode branco grosso, rosto enrugado e firme, camisa BRANCA de manga comprida, COLETE DE COURO MARROM, calca escura.",
+      "O video COMECA EXATAMENTE na imagem 1: mesma composicao, mesmas posicoes, mesma luz, mesma estante ao fundo.",
+      "O papel antigo amarelado continua nas maos de VICTORIA e CARMEN.",
+      "Ninguem novo aparece: a porta que abre fica atras da camera, fora do quadro."
+    ]
+  },
+  "scene": {
+    "title": "LA COCINERA",
+    "duration_seconds": 8.1,
+    "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
+    "structure": "UM UNICO plano continuo em tela cheia, SEM NENHUM CORTE, em 3 momentos: o rangido da porta, os rostos virando para a camera, a camera se afastando. Nenhuma fala.",
+    "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Interior escuro e empoeirado: Low-key, Window Light em faixas pelas frestas da janela, poeira no ar, foco em todos os rostos.",
+    "setting": "O MESMO escritorio antigo da imagem 1, um instante depois. Uma porta range e se abre atras da camera, fora do quadro.",
+    "blocking": [
+      "DANIELA: na ESQUERDA do quadro",
+      "VICTORIA: no centro, segurando o papel",
+      "CARMEN: a DIREITA, segurando o papel junto com VICTORIA",
+      "JULIAN: atras, ao fundo, a direita",
+      "PORTA: atras da CAMERA, fora do quadro; ninguem aparece"
+    ],
+    "characters": {
+      "DANIELA": "A MESMA da imagem 1. Personagem ficticia. Voz feminina aguda, arrogante e cruel de mulher de 30 anos.",
+      "VICTORIA": "A MESMA da imagem 1. Personagem ficticia. Voz feminina grave, autoritaria e fria de senhora de 68 anos.",
+      "CARMEN": "A MESMA da imagem 1. Personagem ficticia. Voz feminina rouca e humilde de senhora de 62 anos.",
+      "JULIAN": "O MESMO da imagem 1. Personagem ficticio. Voz masculina grave, rouca e firme de homem de 75 anos."
+    }
+  },
+  "timeline": [
+    {
+      "time": "00:00.00-00:01.50",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "Os quatro ainda de perfil olhando para o papel, como na imagem 1; ao ouvir o rangido, os olhos de todos se arregalam. BOCAS FECHADAS.",
+      "body": "Imoveis, o papel nas maos de VICTORIA e CARMEN.",
+      "camera": "Comeca EXATAMENTE na imagem 1, camera parada. O rangido da porta comeca atras da camera.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    },
+    {
+      "time": "00:01.50-00:03.50",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "Os quatro viram o ROSTO devagar, ao mesmo tempo, do perfil para a camera, e olham DIRETO para a lente, com MEDO e CHOQUE. BOCAS FECHADAS.",
+      "body": "So a cabeca vira; o corpo continua no lugar. VICTORIA aperta o papel contra o peito; CARMEN leva a mao a boca sem abrir os labios.",
+      "camera": "SEM CORTE, camera ainda parada.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    },
+    {
+      "time": "00:03.50-00:08.00",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "Os quatro paralisados, olhando DIRETO para a lente (para quem abriu a porta), olhos arregalados, respiracao presa. BOCAS FECHADAS.",
+      "body": "Imoveis, juntos.",
+      "camera": "SEM CORTE: Slow Dolly Out — a camera se AFASTA devagar para tras, como quem recua pela porta, revelando mais do escritorio escuro em volta deles; os quatro ficam menores no quadro, sempre olhando para a lente. O video termina neste movimento.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    }
+  ],
+  "dialogue_rules": {
+    "language": "Espanol de Mexico, acento mexicano natural, TODAS as palavras em espanhol.",
+    "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
+    "total_dialogue_lines": 0,
+    "exact_order": [],
+    "rules": [
+      "Ninguem fala neste clipe. Nenhum dialogo, nenhuma palavra, todas as bocas FECHADAS.",
+      "Um UNICO plano continuo, SEM CORTE, do comeco ao fim.",
+      "O som da porta abrindo vem de tras da camera; ninguem aparece."
+    ]
+  },
+  "audio": {
+    "single_voice_at_a_time": true,
+    "sound": "Silencio pesado; o RANGIDO longo e lento de uma porta antiga de madeira se abrindo atras da camera; passos leves no piso de madeira; respiracoes assustadas. Nenhuma voz.",
+    "music": "Nenhuma.",
+    "narration": "Nenhuma.",
+    "subtitles": "Nao gerar."
+  },
+  "negative_prompt": [
+    "qualquer fala",
+    "qualquer palavra",
+    "boca aberta",
+    "labios se movendo",
+    "grito",
+    "julian falando",
+    "pessoa nova aparecendo",
+    "porta aparecendo no quadro",
+    "silhueta ou vulto",
+    "sombra de pessoa entrando no quadro",
+    "corte",
+    "troca de angulo",
+    "close individual",
+    "bolsa dourada nas maos de daniela",
+    "texto ou letras em qualquer lugar",
+    "palavra inventada no ultimo plano",
+    "fala repetida",
+    "fala adiantada ou atrasada para outro plano",
+    "personagem falando ou olhando para quem nao e o destinatario da fala",
+    "fala neutra ou monotona",
+    "rosto neutro ou expressao vazia",
+    "atuacao contida",
+    "tela dividida",
+    "colagem",
+    "formato horizontal",
+    "bordas pretas",
+    "palavras em ingles",
+    "palavras em portugues",
+    "duas vozes simultaneas",
+    "movimento labial do ouvinte",
+    "fala cortada, encurtada ou incompleta",
+    "mudanca de rosto",
+    "mudanca de roupa",
+    "legendas",
+    "logotipo",
+    "marca-d'agua",
+    "trilha sonora"
+  ]
+}
+```

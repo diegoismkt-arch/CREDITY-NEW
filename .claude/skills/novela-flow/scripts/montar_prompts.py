@@ -113,7 +113,7 @@ def montar(rot, n, clip):
     if total > DURACAO_MAX:
         avisos.append(f"❌ {total:.1f}s — passa de {DURACAO_MAX:.0f}s, corte palavras")
         erro = True
-    if fala_seg / DURACAO_MAX < OCUPACAO_MIN:
+    if fala_seg / DURACAO_MAX < OCUPACAO_MIN and not clip.get("sem_fala"):
         avisos.append(f"❌ só {fala_seg:.1f}s de fala em {DURACAO_MAX:.0f}s — clipe vazio, gaste o crédito com mais fala")
         erro = True
 
@@ -149,8 +149,9 @@ def montar(rot, n, clip):
     prompt = {"ATUACAO_PRIORIDADE_MAXIMA": clip["atuacao"]}
     if imagens:
         prompt["input_image"] = {
-            "required": False,
-            "mode": "Ingredients to Video, sem primeiro frame.",
+            "required": bool(clip.get("primeiro_frame")),
+            "mode": ("Frames to Video: a imagem 1 e o PRIMEIRO FRAME exato do video." if clip.get("primeiro_frame")
+                     else "Ingredients to Video, sem primeiro frame."),
             "additional_references": True,
             "reference_images": [f"Imagem {i} — {rot['imagens'][k]}" for i, k in enumerate(imagens, 1)],
             "preserve_exactly": preservar + clip.get("preservar_extra", []),
@@ -160,7 +161,7 @@ def montar(rot, n, clip):
             "title": rot["titulo_interno"],
             "duration_seconds": min(DURACAO_MAX, round(total + 0.05, 1)),
             "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
-            "structure": (f"{len(planos)} planos de cinema em tela cheia, ligados por cortes secos. "
+            "structure": clip.get("estrutura") or (f"{len(planos)} planos de cinema em tela cheia, ligados por cortes secos. "
                           f"{len(falantes)} falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante "
                           "do plano de quem fala e terminando antes do corte."),
             "style": clip.get("estilo", rot["estilo"]),
@@ -174,7 +175,8 @@ def montar(rot, n, clip):
             "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
             "total_dialogue_lines": len(falantes),
             "exact_order": falantes,
-            "rules": [
+            "rules": ["Ninguem fala neste clipe. Nenhum dialogo, nenhuma palavra, todas as bocas FECHADAS."]
+            + clip.get("regras_extra", []) if not falantes else [
                 f"So existem {len(falantes)} falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
                 f"Depois de {fim_fala:.1f} segundos ninguem fala." if ultima_fala < len(planos) - 1
                 else "A ultima fala termina junto com o video.",
