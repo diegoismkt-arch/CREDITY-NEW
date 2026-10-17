@@ -1328,7 +1328,7 @@ Referências, nesta ordem: 1) FRAME_DESPACHO; 2) FRAME_VICTORIA; 3) FRAME_CARMEN
       "CARMEN: ao lado DIREITO de VICTORIA",
       "DANIELA: a ESQUERDA de VICTORIA, perto da porta",
       "JULIAN: atras da escrivaninha",
-      "PORTA: a porta do escritorio fica no FUNDO, atras de DANIELA; fica entreaberta e ESCURA"
+      "PORTA: a porta do escritorio fica na parede da ESQUERDA, atras de DANIELA; fica entreaberta e o corredor e PRETO e VAZIO"
     ],
     "characters": {
       "VICTORIA": "A MESMA da imagem 2. Personagem ficticia. Voz feminina grave, autoritaria e fria de senhora de 68 anos.",
@@ -1385,29 +1385,29 @@ Referências, nesta ordem: 1) FRAME_DESPACHO; 2) FRAME_VICTORIA; 3) FRAME_CARMEN
       "speaker": "VOZ (fora do quadro)",
       "dialogue": "¡Fui yo!",
       "addressee": "TODOS",
-      "eyeline": "Ninguem visivel fala. A voz vem do corredor escuro atras da porta, fora do quadro.",
+      "eyeline": "Nenhum rosto na tela. A voz vem do corredor escuro, fora do quadro.",
       "emotion_level": 10,
       "intention": "Gritar a confissao de fora da sala, interrompendo a leitura.",
       "voice": "Voz masculina grave, GRITANDO forte, com eco do corredor.",
-      "face": "VICTORIA, CARMEN, DANIELA e JULIAN: congelam, olhos arregalados, BOCAS FECHADAS.",
-      "body": "Todos viram a cabeca ao mesmo tempo para a porta, fora do quadro.",
-      "camera": "Corte seco. Plano de grupo, Eye Level, lente 35mm: VICTORIA com o papel, CARMEN, DANIELA e JULIAN congelam e viram a cabeca para a porta fora do quadro; ninguem mexe a boca. A fala comeca no primeiro instante do plano.",
-      "mouths": "TODOS os rostos visiveis com a boca FECHADA. A voz vem de fora do quadro; ninguem na tela fala."
+      "face": "Sem rostos. Nenhuma pessoa no quadro.",
+      "body": "A porta do escritorio entreaberta e IMOVEL; pela fresta, so o corredor PRETO e VAZIO.",
+      "camera": "Corte seco. Insert da porta entreaberta, camera PARADA na altura dos olhos, lente 50mm, Low-key; a fresta da porta e escuridao total. Nenhuma pessoa, nenhum rosto, nenhuma silhueta no quadro. A fala comeca no primeiro instante do plano.",
+      "mouths": "NENHUM rosto no quadro: a voz vem do corredor escuro. Ninguem na tela fala."
     },
     {
       "time": "00:07.73-00:08.93",
       "speaker": "NONE",
       "dialogue": null,
-      "face": "Sem rostos.",
-      "body": "A porta do escritorio entreaberta, so escuridao no corredor; ninguem aparece.",
-      "camera": "Corte seco. Ponto de vista do grupo: Slow Dolly In na porta entreaberta e escura, Backlight fraco do corredor. Ninguem fala.",
+      "face": "VICTORIA, CARMEN, DANIELA e JULIAN: olhos arregalados de susto, BOCAS FECHADAS e apertadas, ninguem fala.",
+      "body": "Os quatro viram a cabeca e o corpo ao mesmo tempo para a ESQUERDA do quadro, onde fica a porta, de costas para a camera em tres-quartos; VICTORIA aperta o papel contra o peito.",
+      "camera": "Corte seco. Plano de grupo, Eye Level, lente 35mm, camera parada: os quatro se viram para a porta fora do quadro, a ESQUERDA. Ninguem fala, todas as bocas fechadas.",
       "mouths": "Bocas FECHADAS. Ninguem fala."
     },
     {
       "time": "00:08.93-00:09.73",
       "speaker": "NONE",
       "dialogue": null,
-      "face": "DONA VICTORIA: em CHOQUE, olhos arregalados para a porta, boca fechada, o papel tremendo nas maos.",
+      "face": "DONA VICTORIA: em CHOQUE, olhos arregalados olhando para a ESQUERDA (a porta), labios FECHADOS e apertados, o papel tremendo nas maos.",
       "body": "DONA VICTORIA: imovel.",
       "camera": "Corte seco. Dolly Zoom lento em tight close-up de DONA VICTORIA SOZINHA no quadro, Low-key com Eye Light. O video termina neste rosto. Ninguem fala.",
       "mouths": "Bocas FECHADAS. Ninguem fala."
@@ -1431,8 +1431,9 @@ Referências, nesta ordem: 1) FRAME_DESPACHO; 2) FRAME_VICTORIA; 3) FRAME_CARMEN
       "Nao repetir, misturar, traduzir ou acrescentar palavras.",
       "Cada frase e dita INTEIRA, do comeco ao fim.",
       "DON JULIAN e DANIELA nao falam neste clipe.",
-      "A fala '¡Fui yo!' e de uma VOZ masculina FORA DO QUADRO: no plano 4 TODOS os personagens visiveis ficam de boca FECHADA.",
-      "Ninguem aparece na porta: ela fica entreaberta e escura ate o fim.",
+      "A fala '¡Fui yo!' e de uma VOZ masculina FORA DO QUADRO e toca SOBRE o plano da porta escura (plano 4), onde NAO ha nenhum rosto.",
+      "No plano 5 (grupo) e no plano 6 TODOS ficam de boca FECHADA: ninguem fala, ninguem grita.",
+      "A porta fica IMOVEL e o corredor PRETO e VAZIO: ninguem aparece em momento nenhum.",
       "O video termina no rosto de VICTORIA em choque, sem ninguem falar."
     ]
   },
@@ -1453,8 +1454,13 @@ Referências, nesta ordem: 1) FRAME_DESPACHO; 2) FRAME_VICTORIA; 3) FRAME_CARMEN
     "homem na porta",
     "silhueta na porta",
     "alguem entrando no escritorio",
-    "personagem visivel movendo a boca no plano do grito",
     "bolsa dourada nas maos de daniela",
+    "pessoa no corredor",
+    "vulto ou sombra de pessoa na porta",
+    "porta se abrindo",
+    "rosto visivel no plano do grito",
+    "victoria abrindo a boca depois da fala dela",
+    "boca aberta no plano de grupo",
     "texto ou letras em qualquer lugar",
     "palavra inventada no ultimo plano",
     "fala repetida",
