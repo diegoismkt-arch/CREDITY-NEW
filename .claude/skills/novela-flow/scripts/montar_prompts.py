@@ -159,7 +159,7 @@ def montar(rot, n, clip):
             "structure": (f"{len(planos)} planos de cinema em tela cheia, ligados por cortes secos. "
                           f"{len(falantes)} falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante "
                           "do plano de quem fala e terminando antes do corte."),
-            "style": rot["estilo"],
+            "style": clip.get("estilo", rot["estilo"]),
             "setting": clip["cenario"],
             **({"blocking": [f"{k}: {v}" for k, v in clip["posicoes"].items()]} if clip.get("posicoes") else {}),
             "characters": fichas,

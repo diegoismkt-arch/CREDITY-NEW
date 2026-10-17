@@ -92,6 +92,7 @@ Um longo rende 3 a 5 curtos (cada um com um gancho diferente).
       "posicoes": { "DON": "deitado na cama", "VALERIA": "em pe do lado ESQUERDO da cama" },
       "preservar_extra": ["O mesmo quarto da imagem FRAME_QUARTO."],
       "cenario": "setting do clipe",
+      "estilo": "(opcional) estilo/luz próprio deste clipe, quando muda de cenário",
       "som": "sons ambiente",
       "negativos_extra": ["coisas proibidas só neste clipe"],
       "remover_negativos": ["item da lista padrão que não vale neste clipe"],
