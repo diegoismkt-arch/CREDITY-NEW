@@ -1287,7 +1287,7 @@ Referências, nesta ordem: 1) FRAME_DESPACHO; 2) FRAME_CARMEN_PE; 3) FRAME_DANIE
 
 ## Clipe 8 — O testamento e a assinatura falsa
 
-clipe 8: 10.1s, 7.6s de fala (19 palavras, 4 planos, falantes: VICTORIA, CARMEN) ❌ 10.1s — passa de 10s, corte palavras
+clipe 8: 9.8s, 7.3s de fala (18 palavras, 4 planos, falantes: VICTORIA, CARMEN) ✅
 
 Referências, nesta ordem: 1) FRAME_DESPACHO; 2) FRAME_VICTORIA; 3) FRAME_CARMEN_PE; 4) FRAME_PAPEL
 
@@ -1316,7 +1316,7 @@ Referências, nesta ordem: 1) FRAME_DESPACHO; 2) FRAME_VICTORIA; 3) FRAME_CARMEN
   },
   "scene": {
     "title": "LA COCINERA",
-    "duration_seconds": 10.0,
+    "duration_seconds": 9.8,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
     "structure": "4 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
     "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Interior escuro e empoeirado: Low-key, Window Light em faixas pelas frestas da janela, poeira no ar, Shallow Focus nos closes, cortes rapidos.",
@@ -1336,9 +1336,9 @@ Referências, nesta ordem: 1) FRAME_DESPACHO; 2) FRAME_VICTORIA; 3) FRAME_CARMEN
   },
   "timeline": [
     {
-      "time": "00:00.00-00:02.42",
+      "time": "00:00.00-00:02.05",
       "speaker": "VICTORIA",
-      "dialogue": "Es la última página del testamento.",
+      "dialogue": "La última página del testamento.",
       "addressee": "CARMEN",
       "eyeline": "VICTORIA olha para o PAPEL nas maos dela enquanto fala.",
       "emotion_level": 9,
@@ -1350,7 +1350,7 @@ Referências, nesta ordem: 1) FRAME_DESPACHO; 2) FRAME_VICTORIA; 3) FRAME_CARMEN
       "mouths": "Somente VICTORIA movimenta os labios."
     },
     {
-      "time": "00:02.42-00:04.84",
+      "time": "00:02.05-00:04.47",
       "speaker": "VICTORIA",
       "dialogue": "«Dejo todo… a mi hermana Victoria».",
       "addressee": "CARMEN",
@@ -1364,7 +1364,7 @@ Referências, nesta ordem: 1) FRAME_DESPACHO; 2) FRAME_VICTORIA; 3) FRAME_CARMEN
       "mouths": "Somente VICTORIA movimenta os labios."
     },
     {
-      "time": "00:04.84-00:07.34",
+      "time": "00:04.47-00:06.97",
       "speaker": "NONE",
       "dialogue": null,
       "face": "Sem rostos.",
@@ -1373,7 +1373,7 @@ Referências, nesta ordem: 1) FRAME_DESPACHO; 2) FRAME_VICTORIA; 3) FRAME_CARMEN
       "mouths": "Bocas FECHADAS. Ninguem fala."
     },
     {
-      "time": "00:07.34-00:10.14",
+      "time": "00:06.97-00:09.77",
       "speaker": "CARMEN",
       "dialogue": "Esa no es la firma de Rafael.",
       "addressee": "VICTORIA",

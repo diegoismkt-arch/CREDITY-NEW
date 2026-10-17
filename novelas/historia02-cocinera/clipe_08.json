@@ -22,7 +22,7 @@
   },
   "scene": {
     "title": "LA COCINERA",
-    "duration_seconds": 10.0,
+    "duration_seconds": 9.8,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
     "structure": "4 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
     "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Interior escuro e empoeirado: Low-key, Window Light em faixas pelas frestas da janela, poeira no ar, Shallow Focus nos closes, cortes rapidos.",
@@ -42,9 +42,9 @@
   },
   "timeline": [
     {
-      "time": "00:00.00-00:02.42",
+      "time": "00:00.00-00:02.05",
       "speaker": "VICTORIA",
-      "dialogue": "Es la última página del testamento.",
+      "dialogue": "La última página del testamento.",
       "addressee": "CARMEN",
       "eyeline": "VICTORIA olha para o PAPEL nas maos dela enquanto fala.",
       "emotion_level": 9,
@@ -56,7 +56,7 @@
       "mouths": "Somente VICTORIA movimenta os labios."
     },
     {
-      "time": "00:02.42-00:04.84",
+      "time": "00:02.05-00:04.47",
       "speaker": "VICTORIA",
       "dialogue": "«Dejo todo… a mi hermana Victoria».",
       "addressee": "CARMEN",
@@ -70,7 +70,7 @@
       "mouths": "Somente VICTORIA movimenta os labios."
     },
     {
-      "time": "00:04.84-00:07.34",
+      "time": "00:04.47-00:06.97",
       "speaker": "NONE",
       "dialogue": null,
       "face": "Sem rostos.",
@@ -79,7 +79,7 @@
       "mouths": "Bocas FECHADAS. Ninguem fala."
     },
     {
-      "time": "00:07.34-00:10.14",
+      "time": "00:06.97-00:09.77",
       "speaker": "CARMEN",
       "dialogue": "Esa no es la firma de Rafael.",
       "addressee": "VICTORIA",
