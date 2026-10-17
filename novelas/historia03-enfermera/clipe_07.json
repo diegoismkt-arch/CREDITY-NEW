@@ -1,0 +1,170 @@
+{
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao MAXIMA: ROSA chorando, confessando com amor e dor; ISABEL desesperada; CAMILA desmoronando. O clipe termina no choque, sem explicacao. Rostos muito expressivos. Nenhuma fala neutra.",
+  "input_image": {
+    "required": false,
+    "mode": "Ingredients to Video, sem primeiro frame.",
+    "additional_references": true,
+    "reference_images": [
+      "Imagem 1 — frame do clipe 6, plano 1 (por volta do segundo 2): ROSA de uniforme branco no arquivo escuro, segurando a ficha amarelada sobre a caixa aberta, lampada fluorescente e prateleiras atras.",
+      "Imagem 2 — frame do clipe 3, plano 4 (por volta do segundo 8): close de ISABEL em choque, olhos arregalados, boca aberta, tailleur vinho com mancha de cafe, oculos escuros no cabelo.",
+      "Imagem 3 — frame do clipe 6, plano 4 (por volta do segundo 7,5): close de CAMILA chorando no arquivo escuro, VESTIDO AZUL-CLARO, caixas desfocadas ao fundo."
+    ],
+    "preserve_exactly": [
+      "ROSA: o MESMO rosto da imagem 1, enfermeira de 62 anos, pele morena, rosto bondoso e cansado, rugas finas, cabelo GRISALHO preso em coque baixo, uniforme de enfermeira BRANCO de manga curta, cracha no peito, relogio simples de pulseira de couro, sapatos brancos.",
+      "ISABEL: o MESMO rosto da imagem 2, senhora rica de 55 anos, pele clara, cabelo LOIRO platinado em chanel liso, maquiagem forte, batom vermelho, TAILLEUR VERMELHO-VINHO de grife, colar de PEROLAS, oculos escuros presos no cabelo, bolsa de grife PRETA no braco.",
+      "CAMILA: o MESMO rosto da imagem 3, mulher de 30 anos, pele morena clara, cabelo castanho escuro ondulado na altura dos ombros, maquiagem leve, VESTIDO AZUL-CLARO simples e elegante, brincos pequenos de prata, rosto doce.",
+      "O MESMO arquivo escuro da imagem 1: prateleiras de metal, caixas de papelao, lampada fluorescente piscando, poeira.",
+      "CAMILA SEMPRE de VESTIDO AZUL-CLARO; ISABEL SEMPRE de TAILLEUR VERMELHO-VINHO com a mancha de cafe; ROSA SEMPRE de uniforme BRANCO.",
+      "Nenhuma letra legivel em papeis ou cracha."
+    ]
+  },
+  "scene": {
+    "title": "LA ENFERMERA",
+    "duration_seconds": 9.7,
+    "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
+    "structure": "5 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Dentro do ARQUIVO velho do subsolo do hospital: Low-key, uma unica lampada fluorescente piscando, poeira flutuando no feixe de luz, prateleiras de metal enferrujadas com caixas de papelao amareladas. Shallow Focus nos closes, cortes rapidos.",
+    "setting": "O MESMO arquivo velho do subsolo da imagem 1, segundos depois de CAMILA ver ROSA jovem na foto.",
+    "blocking": [
+      "ROSA: junto a prateleira, de frente para CAMILA",
+      "ISABEL: a DIREITA de ROSA, segurando a foto antiga",
+      "CAMILA: de frente para ROSA, a ESQUERDA"
+    ],
+    "characters": {
+      "ROSA": "A MESMA da imagem 1. Personagem ficticia. Voz feminina rouca, doce e humilde de senhora de 62 anos.",
+      "ISABEL": "A MESMA da imagem 2. Personagem ficticia. Voz feminina aguda, arrogante e cortante de senhora de 55 anos.",
+      "CAMILA": "A MESMA da imagem 3. Personagem ficticia. Voz feminina suave e firme de mulher de 30 anos."
+    }
+  },
+  "timeline": [
+    {
+      "time": "00:00.00-00:03.16",
+      "speaker": "ROSA",
+      "dialogue": "Porque esa noche… yo también di a luz.",
+      "addressee": "CAMILA",
+      "eyeline": "ROSA fala PARA CAMILA e olha para CAMILA (de frente para ROSA, a ESQUERDA), fora do quadro. NAO olha para ISABEL.",
+      "emotion_level": 10,
+      "intention": "Confessar o segredo, chorando.",
+      "voice": "Voz feminina rouca, embargada, baixa.",
+      "face": "ROSA: lagrimas escorrendo, olhar cheio de amor e dor para CAMILA.",
+      "body": "ROSA: deixa a ficha cair na caixa.",
+      "camera": "Tight close-up of ROSA SOZINHA no quadro, head and upper shoulders, luz fria de cima, Rembrandt lighting, lente 75mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente ROSA movimenta os labios."
+    },
+    {
+      "time": "00:03.16-00:05.21",
+      "speaker": "ISABEL",
+      "dialogue": "¿Y dónde está mi hija?",
+      "addressee": "ROSA",
+      "eyeline": "ISABEL fala PARA ROSA e olha para ROSA (junto a prateleira, de frente para CAMILA), fora do quadro. NAO olha para CAMILA.",
+      "emotion_level": 10,
+      "intention": "Perguntar desesperada, a voz quebrando.",
+      "voice": "Voz feminina aguda, quebrada, quase gritando.",
+      "face": "ISABEL: olhos arregalados cheios de lagrimas, a maquiagem borrando.",
+      "body": "ISABEL: aperta a foto antiga contra o peito.",
+      "camera": "Corte seco. Handheld, Medium Close-Up de ISABEL SOZINHA no quadro, lente 50mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente ISABEL movimenta os labios."
+    },
+    {
+      "time": "00:05.21-00:07.27",
+      "speaker": "CAMILA",
+      "dialogue": "Entonces… ¿quién es mi madre?",
+      "addressee": "ROSA",
+      "eyeline": "CAMILA fala PARA ROSA e olha para ROSA (junto a prateleira, de frente para CAMILA), fora do quadro. NAO olha para ISABEL.",
+      "emotion_level": 10,
+      "intention": "Perguntar com medo da resposta.",
+      "voice": "Voz feminina embargada, quase um sussurro.",
+      "face": "CAMILA: lagrimas escorrendo, labios tremendo.",
+      "body": "CAMILA: da um passo na direcao de ROSA.",
+      "camera": "Corte seco. Tight close-up of CAMILA SOZINHA no quadro, head and upper shoulders, vestido azul-claro, lente 75mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente CAMILA movimenta os labios."
+    },
+    {
+      "time": "00:07.27-00:08.47",
+      "speaker": "ROSA",
+      "dialogue": "Yo.",
+      "addressee": "CAMILA",
+      "eyeline": "ROSA fala PARA CAMILA e olha para CAMILA (de frente para ROSA, a ESQUERDA), fora do quadro. NAO olha para ISABEL.",
+      "emotion_level": 10,
+      "intention": "Revelar a verdade numa unica palavra.",
+      "voice": "Voz feminina rouca, BAIXINHA, tremula.",
+      "face": "ROSA: lagrimas, um sorriso de dor mal contido.",
+      "body": "ROSA: leva a mao ao peito.",
+      "camera": "Corte seco. Slow Push In: extreme close-up do rosto de ROSA SOZINHA no quadro, da testa ao queixo, lente 85mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente ROSA movimenta os labios."
+    },
+    {
+      "time": "00:08.47-00:09.67",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "CAMILA: CHOQUE total, olhos arregalados, lagrimas paradas, boca entreaberta sem som.",
+      "body": "CAMILA: imovel, a mao na boca.",
+      "camera": "Corte seco. Crash Zoom In ate tight close-up de CAMILA SOZINHA no quadro (cabelo castanho escuro, vestido azul-claro). Ninguem fala. O video termina neste rosto.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    }
+  ],
+  "dialogue_rules": {
+    "language": "Espanol de Mexico, acento mexicano natural, TODAS as palavras em espanhol.",
+    "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
+    "total_dialogue_lines": 4,
+    "exact_order": [
+      "ROSA",
+      "ISABEL",
+      "CAMILA",
+      "ROSA"
+    ],
+    "rules": [
+      "So existem 4 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "Depois de 8.5 segundos ninguem fala.",
+      "Cada fala e dirigida a: ROSA -> CAMILA; ISABEL -> ROSA; CAMILA -> ROSA; ROSA -> CAMILA.",
+      "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
+      "Nao repetir, misturar, traduzir ou acrescentar palavras.",
+      "Cada frase e dita INTEIRA, do comeco ao fim.",
+      "A fala 'Yo.' e dita UMA UNICA VEZ, baixinho, por ROSA.",
+      "Depois do 'Yo.' ninguem fala ate o fim."
+    ]
+  },
+  "audio": {
+    "single_voice_at_a_time": true,
+    "sound": "Zumbido da lampada fluorescente, solucos de choro; depois do 'Yo', silencio total.",
+    "music": "Nenhuma.",
+    "narration": "Nenhuma.",
+    "subtitles": "Nao gerar."
+  },
+  "negative_prompt": [
+    "letras ou numeros legiveis",
+    "cracha com texto legivel",
+    "saguao",
+    "isabel de vestido azul",
+    "roupa de uma personagem em outra",
+    "yo repetido",
+    "abraco no final",
+    "texto ou letras em qualquer lugar",
+    "nome ou idade de personagem escrito na tela",
+    "letreiro de apresentacao de personagem (lower third)",
+    "palavra inventada no ultimo plano",
+    "fala repetida",
+    "fala adiantada ou atrasada para outro plano",
+    "personagem falando ou olhando para quem nao e o destinatario da fala",
+    "fala neutra ou monotona",
+    "rosto neutro ou expressao vazia",
+    "atuacao contida",
+    "voz sem rosto na tela",
+    "tela dividida",
+    "colagem",
+    "formato horizontal",
+    "bordas pretas",
+    "palavras em ingles",
+    "palavras em portugues",
+    "duas vozes simultaneas",
+    "movimento labial do ouvinte",
+    "fala cortada, encurtada ou incompleta",
+    "personagem olhando para a camera",
+    "mudanca de rosto",
+    "mudanca de roupa",
+    "legendas",
+    "logotipo",
+    "marca-d'agua",
+    "trilha sonora"
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "titulo_post": "Humilló a la enfermera… sin saber lo que pasó la noche que nació su hija 😱",
-  "legenda": "",
+  "legenda": "La humilló en el hospital… sin saber que esa enfermera guardaba el secreto de su hija 😱\n\nEsa noche nacieron dos niñas… y alguien las cambió.\n\n¿Y la verdadera hija de Isabel… dónde está? 👇\nComenta PARTE 2.",
   "texto_final": "Comenta PARTE 2 👇",
   "titulo_interno": "LA ENFERMERA",
   "plano_historia": [
@@ -29,9 +29,9 @@
     "FRAME_CAMILA_LIMPA": "frame do clipe 4, ultimo plano (por volta do segundo 9,5): close de CAMILA chorando, cabelo castanho escuro ondulado, VESTIDO AZUL-CLARO de manga curta, saguao claro ao fundo.",
     "FRAME_ARCHIVO": "frame do clipe 5, plano 4 (por volta do segundo 4,5): ROSA de uniforme branco na porta de metal do arquivo, prateleiras com caixas de papelao e lampada fluorescente atras dela.",
     "FRAME_CAJA": "frame do clipe 5, plano 6 (por volta do segundo 8,5): ROSA puxando uma caixa velha de papelao da prateleira de metal no arquivo escuro, poeira no ar.",
-    "FRAME_ROSA_FICHA": "frame do clipe 6, plano 1 (por volta do segundo 1,5): ROSA no arquivo segurando a ficha amarelada rasgada.",
+    "FRAME_ROSA_FICHA": "frame do clipe 6, plano 1 (por volta do segundo 2): ROSA de uniforme branco no arquivo escuro, segurando a ficha amarelada sobre a caixa aberta, lampada fluorescente e prateleiras atras.",
     "FRAME_FOTO": "frame do clipe 6, plano 3 (por volta do segundo 5,5): a foto antiga de duas mulheres em camas de hospital lado a lado.",
-    "FRAME_CAMILA_ARCHIVO": "frame do clipe 6, plano 4 (por volta do segundo 8): close de CAMILA no arquivo escuro, vestido azul-claro, chorando."
+    "FRAME_CAMILA_ARCHIVO": "frame do clipe 6, plano 4 (por volta do segundo 7,5): close de CAMILA chorando no arquivo escuro, VESTIDO AZUL-CLARO, caixas desfocadas ao fundo."
   },
   "personagens": {
     "ROSA": {
@@ -639,6 +639,106 @@
           "rosto": "CAMILA: lagrimas escorrendo, olhos arregalados para ROSA.",
           "corpo": "CAMILA: aponta para a foto e segura o braco de ROSA.",
           "camera": "Corte seco. Dolly In: tight close-up of CAMILA SOZINHA no quadro, head and upper shoulders, cabelo castanho escuro, vestido azul-claro, luz fria, lente 75mm. O clipe termina neste rosto."
+        }
+      ]
+    },
+    {
+      "nome": "Yo. (final)",
+      "atuacao": "Novela dramatica. Atuacao MAXIMA: ROSA chorando, confessando com amor e dor; ISABEL desesperada; CAMILA desmoronando. O clipe termina no choque, sem explicacao. Rostos muito expressivos. Nenhuma fala neutra.",
+      "estilo": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Dentro do ARQUIVO velho do subsolo do hospital: Low-key, uma unica lampada fluorescente piscando, poeira flutuando no feixe de luz, prateleiras de metal enferrujadas com caixas de papelao amareladas. Shallow Focus nos closes, cortes rapidos.",
+      "imagens": [
+        "FRAME_ROSA_FICHA",
+        "FRAME_ISABEL_CHOQUE",
+        "FRAME_CAMILA_ARCHIVO"
+      ],
+      "frames": {
+        "ROSA": "FRAME_ROSA_FICHA",
+        "ISABEL": "FRAME_ISABEL_CHOQUE",
+        "CAMILA": "FRAME_CAMILA_ARCHIVO"
+      },
+      "personagens": [
+        "ROSA",
+        "ISABEL",
+        "CAMILA"
+      ],
+      "posicoes": {
+        "ROSA": "junto a prateleira, de frente para CAMILA",
+        "ISABEL": "a DIREITA de ROSA, segurando a foto antiga",
+        "CAMILA": "de frente para ROSA, a ESQUERDA"
+      },
+      "preservar_extra": [
+        "O MESMO arquivo escuro da imagem FRAME_ROSA_FICHA: prateleiras de metal, caixas de papelao, lampada fluorescente piscando, poeira.",
+        "CAMILA SEMPRE de VESTIDO AZUL-CLARO; ISABEL SEMPRE de TAILLEUR VERMELHO-VINHO com a mancha de cafe; ROSA SEMPRE de uniforme BRANCO.",
+        "Nenhuma letra legivel em papeis ou cracha."
+      ],
+      "cenario": "O MESMO arquivo velho do subsolo da imagem FRAME_ROSA_FICHA, segundos depois de CAMILA ver ROSA jovem na foto.",
+      "som": "Zumbido da lampada fluorescente, solucos de choro; depois do 'Yo', silencio total.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala"
+      ],
+      "negativos_extra": [
+        "letras ou numeros legiveis",
+        "cracha com texto legivel",
+        "saguao",
+        "isabel de vestido azul",
+        "roupa de uma personagem em outra",
+        "yo repetido",
+        "abraco no final"
+      ],
+      "regras_extra": [
+        "A fala 'Yo.' e dita UMA UNICA VEZ, baixinho, por ROSA.",
+        "Depois do 'Yo.' ninguem fala ate o fim."
+      ],
+      "planos": [
+        {
+          "quem": "ROSA",
+          "para": "CAMILA",
+          "fala": "Porque esa noche… yo también di a luz.",
+          "emocao": 10,
+          "intencao": "Confessar o segredo, chorando.",
+          "voz": "Voz feminina rouca, embargada, baixa.",
+          "rosto": "ROSA: lagrimas escorrendo, olhar cheio de amor e dor para CAMILA.",
+          "corpo": "ROSA: deixa a ficha cair na caixa.",
+          "camera": "Tight close-up of ROSA SOZINHA no quadro, head and upper shoulders, luz fria de cima, Rembrandt lighting, lente 75mm."
+        },
+        {
+          "quem": "ISABEL",
+          "para": "ROSA",
+          "fala": "¿Y dónde está mi hija?",
+          "emocao": 10,
+          "intencao": "Perguntar desesperada, a voz quebrando.",
+          "voz": "Voz feminina aguda, quebrada, quase gritando.",
+          "rosto": "ISABEL: olhos arregalados cheios de lagrimas, a maquiagem borrando.",
+          "corpo": "ISABEL: aperta a foto antiga contra o peito.",
+          "camera": "Corte seco. Handheld, Medium Close-Up de ISABEL SOZINHA no quadro, lente 50mm."
+        },
+        {
+          "quem": "CAMILA",
+          "para": "ROSA",
+          "fala": "Entonces… ¿quién es mi madre?",
+          "emocao": 10,
+          "intencao": "Perguntar com medo da resposta.",
+          "voz": "Voz feminina embargada, quase um sussurro.",
+          "rosto": "CAMILA: lagrimas escorrendo, labios tremendo.",
+          "corpo": "CAMILA: da um passo na direcao de ROSA.",
+          "camera": "Corte seco. Tight close-up of CAMILA SOZINHA no quadro, head and upper shoulders, vestido azul-claro, lente 75mm."
+        },
+        {
+          "quem": "ROSA",
+          "para": "CAMILA",
+          "fala": "Yo.",
+          "emocao": 10,
+          "intencao": "Revelar a verdade numa unica palavra.",
+          "voz": "Voz feminina rouca, BAIXINHA, tremula.",
+          "rosto": "ROSA: lagrimas, um sorriso de dor mal contido.",
+          "corpo": "ROSA: leva a mao ao peito.",
+          "camera": "Corte seco. Slow Push In: extreme close-up do rosto de ROSA SOZINHA no quadro, da testa ao queixo, lente 85mm."
+        },
+        {
+          "rosto": "CAMILA: CHOQUE total, olhos arregalados, lagrimas paradas, boca entreaberta sem som.",
+          "corpo": "CAMILA: imovel, a mao na boca.",
+          "camera": "Corte seco. Crash Zoom In ate tight close-up de CAMILA SOZINHA no quadro (cabelo castanho escuro, vestido azul-claro). Ninguem fala. O video termina neste rosto.",
+          "segundos": 1.2
         }
       ]
     }
