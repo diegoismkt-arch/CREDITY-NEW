@@ -23,7 +23,7 @@ Produz novelas em espanhol (sotaque mexicano) 100% no **Google Flow**, no format
 - **Falas curtas:** 1 a 6 palavras por fala, 4 a 6 falas por clipe, em pingue-pongue (pergunta curta → resposta curta). Evitar fala longa de 10+ palavras, exceto na revelação.
 - **1º segundo = ação física**, não fala: agarrar o braço, mão levantada, empurrão, objeto caindo.
 - **Ninguém fala parado:** cada plano tem uma ação de corpo (agarrar, puxar, abrir, mostrar, recuar).
-- **Objeto-pista a cada ~10 s** em INSERT de mão/objeto (medalhão, chave, celular com vídeo, documento, assinatura, bolsa). Planos de insert são mudos e curtos (~1 s).
+- **Objeto-pista a cada ~10 s** em INSERT de mão/objeto (medalhão, chave, celular com vídeo, documento, assinatura, bolsa). Insert de objeto simples (anel caindo, chave na mão): ~1 s. **Insert de algo que o público precisa LER ou ASSISTIR (tela de celular, documento, foto, assinatura): mínimo 2,5 s**, com Slow Zoom In até a tela/papel ocupar o quadro.
 - **Cadeia de revelações:** cada resposta abre nova pergunta; nunca resolver. Terminar numa frase-bomba curta ("Fui yo.") ou numa revelação sem explicação.
 - **Plateia:** testemunhas reagindo; humilhação pública. 4–5 personagens ativos.
 - **Trocar de cenário** no meio de um vídeo longo para dar sensação de investigação.

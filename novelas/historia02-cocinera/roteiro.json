@@ -479,7 +479,7 @@
         "sangue"
       ],
       "regras_extra": [
-        "Os planos 3 e 6 sao mudos."
+        "O plano 3 e mudo e longo: o video no celular precisa ficar bem visivel."
       ],
       "planos": [
         {
@@ -507,13 +507,13 @@
         {
           "rosto": "Sem rostos.",
           "corpo": "A mao de DON JULIAN segura o celular virado para a camera; na tela, um video escuro de camera de seguranca: a noite, uma mulher de vestido vermelho longo abre uma porta de madeira antiga.",
-          "camera": "Corte seco. Insert shot do celular em escala real na mao de DON JULIAN, lente macro, Rack Focus da mao para a tela. Ninguem fala.",
-          "segundos": 1.2
+          "camera": "Corte seco. Insert shot do celular em escala real na mao de DON JULIAN, lente macro, Slow Zoom In na tela ate o video ocupar quase todo o quadro, Rack Focus da mao para a tela. O video na tela roda devagar e fica bem visivel. Ninguem fala.",
+          "segundos": 2.6
         },
         {
           "quem": "CARMEN",
           "para": "DANIELA",
-          "fala": "Ese vestido rojo… es el tuyo, Daniela.",
+          "fala": "Ese vestido rojo… es tuyo.",
           "emocao": 10,
           "intencao": "Reconhecer e acusar DANIELA.",
           "voz": "Voz feminina rouca, firme e acusadora.",
@@ -529,14 +529,8 @@
           "intencao": "Tentar destruir a prova, em panico.",
           "voz": "Voz feminina aguda, GRITANDO, desesperada.",
           "rosto": "DANIELA: furia e panico, olhos arregalados.",
-          "corpo": "DANIELA: avanca e estica a mao para arrancar o celular de DON JULIAN.",
-          "camera": "Corte seco. Handheld camera following the action, Whip Pan para DANIELA avancando, plano medio, lente 35mm."
-        },
-        {
-          "rosto": "DON JULIAN: firme. DANIELA: dor e raiva.",
-          "corpo": "DON JULIAN segura com forca o pulso de DANIELA no ar, impedindo que ela pegue o celular.",
-          "camera": "Corte seco. Insert shot: a mao enrugada de DON JULIAN segurando o pulso de DANIELA, o celular na outra mao ao fundo, lente 50mm. Ninguem fala. O clipe termina aqui.",
-          "segundos": 0.9
+          "corpo": "DANIELA avanca e estica a mao para arrancar o celular; no fim do plano, a mao enrugada de DON JULIAN agarra o pulso dela no ar.",
+          "camera": "Corte seco. Handheld camera following the action, Whip Pan para DANIELA avancando, plano medio, lente 35mm. O clipe termina com DON JULIAN segurando o pulso dela."
         }
       ]
     }

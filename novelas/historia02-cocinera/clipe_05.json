@@ -21,9 +21,9 @@
   },
   "scene": {
     "title": "LA COCINERA",
-    "duration_seconds": 9.6,
+    "duration_seconds": 9.4,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
-    "structure": "6 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "structure": "5 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
     "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Jardim de hacienda mexicana ao entardecer: luz dourada quente, arcos de pedra, Shallow Focus nos closes, cortes rapidos.",
     "setting": "O MESMO patio de festa da hacienda, segundos depois. Convidados ao fundo, em silencio, esticando o pescoco para ver.",
     "blocking": [
@@ -69,18 +69,18 @@
       "mouths": "Somente VICTORIA movimenta os labios."
     },
     {
-      "time": "00:02.99-00:04.19",
+      "time": "00:02.99-00:05.59",
       "speaker": "NONE",
       "dialogue": null,
       "face": "Sem rostos.",
       "body": "A mao de DON JULIAN segura o celular virado para a camera; na tela, um video escuro de camera de seguranca: a noite, uma mulher de vestido vermelho longo abre uma porta de madeira antiga.",
-      "camera": "Corte seco. Insert shot do celular em escala real na mao de DON JULIAN, lente macro, Rack Focus da mao para a tela. Ninguem fala.",
+      "camera": "Corte seco. Insert shot do celular em escala real na mao de DON JULIAN, lente macro, Slow Zoom In na tela ate o video ocupar quase todo o quadro, Rack Focus da mao para a tela. O video na tela roda devagar e fica bem visivel. Ninguem fala.",
       "mouths": "Bocas FECHADAS. Ninguem fala."
     },
     {
-      "time": "00:04.19-00:06.99",
+      "time": "00:05.59-00:07.64",
       "speaker": "CARMEN",
-      "dialogue": "Ese vestido rojo… es el tuyo, Daniela.",
+      "dialogue": "Ese vestido rojo… es tuyo.",
       "addressee": "DANIELA",
       "eyeline": "CARMEN fala PARA DANIELA e olha para DANIELA (atras de VICTORIA, a ESQUERDA; avanca para JULIAN no fim), fora do quadro. NAO olha para JULIAN, VICTORIA.",
       "emotion_level": 10,
@@ -92,7 +92,7 @@
       "mouths": "Somente CARMEN movimenta os labios."
     },
     {
-      "time": "00:06.99-00:08.67",
+      "time": "00:07.64-00:09.33",
       "speaker": "DANIELA",
       "dialogue": "¡Dame ese teléfono, viejo!",
       "addressee": "JULIAN",
@@ -101,18 +101,9 @@
       "intention": "Tentar destruir a prova, em panico.",
       "voice": "Voz feminina aguda, GRITANDO, desesperada.",
       "face": "DANIELA: furia e panico, olhos arregalados.",
-      "body": "DANIELA: avanca e estica a mao para arrancar o celular de DON JULIAN.",
-      "camera": "Corte seco. Handheld camera following the action, Whip Pan para DANIELA avancando, plano medio, lente 35mm. A fala comeca no primeiro instante do plano.",
+      "body": "DANIELA avanca e estica a mao para arrancar o celular; no fim do plano, a mao enrugada de DON JULIAN agarra o pulso dela no ar.",
+      "camera": "Corte seco. Handheld camera following the action, Whip Pan para DANIELA avancando, plano medio, lente 35mm. O clipe termina com DON JULIAN segurando o pulso dela. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente DANIELA movimenta os labios."
-    },
-    {
-      "time": "00:08.67-00:09.57",
-      "speaker": "NONE",
-      "dialogue": null,
-      "face": "DON JULIAN: firme. DANIELA: dor e raiva.",
-      "body": "DON JULIAN segura com forca o pulso de DANIELA no ar, impedindo que ela pegue o celular.",
-      "camera": "Corte seco. Insert shot: a mao enrugada de DON JULIAN segurando o pulso de DANIELA, o celular na outra mao ao fundo, lente 50mm. Ninguem fala. O clipe termina aqui.",
-      "mouths": "Bocas FECHADAS. Ninguem fala."
     }
   ],
   "dialogue_rules": {
@@ -127,12 +118,12 @@
     ],
     "rules": [
       "So existem 4 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
-      "Depois de 8.7 segundos ninguem fala.",
+      "A ultima fala termina junto com o video.",
       "Cada fala e dirigida a: JULIAN -> VICTORIA; VICTORIA -> JULIAN; CARMEN -> DANIELA; DANIELA -> JULIAN.",
       "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
       "Nao repetir, misturar, traduzir ou acrescentar palavras.",
       "Cada frase e dita INTEIRA, do comeco ao fim.",
-      "Os planos 3 e 6 sao mudos."
+      "O plano 3 e mudo e longo: o video no celular precisa ficar bem visivel."
     ]
   },
   "audio": {
