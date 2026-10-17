@@ -16,11 +16,12 @@
     "FRAME_JULIAN_LLAVE": "frame do clipe 4, plano 6 (por volta do segundo 9): close de DON JULIAN segurando a chave antiga perto do rosto.",
     "FRAME_DANIELA_TEL": "frame do clipe 5, plano 5 (por volta do segundo 8): close de DANIELA furiosa tentando pegar o celular.",
     "FRAME_DESPACHO": "frame do clipe 6, plano 4 (por volta do segundo 7): o escritorio antigo e escuro com a escrivaninha de madeira, DON JULIAN junto a gaveta aberta e vazia.",
-    "FRAME_FOTO": "frame do clipe 6, plano 2 (por volta do segundo 4): a foto antiga de casamento em preto e branco num porta-retrato sobre a escrivaninha."
+    "FRAME_FOTO": "frame do clipe 6, plano 2 (por volta do segundo 4): a foto antiga de casamento em preto e branco num porta-retrato sobre a escrivaninha.",
+    "FRAME_PAPEL": "frame do clipe 7, plano 5 (por volta do segundo 8): a bolsa dourada caida no chao de madeira com um papel antigo amarelado dobrado saindo de dentro."
   },
   "personagens": {
     "DANIELA": {
-      "descricao": "noiva de 30 anos, pele clara, cabelo castanho escuro longo e ondulado, maquiagem forte, batom vermelho, VESTIDO LONGO DE CETIM VERMELHO de alcas finas, brincos de diamante, salto alto dourado.",
+      "descricao": "noiva de 30 anos, pele clara, cabelo castanho escuro longo e ondulado, maquiagem forte, batom vermelho, VESTIDO LONGO DE CETIM VERMELHO de alcas finas, brincos de diamante, salto alto dourado, pequena BOLSA DE MAO DOURADA (clutch) na mao.",
       "voz": "Voz feminina aguda, arrogante e cruel de mulher de 30 anos.",
       "feminino": true,
       "frame": "FRAME_DANIELA_TEL"
@@ -638,6 +639,112 @@
         }
       ],
       "estilo": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Interior escuro e empoeirado: Low-key, Window Light em faixas pelas frestas da janela, poeira no ar, Shallow Focus nos closes, cortes rapidos."
+    },
+    {
+      "nome": "A bolsa da Daniela",
+      "atuacao": "Novela dramatica. Atuacao INTENSA e FISICA: DONA CARMEN firme e acusadora; DANIELA desesperada, agarrando a bolsa contra o peito; DONA VICTORIA dura, mandando entregar (parece estar do lado da justica). Briga pela bolsa. Movimento o tempo todo. Rostos muito expressivos.",
+      "estilo": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Interior escuro e empoeirado: Low-key, Window Light em faixas pelas frestas da janela, poeira no ar, Shallow Focus nos closes, cortes rapidos.",
+      "imagens": [
+        "FRAME_DESPACHO",
+        "FRAME_CARMEN_PE",
+        "FRAME_DANIELA_TEL",
+        "FRAME_VICTORIA"
+      ],
+      "salvar_frames": [
+        "FRAME_PAPEL"
+      ],
+      "personagens": [
+        "CARMEN",
+        "DANIELA",
+        "VICTORIA",
+        "JULIAN"
+      ],
+      "posicoes": {
+        "CARMEN": "diante da escrivaninha, de frente para DANIELA",
+        "DANIELA": "perto da porta, encurralada, abracando a bolsa",
+        "VICTORIA": "a ESQUERDA da escrivaninha",
+        "JULIAN": "ao lado de CARMEN; avanca e puxa a bolsa"
+      },
+      "preservar_extra": [
+        "O MESMO escritorio antigo e escuro da imagem FRAME_DESPACHO, com faixas de luz da janela e poeira no ar.",
+        "Uma UNICA bolsa de mao pequena e dourada.",
+        "Um UNICO papel antigo amarelado dobrado sai de dentro da bolsa, sem texto legivel."
+      ],
+      "cenario": "O MESMO escritorio antigo do patrao da imagem FRAME_DESPACHO, segundos depois da gaveta vazia.",
+      "som": "Respiracoes ofegantes, o puxao da bolsa, a bolsa batendo no chao de madeira.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala"
+      ],
+      "negativos_extra": [
+        "patio",
+        "convidados",
+        "texto legivel no papel",
+        "duas bolsas",
+        "julian falando"
+      ],
+      "regras_extra": [
+        "Os planos 4 e 5 sao mudos.",
+        "DON JULIAN nao fala neste clipe."
+      ],
+      "planos": [
+        {
+          "quem": "CARMEN",
+          "para": "DANIELA",
+          "fala": "Daniela, enséñame lo que llevas en el bolso.",
+          "emocao": 10,
+          "intencao": "Exigir ver a bolsa, firme e desconfiada.",
+          "voz": "Voz feminina rouca, FIRME, baixa e acusadora.",
+          "rosto": "DONA CARMEN: olhar firme e desconfiado fixo na bolsa de DANIELA.",
+          "corpo": "DONA CARMEN: da um passo em direcao a DANIELA e estende a mao.",
+          "camera": "Over-the-Shoulder: ombro de DANIELA desfocado em primeiro plano, rosto de DONA CARMEN nitido, Low-key, lente 85mm."
+        },
+        {
+          "quem": "DANIELA",
+          "para": "CARMEN",
+          "fala": "¡No tienen derecho!",
+          "emocao": 10,
+          "intencao": "Negar em panico, protegendo a bolsa.",
+          "voz": "Voz feminina aguda, GRITANDO, em panico.",
+          "rosto": "DANIELA: olhos arregalados de panico, suando.",
+          "corpo": "DANIELA: aperta a bolsa dourada contra o peito e recua ate a porta.",
+          "camera": "Corte seco. High Angle (camera acima, inclinada para baixo): tight close-up of DANIELA SOZINHA no quadro, head and upper shoulders, a bolsa contra o peito, lente 75mm."
+        },
+        {
+          "quem": "VICTORIA",
+          "para": "DANIELA",
+          "fala": "¡El bolso, Daniela! ¡Ahora!",
+          "emocao": 10,
+          "intencao": "Mandar entregar, dura, parecendo estar do lado da justica.",
+          "voz": "Voz feminina grave, ALTA, autoritaria e cortante.",
+          "rosto": "DONA VICTORIA: olhar duro e autoritario para DANIELA.",
+          "corpo": "DONA VICTORIA: bate a bengala no chao.",
+          "camera": "Corte seco. Low Angle (horizonte nivelado): tight close-up of DONA VICTORIA SOZINHA no quadro, head and upper shoulders, Rim Light da janela, lente 75mm."
+        },
+        {
+          "rosto": "DANIELA: desesperada. DON JULIAN: firme.",
+          "corpo": "DON JULIAN puxa a bolsa das maos de DANIELA; a bolsa escapa, cai no chao de madeira e se abre.",
+          "camera": "Corte seco. Handheld com Slow Motion: plano medio da disputa pela bolsa e a bolsa caindo no chao, lente 35mm. Ninguem fala.",
+          "segundos": 1.2
+        },
+        {
+          "rosto": "Sem rostos.",
+          "corpo": "Da bolsa dourada aberta no chao desliza um papel antigo, amarelado e dobrado.",
+          "camera": "Corte seco. Insert shot no chao em escala real, lente macro, Rack Focus da bolsa para o papel amarelado saindo dela. Ninguem fala.",
+          "segundos": 1.0
+        },
+        {
+          "quem": "DANIELA",
+          "para": "CARMEN",
+          "fala": "Eso… no es mío.",
+          "emocao": 10,
+          "eyeline": "DANIELA olha para o PAPEL no chao e depois para CARMEN, fora do quadro.",
+          "intencao": "Mentir, palida, sem conseguir disfarcar.",
+          "voz": "Voz feminina SUSSURRADA, tremula, sem ar.",
+          "rosto": "DANIELA: PALIDA, boca tremendo, olhos fixos no papel.",
+          "corpo": "DANIELA: recua um passo, as maos vazias tremendo.",
+          "camera": "Corte seco. Crash Zoom In: camera body locked, rapid focal length snap into the face of DANIELA SOZINHA no quadro, radial zoom blur, Low-key. O clipe termina neste rosto."
+        }
+      ]
     }
   ]
 }
