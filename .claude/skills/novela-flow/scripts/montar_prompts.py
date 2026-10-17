@@ -207,7 +207,7 @@ def montar(rot, n, clip):
     prompt = json.loads(re.sub(r"imagem ([A-Z][A-Z0-9_]*)\b",
                                lambda m: f"imagem {numeros.get(m.group(1), m.group(1))}",
                                json.dumps(prompt, ensure_ascii=False)))
-    faltando = set(re.findall(r"imagem ([A-Z][A-Z0-9_]+)\b", json.dumps(prompt, ensure_ascii=False)))
+    faltando = set(re.findall(r"imagem ([A-Z][A-Z0-9]*_[A-Z0-9_]+)\b", json.dumps(prompt, ensure_ascii=False)))
     if faltando:
         avisos.append(f"❌ cita imagem que não está em 'imagens' do clipe: {', '.join(sorted(faltando))}")
         erro = True

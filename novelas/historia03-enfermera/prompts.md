@@ -531,7 +531,7 @@ Referências, nesta ordem: 1) FRAME_SAGUAO; 2) FRAME_CAMILA_PULSERA; 3) FRAME_RO
 
 ## Clipe 4 — Esa noche nacieron dos niñas
 
-clipe 4: 9.1s, 8.1s de fala (18 palavras, 5 planos, falantes: CAMILA, ISABEL, ROSA) ❌ cita imagem que não está em 'imagens' do clipe: NAO
+clipe 4: 9.1s, 8.1s de fala (18 palavras, 5 planos, falantes: CAMILA, ISABEL, ROSA) ✅
 
 Referências, nesta ordem: 1) FRAME_SAGUAO; 2) FRAME_ISABEL_CHOQUE; 3) FRAME_CAMILA; 4) FRAME_ROSA_NOCHE
 
