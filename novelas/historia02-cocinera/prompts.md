@@ -1307,7 +1307,7 @@ Referências, nesta ordem: 1) FRAME_DESPACHO; 2) FRAME_VICTORIA; 3) FRAME_CARMEN
     "preserve_exactly": [
       "VICTORIA: o MESMO rosto da imagem 2, senhora rica de 68 anos, pele clara, cabelo BRANCO prateado em coque alto, maquiagem elegante, VESTIDO LONGO VERDE-ESMERALDA de seda, COLAR DE ESMERALDAS, xale de seda nos ombros, bengala com cabo de prata.",
       "CARMEN: o MESMO rosto da imagem 3, cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, SEM nada no pescoco (a corrente arrebentou).",
-      "DANIELA: noiva de 30 anos, pele clara, cabelo castanho escuro longo e ondulado, maquiagem forte, batom vermelho, VESTIDO LONGO DE CETIM VERMELHO de alcas finas, brincos de diamante, salto alto dourado, pequena BOLSA DE MAO DOURADA (clutch) na mao.",
+      "DANIELA: noiva de 30 anos, pele clara, cabelo castanho escuro longo e ondulado, maquiagem forte, batom vermelho, VESTIDO LONGO DE CETIM VERMELHO de alcas finas, brincos de diamante, salto alto dourado, MAOS VAZIAS: a bolsa dourada dela esta caida no chao.",
       "JULIAN: o MESMO rosto da imagem 1, caseiro idoso de 75 anos, pele morena curtida de sol, cabelo BRANCO curto, bigode branco grosso, rosto enrugado e firme, camisa BRANCA de manga comprida, COLETE DE COURO MARROM, calca escura.",
       "O MESMO escritorio antigo e escuro da imagem 1.",
       "O MESMO papel antigo amarelado e a MESMA bolsa dourada da imagem 4: no comeco a bolsa esta caida no chao de madeira e VICTORIA pega o papel dobrado que saiu dela. O papel tem a borda de cima RASGADA. Nenhuma letra legivel.",
@@ -1332,7 +1332,7 @@ Referências, nesta ordem: 1) FRAME_DESPACHO; 2) FRAME_VICTORIA; 3) FRAME_CARMEN
     "characters": {
       "VICTORIA": "A MESMA da imagem 2. Personagem ficticia. Voz feminina grave, autoritaria e fria de senhora de 68 anos.",
       "CARMEN": "A MESMA da imagem 3. Personagem ficticia. Voz feminina rouca e humilde de senhora de 62 anos.",
-      "DANIELA": "noiva de 30 anos, pele clara, cabelo castanho escuro longo e ondulado, maquiagem forte, batom vermelho, VESTIDO LONGO DE CETIM VERMELHO de alcas finas, brincos de diamante, salto alto dourado, pequena BOLSA DE MAO DOURADA (clutch) na mao. Personagem ficticia. Voz feminina aguda, arrogante e cruel de mulher de 30 anos.",
+      "DANIELA": "noiva de 30 anos, pele clara, cabelo castanho escuro longo e ondulado, maquiagem forte, batom vermelho, VESTIDO LONGO DE CETIM VERMELHO de alcas finas, brincos de diamante, salto alto dourado, MAOS VAZIAS: a bolsa dourada dela esta caida no chao. Personagem ficticia. Voz feminina aguda, arrogante e cruel de mulher de 30 anos.",
       "JULIAN": "O MESMO da imagem 1. Personagem ficticio. Voz masculina grave, rouca e firme de homem de 75 anos."
     }
   },

@@ -135,6 +135,8 @@ def montar(rot, n, clip):
         d = dict(pers[k])
         if k in clip.get("frames", {}):
             d["frame"] = clip["frames"][k]  # frame mais recente deste personagem, só neste clipe
+        if k in clip.get("descricoes", {}):
+            d["descricao"] = clip["descricoes"][k]  # mudança de estado só neste clipe (ex.: sem a bolsa)
         o, fic = ("A MESMA", "ficticia") if d.get("feminino") else ("O MESMO", "ficticio")
         if d.get("frame") in imagens:
             # personagem já existe num frame salvo de clipe anterior
