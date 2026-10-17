@@ -756,7 +756,8 @@
         "FRAME_DESPACHO",
         "FRAME_VICTORIA",
         "FRAME_CARMEN_PE",
-        "FRAME_PAPEL"
+        "FRAME_PAPEL",
+        "FRAME_DANIELA_TEL"
       ],
       "salvar_frames": [
         "FRAME_VICTORIA_PAPEL",

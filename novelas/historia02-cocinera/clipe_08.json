@@ -8,12 +8,13 @@
       "Imagem 1 — frame do clipe 6, plano 4 (por volta do segundo 7): o escritorio antigo e escuro com a escrivaninha de madeira, DON JULIAN junto a gaveta aberta e vazia.",
       "Imagem 2 — frame do clipe 3, plano 4 (por volta do segundo 8): close de DONA VICTORIA, cabelo branco em coque alto, vestido verde-esmeralda, colar de esmeraldas.",
       "Imagem 3 — frame do clipe 3, plano 1 (por volta do segundo 1): DON JULIAN ajudando DONA CARMEN a se levantar no patio.",
-      "Imagem 4 — frame do clipe 7, plano 5 (por volta do segundo 8): a bolsa dourada caida no chao de madeira com um papel antigo amarelado dobrado saindo de dentro."
+      "Imagem 4 — frame do clipe 7, plano 5 (por volta do segundo 8): a bolsa dourada caida no chao de madeira com um papel antigo amarelado dobrado saindo de dentro.",
+      "Imagem 5 — frame do clipe 5, plano 5 (por volta do segundo 8): close de DANIELA furiosa tentando pegar o celular."
     ],
     "preserve_exactly": [
       "VICTORIA: o MESMO rosto da imagem 2, senhora rica de 68 anos, pele clara, cabelo BRANCO prateado em coque alto, maquiagem elegante, VESTIDO LONGO VERDE-ESMERALDA de seda, COLAR DE ESMERALDAS, xale de seda nos ombros, bengala com cabo de prata.",
       "CARMEN: o MESMO rosto da imagem 3, cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, SEM nada no pescoco (a corrente arrebentou).",
-      "DANIELA: noiva de 30 anos, pele clara, cabelo castanho escuro longo e ondulado, maquiagem forte, batom vermelho, VESTIDO LONGO DE CETIM VERMELHO de alcas finas, brincos de diamante, salto alto dourado, MAOS VAZIAS: a bolsa dourada dela esta caida no chao.",
+      "DANIELA: o MESMO rosto da imagem 5, noiva de 30 anos, pele clara, cabelo castanho escuro longo e ondulado, maquiagem forte, batom vermelho, VESTIDO LONGO DE CETIM VERMELHO de alcas finas, brincos de diamante, salto alto dourado, MAOS VAZIAS: a bolsa dourada dela esta caida no chao.",
       "JULIAN: o MESMO rosto da imagem 1, caseiro idoso de 75 anos, pele morena curtida de sol, cabelo BRANCO curto, bigode branco grosso, rosto enrugado e firme, camisa BRANCA de manga comprida, COLETE DE COURO MARROM, calca escura.",
       "O MESMO escritorio antigo e escuro da imagem 1.",
       "O MESMO papel antigo amarelado e a MESMA bolsa dourada da imagem 4: no comeco a bolsa esta caida no chao de madeira e VICTORIA pega o papel dobrado que saiu dela. O papel tem a borda de cima RASGADA. Nenhuma letra legivel.",
@@ -38,7 +39,7 @@
     "characters": {
       "VICTORIA": "A MESMA da imagem 2. Personagem ficticia. Voz feminina grave, autoritaria e fria de senhora de 68 anos.",
       "CARMEN": "A MESMA da imagem 3. Personagem ficticia. Voz feminina rouca e humilde de senhora de 62 anos.",
-      "DANIELA": "noiva de 30 anos, pele clara, cabelo castanho escuro longo e ondulado, maquiagem forte, batom vermelho, VESTIDO LONGO DE CETIM VERMELHO de alcas finas, brincos de diamante, salto alto dourado, MAOS VAZIAS: a bolsa dourada dela esta caida no chao. Personagem ficticia. Voz feminina aguda, arrogante e cruel de mulher de 30 anos.",
+      "DANIELA": "A MESMA da imagem 5. Personagem ficticia. Voz feminina aguda, arrogante e cruel de mulher de 30 anos.",
       "JULIAN": "O MESMO da imagem 1. Personagem ficticio. Voz masculina grave, rouca e firme de homem de 75 anos."
     }
   },
