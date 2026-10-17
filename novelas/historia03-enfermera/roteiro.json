@@ -16,10 +16,12 @@
   ],
   "estilo": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Saguao de hospital particular de luxo de dia: luz natural branca e suave entrando por janelas altas (Window Light) misturada com luminarias quentes do teto (Practical Lighting), piso de marmore branco brilhante, Shallow Focus nos closes, cortes rapidos.",
   "imagens": {
-    "FRAME_SAGUAO": "frame do clipe 1, plano 1 (por volta do segundo 1): ISABEL com a mancha de cafe no tailleur vinho, agarrando o pulso de ROSA (de costas, so o ombro e o uniforme branco), o saguao de marmore do hospital ao fundo com pessoas olhando.",
-    "FRAME_ROSA": "frame do clipe 1, plano 2 (por volta do segundo 3): close de ROSA, enfermeira idosa de uniforme branco, assustada.",
-    "FRAME_PULSERA": "frame do clipe 1, plano 5 (por volta do segundo 7): a pulseirinha antiga de bebe caida no piso de marmore.",
-    "FRAME_CAMILA": "frame do clipe 1, plano 6 (por volta do segundo 9): close de CAMILA, vestido azul-claro, olhando para a mae."
+    "FRAME_SAGUAO": "frame do clipe 1, plano 1 (por volta do segundo 1): ISABEL de tailleur vinho com mancha de cafe agarrando o pulso de ROSA, que aparece de costas (coque grisalho, uniforme branco) na DIREITA; o saguao de marmore com pessoas olhando ao fundo.",
+    "FRAME_ROSA": "frame do clipe 1, plano 2 (por volta do segundo 3): close de ROSA assustada, uniforme branco, cracha, segurando uma bandeja; recepcao do hospital desfocada ao fundo.",
+    "FRAME_PULSERA": "frame do clipe 1, plano 5 (por volta do segundo 7): a pulseirinha amarelada de bebe caida no piso de marmore branco, ao lado da perna da calca branca de ROSA.",
+    "FRAME_CAMILA": "frame do clipe 1, plano 6 (por volta do segundo 8): close de CAMILA de vestido azul-claro, preocupada, pessoas olhando ao fundo. (Essa imagem tem um texto escrito embaixo: ele NAO deve aparecer no video.)",
+    "FRAME_CAMILA_PULSERA": "frame do clipe 2, plano 2 (por volta do segundo 2): close de CAMILA segurando a pulseirinha de bebe perto do rosto.",
+    "FRAME_ROSA_NOCHE": "frame do clipe 2, plano 5 (por volta do segundo 8): close de ROSA chorando, a mao no rosto vermelho do tapa."
   },
   "personagens": {
     "ROSA": {
@@ -131,6 +133,100 @@
           "rosto": "CAMILA: testa franzida, olhar de vergonha e indignacao para a mae.",
           "corpo": "CAMILA: segura o braco de ISABEL e a puxa para tras.",
           "camera": "Corte seco. Tight close-up of CAMILA SOZINHA no quadro, head and upper shoulders, Eye Level, lente 75mm, pessoas olhando desfocadas ao fundo."
+        }
+      ]
+    },
+    {
+      "nome": "A pulseira: 'bebé Montero'",
+      "atuacao": "Novela dramatica. Atuacao INTENSA: CAMILA intrigada e assustada ao ler a pulseira; ROSA desesperada para recuperar a pulseira, depois confessa chorando; ISABEL desconfiada, furiosa e com um medo escondido. Rostos muito expressivos. Nenhuma fala neutra.",
+      "imagens": [
+        "FRAME_SAGUAO",
+        "FRAME_ROSA",
+        "FRAME_PULSERA",
+        "FRAME_CAMILA"
+      ],
+      "salvar_frames": [
+        "FRAME_CAMILA_PULSERA",
+        "FRAME_ROSA_NOCHE"
+      ],
+      "personagens": [
+        "CAMILA",
+        "ROSA",
+        "ISABEL"
+      ],
+      "posicoes": {
+        "ISABEL": "no centro do saguao, de frente para ROSA",
+        "ROSA": "na frente de ISABEL, a DIREITA dela",
+        "CAMILA": "a ESQUERDA de ISABEL, agachada no chao e depois em pe, entre as duas"
+      },
+      "preservar_extra": [
+        "O MESMO saguao de hospital da imagem FRAME_SAGUAO, com as mesmas pessoas olhando ao fundo.",
+        "A MESMA pulseirinha amarelada de bebe da imagem FRAME_PULSERA.",
+        "ISABEL continua com a mancha de cafe no tailleur vinho.",
+        "ROSA com o rosto vermelho do tapa.",
+        "O texto escrito na parte de baixo da imagem FRAME_CAMILA NAO aparece no video."
+      ],
+      "cenario": "O MESMO saguao do hospital da imagem FRAME_SAGUAO, segundos depois do tapa. Todos olhando.",
+      "som": "Murmurios baixos do saguao, respiracoes tensas.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala"
+      ],
+      "negativos_extra": [
+        "texto legivel na pulseira",
+        "cracha com texto legivel",
+        "rosa revidando"
+      ],
+      "planos": [
+        {
+          "rosto": "Sem rostos.",
+          "corpo": "A mao de CAMILA pega a pulseirinha amarelada de bebe do piso de marmore, ao lado dos sapatos brancos de ROSA.",
+          "camera": "Insert shot ao nivel do chao, lente macro, Rack Focus dos sapatos para a mao pegando a pulseira. Ninguem fala.",
+          "segundos": 1.0
+        },
+        {
+          "quem": "CAMILA",
+          "para": "ISABEL",
+          "fala": "Dice «bebé Montero»… es nuestro apellido.",
+          "emocao": 10,
+          "eyeline": "CAMILA le a PULSEIRA na mao dela e no fim levanta os olhos para ISABEL, fora do quadro.",
+          "intencao": "Ler a pulseira e estranhar, assustada.",
+          "voz": "Voz feminina baixa, lenta e confusa.",
+          "rosto": "CAMILA: testa franzida, olhos indo da pulseira para a mae.",
+          "corpo": "CAMILA: levanta-se segurando a pulseira perto do rosto.",
+          "camera": "Corte seco. Tight close-up of CAMILA SOZINHA no quadro, head and upper shoulders, a pulseira em primeiro plano, Slow Push In, lente 75mm."
+        },
+        {
+          "quem": "ROSA",
+          "para": "CAMILA",
+          "fala": "Devuélvamela, por favor.",
+          "emocao": 10,
+          "intencao": "Implorar para ter a pulseira de volta.",
+          "voz": "Voz feminina rouca, desesperada, quase sussurrando.",
+          "rosto": "ROSA: olhos cheios de lagrimas, o rosto vermelho do tapa.",
+          "corpo": "ROSA: estende a mao tremula em direcao a pulseira.",
+          "camera": "Corte seco. High Angle, tight close-up of ROSA SOZINHA no quadro, head and upper shoulders, lente 75mm."
+        },
+        {
+          "quem": "ISABEL",
+          "para": "ROSA",
+          "fala": "¿Por qué tienes eso, vieja?",
+          "emocao": 10,
+          "intencao": "Exigir explicacao, escondendo o medo com raiva.",
+          "voz": "Voz feminina aguda, cortante, com um tremor de medo no fim.",
+          "rosto": "ISABEL: olhos arregalados por um instante, depois raiva.",
+          "corpo": "ISABEL: arranca a pulseira da mao de CAMILA.",
+          "camera": "Corte seco. Low Angle, Medium Close-Up de ISABEL SOZINHA no quadro, Crash Zoom In curto no inicio, lente 75mm."
+        },
+        {
+          "quem": "ROSA",
+          "para": "ISABEL",
+          "fala": "Porque esa noche… yo estaba ahí.",
+          "emocao": 10,
+          "intencao": "Confessar um segredo de 30 anos, chorando.",
+          "voz": "Voz feminina rouca, baixa, embargada, firme no fim.",
+          "rosto": "ROSA: lagrimas escorrendo, olhar firme pela primeira vez.",
+          "corpo": "ROSA: leva a mao ao rosto vermelho do tapa.",
+          "camera": "Corte seco. Dolly In: tight close-up of ROSA SOZINHA no quadro, head and upper shoulders, lente 75mm. O clipe termina neste rosto."
         }
       ]
     }
