@@ -1430,7 +1430,7 @@ Referências, nesta ordem: 1) FRAME_DESPACHO; 2) FRAME_VICTORIA; 3) FRAME_CARMEN
   },
   "audio": {
     "single_voice_at_a_time": true,
-    "sound": "O papel sendo desdobrado, silencio pesado; de repente um grito masculino vem do corredor escuro, com eco; a porta range.",
+    "sound": "O papel sendo desdobrado, silencio pesado; de repente um grito masculino vem do corredor escuro, com eco; depois, silencio total.",
     "music": "Nenhuma.",
     "narration": "Nenhuma.",
     "subtitles": "Nao gerar."
