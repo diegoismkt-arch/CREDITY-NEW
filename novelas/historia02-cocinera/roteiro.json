@@ -17,7 +17,9 @@
     "FRAME_DANIELA_TEL": "frame do clipe 5, plano 5 (por volta do segundo 8): close de DANIELA furiosa tentando pegar o celular.",
     "FRAME_DESPACHO": "frame do clipe 6, plano 4 (por volta do segundo 7): o escritorio antigo e escuro com a escrivaninha de madeira, DON JULIAN junto a gaveta aberta e vazia.",
     "FRAME_FOTO": "frame do clipe 6, plano 2 (por volta do segundo 4): a foto antiga de casamento em preto e branco num porta-retrato sobre a escrivaninha.",
-    "FRAME_PAPEL": "frame do clipe 7, plano 5 (por volta do segundo 8): a bolsa dourada caida no chao de madeira com um papel antigo amarelado dobrado saindo de dentro."
+    "FRAME_PAPEL": "frame do clipe 7, plano 5 (por volta do segundo 8): a bolsa dourada caida no chao de madeira com um papel antigo amarelado dobrado saindo de dentro.",
+    "FRAME_VICTORIA_PAPEL": "frame do clipe 8, plano 2 (por volta do segundo 4): close de DONA VICTORIA lendo o papel antigo amarelado com um sorriso.",
+    "FRAME_CARMEN_FIRMA": "frame do clipe 8, plano 4 (por volta do segundo 9): close de DONA CARMEN firme, no escritorio escuro."
   },
   "personagens": {
     "DANIELA": {
@@ -743,6 +745,98 @@
           "rosto": "DANIELA: PALIDA, boca tremendo, olhos fixos no papel.",
           "corpo": "DANIELA: recua um passo, as maos vazias tremendo.",
           "camera": "Corte seco. Crash Zoom In: camera body locked, rapid focal length snap into the face of DANIELA SOZINHA no quadro, radial zoom blur, Low-key. O clipe termina neste rosto."
+        }
+      ]
+    },
+    {
+      "nome": "O testamento e a assinatura falsa",
+      "atuacao": "Novela dramatica. Atuacao INTENSA: DONA VICTORIA le o papel com um sorriso de vitoria crescente; DONA CARMEN olha a assinatura e endurece, com certeza absoluta. Suspense maximo. Rostos muito expressivos.",
+      "estilo": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Interior escuro e empoeirado: Low-key, Window Light em faixas pelas frestas da janela, poeira no ar, Shallow Focus nos closes, cortes rapidos.",
+      "imagens": [
+        "FRAME_DESPACHO",
+        "FRAME_VICTORIA",
+        "FRAME_CARMEN_PE",
+        "FRAME_PAPEL"
+      ],
+      "salvar_frames": [
+        "FRAME_VICTORIA_PAPEL",
+        "FRAME_CARMEN_FIRMA"
+      ],
+      "personagens": [
+        "VICTORIA",
+        "CARMEN",
+        "JULIAN",
+        "DANIELA"
+      ],
+      "posicoes": {
+        "VICTORIA": "no centro do escritorio, segurando o papel aberto",
+        "CARMEN": "ao lado DIREITO de VICTORIA, olhando o papel",
+        "JULIAN": "atras da escrivaninha, calado",
+        "DANIELA": "perto da porta, ao fundo, calada"
+      },
+      "preservar_extra": [
+        "O MESMO escritorio antigo e escuro da imagem FRAME_DESPACHO.",
+        "O MESMO papel antigo amarelado da imagem FRAME_PAPEL, agora aberto nas maos de VICTORIA.",
+        "No pe do papel, uma assinatura a tinta, um rabisco elegante ILEGIVEL; nenhuma outra letra legivel."
+      ],
+      "cenario": "O MESMO escritorio antigo do patrao da imagem FRAME_DESPACHO, logo depois do papel cair da bolsa.",
+      "som": "O papel sendo desdobrado, silencio pesado, a respiracao de todos.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala"
+      ],
+      "negativos_extra": [
+        "patio",
+        "convidados",
+        "texto legivel no papel",
+        "letras legiveis na assinatura",
+        "julian falando",
+        "daniela falando"
+      ],
+      "regras_extra": [
+        "O plano 3 e mudo e longo: a assinatura precisa ficar bem visivel.",
+        "DON JULIAN e DANIELA nao falam neste clipe."
+      ],
+      "planos": [
+        {
+          "quem": "VICTORIA",
+          "para": "CARMEN",
+          "fala": "Es la última página del testamento.",
+          "emocao": 9,
+          "eyeline": "VICTORIA olha para o PAPEL nas maos dela enquanto fala.",
+          "intencao": "Anunciar o que encontrou, com tensao.",
+          "voz": "Voz feminina grave, baixa e tensa.",
+          "rosto": "DONA VICTORIA: olhos fixos no papel, sobrancelhas erguidas.",
+          "corpo": "DONA VICTORIA: pega o papel do chao e o desdobra devagar.",
+          "camera": "Medium Shot de DONA VICTORIA desdobrando o papel no escritorio escuro, faixa de luz da janela sobre o papel, lente 50mm."
+        },
+        {
+          "quem": "VICTORIA",
+          "para": "CARMEN",
+          "fala": "«Dejo todo… a mi hermana Victoria».",
+          "emocao": 10,
+          "eyeline": "VICTORIA le o PAPEL em voz alta e no fim levanta os olhos para CARMEN, fora do quadro.",
+          "intencao": "Ler a frase com um sorriso de vitoria crescente.",
+          "voz": "Voz feminina grave, lenta, saboreando cada palavra.",
+          "rosto": "DONA VICTORIA: um sorriso lento de vitoria se abrindo.",
+          "corpo": "DONA VICTORIA: segura o papel perto do rosto.",
+          "camera": "Corte seco. Slow Zoom In: tight close-up of DONA VICTORIA SOZINHA no quadro, head and upper shoulders, o papel na borda do quadro, Rembrandt lighting, lente 75mm."
+        },
+        {
+          "rosto": "Sem rostos.",
+          "corpo": "No pe do papel antigo amarelado, uma assinatura a tinta preta, um rabisco elegante e ilegivel; o dedo de DONA CARMEN aponta para ela.",
+          "camera": "Corte seco. Insert shot da assinatura em escala real, lente macro, Slow Zoom In ate a assinatura ocupar o quadro, Rack Focus do dedo para a tinta. A assinatura fica bem visivel. Ninguem fala.",
+          "segundos": 2.5
+        },
+        {
+          "quem": "CARMEN",
+          "para": "VICTORIA",
+          "fala": "Esa no es la firma de Rafael.",
+          "emocao": 10,
+          "intencao": "Afirmar com certeza absoluta que a assinatura e falsa.",
+          "voz": "Voz feminina rouca, BAIXA, firme e cortante.",
+          "rosto": "DONA CARMEN: olhar firme e frio para VICTORIA, sem piscar.",
+          "corpo": "DONA CARMEN: tira o dedo do papel e levanta o rosto.",
+          "camera": "Corte seco. Dolly In: tight close-up of DONA CARMEN SOZINHA no quadro, head and upper shoulders, Low-key com Eye Light, lente 75mm. O clipe termina neste rosto."
         }
       ]
     }

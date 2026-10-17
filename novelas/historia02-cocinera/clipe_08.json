@@ -1,0 +1,156 @@
+{
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao INTENSA: DONA VICTORIA le o papel com um sorriso de vitoria crescente; DONA CARMEN olha a assinatura e endurece, com certeza absoluta. Suspense maximo. Rostos muito expressivos.",
+  "input_image": {
+    "required": false,
+    "mode": "Ingredients to Video, sem primeiro frame.",
+    "additional_references": true,
+    "reference_images": [
+      "Imagem 1 — frame do clipe 6, plano 4 (por volta do segundo 7): o escritorio antigo e escuro com a escrivaninha de madeira, DON JULIAN junto a gaveta aberta e vazia.",
+      "Imagem 2 — frame do clipe 3, plano 4 (por volta do segundo 8): close de DONA VICTORIA, cabelo branco em coque alto, vestido verde-esmeralda, colar de esmeraldas.",
+      "Imagem 3 — frame do clipe 3, plano 1 (por volta do segundo 1): DON JULIAN ajudando DONA CARMEN a se levantar no patio.",
+      "Imagem 4 — frame do clipe 7, plano 5 (por volta do segundo 8): a bolsa dourada caida no chao de madeira com um papel antigo amarelado dobrado saindo de dentro."
+    ],
+    "preserve_exactly": [
+      "VICTORIA: o MESMO rosto da imagem 2, senhora rica de 68 anos, pele clara, cabelo BRANCO prateado em coque alto, maquiagem elegante, VESTIDO LONGO VERDE-ESMERALDA de seda, COLAR DE ESMERALDAS, xale de seda nos ombros, bengala com cabo de prata.",
+      "CARMEN: o MESMO rosto da imagem 3, cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, SEM nada no pescoco (a corrente arrebentou).",
+      "JULIAN: o MESMO rosto da imagem 1, caseiro idoso de 75 anos, pele morena curtida de sol, cabelo BRANCO curto, bigode branco grosso, rosto enrugado e firme, camisa BRANCA de manga comprida, COLETE DE COURO MARROM, calca escura.",
+      "DANIELA: noiva de 30 anos, pele clara, cabelo castanho escuro longo e ondulado, maquiagem forte, batom vermelho, VESTIDO LONGO DE CETIM VERMELHO de alcas finas, brincos de diamante, salto alto dourado, pequena BOLSA DE MAO DOURADA (clutch) na mao.",
+      "O MESMO escritorio antigo e escuro da imagem 1.",
+      "O MESMO papel antigo amarelado da imagem 4, agora aberto nas maos de VICTORIA.",
+      "No pe do papel, uma assinatura a tinta, um rabisco elegante ILEGIVEL; nenhuma outra letra legivel."
+    ]
+  },
+  "scene": {
+    "title": "LA COCINERA",
+    "duration_seconds": 10.0,
+    "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
+    "structure": "4 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Interior escuro e empoeirado: Low-key, Window Light em faixas pelas frestas da janela, poeira no ar, Shallow Focus nos closes, cortes rapidos.",
+    "setting": "O MESMO escritorio antigo do patrao da imagem 1, logo depois do papel cair da bolsa.",
+    "blocking": [
+      "VICTORIA: no centro do escritorio, segurando o papel aberto",
+      "CARMEN: ao lado DIREITO de VICTORIA, olhando o papel",
+      "JULIAN: atras da escrivaninha, calado",
+      "DANIELA: perto da porta, ao fundo, calada"
+    ],
+    "characters": {
+      "VICTORIA": "A MESMA da imagem 2. Personagem ficticia. Voz feminina grave, autoritaria e fria de senhora de 68 anos.",
+      "CARMEN": "A MESMA da imagem 3. Personagem ficticia. Voz feminina rouca e humilde de senhora de 62 anos.",
+      "JULIAN": "O MESMO da imagem 1. Personagem ficticio. Voz masculina grave, rouca e firme de homem de 75 anos.",
+      "DANIELA": "noiva de 30 anos, pele clara, cabelo castanho escuro longo e ondulado, maquiagem forte, batom vermelho, VESTIDO LONGO DE CETIM VERMELHO de alcas finas, brincos de diamante, salto alto dourado, pequena BOLSA DE MAO DOURADA (clutch) na mao. Personagem ficticia. Voz feminina aguda, arrogante e cruel de mulher de 30 anos."
+    }
+  },
+  "timeline": [
+    {
+      "time": "00:00.00-00:02.42",
+      "speaker": "VICTORIA",
+      "dialogue": "Es la última página del testamento.",
+      "addressee": "CARMEN",
+      "eyeline": "VICTORIA olha para o PAPEL nas maos dela enquanto fala.",
+      "emotion_level": 9,
+      "intention": "Anunciar o que encontrou, com tensao.",
+      "voice": "Voz feminina grave, baixa e tensa.",
+      "face": "DONA VICTORIA: olhos fixos no papel, sobrancelhas erguidas.",
+      "body": "DONA VICTORIA: pega o papel do chao e o desdobra devagar.",
+      "camera": "Medium Shot de DONA VICTORIA desdobrando o papel no escritorio escuro, faixa de luz da janela sobre o papel, lente 50mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente VICTORIA movimenta os labios."
+    },
+    {
+      "time": "00:02.42-00:04.84",
+      "speaker": "VICTORIA",
+      "dialogue": "«Dejo todo… a mi hermana Victoria».",
+      "addressee": "CARMEN",
+      "eyeline": "VICTORIA le o PAPEL em voz alta e no fim levanta os olhos para CARMEN, fora do quadro.",
+      "emotion_level": 10,
+      "intention": "Ler a frase com um sorriso de vitoria crescente.",
+      "voice": "Voz feminina grave, lenta, saboreando cada palavra.",
+      "face": "DONA VICTORIA: um sorriso lento de vitoria se abrindo.",
+      "body": "DONA VICTORIA: segura o papel perto do rosto.",
+      "camera": "Corte seco. Slow Zoom In: tight close-up of DONA VICTORIA SOZINHA no quadro, head and upper shoulders, o papel na borda do quadro, Rembrandt lighting, lente 75mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente VICTORIA movimenta os labios."
+    },
+    {
+      "time": "00:04.84-00:07.34",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "Sem rostos.",
+      "body": "No pe do papel antigo amarelado, uma assinatura a tinta preta, um rabisco elegante e ilegivel; o dedo de DONA CARMEN aponta para ela.",
+      "camera": "Corte seco. Insert shot da assinatura em escala real, lente macro, Slow Zoom In ate a assinatura ocupar o quadro, Rack Focus do dedo para a tinta. A assinatura fica bem visivel. Ninguem fala.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    },
+    {
+      "time": "00:07.34-00:10.14",
+      "speaker": "CARMEN",
+      "dialogue": "Esa no es la firma de Rafael.",
+      "addressee": "VICTORIA",
+      "eyeline": "CARMEN fala PARA VICTORIA e olha para VICTORIA (no centro do escritorio, segurando o papel aberto), fora do quadro. NAO olha para JULIAN, DANIELA.",
+      "emotion_level": 10,
+      "intention": "Afirmar com certeza absoluta que a assinatura e falsa.",
+      "voice": "Voz feminina rouca, BAIXA, firme e cortante.",
+      "face": "DONA CARMEN: olhar firme e frio para VICTORIA, sem piscar.",
+      "body": "DONA CARMEN: tira o dedo do papel e levanta o rosto.",
+      "camera": "Corte seco. Dolly In: tight close-up of DONA CARMEN SOZINHA no quadro, head and upper shoulders, Low-key com Eye Light, lente 75mm. O clipe termina neste rosto. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente CARMEN movimenta os labios."
+    }
+  ],
+  "dialogue_rules": {
+    "language": "Espanol de Mexico, acento mexicano natural, TODAS as palavras em espanhol.",
+    "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
+    "total_dialogue_lines": 3,
+    "exact_order": [
+      "VICTORIA",
+      "VICTORIA",
+      "CARMEN"
+    ],
+    "rules": [
+      "So existem 3 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "A ultima fala termina junto com o video.",
+      "Cada fala e dirigida a: VICTORIA -> CARMEN; VICTORIA -> CARMEN; CARMEN -> VICTORIA.",
+      "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
+      "Nao repetir, misturar, traduzir ou acrescentar palavras.",
+      "Cada frase e dita INTEIRA, do comeco ao fim.",
+      "O plano 3 e mudo e longo: a assinatura precisa ficar bem visivel.",
+      "DON JULIAN e DANIELA nao falam neste clipe."
+    ]
+  },
+  "audio": {
+    "single_voice_at_a_time": true,
+    "sound": "O papel sendo desdobrado, silencio pesado, a respiracao de todos.",
+    "music": "Nenhuma.",
+    "narration": "Nenhuma.",
+    "subtitles": "Nao gerar."
+  },
+  "negative_prompt": [
+    "patio",
+    "convidados",
+    "texto legivel no papel",
+    "letras legiveis na assinatura",
+    "julian falando",
+    "daniela falando",
+    "texto ou letras em qualquer lugar",
+    "palavra inventada no ultimo plano",
+    "fala repetida",
+    "fala adiantada ou atrasada para outro plano",
+    "personagem falando ou olhando para quem nao e o destinatario da fala",
+    "fala neutra ou monotona",
+    "rosto neutro ou expressao vazia",
+    "atuacao contida",
+    "voz sem rosto na tela",
+    "tela dividida",
+    "colagem",
+    "formato horizontal",
+    "bordas pretas",
+    "palavras em ingles",
+    "palavras em portugues",
+    "duas vozes simultaneas",
+    "movimento labial do ouvinte",
+    "fala cortada, encurtada ou incompleta",
+    "personagem olhando para a camera",
+    "mudanca de rosto",
+    "mudanca de roupa",
+    "legendas",
+    "logotipo",
+    "marca-d'agua",
+    "trilha sonora"
+  ]
+}
