@@ -1,0 +1,171 @@
+{
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao INTENSA: clima de investigacao e suspense; DON JULIAN grave e solene; DONA CARMEN emocionada ao ver a foto do marido; DONA VICTORIA tensa, escondendo o nervosismo. Movimento o tempo todo. Rostos muito expressivos.",
+  "input_image": {
+    "required": false,
+    "mode": "Ingredients to Video, sem primeiro frame.",
+    "additional_references": true,
+    "reference_images": [
+      "Imagem 1 — frame do clipe 4, plano 6 (por volta do segundo 9): close de DON JULIAN segurando a chave antiga perto do rosto.",
+      "Imagem 2 — frame do clipe 3, plano 1 (por volta do segundo 1): DON JULIAN ajudando DONA CARMEN a se levantar no patio.",
+      "Imagem 3 — frame do clipe 3, plano 4 (por volta do segundo 8): close de DONA VICTORIA, cabelo branco em coque alto, vestido verde-esmeralda, colar de esmeraldas.",
+      "Imagem 4 — frame do clipe 5, plano 5 (por volta do segundo 8): close de DANIELA furiosa tentando pegar o celular."
+    ],
+    "preserve_exactly": [
+      "JULIAN: o MESMO rosto da imagem 1, caseiro idoso de 75 anos, pele morena curtida de sol, cabelo BRANCO curto, bigode branco grosso, rosto enrugado e firme, camisa BRANCA de manga comprida, COLETE DE COURO MARROM, calca escura.",
+      "CARMEN: o MESMO rosto da imagem 2, cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, SEM nada no pescoco (a corrente arrebentou).",
+      "VICTORIA: o MESMO rosto da imagem 3, senhora rica de 68 anos, pele clara, cabelo BRANCO prateado em coque alto, maquiagem elegante, VESTIDO LONGO VERDE-ESMERALDA de seda, COLAR DE ESMERALDAS, xale de seda nos ombros, bengala com cabo de prata.",
+      "DANIELA: o MESMO rosto da imagem 4, noiva de 30 anos, pele clara, cabelo castanho escuro longo e ondulado, maquiagem forte, batom vermelho, VESTIDO LONGO DE CETIM VERMELHO de alcas finas, brincos de diamante, salto alto dourado.",
+      "MUDANCA DE CENARIO: agora estao DENTRO do escritorio antigo do patrao, nao no patio.",
+      "Uma UNICA foto antiga de casamento em preto e branco: um homem jovem de terno e uma noiva jovem morena, num porta-retrato de madeira, sem texto.",
+      "A gaveta da escrivaninha esta VAZIA, so com a marca de poeira de onde ficava uma pasta."
+    ]
+  },
+  "scene": {
+    "title": "LA COCINERA",
+    "duration_seconds": 10.0,
+    "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
+    "structure": "5 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Jardim de hacienda mexicana ao entardecer: luz dourada quente, arcos de pedra, Shallow Focus nos closes, cortes rapidos.",
+    "setting": "Escritorio antigo do patrao dentro da casa da hacienda, fechado ha 25 anos: escrivaninha grande de madeira escura, estantes com livros empoeirados, poeira no ar, moveis cobertos por lencois brancos, luz do fim de tarde entrando em faixas pelas frestas da janela de madeira (Window Light, Low-key).",
+    "blocking": [
+      "JULIAN: na frente, abrindo a porta; depois atras da escrivaninha, junto a gaveta",
+      "CARMEN: logo atras de JULIAN; depois diante da escrivaninha, olhando a foto",
+      "VICTORIA: atras de CARMEN; depois a ESQUERDA da escrivaninha",
+      "DANIELA: por ultimo, perto da porta, ao fundo, calada"
+    ],
+    "characters": {
+      "JULIAN": "O MESMO da imagem 1. Personagem ficticio. Voz masculina grave, rouca e firme de homem de 75 anos.",
+      "CARMEN": "A MESMA da imagem 2. Personagem ficticia. Voz feminina rouca e humilde de senhora de 62 anos.",
+      "VICTORIA": "A MESMA da imagem 3. Personagem ficticia. Voz feminina grave, autoritaria e fria de senhora de 68 anos.",
+      "DANIELA": "A MESMA da imagem 4. Personagem ficticia. Voz feminina aguda, arrogante e cruel de mulher de 30 anos."
+    }
+  },
+  "timeline": [
+    {
+      "time": "00:00.00-00:02.42",
+      "speaker": "JULIAN",
+      "dialogue": "Nadie entraba aquí desde hace años.",
+      "addressee": "VICTORIA",
+      "eyeline": "JULIAN fala PARA VICTORIA, que vem atras dele, virando levemente a cabeca para tras enquanto entra.",
+      "emotion_level": 9,
+      "intention": "Entrar no escritorio com solenidade e suspense.",
+      "voice": "Voz masculina grave, baixa e solene.",
+      "face": "DON JULIAN: olhar serio, atento ao escritorio escuro.",
+      "body": "DON JULIAN: gira a chave antiga na fechadura, empurra a porta pesada que range e entra; os outros entram atras dele.",
+      "camera": "Steadicam Tracking Shot seguindo DON JULIAN por tras enquanto ele abre a porta e entra no escritorio escuro, poeira no ar iluminada pelas faixas de luz, lente 35mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente JULIAN movimenta os labios."
+    },
+    {
+      "time": "00:02.42-00:04.92",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "Sem rostos.",
+      "body": "Sobre a escrivaninha empoeirada, um porta-retrato de madeira com uma foto antiga de casamento em preto e branco: um homem jovem de terno e uma noiva jovem morena sorrindo.",
+      "camera": "Corte seco. Insert shot do porta-retrato em escala real, lente macro, Slow Zoom In ate a foto ocupar quase todo o quadro, faixa de luz da janela sobre a foto. A foto fica bem visivel. Ninguem fala.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    },
+    {
+      "time": "00:04.92-00:06.60",
+      "speaker": "CARMEN",
+      "dialogue": "Nuestra boda… mi Rafael.",
+      "addressee": "JULIAN",
+      "eyeline": "CARMEN olha para a FOTO na escrivaninha, emocionada, fora do quadro.",
+      "emotion_level": 10,
+      "intention": "Reconhecer a propria foto de casamento, com saudade e dor.",
+      "voice": "Voz feminina rouca, BAIXA, embargada, quase chorando.",
+      "face": "DONA CARMEN: olhos marejados, labio tremendo, um sorriso triste.",
+      "body": "DONA CARMEN: estende a mao e toca o porta-retrato com a ponta dos dedos.",
+      "camera": "Corte seco. Tight close-up of DONA CARMEN SOZINHA no quadro, head and upper shoulders, faixa de luz da janela no rosto, Rembrandt lighting, lente 75mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente CARMEN movimenta os labios."
+    },
+    {
+      "time": "00:06.60-00:08.66",
+      "speaker": "JULIAN",
+      "dialogue": "Y aquí estaba el testamento.",
+      "addressee": "VICTORIA",
+      "eyeline": "JULIAN fala PARA VICTORIA e olha para VICTORIA (atras de CARMEN; depois a ESQUERDA da escrivaninha), fora do quadro. NAO olha para CARMEN, DANIELA.",
+      "emotion_level": 10,
+      "intention": "Revelar que o testamento sumiu.",
+      "voice": "Voz masculina grave, seca e acusadora.",
+      "face": "DON JULIAN: olhar duro, levantando os olhos da gaveta para VICTORIA.",
+      "body": "DON JULIAN: abre a gaveta da escrivaninha; ela esta VAZIA, so a marca de poeira de onde ficava uma pasta.",
+      "camera": "Corte seco. Plano medio de DON JULIAN atras da escrivaninha abrindo a gaveta vazia, a gaveta em primeiro plano e o rosto dele ao fundo, Rack Focus da gaveta para o rosto, lente 50mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente JULIAN movimenta os labios."
+    },
+    {
+      "time": "00:08.66-00:09.97",
+      "speaker": "VICTORIA",
+      "dialogue": "¿Estaba? ¿Dónde está?",
+      "addressee": "JULIAN",
+      "eyeline": "VICTORIA fala PARA JULIAN e olha para JULIAN (na frente, abrindo a porta; depois atras da escrivaninha, junto a gaveta), fora do quadro. NAO olha para CARMEN, DANIELA.",
+      "emotion_level": 10,
+      "intention": "Reagir com falso espanto, nervosa.",
+      "voice": "Voz feminina grave, tensa, rapida.",
+      "face": "DONA VICTORIA: olhos arregalados, rosto tenso, engolindo em seco.",
+      "body": "DONA VICTORIA: aperta o cabo da bengala.",
+      "camera": "Corte seco. Dutch Angle (camera rolled 20 degrees, static cant): tight close-up of DONA VICTORIA SOZINHA no quadro, head and upper shoulders, Low-key, lente 75mm. O clipe termina neste rosto. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente VICTORIA movimenta os labios."
+    }
+  ],
+  "dialogue_rules": {
+    "language": "Espanol de Mexico, acento mexicano natural, TODAS as palavras em espanhol.",
+    "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
+    "total_dialogue_lines": 4,
+    "exact_order": [
+      "JULIAN",
+      "CARMEN",
+      "JULIAN",
+      "VICTORIA"
+    ],
+    "rules": [
+      "So existem 4 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "A ultima fala termina junto com o video.",
+      "Cada fala e dirigida a: JULIAN -> VICTORIA; CARMEN -> JULIAN; JULIAN -> VICTORIA; VICTORIA -> JULIAN.",
+      "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
+      "Nao repetir, misturar, traduzir ou acrescentar palavras.",
+      "Cada frase e dita INTEIRA, do comeco ao fim.",
+      "O plano 2 e mudo e longo: a foto precisa ficar bem visivel.",
+      "DANIELA nao fala neste clipe."
+    ]
+  },
+  "audio": {
+    "single_voice_at_a_time": true,
+    "sound": "O rangido longo da porta antiga, passos no piso de madeira, a gaveta deslizando.",
+    "music": "Nenhuma.",
+    "narration": "Nenhuma.",
+    "subtitles": "Nao gerar."
+  },
+  "negative_prompt": [
+    "patio",
+    "convidados",
+    "daniela falando",
+    "texto na foto",
+    "papeis dentro da gaveta",
+    "duas fotos",
+    "texto ou letras em qualquer lugar",
+    "palavra inventada no ultimo plano",
+    "fala repetida",
+    "fala adiantada ou atrasada para outro plano",
+    "personagem falando ou olhando para quem nao e o destinatario da fala",
+    "fala neutra ou monotona",
+    "rosto neutro ou expressao vazia",
+    "atuacao contida",
+    "voz sem rosto na tela",
+    "tela dividida",
+    "colagem",
+    "formato horizontal",
+    "bordas pretas",
+    "palavras em ingles",
+    "palavras em portugues",
+    "duas vozes simultaneas",
+    "movimento labial do ouvinte",
+    "fala cortada, encurtada ou incompleta",
+    "personagem olhando para a camera",
+    "mudanca de rosto",
+    "mudanca de roupa",
+    "legendas",
+    "logotipo",
+    "marca-d'agua",
+    "trilha sonora"
+  ]
+}

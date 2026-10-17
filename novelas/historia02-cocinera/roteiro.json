@@ -14,14 +14,16 @@
     "FRAME_CARMEN_PE": "frame do clipe 3, plano 1 (por volta do segundo 1): DON JULIAN ajudando DONA CARMEN a se levantar no patio.",
     "FRAME_LLAVE": "frame do clipe 4, plano 5 (por volta do segundo 7): a mao de DON JULIAN aberta mostrando uma chave antiga de ferro.",
     "FRAME_JULIAN_LLAVE": "frame do clipe 4, plano 6 (por volta do segundo 9): close de DON JULIAN segurando a chave antiga perto do rosto.",
-    "FRAME_DANIELA_TEL": "frame do clipe 5, plano 5 (por volta do segundo 8): close de DANIELA furiosa tentando pegar o celular."
+    "FRAME_DANIELA_TEL": "frame do clipe 5, plano 5 (por volta do segundo 8): close de DANIELA furiosa tentando pegar o celular.",
+    "FRAME_DESPACHO": "frame do clipe 6, plano 4 (por volta do segundo 7): o escritorio antigo e escuro com a escrivaninha de madeira, DON JULIAN junto a gaveta aberta e vazia.",
+    "FRAME_FOTO": "frame do clipe 6, plano 2 (por volta do segundo 4): a foto antiga de casamento em preto e branco num porta-retrato sobre a escrivaninha."
   },
   "personagens": {
     "DANIELA": {
       "descricao": "noiva de 30 anos, pele clara, cabelo castanho escuro longo e ondulado, maquiagem forte, batom vermelho, VESTIDO LONGO DE CETIM VERMELHO de alcas finas, brincos de diamante, salto alto dourado.",
       "voz": "Voz feminina aguda, arrogante e cruel de mulher de 30 anos.",
       "feminino": true,
-      "frame": "FRAME_DANIELA"
+      "frame": "FRAME_DANIELA_TEL"
     },
     "CARMEN": {
       "descricao": "cozinheira de 62 anos, pele morena, rosto sofrido e bondoso, cabelo GRISALHO preso em coque, uniforme PRETO de manga curta com AVENTAL BEGE comprido, SEM nada no pescoco (a corrente arrebentou).",
@@ -531,6 +533,108 @@
           "rosto": "DANIELA: furia e panico, olhos arregalados.",
           "corpo": "DANIELA avanca e estica a mao para arrancar o celular; no fim do plano, a mao enrugada de DON JULIAN agarra o pulso dela no ar.",
           "camera": "Corte seco. Handheld camera following the action, Whip Pan para DANIELA avancando, plano medio, lente 35mm. O clipe termina com DON JULIAN segurando o pulso dela."
+        }
+      ]
+    },
+    {
+      "nome": "O escritorio trancado",
+      "atuacao": "Novela dramatica. Atuacao INTENSA: clima de investigacao e suspense; DON JULIAN grave e solene; DONA CARMEN emocionada ao ver a foto do marido; DONA VICTORIA tensa, escondendo o nervosismo. Movimento o tempo todo. Rostos muito expressivos.",
+      "imagens": [
+        "FRAME_JULIAN_LLAVE",
+        "FRAME_CARMEN_PE",
+        "FRAME_VICTORIA",
+        "FRAME_DANIELA_TEL"
+      ],
+      "salvar_frames": [
+        "FRAME_FOTO",
+        "FRAME_DESPACHO"
+      ],
+      "personagens": [
+        "JULIAN",
+        "CARMEN",
+        "VICTORIA",
+        "DANIELA"
+      ],
+      "posicoes": {
+        "JULIAN": "na frente, abrindo a porta; depois atras da escrivaninha, junto a gaveta",
+        "CARMEN": "logo atras de JULIAN; depois diante da escrivaninha, olhando a foto",
+        "VICTORIA": "atras de CARMEN; depois a ESQUERDA da escrivaninha",
+        "DANIELA": "por ultimo, perto da porta, ao fundo, calada"
+      },
+      "preservar_extra": [
+        "MUDANCA DE CENARIO: agora estao DENTRO do escritorio antigo do patrao, nao no patio.",
+        "Uma UNICA foto antiga de casamento em preto e branco: um homem jovem de terno e uma noiva jovem morena, num porta-retrato de madeira, sem texto.",
+        "A gaveta da escrivaninha esta VAZIA, so com a marca de poeira de onde ficava uma pasta."
+      ],
+      "cenario": "Escritorio antigo do patrao dentro da casa da hacienda, fechado ha 25 anos: escrivaninha grande de madeira escura, estantes com livros empoeirados, poeira no ar, moveis cobertos por lencois brancos, luz do fim de tarde entrando em faixas pelas frestas da janela de madeira (Window Light, Low-key).",
+      "som": "O rangido longo da porta antiga, passos no piso de madeira, a gaveta deslizando.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala"
+      ],
+      "negativos_extra": [
+        "patio",
+        "convidados",
+        "daniela falando",
+        "texto na foto",
+        "papeis dentro da gaveta",
+        "duas fotos"
+      ],
+      "regras_extra": [
+        "O plano 2 e mudo e longo: a foto precisa ficar bem visivel.",
+        "DANIELA nao fala neste clipe."
+      ],
+      "planos": [
+        {
+          "quem": "JULIAN",
+          "para": "VICTORIA",
+          "fala": "Nadie entraba aquí desde hace años.",
+          "emocao": 9,
+          "eyeline": "JULIAN fala PARA VICTORIA, que vem atras dele, virando levemente a cabeca para tras enquanto entra.",
+          "intencao": "Entrar no escritorio com solenidade e suspense.",
+          "voz": "Voz masculina grave, baixa e solene.",
+          "rosto": "DON JULIAN: olhar serio, atento ao escritorio escuro.",
+          "corpo": "DON JULIAN: gira a chave antiga na fechadura, empurra a porta pesada que range e entra; os outros entram atras dele.",
+          "camera": "Steadicam Tracking Shot seguindo DON JULIAN por tras enquanto ele abre a porta e entra no escritorio escuro, poeira no ar iluminada pelas faixas de luz, lente 35mm."
+        },
+        {
+          "rosto": "Sem rostos.",
+          "corpo": "Sobre a escrivaninha empoeirada, um porta-retrato de madeira com uma foto antiga de casamento em preto e branco: um homem jovem de terno e uma noiva jovem morena sorrindo.",
+          "camera": "Corte seco. Insert shot do porta-retrato em escala real, lente macro, Slow Zoom In ate a foto ocupar quase todo o quadro, faixa de luz da janela sobre a foto. A foto fica bem visivel. Ninguem fala.",
+          "segundos": 2.5
+        },
+        {
+          "quem": "CARMEN",
+          "para": "JULIAN",
+          "fala": "Nuestra boda… mi Rafael.",
+          "emocao": 10,
+          "eyeline": "CARMEN olha para a FOTO na escrivaninha, emocionada, fora do quadro.",
+          "intencao": "Reconhecer a propria foto de casamento, com saudade e dor.",
+          "voz": "Voz feminina rouca, BAIXA, embargada, quase chorando.",
+          "rosto": "DONA CARMEN: olhos marejados, labio tremendo, um sorriso triste.",
+          "corpo": "DONA CARMEN: estende a mao e toca o porta-retrato com a ponta dos dedos.",
+          "camera": "Corte seco. Tight close-up of DONA CARMEN SOZINHA no quadro, head and upper shoulders, faixa de luz da janela no rosto, Rembrandt lighting, lente 75mm."
+        },
+        {
+          "quem": "JULIAN",
+          "para": "VICTORIA",
+          "fala": "Y aquí estaba el testamento.",
+          "emocao": 10,
+          "intencao": "Revelar que o testamento sumiu.",
+          "voz": "Voz masculina grave, seca e acusadora.",
+          "rosto": "DON JULIAN: olhar duro, levantando os olhos da gaveta para VICTORIA.",
+          "corpo": "DON JULIAN: abre a gaveta da escrivaninha; ela esta VAZIA, so a marca de poeira de onde ficava uma pasta.",
+          "camera": "Corte seco. Plano medio de DON JULIAN atras da escrivaninha abrindo a gaveta vazia, a gaveta em primeiro plano e o rosto dele ao fundo, Rack Focus da gaveta para o rosto, lente 50mm."
+        },
+        {
+          "quem": "VICTORIA",
+          "para": "JULIAN",
+          "fala": "¿Estaba? ¿Dónde está?",
+          "emocao": 10,
+          "intencao": "Reagir com falso espanto, nervosa.",
+          "voz": "Voz feminina grave, tensa, rapida.",
+          "rosto": "DONA VICTORIA: olhos arregalados, rosto tenso, engolindo em seco.",
+          "corpo": "DONA VICTORIA: aperta o cabo da bengala.",
+          "camera": "Corte seco. Dutch Angle (camera rolled 20 degrees, static cant): tight close-up of DONA VICTORIA SOZINHA no quadro, head and upper shoulders, Low-key, lente 75mm. O clipe termina neste rosto."
         }
       ]
     }
