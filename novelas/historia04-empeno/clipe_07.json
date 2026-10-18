@@ -1,0 +1,157 @@
+{
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Suspense frio: ESTEBAN tenso e depois gelado e decidido; a VOZ da mae pelo telefone calma, elegante e cruel. Nada de gritos. Rosto muito expressivo.",
+  "input_image": {
+    "required": false,
+    "mode": "Ingredients to Video, sem primeiro frame.",
+    "additional_references": true,
+    "reference_images": [
+      "Imagem 1 — frame do clipe 6, plano 3 (por volta do segundo 5,5): close de ESTEBAN em choque, jaqueta de couro preta, camiseta branca, corrente de ouro, relogios ao fundo.",
+      "Imagem 2 — frame do clipe 6, ultimo plano (por volta do segundo 9): LUCIA e RAMIRO de perfil no balcao, de maos dadas, a luminaria acesa e a foto emoldurada entre eles.",
+      "Imagem 3 — frame do clipe 1, plano 2 (por volta do segundo 2): ESTEBAN atras do balcao segurando o anel, a parede da loja ao fundo com relogios antigos e uma foto antiga emoldurada desfocada."
+    ],
+    "preserve_exactly": [
+      "ESTEBAN: o MESMO rosto da imagem 1, homem de 35 anos, pele morena clara, cabelo preto penteado para tras com gel, barba por fazer, JAQUETA DE COURO PRETA sobre camiseta BRANCA (sempre branca), corrente de ouro grossa no pescoco, anel de ouro no dedo mindinho, celular na mao.",
+      "LUCIA: o MESMO rosto da imagem 2, mulher de 28 anos, pele morena, rosto doce e cansado, cabelo PRETO longo preso em rabo de cavalo, MOLHADO de chuva, sem maquiagem, JAQUETA JEANS azul desbotada sobre blusa de la cor MOSTARDA, pequenos brincos de argola prateados.",
+      "RAMIRO: o MESMO rosto da imagem 2, homem de 65 anos, pele morena, cabelo e barba GRISALHOS curtos e bem aparados, rosto serio e marcado, oculos de leitura presos num cordao no pescoco, CARDIGA MARROM de la sobre camisa xadrez bege, calca escura.",
+      "ESTEBAN com a MESMA roupa da imagem 1: jaqueta de couro preta, camiseta BRANCA, corrente de ouro, barba por fazer PRETA; o cabelo vai ficando molhado da chuva.",
+      "LUCIA e RAMIRO aparecem SO atraves da vitrine molhada, pequenos e desfocados, de maos dadas no balcao como na imagem 2. Eles nao falam.",
+      "A mae de ESTEBAN NUNCA aparece: so a voz dela sai do celular.",
+      "Nenhuma letra em letreiros, vitrine ou tela do celular."
+    ]
+  },
+  "scene": {
+    "title": "EL ANILLO",
+    "duration_seconds": 9.4,
+    "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
+    "structure": "4 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "style": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns e ficticias, textura real de pele. RUA na frente da casa de penhor, a noite, chuva forte: asfalto molhado refletindo luz vermelha difusa de um neon (so luz, SEM letras), a vitrine da loja acesa por dentro com luz quente amarela, gotas escorrendo no vidro. Low-key, contraluz da chuva, Eye Light nos closes, Shallow Focus, cortes rapidos.",
+    "setting": "A rua na frente da casa de penhor, segundos depois. ESTEBAN sai escondido pela porta para a chuva e liga para a mae.",
+    "blocking": [
+      "ESTEBAN: na calcada, do lado de FORA da loja, na chuva, de costas para a vitrine e depois virado para ela",
+      "LUCIA: DENTRO da loja, vista pela vitrine molhada, de maos dadas com RAMIRO no balcao",
+      "RAMIRO: DENTRO da loja, visto pela vitrine molhada, de maos dadas com LUCIA"
+    ],
+    "characters": {
+      "ESTEBAN": "O MESMO da imagem 1. Personagem ficticio. Voz masculina debochada e arrogante de homem de 35 anos.",
+      "LUCIA": "A MESMA da imagem 2. Personagem ficticia. Voz feminina suave, firme e cansada de mulher de 28 anos.",
+      "RAMIRO": "O MESMO da imagem 2. Personagem ficticio. Voz masculina grave, rouca e pausada de homem de 65 anos."
+    }
+  },
+  "timeline": [
+    {
+      "time": "00:00.00-00:03.16",
+      "speaker": "ESTEBAN",
+      "dialogue": "Mamá… la encontró. Es la hija de Marisol.",
+      "addressee": "MAMA (telefone)",
+      "eyeline": "ESTEBAN fala ao celular colado no ouvido, olhando para baixo e para o lado, para a rua. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Avisar a mae em segredo, tenso.",
+      "voice": "Voz masculina baixa, apressada, tensa.",
+      "face": "ESTEBAN: maxilar travado, olhos nervosos.",
+      "body": "ESTEBAN sai pela porta da loja para a chuva, encosta na parede ao lado da vitrine, celular no ouvido.",
+      "camera": "Medium Shot de ESTEBAN na calcada molhada, de perfil para a camera, chuva caindo, luz vermelha difusa no rosto, Handheld leve, lente 50mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente ESTEBAN movimenta os labios."
+    },
+    {
+      "time": "00:03.16-00:06.70",
+      "speaker": "VOZ DA MAE (telefone)",
+      "dialogue": "Entonces haz lo mismo que hice con su madre.",
+      "addressee": "ESTEBAN",
+      "eyeline": "Ninguem visivel fala. A voz feminina sai do celular.",
+      "emotion_level": 10,
+      "intention": "Dar a ordem com calma cruel.",
+      "voice": "Voz feminina de uns 60 anos, calma, elegante e GELADA, com som metalico de telefone.",
+      "face": "Sem rosto falando: so a orelha e o perfil de tras de ESTEBAN com o celular colado, gotas de chuva escorrendo. A boca dele fica fora do quadro.",
+      "body": "A mao de ESTEBAN aperta o celular contra o ouvido.",
+      "camera": "Corte seco. Extreme close-up por tras: a orelha de ESTEBAN e o celular molhado colado nela, chuva em primeiro plano, a vitrine acesa desfocada ao fundo. Nenhuma boca no quadro. A fala comeca no primeiro instante do plano.",
+      "mouths": "NENHUMA boca no quadro: a voz da mae sai do celular. ESTEBAN nao fala neste plano."
+    },
+    {
+      "time": "00:06.70-00:08.20",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "Sem fala. ESTEBAN de costas.",
+      "body": "ESTEBAN, de costas para a camera com o celular no ouvido, olha pela vitrine molhada: la dentro, LUCIA e RAMIRO de maos dadas no balcao, sob a luz quente.",
+      "camera": "Corte seco. Over-the-Shoulder por tras de ESTEBAN: o ombro e a nuca molhados dele desfocados em primeiro plano; atraves da vitrine com gotas de chuva, LUCIA e RAMIRO pequenos, de maos dadas, iluminados por dentro. Ninguem fala.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    },
+    {
+      "time": "00:08.20-00:09.40",
+      "speaker": "ESTEBAN",
+      "dialogue": "Sí, mamá.",
+      "addressee": "MAMA (telefone)",
+      "eyeline": "ESTEBAN olha fixo pela vitrine, para LUCIA la dentro, fora do quadro a ESQUERDA. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Aceitar a ordem, frio e decidido.",
+      "voice": "Voz masculina BAIXA, gelada, quase um sussurro.",
+      "face": "ESTEBAN: olhar frio fixo em LUCIA, a chuva escorrendo no rosto, um meio sorriso cruel.",
+      "body": "ESTEBAN baixa o celular devagar.",
+      "camera": "Corte seco. Slow Push In: tight close-up de ESTEBAN de tres-quartos, head and upper shoulders, luz vermelha difusa e reflexo quente da vitrine no rosto, chuva caindo, lente 85mm. O video termina neste rosto. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente ESTEBAN movimenta os labios."
+    }
+  ],
+  "dialogue_rules": {
+    "language": "Espanol de Mexico, acento mexicano natural, TODAS as palavras em espanhol.",
+    "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
+    "total_dialogue_lines": 3,
+    "exact_order": [
+      "ESTEBAN",
+      "VOZ DA MAE (telefone)",
+      "ESTEBAN"
+    ],
+    "rules": [
+      "So existem 3 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "A ultima fala termina junto com o video.",
+      "Cada fala e dirigida a: ESTEBAN -> MAMA (telefone); VOZ DA MAE (telefone) -> ESTEBAN; ESTEBAN -> MAMA (telefone).",
+      "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
+      "Nao repetir, misturar, traduzir ou acrescentar palavras.",
+      "Cada frase e dita INTEIRA, do comeco ao fim.",
+      "A fala da mae e uma VOZ feminina saindo do celular, no plano 2, onde NAO aparece boca de ninguem.",
+      "LUCIA e RAMIRO nao falam e so aparecem pela vitrine."
+    ]
+  },
+  "audio": {
+    "single_voice_at_a_time": true,
+    "sound": "Chuva forte na calcada, a porta da loja fechando atras dele, um carro passando ao longe; a voz da mae soa metalica, como saindo de um telefone.",
+    "music": "Nenhuma.",
+    "narration": "Nenhuma.",
+    "subtitles": "Nao gerar."
+  },
+  "negative_prompt": [
+    "mulher aparecendo",
+    "rosto da mae",
+    "letreiro ou neon com letras",
+    "texto na tela do celular",
+    "esteban com barba grisalha",
+    "esteban parecido com ramiro",
+    "esteban mexendo a boca no plano da voz da mae",
+    "personagem falando de frente para a camera",
+    "lucia ou ramiro falando",
+    "roupa de um personagem em outro",
+    "texto ou letras em qualquer lugar",
+    "nome ou idade de personagem escrito na tela",
+    "letreiro de apresentacao de personagem (lower third)",
+    "palavra inventada no ultimo plano",
+    "fala repetida",
+    "fala adiantada ou atrasada para outro plano",
+    "personagem falando ou olhando para quem nao e o destinatario da fala",
+    "fala neutra ou monotona",
+    "rosto neutro ou expressao vazia",
+    "tela dividida",
+    "colagem",
+    "formato horizontal",
+    "bordas pretas",
+    "palavras em ingles",
+    "palavras em portugues",
+    "duas vozes simultaneas",
+    "movimento labial do ouvinte",
+    "fala cortada, encurtada ou incompleta",
+    "personagem olhando para a camera",
+    "mudanca de rosto",
+    "mudanca de roupa",
+    "legendas",
+    "logotipo",
+    "marca-d'agua",
+    "trilha sonora"
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "titulo_post": "",
-  "legenda": "",
+  "titulo_post": "Fue a empeñar el anillo de su madre… y el dueño reconoció la rosa grabada 😱",
+  "legenda": "Lucía solo quería pagar la renta… pero ese anillo guardaba un secreto de 29 años 💍\n\nEl dueño de la casa de empeño era su padre.\nPero su hijo hizo una llamada…\n\n¿Qué le hicieron a Marisol? 👇\nComenta PARTE 2.\n\n#historias #novela #drama #reflexiones #lahistoriaprincipal",
   "texto_final": "Comenta PARTE 2 👇",
   "titulo_interno": "EL ANILLO",
   "estilo": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns e ficticias, textura real de pele. Casa de penhor pequena a noite com chuva: luz quente amarela de uma luminaria sobre o balcao (Practical Lighting), reflexo vermelho difuso de um neon de fora (so luz, SEM letras visiveis) na vitrine molhada, gotas de chuva escorrendo no vidro, Low-key com Eye Light nos closes, Shallow Focus, cortes rapidos.",
@@ -22,7 +22,8 @@
     "FRAME_RAMIRO_CONFIESA": "frame do clipe 5, plano 4 (por volta do segundo 7,2): RAMIRO chorando, oculos, cardiga marrom, segurando o anel da rosa, o ombro de LUCIA desfocado a esquerda.",
     "FRAME_ESTEBAN_SHOCK": "frame do clipe 5, ultimo plano (por volta do segundo 9,5): close de ESTEBAN em choque, jaqueta de couro, camiseta branca, corrente de ouro, relogios na parede ao fundo.",
     "FRAME_LUCIA_28": "frame do clipe 6, plano 2 (por volta do segundo 4,5): LUCIA dizendo a idade, por cima do ombro de RAMIRO.",
-    "FRAME_MANOS": "frame do clipe 6, ultimo plano (por volta do segundo 8,5): LUCIA e RAMIRO de perfil sobre o balcao, a mao dela sobre a dele."
+    "FRAME_MANOS": "frame do clipe 6, ultimo plano (por volta do segundo 9): LUCIA e RAMIRO de perfil no balcao, de maos dadas, a luminaria acesa e a foto emoldurada entre eles.",
+    "FRAME_ESTEBAN6": "frame do clipe 6, plano 3 (por volta do segundo 5,5): close de ESTEBAN em choque, jaqueta de couro preta, camiseta branca, corrente de ouro, relogios ao fundo."
   },
   "personagens": {
     "LUCIA": {
@@ -633,6 +634,105 @@
           "corpo": "LUCIA coloca devagar a mao dela sobre a mao aberta de RAMIRO em cima do balcao, ao lado do anel e da foto.",
           "camera": "Corte seco. Two-shot de perfil sobre o balcao: LUCIA a ESQUERDA, RAMIRO a DIREITA, as maos se tocando no centro, luz quente da luminaria, Slow Push In ate as maos e o anel. Ninguem fala. O clipe termina nesta imagem.",
           "segundos": 1.3
+        }
+      ]
+    },
+    {
+      "nome": "A ligação na chuva (final)",
+      "atuacao": "Novela dramatica. Suspense frio: ESTEBAN tenso e depois gelado e decidido; a VOZ da mae pelo telefone calma, elegante e cruel. Nada de gritos. Rosto muito expressivo.",
+      "estilo": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns e ficticias, textura real de pele. RUA na frente da casa de penhor, a noite, chuva forte: asfalto molhado refletindo luz vermelha difusa de um neon (so luz, SEM letras), a vitrine da loja acesa por dentro com luz quente amarela, gotas escorrendo no vidro. Low-key, contraluz da chuva, Eye Light nos closes, Shallow Focus, cortes rapidos.",
+      "imagens": [
+        "FRAME_ESTEBAN6",
+        "FRAME_MANOS",
+        "FRAME_ESTEBAN"
+      ],
+      "frames": {
+        "ESTEBAN": "FRAME_ESTEBAN6",
+        "LUCIA": "FRAME_MANOS",
+        "RAMIRO": "FRAME_MANOS"
+      },
+      "personagens": [
+        "ESTEBAN",
+        "LUCIA",
+        "RAMIRO"
+      ],
+      "posicoes": {
+        "ESTEBAN": "na calcada, do lado de FORA da loja, na chuva, de costas para a vitrine e depois virado para ela",
+        "LUCIA": "DENTRO da loja, vista pela vitrine molhada, de maos dadas com RAMIRO no balcao",
+        "RAMIRO": "DENTRO da loja, visto pela vitrine molhada, de maos dadas com LUCIA"
+      },
+      "preservar_extra": [
+        "ESTEBAN com a MESMA roupa da imagem FRAME_ESTEBAN6: jaqueta de couro preta, camiseta BRANCA, corrente de ouro, barba por fazer PRETA; o cabelo vai ficando molhado da chuva.",
+        "LUCIA e RAMIRO aparecem SO atraves da vitrine molhada, pequenos e desfocados, de maos dadas no balcao como na imagem FRAME_MANOS. Eles nao falam.",
+        "A mae de ESTEBAN NUNCA aparece: so a voz dela sai do celular.",
+        "Nenhuma letra em letreiros, vitrine ou tela do celular."
+      ],
+      "cenario": "A rua na frente da casa de penhor, segundos depois. ESTEBAN sai escondido pela porta para a chuva e liga para a mae.",
+      "som": "Chuva forte na calcada, a porta da loja fechando atras dele, um carro passando ao longe; a voz da mae soa metalica, como saindo de um telefone.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida",
+        "voz sem rosto na tela"
+      ],
+      "negativos_extra": [
+        "mulher aparecendo",
+        "rosto da mae",
+        "letreiro ou neon com letras",
+        "texto na tela do celular",
+        "esteban com barba grisalha",
+        "esteban parecido com ramiro",
+        "esteban mexendo a boca no plano da voz da mae",
+        "personagem falando de frente para a camera",
+        "lucia ou ramiro falando",
+        "roupa de um personagem em outro"
+      ],
+      "regras_extra": [
+        "A fala da mae e uma VOZ feminina saindo do celular, no plano 2, onde NAO aparece boca de ninguem.",
+        "LUCIA e RAMIRO nao falam e so aparecem pela vitrine."
+      ],
+      "planos": [
+        {
+          "quem": "ESTEBAN",
+          "para": "MAMA (telefone)",
+          "fala": "Mamá… la encontró. Es la hija de Marisol.",
+          "emocao": 10,
+          "eyeline": "ESTEBAN fala ao celular colado no ouvido, olhando para baixo e para o lado, para a rua. NAO olha para a camera.",
+          "intencao": "Avisar a mae em segredo, tenso.",
+          "voz": "Voz masculina baixa, apressada, tensa.",
+          "rosto": "ESTEBAN: maxilar travado, olhos nervosos.",
+          "corpo": "ESTEBAN sai pela porta da loja para a chuva, encosta na parede ao lado da vitrine, celular no ouvido.",
+          "camera": "Medium Shot de ESTEBAN na calcada molhada, de perfil para a camera, chuva caindo, luz vermelha difusa no rosto, Handheld leve, lente 50mm."
+        },
+        {
+          "quem": "VOZ DA MAE (telefone)",
+          "para": "ESTEBAN",
+          "fala": "Entonces haz lo mismo que hice con su madre.",
+          "emocao": 10,
+          "eyeline": "Ninguem visivel fala. A voz feminina sai do celular.",
+          "intencao": "Dar a ordem com calma cruel.",
+          "voz": "Voz feminina de uns 60 anos, calma, elegante e GELADA, com som metalico de telefone.",
+          "rosto": "Sem rosto falando: so a orelha e o perfil de tras de ESTEBAN com o celular colado, gotas de chuva escorrendo. A boca dele fica fora do quadro.",
+          "corpo": "A mao de ESTEBAN aperta o celular contra o ouvido.",
+          "camera": "Corte seco. Extreme close-up por tras: a orelha de ESTEBAN e o celular molhado colado nela, chuva em primeiro plano, a vitrine acesa desfocada ao fundo. Nenhuma boca no quadro.",
+          "bocas": "NENHUMA boca no quadro: a voz da mae sai do celular. ESTEBAN nao fala neste plano."
+        },
+        {
+          "rosto": "Sem fala. ESTEBAN de costas.",
+          "corpo": "ESTEBAN, de costas para a camera com o celular no ouvido, olha pela vitrine molhada: la dentro, LUCIA e RAMIRO de maos dadas no balcao, sob a luz quente.",
+          "camera": "Corte seco. Over-the-Shoulder por tras de ESTEBAN: o ombro e a nuca molhados dele desfocados em primeiro plano; atraves da vitrine com gotas de chuva, LUCIA e RAMIRO pequenos, de maos dadas, iluminados por dentro. Ninguem fala.",
+          "segundos": 1.5
+        },
+        {
+          "quem": "ESTEBAN",
+          "para": "MAMA (telefone)",
+          "fala": "Sí, mamá.",
+          "emocao": 10,
+          "eyeline": "ESTEBAN olha fixo pela vitrine, para LUCIA la dentro, fora do quadro a ESQUERDA. NAO olha para a camera.",
+          "intencao": "Aceitar a ordem, frio e decidido.",
+          "voz": "Voz masculina BAIXA, gelada, quase um sussurro.",
+          "rosto": "ESTEBAN: olhar frio fixo em LUCIA, a chuva escorrendo no rosto, um meio sorriso cruel.",
+          "corpo": "ESTEBAN baixa o celular devagar.",
+          "camera": "Corte seco. Slow Push In: tight close-up de ESTEBAN de tres-quartos, head and upper shoulders, luz vermelha difusa e reflexo quente da vitrine no rosto, chuva caindo, lente 85mm. O video termina neste rosto."
         }
       ]
     }
