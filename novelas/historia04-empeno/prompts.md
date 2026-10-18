@@ -315,7 +315,6 @@ Referências, nesta ordem: 1) FRAME_ESTEBAN; 2) FRAME_LUCIA; 3) FRAME_ANILLO
     "texto legivel na tela do celular",
     "foto da parede em foco",
     "lucia gritando",
-    "isabel",
     "roupa de um personagem em outro",
     "texto ou letras em qualquer lugar",
     "nome ou idade de personagem escrito na tela",
