@@ -47,14 +47,15 @@
       "cenario": "Uma casa de penhor pequena e antiga a noite: balcao de vidro com joias, relogios e eletronicos usados dentro, grade de ferro na vitrine, chuva forte do lado de fora, porta de vidro molhada. So LUCIA e ESTEBAN na loja.",
       "som": "Chuva forte batendo na vitrine, o tic-tac dos relogios da parede, o clique do anel no vidro.",
       "remover_negativos": [
-        "dois rostos visiveis nos planos de fala"
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida"
       ],
       "negativos_extra": [
         "senhor idoso aparecendo",
         "letreiro ou neon com letras",
         "letras gravadas no anel",
         "foto da parede em foco",
-        "lucia gritando ou chorando"
+        "lucia gritando"
       ],
       "salvar_frames": [
         "FRAME_ANILLO",
