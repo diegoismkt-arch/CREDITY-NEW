@@ -430,14 +430,13 @@
       "nome": "A foto: 'se lo di yo' (v2, mais emoção e ritmo)",
       "atuacao": "Novela dramatica. Atuacao FORTE com pico emocional: RAMIRO arranca a mao do filho e bate a foto no balcao, a voz falhando na confissao; LUCIA desaba ao ver a mae, soluco, mao na boca; ESTEBAN perde a cor no final. Rostos muito expressivos. Nenhuma fala neutra, nenhum momento parado.",
       "imagens": [
-        "FRAME_LUCIA_FOTO",
-        "FRAME_RAMIRO_CONFIESA",
-        "FRAME_FOTO_MARISOL",
+        "FRAME_LUCIA_OTS",
+        "FRAME_RAMIRO_REACCION",
         "FRAME_ESTEBAN"
       ],
       "frames": {
-        "RAMIRO": "FRAME_RAMIRO_CONFIESA",
-        "LUCIA": "FRAME_LUCIA_FOTO",
+        "RAMIRO": "FRAME_RAMIRO_REACCION",
+        "LUCIA": "FRAME_LUCIA_OTS",
         "ESTEBAN": "FRAME_ESTEBAN"
       },
       "salvar_frames": [
@@ -457,7 +456,7 @@
       },
       "preservar_extra": [
         "A MESMA casa de penhor: balcao de vidro, relogios na parede, luminaria, chuva la fora. A vitrine ao fundo NAO tem letreiro nem letras.",
-        "A MESMA foto emoldurada da imagem FRAME_FOTO_MARISOL: MARISOL jovem, cabelo preto longo, sorrindo, o anel da rosa no dedo.",
+        "A foto emoldurada e uma foto antiga desbotada de MARISOL jovem: mulher de uns 25 anos, cabelo PRETO longo, sorrindo, a mao no queixo com o anel de ouro da rosa no dedo. So ela na foto, sem letras.",
         "ESTEBAN tem 35 anos, barba por fazer PRETA, camiseta BRANCA sob a jaqueta de couro; so RAMIRO e grisalho."
       ],
       "cenario": "A MESMA casa de penhor, segundos depois do sussurro de ESTEBAN no ouvido do pai.",
