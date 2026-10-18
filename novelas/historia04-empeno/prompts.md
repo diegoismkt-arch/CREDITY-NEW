@@ -532,7 +532,7 @@ Referências, nesta ordem: 1) FRAME_RAMIRO; 2) FRAME_LUCIA; 3) FRAME_ESTEBAN; 4)
 
 ## Clipe 4 — O dinheiro e a ameaça
 
-clipe 4: 9.2s, 8.0s de fala (20 palavras, 4 planos, falantes: ESTEBAN, LUCIA) ✅
+clipe 4: 9.9s, 8.0s de fala (20 palavras, 5 planos, falantes: ESTEBAN, LUCIA) ✅
 
 Referências, nesta ordem: 1) FRAME_RAMIRO_SENTADO
 
@@ -559,9 +559,9 @@ Referências, nesta ordem: 1) FRAME_RAMIRO_SENTADO
   },
   "scene": {
     "title": "EL ANILLO",
-    "duration_seconds": 9.3,
+    "duration_seconds": 10.0,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
-    "structure": "4 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "structure": "5 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
     "style": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns e ficticias, textura real de pele. Casa de penhor pequena a noite com chuva: luz quente amarela de uma luminaria sobre o balcao (Practical Lighting), reflexo vermelho de um neon de fora na vitrine molhada, gotas de chuva escorrendo no vidro, Low-key com Eye Light nos closes, Shallow Focus, cortes rapidos.",
     "setting": "A MESMA casa de penhor, logo depois de LUCIA dizer o nome Marisol.",
     "blocking": [
@@ -614,7 +614,16 @@ Referências, nesta ordem: 1) FRAME_RAMIRO_SENTADO
       "mouths": "Somente LUCIA movimenta os labios."
     },
     {
-      "time": "00:05.67-00:09.21",
+      "time": "00:05.67-00:06.37",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "RAMIRO: comovido com a dignidade dela, os olhos se enchem de lagrimas por tras dos oculos, um quase sorriso de orgulho. Boca FECHADA.",
+      "body": "RAMIRO: imovel, a mao sobre o envelope devolvido.",
+      "camera": "Corte seco. Reaction shot: tight close-up de RAMIRO SOZINHO no quadro, olhando para a ESQUERDA (para LUCIA), lente 75mm. Ninguem fala.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    },
+    {
+      "time": "00:06.37-00:09.91",
       "speaker": "ESTEBAN",
       "dialogue": "Esta tienda va a ser mía. No de ella.",
       "addressee": "RAMIRO",

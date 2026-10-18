@@ -396,6 +396,12 @@
           "eyeline": "LUCIA olha para a DIREITA do quadro, para RAMIRO, cujo ombro esta em primeiro plano. NAO olha para ESTEBAN nem para a camera."
         },
         {
+          "rosto": "RAMIRO: comovido com a dignidade dela, os olhos se enchem de lagrimas por tras dos oculos, um quase sorriso de orgulho. Boca FECHADA.",
+          "corpo": "RAMIRO: imovel, a mao sobre o envelope devolvido.",
+          "camera": "Corte seco. Reaction shot: tight close-up de RAMIRO SOZINHO no quadro, olhando para a ESQUERDA (para LUCIA), lente 75mm. Ninguem fala.",
+          "segundos": 0.7
+        },
+        {
           "quem": "ESTEBAN",
           "para": "RAMIRO",
           "fala": "Esta tienda va a ser mía. No de ella.",
