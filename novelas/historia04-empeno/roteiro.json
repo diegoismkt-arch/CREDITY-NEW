@@ -317,15 +317,11 @@
       "nome": "O dinheiro e a ameaça",
       "atuacao": "Novela dramatica. Atuacao com contraste: RAMIRO emocionado e calado; ESTEBAN explosivo e depois frio e ameacador em voz baixa; LUCIA ofendida mas serena, firme. Rostos muito expressivos. Nenhuma fala neutra.",
       "imagens": [
-        "FRAME_RAMIRO_SENTADO",
-        "FRAME_RAMIRO",
-        "FRAME_LUCIA_MARISOL",
-        "FRAME_ESTEBAN"
+        "FRAME_RAMIRO_SENTADO"
       ],
       "frames": {
-        "RAMIRO": "FRAME_RAMIRO",
-        "LUCIA": "FRAME_LUCIA_MARISOL",
-        "ESTEBAN": "FRAME_ESTEBAN"
+        "RAMIRO": "FRAME_RAMIRO_SENTADO",
+        "ESTEBAN": "FRAME_RAMIRO_SENTADO"
       },
       "salvar_frames": [
         "FRAME_SOBRE",
@@ -342,7 +338,8 @@
         "LUCIA": "do lado de fora do balcao, de frente para RAMIRO"
       },
       "preservar_extra": [
-        "A MESMA casa de penhor da imagem FRAME_RAMIRO_SENTADO: balcao de vidro, banco alto, relogios, foto antiga na parede (desfocada), chuva la fora.",
+        "O video COMECA EXATAMENTE na imagem 1: RAMIRO sentado no banco alto atras do balcao com o anel na mao, ESTEBAN em pe atras dele, mesma luz, mesma loja.",
+        "LUCIA esta do outro lado do balcao (fora da imagem 1) e aparece no plano 3 com o rosto, cabelo molhado e roupa da descricao.",
         "RAMIRO guarda o anel no bolso do cardiga antes de pegar o envelope.",
         "O envelope e pardo, grosso, com notas de dinheiro aparecendo na borda, sem letras."
       ],
@@ -365,10 +362,10 @@
       ],
       "planos": [
         {
-          "rosto": "RAMIRO: olhos marejados, decidido. Boca fechada.",
-          "corpo": "RAMIRO se levanta do banco, tira de uma gaveta um envelope pardo grosso de dinheiro e empurra sobre o balcao de vidro na direcao de LUCIA.",
-          "camera": "Medium Shot de RAMIRO atras do balcao empurrando o envelope, lente 50mm. Ninguem fala.",
-          "segundos": 1.0
+          "rosto": "RAMIRO: comeca sentado, como na imagem 1, olhos marejados; levanta-se decidido. ESTEBAN atras dele. Bocas fechadas.",
+          "corpo": "Partindo da imagem 1: RAMIRO guarda o anel no bolso, levanta-se do banco, tira de uma gaveta do balcao um envelope pardo grosso de dinheiro e empurra sobre o vidro na direcao de LUCIA, fora do quadro.",
+          "camera": "Comeca EXATAMENTE no enquadramento da imagem 1, camera parada; acompanha RAMIRO se levantando. Ninguem fala.",
+          "segundos": 1.2
         },
         {
           "quem": "ESTEBAN",
@@ -404,7 +401,8 @@
           "corpo": "ESTEBAN: aperta o ombro do pai.",
           "camera": "Corte seco. Slow Push In: tight close-up of ESTEBAN SOZINHO no quadro, head and upper shoulders, luz vermelha do neon no rosto, lente 75mm. O clipe termina neste rosto."
         }
-      ]
+      ],
+      "primeiro_frame": true
     }
   ]
 }

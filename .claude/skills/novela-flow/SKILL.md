@@ -126,6 +126,7 @@ Um longo rende 3 a 5 curtos (cada um com um gancho diferente).
 - `imagens` vazio/ausente = clipe sem referência (Text to Video). Com `imagens`, o personagem cujo `frame` está na lista vira "O MESMO da imagem N"; os demais são descritos por texto.
 - `frames` (por clipe, opcional): `{"VICTORIA": "FRAME_VICTORIA_PAPEL"}` troca o frame de referência do personagem só naquele clipe (quando um frame mais novo mostra melhor o rosto).
 - `descricoes` (por clipe, opcional): troca a descrição do personagem só naquele clipe (ex.: perdeu a bolsa, rasgou o vestido).
+- Quando o clipe CONTINUA a ação do último plano do clipe anterior (alguém que estava sentado se levanta, etc.), usar `primeiro_frame: true` com o último frame do clipe anterior — com Ingredients o Flow começa de outro enquadramento e a continuidade quebra (erro no clipe 4 de El Anillo).
 - `primeiro_frame: true` (por clipe): a imagem 1 vira o PRIMEIRO FRAME do vídeo (Frames to Video), para continuar exatamente de um frame bom de um clipe que errou depois.
 - `sem_fala: true` (por clipe): libera a regra de 65% de fala — só quando o usuário pedir um clipe mudo (ex.: reação final; a fala entra na edição, tirada de outro clipe).
 - `estrutura` (por clipe): troca o texto do campo `structure` (ex.: plano único contínuo sem corte).
