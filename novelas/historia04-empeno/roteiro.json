@@ -3,7 +3,7 @@
   "legenda": "",
   "texto_final": "Comenta PARTE 2 👇",
   "titulo_interno": "EL ANILLO",
-  "estilo": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns e ficticias, textura real de pele. Casa de penhor pequena a noite com chuva: luz quente amarela de uma luminaria sobre o balcao (Practical Lighting), reflexo vermelho de um neon de fora na vitrine molhada, gotas de chuva escorrendo no vidro, Low-key com Eye Light nos closes, Shallow Focus, cortes rapidos.",
+  "estilo": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns e ficticias, textura real de pele. Casa de penhor pequena a noite com chuva: luz quente amarela de uma luminaria sobre o balcao (Practical Lighting), reflexo vermelho difuso de um neon de fora (so luz, SEM letras visiveis) na vitrine molhada, gotas de chuva escorrendo no vidro, Low-key com Eye Light nos closes, Shallow Focus, cortes rapidos.",
   "imagens": {
     "FRAME_ANILLO": "frame do clipe 1, plano 1 (por volta do segundo 0,5): a mao molhada de LUCIA colocando o anel de ouro com uma pequena rosa gravada sobre o balcao de vidro.",
     "FRAME_ESTEBAN": "frame do clipe 1, plano 2 (por volta do segundo 2): ESTEBAN atras do balcao segurando o anel, a parede da loja ao fundo com relogios antigos e uma foto antiga emoldurada desfocada.",
@@ -23,7 +23,7 @@
       "feminino": true
     },
     "ESTEBAN": {
-      "descricao": "homem de 35 anos, pele morena clara, cabelo preto penteado para tras com gel, barba por fazer, JAQUETA DE COURO PRETA sobre camiseta BRANCA, corrente de ouro grossa no pescoco, anel de ouro no dedo mindinho, celular na mao.",
+      "descricao": "homem de 35 anos, pele morena clara, cabelo preto penteado para tras com gel, barba por fazer, JAQUETA DE COURO PRETA sobre camiseta BRANCA (sempre branca), corrente de ouro grossa no pescoco, anel de ouro no dedo mindinho, celular na mao.",
       "voz": "Voz masculina debochada e arrogante de homem de 35 anos.",
       "frame": "FRAME_ESTEBAN"
     },

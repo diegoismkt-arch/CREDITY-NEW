@@ -11,7 +11,7 @@
     ],
     "preserve_exactly": [
       "RAMIRO: homem de 65 anos, pele morena, cabelo e barba GRISALHOS curtos e bem aparados, rosto serio e marcado, oculos de leitura presos num cordao no pescoco, CARDIGA MARROM de la sobre camisa xadrez bege, calca escura.",
-      "ESTEBAN: o MESMO rosto da imagem 1, homem de 35 anos, pele morena clara, cabelo preto penteado para tras com gel, barba por fazer, JAQUETA DE COURO PRETA sobre camiseta BRANCA, corrente de ouro grossa no pescoco, anel de ouro no dedo mindinho, celular na mao.",
+      "ESTEBAN: o MESMO rosto da imagem 1, homem de 35 anos, pele morena clara, cabelo preto penteado para tras com gel, barba por fazer, JAQUETA DE COURO PRETA sobre camiseta BRANCA (sempre branca), corrente de ouro grossa no pescoco, anel de ouro no dedo mindinho, celular na mao.",
       "LUCIA: o MESMO rosto da imagem 2, mulher de 28 anos, pele morena, rosto doce e cansado, cabelo PRETO longo preso em rabo de cavalo, MOLHADO de chuva, sem maquiagem, JAQUETA JEANS azul desbotada sobre blusa de la cor MOSTARDA, pequenos brincos de argola prateados.",
       "A MESMA casa de penhor da imagem 1: balcao de vidro, relogios na parede e a FOTO ANTIGA emoldurada na parede, chuva la fora.",
       "O MESMO anel de ouro com a pequena rosa gravada da imagem 3, sem letras.",
@@ -24,7 +24,7 @@
     "duration_seconds": 9.6,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
     "structure": "5 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
-    "style": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns e ficticias, textura real de pele. Casa de penhor pequena a noite com chuva: luz quente amarela de uma luminaria sobre o balcao (Practical Lighting), reflexo vermelho de um neon de fora na vitrine molhada, gotas de chuva escorrendo no vidro, Low-key com Eye Light nos closes, Shallow Focus, cortes rapidos.",
+    "style": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns e ficticias, textura real de pele. Casa de penhor pequena a noite com chuva: luz quente amarela de uma luminaria sobre o balcao (Practical Lighting), reflexo vermelho difuso de um neon de fora (so luz, SEM letras visiveis) na vitrine molhada, gotas de chuva escorrendo no vidro, Low-key com Eye Light nos closes, Shallow Focus, cortes rapidos.",
     "setting": "A MESMA casa de penhor da imagem 1, segundos depois. O dono, RAMIRO, sai dos fundos da loja.",
     "blocking": [
       "RAMIRO: sai pela cortina dos fundos e para atras do balcao, ao lado de ESTEBAN, a DIREITA dele",

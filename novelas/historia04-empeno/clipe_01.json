@@ -2,7 +2,7 @@
   "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao FORTE e com contraste: ESTEBAN debochado, entediado, cruel com um sorriso de canto; LUCIA contida, digna, a voz firme mesmo desesperada, sem gritar. Rostos muito expressivos. Nenhuma fala neutra.",
   "consistency": [
     "LUCIA: mulher de 28 anos, pele morena, rosto doce e cansado, cabelo PRETO longo preso em rabo de cavalo, MOLHADO de chuva, sem maquiagem, JAQUETA JEANS azul desbotada sobre blusa de la cor MOSTARDA, pequenos brincos de argola prateados.",
-    "ESTEBAN: homem de 35 anos, pele morena clara, cabelo preto penteado para tras com gel, barba por fazer, JAQUETA DE COURO PRETA sobre camiseta BRANCA, corrente de ouro grossa no pescoco, anel de ouro no dedo mindinho, celular na mao.",
+    "ESTEBAN: homem de 35 anos, pele morena clara, cabelo preto penteado para tras com gel, barba por fazer, JAQUETA DE COURO PRETA sobre camiseta BRANCA (sempre branca), corrente de ouro grossa no pescoco, anel de ouro no dedo mindinho, celular na mao.",
     "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
     "O anel e de OURO, simples, com uma pequena ROSA gravada em relevo, sem letras.",
     "Na parede atras de ESTEBAN ha relogios antigos e uma FOTO ANTIGA emoldurada de uma moca jovem, SEMPRE desfocada ao fundo."
@@ -12,7 +12,7 @@
     "duration_seconds": 9.8,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
     "structure": "5 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
-    "style": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns e ficticias, textura real de pele. Casa de penhor pequena a noite com chuva: luz quente amarela de uma luminaria sobre o balcao (Practical Lighting), reflexo vermelho de um neon de fora na vitrine molhada, gotas de chuva escorrendo no vidro, Low-key com Eye Light nos closes, Shallow Focus, cortes rapidos.",
+    "style": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns e ficticias, textura real de pele. Casa de penhor pequena a noite com chuva: luz quente amarela de uma luminaria sobre o balcao (Practical Lighting), reflexo vermelho difuso de um neon de fora (so luz, SEM letras visiveis) na vitrine molhada, gotas de chuva escorrendo no vidro, Low-key com Eye Light nos closes, Shallow Focus, cortes rapidos.",
     "setting": "Uma casa de penhor pequena e antiga a noite: balcao de vidro com joias, relogios e eletronicos usados dentro, grade de ferro na vitrine, chuva forte do lado de fora, porta de vidro molhada. So LUCIA e ESTEBAN na loja.",
     "blocking": [
       "LUCIA: do lado de fora do balcao, de frente para ESTEBAN, a porta de vidro com chuva atras dela",
@@ -20,7 +20,7 @@
     ],
     "characters": {
       "LUCIA": "mulher de 28 anos, pele morena, rosto doce e cansado, cabelo PRETO longo preso em rabo de cavalo, MOLHADO de chuva, sem maquiagem, JAQUETA JEANS azul desbotada sobre blusa de la cor MOSTARDA, pequenos brincos de argola prateados. Personagem ficticia. Voz feminina suave, firme e cansada de mulher de 28 anos.",
-      "ESTEBAN": "homem de 35 anos, pele morena clara, cabelo preto penteado para tras com gel, barba por fazer, JAQUETA DE COURO PRETA sobre camiseta BRANCA, corrente de ouro grossa no pescoco, anel de ouro no dedo mindinho, celular na mao. Personagem ficticio. Voz masculina debochada e arrogante de homem de 35 anos."
+      "ESTEBAN": "homem de 35 anos, pele morena clara, cabelo preto penteado para tras com gel, barba por fazer, JAQUETA DE COURO PRETA sobre camiseta BRANCA (sempre branca), corrente de ouro grossa no pescoco, anel de ouro no dedo mindinho, celular na mao. Personagem ficticio. Voz masculina debochada e arrogante de homem de 35 anos."
     }
   },
   "timeline": [

@@ -16,7 +16,7 @@ Sem imagem de referência (Text to Video).
   "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao FORTE e com contraste: ESTEBAN debochado, entediado, cruel com um sorriso de canto; LUCIA contida, digna, a voz firme mesmo desesperada, sem gritar. Rostos muito expressivos. Nenhuma fala neutra.",
   "consistency": [
     "LUCIA: mulher de 28 anos, pele morena, rosto doce e cansado, cabelo PRETO longo preso em rabo de cavalo, MOLHADO de chuva, sem maquiagem, JAQUETA JEANS azul desbotada sobre blusa de la cor MOSTARDA, pequenos brincos de argola prateados.",
-    "ESTEBAN: homem de 35 anos, pele morena clara, cabelo preto penteado para tras com gel, barba por fazer, JAQUETA DE COURO PRETA sobre camiseta BRANCA, corrente de ouro grossa no pescoco, anel de ouro no dedo mindinho, celular na mao.",
+    "ESTEBAN: homem de 35 anos, pele morena clara, cabelo preto penteado para tras com gel, barba por fazer, JAQUETA DE COURO PRETA sobre camiseta BRANCA (sempre branca), corrente de ouro grossa no pescoco, anel de ouro no dedo mindinho, celular na mao.",
     "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
     "O anel e de OURO, simples, com uma pequena ROSA gravada em relevo, sem letras.",
     "Na parede atras de ESTEBAN ha relogios antigos e uma FOTO ANTIGA emoldurada de uma moca jovem, SEMPRE desfocada ao fundo."
@@ -26,7 +26,7 @@ Sem imagem de referência (Text to Video).
     "duration_seconds": 9.8,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
     "structure": "5 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
-    "style": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns e ficticias, textura real de pele. Casa de penhor pequena a noite com chuva: luz quente amarela de uma luminaria sobre o balcao (Practical Lighting), reflexo vermelho de um neon de fora na vitrine molhada, gotas de chuva escorrendo no vidro, Low-key com Eye Light nos closes, Shallow Focus, cortes rapidos.",
+    "style": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns e ficticias, textura real de pele. Casa de penhor pequena a noite com chuva: luz quente amarela de uma luminaria sobre o balcao (Practical Lighting), reflexo vermelho difuso de um neon de fora (so luz, SEM letras visiveis) na vitrine molhada, gotas de chuva escorrendo no vidro, Low-key com Eye Light nos closes, Shallow Focus, cortes rapidos.",
     "setting": "Uma casa de penhor pequena e antiga a noite: balcao de vidro com joias, relogios e eletronicos usados dentro, grade de ferro na vitrine, chuva forte do lado de fora, porta de vidro molhada. So LUCIA e ESTEBAN na loja.",
     "blocking": [
       "LUCIA: do lado de fora do balcao, de frente para ESTEBAN, a porta de vidro com chuva atras dela",
@@ -34,7 +34,7 @@ Sem imagem de referência (Text to Video).
     ],
     "characters": {
       "LUCIA": "mulher de 28 anos, pele morena, rosto doce e cansado, cabelo PRETO longo preso em rabo de cavalo, MOLHADO de chuva, sem maquiagem, JAQUETA JEANS azul desbotada sobre blusa de la cor MOSTARDA, pequenos brincos de argola prateados. Personagem ficticia. Voz feminina suave, firme e cansada de mulher de 28 anos.",
-      "ESTEBAN": "homem de 35 anos, pele morena clara, cabelo preto penteado para tras com gel, barba por fazer, JAQUETA DE COURO PRETA sobre camiseta BRANCA, corrente de ouro grossa no pescoco, anel de ouro no dedo mindinho, celular na mao. Personagem ficticio. Voz masculina debochada e arrogante de homem de 35 anos."
+      "ESTEBAN": "homem de 35 anos, pele morena clara, cabelo preto penteado para tras com gel, barba por fazer, JAQUETA DE COURO PRETA sobre camiseta BRANCA (sempre branca), corrente de ouro grossa no pescoco, anel de ouro no dedo mindinho, celular na mao. Personagem ficticio. Voz masculina debochada e arrogante de homem de 35 anos."
     }
   },
   "timeline": [
@@ -191,7 +191,7 @@ Referências, nesta ordem: 1) FRAME_ESTEBAN; 2) FRAME_LUCIA; 3) FRAME_ANILLO
     ],
     "preserve_exactly": [
       "RAMIRO: homem de 65 anos, pele morena, cabelo e barba GRISALHOS curtos e bem aparados, rosto serio e marcado, oculos de leitura presos num cordao no pescoco, CARDIGA MARROM de la sobre camisa xadrez bege, calca escura.",
-      "ESTEBAN: o MESMO rosto da imagem 1, homem de 35 anos, pele morena clara, cabelo preto penteado para tras com gel, barba por fazer, JAQUETA DE COURO PRETA sobre camiseta BRANCA, corrente de ouro grossa no pescoco, anel de ouro no dedo mindinho, celular na mao.",
+      "ESTEBAN: o MESMO rosto da imagem 1, homem de 35 anos, pele morena clara, cabelo preto penteado para tras com gel, barba por fazer, JAQUETA DE COURO PRETA sobre camiseta BRANCA (sempre branca), corrente de ouro grossa no pescoco, anel de ouro no dedo mindinho, celular na mao.",
       "LUCIA: o MESMO rosto da imagem 2, mulher de 28 anos, pele morena, rosto doce e cansado, cabelo PRETO longo preso em rabo de cavalo, MOLHADO de chuva, sem maquiagem, JAQUETA JEANS azul desbotada sobre blusa de la cor MOSTARDA, pequenos brincos de argola prateados.",
       "A MESMA casa de penhor da imagem 1: balcao de vidro, relogios na parede e a FOTO ANTIGA emoldurada na parede, chuva la fora.",
       "O MESMO anel de ouro com a pequena rosa gravada da imagem 3, sem letras.",
@@ -204,7 +204,7 @@ Referências, nesta ordem: 1) FRAME_ESTEBAN; 2) FRAME_LUCIA; 3) FRAME_ANILLO
     "duration_seconds": 9.6,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
     "structure": "5 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
-    "style": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns e ficticias, textura real de pele. Casa de penhor pequena a noite com chuva: luz quente amarela de uma luminaria sobre o balcao (Practical Lighting), reflexo vermelho de um neon de fora na vitrine molhada, gotas de chuva escorrendo no vidro, Low-key com Eye Light nos closes, Shallow Focus, cortes rapidos.",
+    "style": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns e ficticias, textura real de pele. Casa de penhor pequena a noite com chuva: luz quente amarela de uma luminaria sobre o balcao (Practical Lighting), reflexo vermelho difuso de um neon de fora (so luz, SEM letras visiveis) na vitrine molhada, gotas de chuva escorrendo no vidro, Low-key com Eye Light nos closes, Shallow Focus, cortes rapidos.",
     "setting": "A MESMA casa de penhor da imagem 1, segundos depois. O dono, RAMIRO, sai dos fundos da loja.",
     "blocking": [
       "RAMIRO: sai pela cortina dos fundos e para atras do balcao, ao lado de ESTEBAN, a DIREITA dele",
@@ -372,7 +372,7 @@ Referências, nesta ordem: 1) FRAME_RAMIRO; 2) FRAME_LUCIA; 3) FRAME_ESTEBAN; 4)
     "preserve_exactly": [
       "RAMIRO: o MESMO rosto da imagem 1, homem de 65 anos, pele morena, cabelo e barba GRISALHOS curtos e bem aparados, rosto serio e marcado, oculos de leitura presos num cordao no pescoco, CARDIGA MARROM de la sobre camisa xadrez bege, calca escura.",
       "LUCIA: o MESMO rosto da imagem 2, mulher de 28 anos, pele morena, rosto doce e cansado, cabelo PRETO longo preso em rabo de cavalo, MOLHADO de chuva, sem maquiagem, JAQUETA JEANS azul desbotada sobre blusa de la cor MOSTARDA, pequenos brincos de argola prateados.",
-      "ESTEBAN: o MESMO rosto da imagem 3, homem de 35 anos, pele morena clara, cabelo preto penteado para tras com gel, barba por fazer, JAQUETA DE COURO PRETA sobre camiseta BRANCA, corrente de ouro grossa no pescoco, anel de ouro no dedo mindinho, celular na mao.",
+      "ESTEBAN: o MESMO rosto da imagem 3, homem de 35 anos, pele morena clara, cabelo preto penteado para tras com gel, barba por fazer, JAQUETA DE COURO PRETA sobre camiseta BRANCA (sempre branca), corrente de ouro grossa no pescoco, anel de ouro no dedo mindinho, celular na mao.",
       "A MESMA casa de penhor da imagem 3: balcao de vidro, relogios, a foto antiga na parede (desfocada), chuva la fora.",
       "RAMIRO continua com o MESMO anel de ouro com a rosa gravada da imagem 4 na mao.",
       "Atras do balcao ha um banco alto de madeira."
@@ -383,7 +383,7 @@ Referências, nesta ordem: 1) FRAME_RAMIRO; 2) FRAME_LUCIA; 3) FRAME_ESTEBAN; 4)
     "duration_seconds": 9.5,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
     "structure": "5 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
-    "style": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns e ficticias, textura real de pele. Casa de penhor pequena a noite com chuva: luz quente amarela de uma luminaria sobre o balcao (Practical Lighting), reflexo vermelho de um neon de fora na vitrine molhada, gotas de chuva escorrendo no vidro, Low-key com Eye Light nos closes, Shallow Focus, cortes rapidos.",
+    "style": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns e ficticias, textura real de pele. Casa de penhor pequena a noite com chuva: luz quente amarela de uma luminaria sobre o balcao (Practical Lighting), reflexo vermelho difuso de um neon de fora (so luz, SEM letras visiveis) na vitrine molhada, gotas de chuva escorrendo no vidro, Low-key com Eye Light nos closes, Shallow Focus, cortes rapidos.",
     "setting": "A MESMA casa de penhor, segundos depois de RAMIRO ver a rosa gravada no anel.",
     "blocking": [
       "RAMIRO: atras do balcao, de frente para LUCIA, segurando o anel",
@@ -551,7 +551,7 @@ Referências, nesta ordem: 1) FRAME_RAMIRO_SENTADO; 2) FRAME_LUCIA_MARISOL; 3) F
     ],
     "preserve_exactly": [
       "RAMIRO: o MESMO rosto da imagem 4, homem de 65 anos, pele morena, cabelo e barba GRISALHOS curtos e bem aparados, rosto serio e marcado, oculos de leitura presos num cordao no pescoco, CARDIGA MARROM de la sobre camisa xadrez bege, calca escura.",
-      "ESTEBAN: o MESMO rosto da imagem 3, homem de 35 anos, pele morena clara, cabelo preto penteado para tras com gel, barba por fazer, JAQUETA DE COURO PRETA sobre camiseta BRANCA, corrente de ouro grossa no pescoco, anel de ouro no dedo mindinho, celular na mao.",
+      "ESTEBAN: o MESMO rosto da imagem 3, homem de 35 anos, pele morena clara, cabelo preto penteado para tras com gel, barba por fazer, JAQUETA DE COURO PRETA sobre camiseta BRANCA (sempre branca), corrente de ouro grossa no pescoco, anel de ouro no dedo mindinho, celular na mao.",
       "LUCIA: o MESMO rosto da imagem 2, mulher de 28 anos, pele morena, rosto doce e cansado, cabelo PRETO longo preso em rabo de cavalo, MOLHADO de chuva, sem maquiagem, JAQUETA JEANS azul desbotada sobre blusa de la cor MOSTARDA, pequenos brincos de argola prateados.",
       "O PRIMEIRO PLANO reproduz a MESMA composicao da imagem 1: RAMIRO sentado no banco alto atras do balcao com o anel na mao, ESTEBAN em pe atras dele, mesma luz, mesmo angulo. O video comeca com RAMIRO AINDA SENTADO e so depois ele se levanta.",
       "LUCIA usa SEMPRE o MESMO rosto, cabelo molhado e roupa da imagem 2.",
@@ -565,7 +565,7 @@ Referências, nesta ordem: 1) FRAME_RAMIRO_SENTADO; 2) FRAME_LUCIA_MARISOL; 3) F
     "duration_seconds": 10.0,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
     "structure": "5 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
-    "style": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns e ficticias, textura real de pele. Casa de penhor pequena a noite com chuva: luz quente amarela de uma luminaria sobre o balcao (Practical Lighting), reflexo vermelho de um neon de fora na vitrine molhada, gotas de chuva escorrendo no vidro, Low-key com Eye Light nos closes, Shallow Focus, cortes rapidos.",
+    "style": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns e ficticias, textura real de pele. Casa de penhor pequena a noite com chuva: luz quente amarela de uma luminaria sobre o balcao (Practical Lighting), reflexo vermelho difuso de um neon de fora (so luz, SEM letras visiveis) na vitrine molhada, gotas de chuva escorrendo no vidro, Low-key com Eye Light nos closes, Shallow Focus, cortes rapidos.",
     "setting": "A MESMA casa de penhor, logo depois de LUCIA dizer o nome Marisol.",
     "blocking": [
       "LUCIA: do lado de fora do balcao, SEMPRE na ESQUERDA do quadro, olhando para a DIREITA",
