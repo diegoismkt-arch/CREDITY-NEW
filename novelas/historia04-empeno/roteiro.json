@@ -643,8 +643,7 @@
       "estilo": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns e ficticias, textura real de pele. RUA na frente da casa de penhor, a noite, chuva forte: asfalto molhado refletindo luz vermelha difusa de um neon (so luz, SEM letras), a vitrine da loja acesa por dentro com luz quente amarela, gotas escorrendo no vidro. Low-key, contraluz da chuva, Eye Light nos closes, Shallow Focus, cortes rapidos.",
       "imagens": [
         "FRAME_ESTEBAN6",
-        "FRAME_MANOS",
-        "FRAME_ESTEBAN"
+        "FRAME_MANOS"
       ],
       "frames": {
         "ESTEBAN": "FRAME_ESTEBAN6",

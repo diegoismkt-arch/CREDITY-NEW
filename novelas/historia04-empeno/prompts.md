@@ -1078,7 +1078,7 @@ Referências, nesta ordem: 1) FRAME_LUCIA_FOTO; 2) FRAME_RAMIRO_CONFIESA; 3) FRA
 
 clipe 7: 9.4s, 7.9s de fala (19 palavras, 4 planos, falantes: ESTEBAN, VOZ DA MAE (telefone)) ✅
 
-Referências, nesta ordem: 1) FRAME_ESTEBAN6; 2) FRAME_MANOS; 3) FRAME_ESTEBAN
+Referências, nesta ordem: 1) FRAME_ESTEBAN6; 2) FRAME_MANOS
 
 ```json
 {
@@ -1089,8 +1089,7 @@ Referências, nesta ordem: 1) FRAME_ESTEBAN6; 2) FRAME_MANOS; 3) FRAME_ESTEBAN
     "additional_references": true,
     "reference_images": [
       "Imagem 1 — frame do clipe 6, plano 3 (por volta do segundo 5,5): close de ESTEBAN em choque, jaqueta de couro preta, camiseta branca, corrente de ouro, relogios ao fundo.",
-      "Imagem 2 — frame do clipe 6, ultimo plano (por volta do segundo 9): LUCIA e RAMIRO de perfil no balcao, de maos dadas, a luminaria acesa e a foto emoldurada entre eles.",
-      "Imagem 3 — frame do clipe 1, plano 2 (por volta do segundo 2): ESTEBAN atras do balcao segurando o anel, a parede da loja ao fundo com relogios antigos e uma foto antiga emoldurada desfocada."
+      "Imagem 2 — frame do clipe 6, ultimo plano (por volta do segundo 9): LUCIA e RAMIRO de perfil no balcao, de maos dadas, a luminaria acesa e a foto emoldurada entre eles."
     ],
     "preserve_exactly": [
       "ESTEBAN: o MESMO rosto da imagem 1, homem de 35 anos, pele morena clara, cabelo preto penteado para tras com gel, barba por fazer, JAQUETA DE COURO PRETA sobre camiseta BRANCA (sempre branca), corrente de ouro grossa no pescoco, anel de ouro no dedo mindinho, celular na mao.",
