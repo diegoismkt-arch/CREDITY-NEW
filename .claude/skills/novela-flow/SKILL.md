@@ -30,6 +30,13 @@ Erro do clipe 4 de El Anillo: closes "sozinhos no quadro" em todo plano deixam c
 5. **Duas pessoas do mesmo lado do balcão** (ex.: pai e filho): para um falar com o outro, plano de perfil dos dois (two-shot de perfil) ou OTS de um sobre o outro — nunca o falante olhando para a lente/frente.
 6. **"SOZINHO no quadro"** só em close de reação ou de choque. Nos planos de fala usar OTS ou two-shot.
 
+## Ritmo e emoção (erro do clipe 5 de El Anillo: 3,8 s sem fala e cena morna)
+- **Nunca mais de ~1,5 s seguidos sem fala.** Nunca dois planos mudos em sequência. Insert de leitura: 1,5–2 s (2,5 s só se for celular/documento com muita coisa para ver).
+- **O 1º plano do clipe já tem fala + ação.** Fala dita por alguém de COSTAS ou andando para longe o Flow costuma pular — quem fala no 1º plano está de frente/perfil para a câmera.
+- **Emoção alta = reação física + voz quebrando:** mão na boca, soluço, passo para trás, segurar o braço do outro, voz que falha ou sobe. Escrever isso em `voz`/`rosto`/`corpo`, não só "emocionado".
+- **Feche o clipe na reação de quem tem mais a perder** (o vilão empalidecendo, a vítima desabando), não no rosto de quem acabou de falar calmo.
+- **Frames de referência com letreiro/neon com letras também contaminam** (igual ao letreiro de nome): preferir frames sem texto no fundo.
+
 ## Construção da história (incorporado do "Prompt Mestre", v2)
 1. **Vínculo com o protagonista nas primeiras 2–3 cenas:** logo depois do gancho, mostrar um gesto concreto de dignidade, cuidado, lealdade ou sacrifício (ex.: ela ajuda alguém mesmo humilhada, protege um objeto, não revida). O público precisa TORCER por ele, não só sentir pena.
 2. **Virada preparada:** planejar o final ANTES do clipe 1. Toda revelação tem 1–2 pistas discretas já mostradas antes; a solução nasce de ações, objetos ou relações estabelecidas — nunca de segredo inventado no último segundo nem de salvador aleatório.

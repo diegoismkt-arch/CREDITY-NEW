@@ -17,9 +17,10 @@
     "FRAME_SUSURRO": "frame do clipe 4, ultimo plano (por volta do segundo 9): two-shot de perfil, RAMIRO em primeiro plano de oculos e cardiga marrom, ESTEBAN logo atras sussurrando no ouvido dele com a mao no ombro do pai.",
     "FRAME_LUCIA_OTS": "frame do clipe 4, plano 3 (por volta do segundo 5): LUCIA nitida a ESQUERDA do quadro, de jaqueta jeans e blusa mostarda, o ombro de RAMIRO desfocado em primeiro plano a direita.",
     "FRAME_RAMIRO_REACCION": "frame do clipe 4, plano 4 (por volta do segundo 6): close de RAMIRO comovido, oculos, cardiga marrom, relogios na parede ao fundo.",
-    "FRAME_FOTO_MARISOL": "frame do clipe 5, plano 2 (por volta do segundo 3): a foto antiga de MARISOL jovem com o anel da rosa, sobre o balcao.",
-    "FRAME_LUCIA_FOTO": "frame do clipe 5, plano 3 (por volta do segundo 5): LUCIA chorando, olhando a foto, o ombro de RAMIRO em primeiro plano.",
-    "FRAME_RAMIRO_CONFIESA": "frame do clipe 5, plano 4 (por volta do segundo 8,5): RAMIRO confessando, olhos marejados, o ombro de LUCIA em primeiro plano."
+    "FRAME_FOTO_MARISOL": "frame do clipe 5 (1a versao), por volta do segundo 3,5: a foto antiga emoldurada de MARISOL jovem, cabelo preto longo, sorrindo, a mao no queixo com o anel da rosa no dedo.",
+    "FRAME_LUCIA_FOTO": "frame do clipe 5 (1a versao), por volta do segundo 5: LUCIA chorando com a mao sobre a foto no balcao, o ombro de RAMIRO desfocado a direita.",
+    "FRAME_RAMIRO_CONFIESA": "frame do clipe 5 (1a versao), por volta do segundo 8: RAMIRO de frente, chorando, oculos, cardiga marrom, o ombro de LUCIA desfocado a esquerda.",
+    "FRAME_ESTEBAN_SHOCK": "frame do clipe 5, ultimo plano (por volta do segundo 9,5): close de ESTEBAN em choque."
   },
   "personagens": {
     "LUCIA": {
@@ -426,23 +427,23 @@
       ]
     },
     {
-      "nome": "A foto: 'se lo di yo'",
-      "atuacao": "Novela dramatica. Atuacao com contraste: ESTEBAN nervoso, perdendo o controle; RAMIRO decidido e emocionado, a voz baixa; LUCIA em choque, lagrimas silenciosas. Rostos muito expressivos. Nenhuma fala neutra.",
+      "nome": "A foto: 'se lo di yo' (v2, mais emoção e ritmo)",
+      "atuacao": "Novela dramatica. Atuacao FORTE com pico emocional: RAMIRO arranca a mao do filho e bate a foto no balcao, a voz falhando na confissao; LUCIA desaba ao ver a mae, soluco, mao na boca; ESTEBAN perde a cor no final. Rostos muito expressivos. Nenhuma fala neutra, nenhum momento parado.",
       "imagens": [
-        "FRAME_SUSURRO",
-        "FRAME_LUCIA_OTS",
-        "FRAME_RAMIRO_REACCION",
+        "FRAME_LUCIA_FOTO",
+        "FRAME_RAMIRO_CONFIESA",
+        "FRAME_FOTO_MARISOL",
         "FRAME_ESTEBAN"
       ],
       "frames": {
-        "RAMIRO": "FRAME_RAMIRO_REACCION",
-        "LUCIA": "FRAME_LUCIA_OTS",
+        "RAMIRO": "FRAME_RAMIRO_CONFIESA",
+        "LUCIA": "FRAME_LUCIA_FOTO",
         "ESTEBAN": "FRAME_ESTEBAN"
       },
       "salvar_frames": [
-        "FRAME_FOTO_MARISOL",
         "FRAME_LUCIA_FOTO",
-        "FRAME_RAMIRO_CONFIESA"
+        "FRAME_RAMIRO_CONFIESA",
+        "FRAME_ESTEBAN_SHOCK"
       ],
       "personagens": [
         "ESTEBAN",
@@ -455,55 +456,56 @@
         "ESTEBAN": "atras do balcao, a DIREITA de RAMIRO, um passo atras"
       },
       "preservar_extra": [
-        "O video ABRE na MESMA composicao da imagem FRAME_SUSURRO: RAMIRO de perfil em primeiro plano e ESTEBAN atras com a mao no ombro dele.",
-        "A MESMA casa de penhor: balcao de vidro, relogios na parede, chuva la fora. A FOTO ANTIGA emoldurada fica na parede do fundo, atras do balcao.",
-        "ESTEBAN tem 35 anos, barba por fazer PRETA, camiseta BRANCA sob a jaqueta de couro; so RAMIRO e grisalho.",
-        "A foto mostra so uma mulher adulta, sem nenhuma letra."
+        "A MESMA casa de penhor: balcao de vidro, relogios na parede, luminaria, chuva la fora. A vitrine ao fundo NAO tem letreiro nem letras.",
+        "A MESMA foto emoldurada da imagem FRAME_FOTO_MARISOL: MARISOL jovem, cabelo preto longo, sorrindo, o anel da rosa no dedo.",
+        "ESTEBAN tem 35 anos, barba por fazer PRETA, camiseta BRANCA sob a jaqueta de couro; so RAMIRO e grisalho."
       ],
-      "cenario": "A MESMA casa de penhor, logo depois do sussurro de ESTEBAN.",
-      "som": "Chuva na vitrine, tic-tac dos relogios, o vidro da moldura tocando o balcao.",
+      "cenario": "A MESMA casa de penhor, segundos depois do sussurro de ESTEBAN no ouvido do pai.",
+      "som": "Chuva na vitrine, a moldura batendo no vidro do balcao, um soluco de LUCIA; no fim, silencio.",
       "remover_negativos": [
         "dois rostos visiveis nos planos de fala",
         "atuacao contida"
       ],
       "negativos_extra": [
+        "letreiro ou neon com letras",
         "letras ou numeros na foto",
-        "neon com letras",
         "texto legivel na tela do celular",
         "esteban com barba grisalha",
         "esteban parecido com ramiro",
         "personagem falando de frente para a camera",
-        "roupa de um personagem em outro"
+        "roupa de um personagem em outro",
+        "momento parado sem fala",
+        "fala calma ou sem emocao"
       ],
       "planos": [
         {
-          "quem": "ESTEBAN",
-          "para": "RAMIRO",
-          "fala": "Papá, ¿qué haces?",
-          "emocao": 9,
-          "eyeline": "ESTEBAN olha para as costas de RAMIRO, que se afasta para a parede do fundo. NAO olha para LUCIA nem para a camera.",
-          "intencao": "Perguntar nervoso, perdendo o controle.",
-          "voz": "Voz masculina tensa, nervosa.",
-          "rosto": "ESTEBAN: testa franzida, nervoso.",
-          "corpo": "Abrindo na composicao da imagem FRAME_SUSURRO: RAMIRO tira a mao de ESTEBAN do ombro, vira-se e vai ate a parede do fundo; ESTEBAN fica parado olhando.",
-          "camera": "O video abre no MESMO enquadramento da imagem FRAME_SUSURRO; ESTEBAN fica em primeiro plano, nitido, e RAMIRO se afasta ate a parede ao fundo, lente 50mm."
+          "quem": "RAMIRO",
+          "para": "ESTEBAN",
+          "fala": "¡Suéltame!",
+          "emocao": 10,
+          "eyeline": "RAMIRO vira o rosto para a DIREITA, para ESTEBAN, que esta logo atras dele. NAO olha para LUCIA nem para a camera.",
+          "intencao": "Cortar o filho, firme e magoado.",
+          "voz": "Voz masculina grave, firme e cortante.",
+          "rosto": "RAMIRO: olhar duro, maxilar travado.",
+          "corpo": "RAMIRO arranca do ombro a mao de ESTEBAN, pega a foto emoldurada da parede atras dele num gesto rapido.",
+          "camera": "Medium Shot de perfil dos dois atras do balcao: RAMIRO em primeiro plano, de perfil para a camera, ESTEBAN atras; Handheld leve, lente 50mm."
         },
         {
           "rosto": "Sem rostos.",
-          "corpo": "As maos de RAMIRO colocam sobre o balcao de vidro uma foto antiga emoldurada, cores desbotadas dos anos noventa: uma mulher de uns 25 anos, cabelo PRETO longo, sorrindo, com a mao perto do rosto e no dedo o MESMO anel de ouro com a pequena rosa.",
-          "camera": "Corte seco. Insert shot da foto em escala real sobre o balcao, Slow Zoom In ate a foto ocupar o quadro, Rack Focus para o anel no dedo dela. A foto fica bem visivel. Ninguem fala.",
-          "segundos": 2.5
+          "corpo": "RAMIRO bate a foto emoldurada sobre o balcao de vidro, virada para LUCIA: MARISOL jovem, cabelo preto longo, sorrindo, o anel da rosa no dedo.",
+          "camera": "Corte seco. Insert em escala real: a moldura batendo no vidro, Crash Zoom In curto ate a foto. A foto fica bem visivel. Ninguem fala.",
+          "segundos": 1.5
         },
         {
           "quem": "LUCIA",
           "para": "RAMIRO",
-          "fala": "Es mi mamá… ¿Por qué la tiene usted?",
+          "fala": "¡Es mi mamá! ¿Por qué la tiene usted?",
           "emocao": 10,
-          "eyeline": "LUCIA levanta os olhos da foto e olha para a DIREITA do quadro, para RAMIRO, cujo ombro esta em primeiro plano. NAO olha para ESTEBAN nem para a camera.",
-          "intencao": "Reconhecer a mae e exigir explicacao, em choque.",
-          "voz": "Voz feminina embargada, baixa, tremula.",
-          "rosto": "LUCIA: lagrimas escorrendo, olhos arregalados.",
-          "corpo": "LUCIA: toca a foto com a ponta dos dedos.",
+          "eyeline": "LUCIA olha da foto para a DIREITA do quadro, para RAMIRO, cujo ombro esta em primeiro plano. NAO olha para ESTEBAN nem para a camera.",
+          "intencao": "Reconhecer a mae e exigir explicacao, desabando.",
+          "voz": "Voz feminina que QUEBRA em soluco no 'mamá' e sobe, desesperada, na pergunta.",
+          "rosto": "LUCIA: lagrimas escorrendo, boca tremendo, olhos arregalados.",
+          "corpo": "LUCIA: leva a mao a boca, depois agarra a moldura com as duas maos.",
           "camera": "Corte seco. Over-the-Shoulder: ombro do cardiga marrom de RAMIRO desfocado em primeiro plano a DIREITA; LUCIA nitida a ESQUERDA, close, head and upper shoulders, lente 75mm."
         },
         {
@@ -512,12 +514,21 @@
           "fala": "Porque ese anillo… se lo di yo.",
           "emocao": 10,
           "eyeline": "RAMIRO olha para a ESQUERDA do quadro, para LUCIA, cujo ombro e rabo de cavalo molhado estao em primeiro plano. NAO olha para ESTEBAN nem para a camera.",
-          "intencao": "Confessar, com a voz falhando.",
-          "voz": "Voz masculina grave, baixa, falhando no fim.",
-          "rosto": "RAMIRO: olhos marejados por tras dos oculos, um sorriso de dor.",
-          "corpo": "RAMIRO: tira o anel do bolso do cardiga e o coloca ao lado da foto.",
-          "camera": "Corte seco. Over-the-Shoulder reverso: ombro da jaqueta jeans e rabo de cavalo molhado de LUCIA desfocados em primeiro plano a ESQUERDA; RAMIRO nitido a DIREITA, close, Slow Push In, lente 75mm. O clipe termina neste rosto."
+          "intencao": "Confessar, a voz falhando, as lagrimas caindo.",
+          "voz": "Voz masculina grave, rouca, que FALHA no 'se lo di yo'.",
+          "rosto": "RAMIRO: lagrimas descendo por tras dos oculos, labios tremendo.",
+          "corpo": "RAMIRO: tira o anel do bolso e o coloca sobre a foto.",
+          "camera": "Corte seco. Over-the-Shoulder reverso: ombro da jaqueta jeans e rabo de cavalo molhado de LUCIA desfocados em primeiro plano a ESQUERDA; RAMIRO nitido a DIREITA, close, Slow Push In, lente 75mm."
+        },
+        {
+          "rosto": "ESTEBAN: a cor some do rosto, boca entreaberta, o celular baixando devagar na mao. Boca sem falar.",
+          "corpo": "ESTEBAN: da meio passo para tras.",
+          "camera": "Corte seco. Crash Zoom In ate tight close-up de ESTEBAN SOZINHO no quadro (barba PRETA, camiseta branca, jaqueta de couro). Ninguem fala. O clipe termina neste rosto.",
+          "segundos": 0.9
         }
+      ],
+      "regras_extra": [
+        "Nenhum momento parado: so o plano da foto e o ultimo plano sao mudos."
       ]
     }
   ]
