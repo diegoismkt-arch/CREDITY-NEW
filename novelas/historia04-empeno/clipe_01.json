@@ -1,0 +1,153 @@
+{
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao FORTE e com contraste: ESTEBAN debochado, entediado, cruel com um sorriso de canto; LUCIA contida, digna, a voz firme mesmo desesperada, sem gritar. Rostos muito expressivos. Nenhuma fala neutra.",
+  "consistency": [
+    "LUCIA: mulher de 28 anos, pele morena, rosto doce e cansado, cabelo PRETO longo preso em rabo de cavalo, MOLHADO de chuva, sem maquiagem, JAQUETA JEANS azul desbotada sobre blusa de la cor MOSTARDA, pequenos brincos de argola prateados.",
+    "ESTEBAN: homem de 35 anos, pele morena clara, cabelo preto penteado para tras com gel, barba por fazer, JAQUETA DE COURO PRETA sobre camiseta BRANCA, corrente de ouro grossa no pescoco, anel de ouro no dedo mindinho, celular na mao.",
+    "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
+    "O anel e de OURO, simples, com uma pequena ROSA gravada em relevo, sem letras.",
+    "Na parede atras de ESTEBAN ha relogios antigos e uma FOTO ANTIGA emoldurada de uma moca jovem, SEMPRE desfocada ao fundo."
+  ],
+  "scene": {
+    "title": "EL ANILLO",
+    "duration_seconds": 9.8,
+    "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
+    "structure": "5 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "style": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns e ficticias, textura real de pele. Casa de penhor pequena a noite com chuva: luz quente amarela de uma luminaria sobre o balcao (Practical Lighting), reflexo vermelho de um neon de fora na vitrine molhada, gotas de chuva escorrendo no vidro, Low-key com Eye Light nos closes, Shallow Focus, cortes rapidos.",
+    "setting": "Uma casa de penhor pequena e antiga a noite: balcao de vidro com joias, relogios e eletronicos usados dentro, grade de ferro na vitrine, chuva forte do lado de fora, porta de vidro molhada. So LUCIA e ESTEBAN na loja.",
+    "blocking": [
+      "LUCIA: do lado de fora do balcao, de frente para ESTEBAN, a porta de vidro com chuva atras dela",
+      "ESTEBAN: atras do balcao de vidro, de frente para LUCIA, a parede da loja atras dele"
+    ],
+    "characters": {
+      "LUCIA": "mulher de 28 anos, pele morena, rosto doce e cansado, cabelo PRETO longo preso em rabo de cavalo, MOLHADO de chuva, sem maquiagem, JAQUETA JEANS azul desbotada sobre blusa de la cor MOSTARDA, pequenos brincos de argola prateados. Personagem ficticia. Voz feminina suave, firme e cansada de mulher de 28 anos.",
+      "ESTEBAN": "homem de 35 anos, pele morena clara, cabelo preto penteado para tras com gel, barba por fazer, JAQUETA DE COURO PRETA sobre camiseta BRANCA, corrente de ouro grossa no pescoco, anel de ouro no dedo mindinho, celular na mao. Personagem ficticio. Voz masculina debochada e arrogante de homem de 35 anos."
+    }
+  },
+  "timeline": [
+    {
+      "time": "00:00.00-00:00.80",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "Sem rostos.",
+      "body": "A mao molhada de LUCIA coloca devagar um anel de ouro com uma pequena rosa gravada sobre o balcao de vidro; gotas de chuva no pulso.",
+      "camera": "Insert shot em escala real, lente macro, luz quente da luminaria refletindo no anel. Ninguem fala.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    },
+    {
+      "time": "00:00.80-00:02.85",
+      "speaker": "ESTEBAN",
+      "dialogue": "¿Esto? Te doy doscientos pesos.",
+      "addressee": "LUCIA",
+      "eyeline": "ESTEBAN fala PARA LUCIA e olha para LUCIA (do lado de fora do balcao, de frente para ESTEBAN, a porta de vidro com chuva atras dela), fora do quadro.",
+      "emotion_level": 9,
+      "intention": "Desvalorizar o anel com deboche.",
+      "voice": "Voz masculina debochada, entediada.",
+      "face": "ESTEBAN: sobrancelha erguida, sorriso de desdem.",
+      "body": "ESTEBAN: pega o anel com dois dedos e olha de relance, sem interesse, o celular na outra mao.",
+      "camera": "Corte seco. Medium Close-Up de ESTEBAN SOZINHO no quadro atras do balcao, a parede com relogios e a foto antiga desfocadas ao fundo, lente 50mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente ESTEBAN movimenta os labios."
+    },
+    {
+      "time": "00:02.85-00:05.27",
+      "speaker": "LUCIA",
+      "dialogue": "Era de mi madre. Vale más.",
+      "addressee": "ESTEBAN",
+      "eyeline": "LUCIA fala PARA ESTEBAN e olha para ESTEBAN (atras do balcao de vidro, de frente para LUCIA, a parede da loja atras dele), fora do quadro.",
+      "emotion_level": 9,
+      "intention": "Defender o valor do anel com dignidade, contida.",
+      "voice": "Voz feminina baixa, firme, segurando o choro.",
+      "face": "LUCIA: olhos marejados mas firmes, queixo erguido.",
+      "body": "LUCIA: as maos apertando a beira do balcao.",
+      "camera": "Corte seco. Tight close-up of LUCIA SOZINHA no quadro, head and upper shoulders, cabelo molhado, reflexo vermelho do neon no rosto, Eye Light, lente 75mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente LUCIA movimenta os labios."
+    },
+    {
+      "time": "00:05.27-00:07.70",
+      "speaker": "ESTEBAN",
+      "dialogue": "Aquí vale lo que yo diga.",
+      "addressee": "LUCIA",
+      "eyeline": "ESTEBAN fala PARA LUCIA e olha para LUCIA (do lado de fora do balcao, de frente para ESTEBAN, a porta de vidro com chuva atras dela), fora do quadro.",
+      "emotion_level": 10,
+      "intention": "Humilhar, mostrando quem manda.",
+      "voice": "Voz masculina arrogante, com uma risada curta no fim.",
+      "face": "ESTEBAN: riso cruel de canto de boca.",
+      "body": "ESTEBAN: joga o anel para cima e pega na mao, brincando com ele.",
+      "camera": "Corte seco. Low Angle, Medium Close-Up de ESTEBAN SOZINHO no quadro, lente 50mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente ESTEBAN movimenta os labios."
+    },
+    {
+      "time": "00:07.70-00:09.75",
+      "speaker": "LUCIA",
+      "dialogue": "Necesito pagar la renta hoy.",
+      "addressee": "ESTEBAN",
+      "eyeline": "LUCIA fala PARA ESTEBAN e olha para ESTEBAN (atras do balcao de vidro, de frente para LUCIA, a parede da loja atras dele), fora do quadro.",
+      "emotion_level": 10,
+      "intention": "Confessar o desespero sem perder a dignidade.",
+      "voice": "Voz feminina baixa, a voz falhando so na ultima palavra.",
+      "face": "LUCIA: uma lagrima escorre, mas ela nao baixa o olhar.",
+      "body": "LUCIA: imovel, as maos ainda no balcao.",
+      "camera": "Corte seco. Slow Push In: tight close-up of LUCIA SOZINHA no quadro, head and upper shoulders, lente 75mm. O clipe termina neste rosto. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente LUCIA movimenta os labios."
+    }
+  ],
+  "dialogue_rules": {
+    "language": "Espanol de Mexico, acento mexicano natural, TODAS as palavras em espanhol.",
+    "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
+    "total_dialogue_lines": 4,
+    "exact_order": [
+      "ESTEBAN",
+      "LUCIA",
+      "ESTEBAN",
+      "LUCIA"
+    ],
+    "rules": [
+      "So existem 4 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "A ultima fala termina junto com o video.",
+      "Cada fala e dirigida a: ESTEBAN -> LUCIA; LUCIA -> ESTEBAN; ESTEBAN -> LUCIA; LUCIA -> ESTEBAN.",
+      "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
+      "Nao repetir, misturar, traduzir ou acrescentar palavras.",
+      "Cada frase e dita INTEIRA, do comeco ao fim."
+    ]
+  },
+  "audio": {
+    "single_voice_at_a_time": true,
+    "sound": "Chuva forte batendo na vitrine, o tic-tac dos relogios da parede, o clique do anel no vidro.",
+    "music": "Nenhuma.",
+    "narration": "Nenhuma.",
+    "subtitles": "Nao gerar."
+  },
+  "negative_prompt": [
+    "senhor idoso aparecendo",
+    "letreiro ou neon com letras",
+    "letras gravadas no anel",
+    "foto da parede em foco",
+    "lucia gritando ou chorando",
+    "texto ou letras em qualquer lugar",
+    "nome ou idade de personagem escrito na tela",
+    "letreiro de apresentacao de personagem (lower third)",
+    "palavra inventada no ultimo plano",
+    "fala repetida",
+    "fala adiantada ou atrasada para outro plano",
+    "personagem falando ou olhando para quem nao e o destinatario da fala",
+    "fala neutra ou monotona",
+    "rosto neutro ou expressao vazia",
+    "atuacao contida",
+    "voz sem rosto na tela",
+    "tela dividida",
+    "colagem",
+    "formato horizontal",
+    "bordas pretas",
+    "palavras em ingles",
+    "palavras em portugues",
+    "duas vozes simultaneas",
+    "movimento labial do ouvinte",
+    "fala cortada, encurtada ou incompleta",
+    "personagem olhando para a camera",
+    "mudanca de rosto",
+    "mudanca de roupa",
+    "legendas",
+    "logotipo",
+    "marca-d'agua",
+    "trilha sonora"
+  ]
+}

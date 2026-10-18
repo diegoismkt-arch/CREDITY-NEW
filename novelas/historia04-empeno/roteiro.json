@@ -1,0 +1,118 @@
+{
+  "titulo_post": "",
+  "legenda": "",
+  "texto_final": "Comenta PARTE 2 👇",
+  "titulo_interno": "EL ANILLO",
+  "estilo": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns e ficticias, textura real de pele. Casa de penhor pequena a noite com chuva: luz quente amarela de uma luminaria sobre o balcao (Practical Lighting), reflexo vermelho de um neon de fora na vitrine molhada, gotas de chuva escorrendo no vidro, Low-key com Eye Light nos closes, Shallow Focus, cortes rapidos.",
+  "imagens": {
+    "FRAME_ANILLO": "frame do clipe 1, plano 1 (por volta do segundo 0,5): a mao molhada de LUCIA colocando o anel de ouro com uma pequena rosa gravada sobre o balcao de vidro.",
+    "FRAME_ESTEBAN": "frame do clipe 1, plano 2 (por volta do segundo 2): ESTEBAN atras do balcao segurando o anel, a parede da loja ao fundo com relogios antigos e uma foto antiga emoldurada desfocada.",
+    "FRAME_LUCIA": "frame do clipe 1, plano 3 (por volta do segundo 4): close de LUCIA, cabelo molhado de chuva, jaqueta jeans."
+  },
+  "personagens": {
+    "LUCIA": {
+      "descricao": "mulher de 28 anos, pele morena, rosto doce e cansado, cabelo PRETO longo preso em rabo de cavalo, MOLHADO de chuva, sem maquiagem, JAQUETA JEANS azul desbotada sobre blusa de la cor MOSTARDA, pequenos brincos de argola prateados.",
+      "voz": "Voz feminina suave, firme e cansada de mulher de 28 anos.",
+      "frame": "FRAME_LUCIA",
+      "feminino": true
+    },
+    "ESTEBAN": {
+      "descricao": "homem de 35 anos, pele morena clara, cabelo preto penteado para tras com gel, barba por fazer, JAQUETA DE COURO PRETA sobre camiseta BRANCA, corrente de ouro grossa no pescoco, anel de ouro no dedo mindinho, celular na mao.",
+      "voz": "Voz masculina debochada e arrogante de homem de 35 anos.",
+      "frame": "FRAME_ESTEBAN"
+    },
+    "RAMIRO": {
+      "descricao": "homem de 65 anos, pele morena, cabelo e barba GRISALHOS curtos e bem aparados, rosto serio e marcado, oculos de leitura presos num cordao no pescoco, CARDIGA MARROM de la sobre camisa xadrez bege, calca escura.",
+      "voz": "Voz masculina grave, rouca e pausada de homem de 65 anos.",
+      "frame": "FRAME_RAMIRO"
+    }
+  },
+  "clips": [
+    {
+      "nome": "O anel no balcão",
+      "atuacao": "Novela dramatica. Atuacao FORTE e com contraste: ESTEBAN debochado, entediado, cruel com um sorriso de canto; LUCIA contida, digna, a voz firme mesmo desesperada, sem gritar. Rostos muito expressivos. Nenhuma fala neutra.",
+      "personagens": [
+        "LUCIA",
+        "ESTEBAN"
+      ],
+      "posicoes": {
+        "LUCIA": "do lado de fora do balcao, de frente para ESTEBAN, a porta de vidro com chuva atras dela",
+        "ESTEBAN": "atras do balcao de vidro, de frente para LUCIA, a parede da loja atras dele"
+      },
+      "preservar_extra": [
+        "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
+        "O anel e de OURO, simples, com uma pequena ROSA gravada em relevo, sem letras.",
+        "Na parede atras de ESTEBAN ha relogios antigos e uma FOTO ANTIGA emoldurada de uma moca jovem, SEMPRE desfocada ao fundo."
+      ],
+      "cenario": "Uma casa de penhor pequena e antiga a noite: balcao de vidro com joias, relogios e eletronicos usados dentro, grade de ferro na vitrine, chuva forte do lado de fora, porta de vidro molhada. So LUCIA e ESTEBAN na loja.",
+      "som": "Chuva forte batendo na vitrine, o tic-tac dos relogios da parede, o clique do anel no vidro.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala"
+      ],
+      "negativos_extra": [
+        "senhor idoso aparecendo",
+        "letreiro ou neon com letras",
+        "letras gravadas no anel",
+        "foto da parede em foco",
+        "lucia gritando ou chorando"
+      ],
+      "salvar_frames": [
+        "FRAME_ANILLO",
+        "FRAME_ESTEBAN",
+        "FRAME_LUCIA"
+      ],
+      "planos": [
+        {
+          "rosto": "Sem rostos.",
+          "corpo": "A mao molhada de LUCIA coloca devagar um anel de ouro com uma pequena rosa gravada sobre o balcao de vidro; gotas de chuva no pulso.",
+          "camera": "Insert shot em escala real, lente macro, luz quente da luminaria refletindo no anel. Ninguem fala.",
+          "segundos": 0.8
+        },
+        {
+          "quem": "ESTEBAN",
+          "para": "LUCIA",
+          "fala": "¿Esto? Te doy doscientos pesos.",
+          "emocao": 9,
+          "intencao": "Desvalorizar o anel com deboche.",
+          "voz": "Voz masculina debochada, entediada.",
+          "rosto": "ESTEBAN: sobrancelha erguida, sorriso de desdem.",
+          "corpo": "ESTEBAN: pega o anel com dois dedos e olha de relance, sem interesse, o celular na outra mao.",
+          "camera": "Corte seco. Medium Close-Up de ESTEBAN SOZINHO no quadro atras do balcao, a parede com relogios e a foto antiga desfocadas ao fundo, lente 50mm."
+        },
+        {
+          "quem": "LUCIA",
+          "para": "ESTEBAN",
+          "fala": "Era de mi madre. Vale más.",
+          "emocao": 9,
+          "intencao": "Defender o valor do anel com dignidade, contida.",
+          "voz": "Voz feminina baixa, firme, segurando o choro.",
+          "rosto": "LUCIA: olhos marejados mas firmes, queixo erguido.",
+          "corpo": "LUCIA: as maos apertando a beira do balcao.",
+          "camera": "Corte seco. Tight close-up of LUCIA SOZINHA no quadro, head and upper shoulders, cabelo molhado, reflexo vermelho do neon no rosto, Eye Light, lente 75mm."
+        },
+        {
+          "quem": "ESTEBAN",
+          "para": "LUCIA",
+          "fala": "Aquí vale lo que yo diga.",
+          "emocao": 10,
+          "intencao": "Humilhar, mostrando quem manda.",
+          "voz": "Voz masculina arrogante, com uma risada curta no fim.",
+          "rosto": "ESTEBAN: riso cruel de canto de boca.",
+          "corpo": "ESTEBAN: joga o anel para cima e pega na mao, brincando com ele.",
+          "camera": "Corte seco. Low Angle, Medium Close-Up de ESTEBAN SOZINHO no quadro, lente 50mm."
+        },
+        {
+          "quem": "LUCIA",
+          "para": "ESTEBAN",
+          "fala": "Necesito pagar la renta hoy.",
+          "emocao": 10,
+          "intencao": "Confessar o desespero sem perder a dignidade.",
+          "voz": "Voz feminina baixa, a voz falhando so na ultima palavra.",
+          "rosto": "LUCIA: uma lagrima escorre, mas ela nao baixa o olhar.",
+          "corpo": "LUCIA: imovel, as maos ainda no balcao.",
+          "camera": "Corte seco. Slow Push In: tight close-up of LUCIA SOZINHA no quadro, head and upper shoulders, lente 75mm. O clipe termina neste rosto."
+        }
+      ]
+    }
+  ]
+}
