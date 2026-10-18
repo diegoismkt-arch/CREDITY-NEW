@@ -10,8 +10,10 @@
     "FRAME_LUCIA": "frame do clipe 1, plano 3 (por volta do segundo 4): close de LUCIA, cabelo molhado de chuva, jaqueta jeans.",
     "FRAME_RAMIRO": "frame do clipe 2, plano 5 (por volta do segundo 9): close de RAMIRO de oculos de leitura, cardiga marrom, olhando a parede, em choque.",
     "FRAME_ROSA_ANILLO": "frame do clipe 2, plano 4 (por volta do segundo 6): o anel de ouro com a rosa gravada entre os dedos de RAMIRO.",
-    "FRAME_RAMIRO_SENTADO": "frame do clipe 3, plano 5 (por volta do segundo 9): RAMIRO sentado no banco atras do balcao, sem forcas, o anel na mao; ESTEBAN em pe atras dele olhando.",
-    "FRAME_LUCIA_MARISOL": "frame do clipe 3, plano 4 (por volta do segundo 8): close de LUCIA dizendo o nome da mae, cabelo molhado."
+    "FRAME_RAMIRO_SENTADO": "frame do clipe 3, plano 5 (por volta do segundo 9): RAMIRO sentado no banco atras do balcao com o anel na mao, ESTEBAN em pe atras dele.",
+    "FRAME_LUCIA_MARISOL": "frame do clipe 3, plano 4 (por volta do segundo 8): close de LUCIA, cabelo molhado, jaqueta jeans, olhar sincero.",
+    "FRAME_SOBRE": "frame do clipe 4, plano 1 (por volta do segundo 0,8): RAMIRO empurrando um envelope grosso de dinheiro sobre o balcao.",
+    "FRAME_ESTEBAN_AMENAZA": "frame do clipe 4, plano 4 (por volta do segundo 8): close de ESTEBAN falando baixo, ameacador."
   },
   "personagens": {
     "LUCIA": {
@@ -308,6 +310,99 @@
           "corpo": "RAMIRO se deixa cair sentado no banco alto atras do balcao, sem forcas, o anel apertado na mao; ESTEBAN em pe atras dele.",
           "camera": "Corte seco. Medium Shot atras do balcao: RAMIRO sentando pesado em primeiro plano, ESTEBAN ao fundo em foco suave. Ninguem fala. O clipe termina nesta imagem.",
           "segundos": 1.0
+        }
+      ]
+    },
+    {
+      "nome": "O dinheiro e a ameaça",
+      "atuacao": "Novela dramatica. Atuacao com contraste: RAMIRO emocionado e calado; ESTEBAN explosivo e depois frio e ameacador em voz baixa; LUCIA ofendida mas serena, firme. Rostos muito expressivos. Nenhuma fala neutra.",
+      "imagens": [
+        "FRAME_RAMIRO_SENTADO",
+        "FRAME_RAMIRO",
+        "FRAME_LUCIA_MARISOL",
+        "FRAME_ESTEBAN"
+      ],
+      "frames": {
+        "RAMIRO": "FRAME_RAMIRO",
+        "LUCIA": "FRAME_LUCIA_MARISOL",
+        "ESTEBAN": "FRAME_ESTEBAN"
+      },
+      "salvar_frames": [
+        "FRAME_SOBRE",
+        "FRAME_ESTEBAN_AMENAZA"
+      ],
+      "personagens": [
+        "RAMIRO",
+        "ESTEBAN",
+        "LUCIA"
+      ],
+      "posicoes": {
+        "RAMIRO": "atras do balcao, levanta-se do banco, de frente para LUCIA",
+        "ESTEBAN": "atras do balcao, colado ao lado ESQUERDO de RAMIRO",
+        "LUCIA": "do lado de fora do balcao, de frente para RAMIRO"
+      },
+      "preservar_extra": [
+        "A MESMA casa de penhor da imagem FRAME_RAMIRO_SENTADO: balcao de vidro, banco alto, relogios, foto antiga na parede (desfocada), chuva la fora.",
+        "RAMIRO guarda o anel no bolso do cardiga antes de pegar o envelope.",
+        "O envelope e pardo, grosso, com notas de dinheiro aparecendo na borda, sem letras."
+      ],
+      "cenario": "A MESMA casa de penhor, logo depois de LUCIA dizer o nome Marisol.",
+      "som": "Chuva na vitrine, tic-tac dos relogios, o envelope deslizando no vidro.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida"
+      ],
+      "negativos_extra": [
+        "letras ou numeros legiveis no envelope ou nas notas",
+        "texto legivel na tela do celular",
+        "foto da parede em foco",
+        "lucia aceitando o dinheiro",
+        "roupa de um personagem em outro",
+        "ramiro falando"
+      ],
+      "regras_extra": [
+        "RAMIRO nao fala neste clipe."
+      ],
+      "planos": [
+        {
+          "rosto": "RAMIRO: olhos marejados, decidido. Boca fechada.",
+          "corpo": "RAMIRO se levanta do banco, tira de uma gaveta um envelope pardo grosso de dinheiro e empurra sobre o balcao de vidro na direcao de LUCIA.",
+          "camera": "Medium Shot de RAMIRO atras do balcao empurrando o envelope, lente 50mm. Ninguem fala.",
+          "segundos": 1.0
+        },
+        {
+          "quem": "ESTEBAN",
+          "para": "RAMIRO",
+          "fala": "¡¿Estás loco, papá?! Es una estafadora.",
+          "emocao": 10,
+          "intencao": "Explodir de raiva, protegendo o dinheiro.",
+          "voz": "Voz masculina alta, indignada.",
+          "rosto": "ESTEBAN: olhos arregalados de raiva.",
+          "corpo": "ESTEBAN: agarra o braco do pai.",
+          "camera": "Corte seco. Handheld, Medium Close-Up de ESTEBAN SOZINHO no quadro, lente 50mm."
+        },
+        {
+          "quem": "LUCIA",
+          "para": "RAMIRO",
+          "fala": "No quiero limosna. Solo lo justo.",
+          "emocao": 9,
+          "intencao": "Recusar com dignidade, serena.",
+          "voz": "Voz feminina baixa, firme, ofendida mas calma.",
+          "rosto": "LUCIA: queixo erguido, olhar firme em RAMIRO.",
+          "corpo": "LUCIA: empurra o envelope de volta pelo balcao com a ponta dos dedos.",
+          "camera": "Corte seco. Tight close-up of LUCIA SOZINHA no quadro, head and upper shoulders, lente 75mm."
+        },
+        {
+          "quem": "ESTEBAN",
+          "para": "RAMIRO",
+          "fala": "Esta tienda va a ser mía. No de ella.",
+          "emocao": 10,
+          "eyeline": "ESTEBAN se inclina e fala PERTO do ouvido de RAMIRO, olhando de lado para ele. NAO olha para LUCIA.",
+          "intencao": "Ameacar baixinho, mostrando o verdadeiro motivo.",
+          "voz": "Voz masculina BAIXA, quase um sussurro, fria e ameacadora.",
+          "rosto": "ESTEBAN: maxilar travado, olhar frio.",
+          "corpo": "ESTEBAN: aperta o ombro do pai.",
+          "camera": "Corte seco. Slow Push In: tight close-up of ESTEBAN SOZINHO no quadro, head and upper shoulders, luz vermelha do neon no rosto, lente 75mm. O clipe termina neste rosto."
         }
       ]
     }
