@@ -349,3 +349,183 @@ Referências, nesta ordem: 1) FRAME_ESTEBAN; 2) FRAME_LUCIA; 3) FRAME_ANILLO
 **Depois de gerar este clipe, salve os frames:**
 - **FRAME_ROSA_ANILLO:** frame do clipe 2, plano 4 (por volta do segundo 6): o anel de ouro com a rosa gravada entre os dedos de RAMIRO.
 - **FRAME_RAMIRO:** frame do clipe 2, plano 5 (por volta do segundo 9): close de RAMIRO de oculos de leitura, cardiga marrom, olhando a parede, em choque.
+
+## Clipe 3 — O nome: Marisol
+
+clipe 3: 9.5s, 8.5s de fala (19 palavras, 5 planos, falantes: RAMIRO, LUCIA) ✅
+
+Referências, nesta ordem: 1) FRAME_RAMIRO; 2) FRAME_LUCIA; 3) FRAME_ESTEBAN; 4) FRAME_ROSA_ANILLO
+
+```json
+{
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao com contraste: RAMIRO contido, a voz baixa e tremula de quem tem medo da resposta; LUCIA estranhando a pergunta, sincera; ESTEBAN calado, so desconfianca. Rostos muito expressivos. Nenhuma fala neutra.",
+  "input_image": {
+    "required": false,
+    "mode": "Ingredients to Video, sem primeiro frame.",
+    "additional_references": true,
+    "reference_images": [
+      "Imagem 1 — frame do clipe 2, plano 5 (por volta do segundo 9): close de RAMIRO de oculos de leitura, cardiga marrom, olhando a parede, em choque.",
+      "Imagem 2 — frame do clipe 1, plano 3 (por volta do segundo 4): close de LUCIA, cabelo molhado de chuva, jaqueta jeans.",
+      "Imagem 3 — frame do clipe 1, plano 2 (por volta do segundo 2): ESTEBAN atras do balcao segurando o anel, a parede da loja ao fundo com relogios antigos e uma foto antiga emoldurada desfocada.",
+      "Imagem 4 — frame do clipe 2, plano 4 (por volta do segundo 6): o anel de ouro com a rosa gravada entre os dedos de RAMIRO."
+    ],
+    "preserve_exactly": [
+      "RAMIRO: o MESMO rosto da imagem 1, homem de 65 anos, pele morena, cabelo e barba GRISALHOS curtos e bem aparados, rosto serio e marcado, oculos de leitura presos num cordao no pescoco, CARDIGA MARROM de la sobre camisa xadrez bege, calca escura.",
+      "LUCIA: o MESMO rosto da imagem 2, mulher de 28 anos, pele morena, rosto doce e cansado, cabelo PRETO longo preso em rabo de cavalo, MOLHADO de chuva, sem maquiagem, JAQUETA JEANS azul desbotada sobre blusa de la cor MOSTARDA, pequenos brincos de argola prateados.",
+      "ESTEBAN: o MESMO rosto da imagem 3, homem de 35 anos, pele morena clara, cabelo preto penteado para tras com gel, barba por fazer, JAQUETA DE COURO PRETA sobre camiseta BRANCA, corrente de ouro grossa no pescoco, anel de ouro no dedo mindinho, celular na mao.",
+      "A MESMA casa de penhor da imagem 3: balcao de vidro, relogios, a foto antiga na parede (desfocada), chuva la fora.",
+      "RAMIRO continua com o MESMO anel de ouro com a rosa gravada da imagem 4 na mao.",
+      "Atras do balcao ha um banco alto de madeira."
+    ]
+  },
+  "scene": {
+    "title": "EL ANILLO",
+    "duration_seconds": 9.5,
+    "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
+    "structure": "5 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "style": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns e ficticias, textura real de pele. Casa de penhor pequena a noite com chuva: luz quente amarela de uma luminaria sobre o balcao (Practical Lighting), reflexo vermelho de um neon de fora na vitrine molhada, gotas de chuva escorrendo no vidro, Low-key com Eye Light nos closes, Shallow Focus, cortes rapidos.",
+    "setting": "A MESMA casa de penhor, segundos depois de RAMIRO ver a rosa gravada no anel.",
+    "blocking": [
+      "RAMIRO: atras do balcao, de frente para LUCIA, segurando o anel",
+      "LUCIA: do lado de fora do balcao, de frente para RAMIRO",
+      "ESTEBAN: atras do balcao, um passo atras de RAMIRO, a ESQUERDA, mexendo no celular"
+    ],
+    "characters": {
+      "RAMIRO": "O MESMO da imagem 1. Personagem ficticio. Voz masculina grave, rouca e pausada de homem de 65 anos.",
+      "LUCIA": "A MESMA da imagem 2. Personagem ficticia. Voz feminina suave, firme e cansada de mulher de 28 anos.",
+      "ESTEBAN": "O MESMO da imagem 3. Personagem ficticio. Voz masculina debochada e arrogante de homem de 35 anos."
+    }
+  },
+  "timeline": [
+    {
+      "time": "00:00.00-00:02.05",
+      "speaker": "RAMIRO",
+      "dialogue": "¿De dónde sacó este anillo?",
+      "addressee": "LUCIA",
+      "eyeline": "RAMIRO fala PARA LUCIA e olha para LUCIA (do lado de fora do balcao, de frente para RAMIRO), fora do quadro. NAO olha para ESTEBAN.",
+      "emotion_level": 9,
+      "intention": "Perguntar contido, com medo da resposta.",
+      "voice": "Voz masculina grave, baixa, tremula.",
+      "face": "RAMIRO: olhos marejados por tras dos oculos.",
+      "body": "RAMIRO: levanta o anel entre os dedos, mostrando a ela.",
+      "camera": "Tight close-up of RAMIRO SOZINHO no quadro, head and upper shoulders, o anel em primeiro plano desfocado, lente 75mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente RAMIRO movimenta os labios."
+    },
+    {
+      "time": "00:02.05-00:05.21",
+      "speaker": "LUCIA",
+      "dialogue": "Mi mamá lo usó hasta el último día.",
+      "addressee": "RAMIRO",
+      "eyeline": "LUCIA fala PARA RAMIRO e olha para RAMIRO (atras do balcao, de frente para LUCIA, segurando o anel), fora do quadro. NAO olha para ESTEBAN.",
+      "emotion_level": 9,
+      "intention": "Responder com saudade, sem entender a pergunta.",
+      "voice": "Voz feminina suave, embargada no fim.",
+      "face": "LUCIA: testa franzida de estranhamento, depois um sorriso triste.",
+      "body": "LUCIA: toca o proprio dedo onde usava o anel.",
+      "camera": "Corte seco. Tight close-up of LUCIA SOZINHA no quadro, head and upper shoulders, cabelo molhado, lente 75mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente LUCIA movimenta os labios."
+    },
+    {
+      "time": "00:05.21-00:07.27",
+      "speaker": "RAMIRO",
+      "dialogue": "¿Cómo se llamaba su mamá?",
+      "addressee": "LUCIA",
+      "eyeline": "RAMIRO fala PARA LUCIA e olha para LUCIA (do lado de fora do balcao, de frente para RAMIRO), fora do quadro. NAO olha para ESTEBAN.",
+      "emotion_level": 10,
+      "intention": "Fazer a pergunta que vai mudar tudo.",
+      "voice": "Voz masculina grave, quase um sussurro.",
+      "face": "RAMIRO: respiracao presa, olhar fixo nela.",
+      "body": "RAMIRO: apoia a mao livre no balcao para se segurar.",
+      "camera": "Corte seco. Slow Push In: Medium Close-Up de RAMIRO SOZINHO no quadro, lente 50mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente RAMIRO movimenta os labios."
+    },
+    {
+      "time": "00:07.27-00:08.47",
+      "speaker": "LUCIA",
+      "dialogue": "Marisol.",
+      "addressee": "RAMIRO",
+      "eyeline": "LUCIA fala PARA RAMIRO e olha para RAMIRO (atras do balcao, de frente para LUCIA, segurando o anel), fora do quadro. NAO olha para ESTEBAN.",
+      "emotion_level": 10,
+      "intention": "Dizer o nome da mae com carinho.",
+      "voice": "Voz feminina suave e baixa.",
+      "face": "LUCIA: olhar sincero, um leve sorriso triste.",
+      "body": "LUCIA: imovel.",
+      "camera": "Corte seco. Tight close-up of LUCIA SOZINHA no quadro, head and upper shoulders, lente 75mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente LUCIA movimenta os labios."
+    },
+    {
+      "time": "00:08.47-00:09.47",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "RAMIRO: o rosto desaba, os olhos fechados por um instante. ESTEBAN ao fundo: levanta os olhos do celular, desconfiado. Bocas FECHADAS.",
+      "body": "RAMIRO se deixa cair sentado no banco alto atras do balcao, sem forcas, o anel apertado na mao; ESTEBAN em pe atras dele.",
+      "camera": "Corte seco. Medium Shot atras do balcao: RAMIRO sentando pesado em primeiro plano, ESTEBAN ao fundo em foco suave. Ninguem fala. O clipe termina nesta imagem.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    }
+  ],
+  "dialogue_rules": {
+    "language": "Espanol de Mexico, acento mexicano natural, TODAS as palavras em espanhol.",
+    "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
+    "total_dialogue_lines": 4,
+    "exact_order": [
+      "RAMIRO",
+      "LUCIA",
+      "RAMIRO",
+      "LUCIA"
+    ],
+    "rules": [
+      "So existem 4 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "Depois de 8.5 segundos ninguem fala.",
+      "Cada fala e dirigida a: RAMIRO -> LUCIA; LUCIA -> RAMIRO; RAMIRO -> LUCIA; LUCIA -> RAMIRO.",
+      "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
+      "Nao repetir, misturar, traduzir ou acrescentar palavras.",
+      "Cada frase e dita INTEIRA, do comeco ao fim.",
+      "ESTEBAN nao fala neste clipe."
+    ]
+  },
+  "audio": {
+    "single_voice_at_a_time": true,
+    "sound": "Chuva na vitrine, tic-tac dos relogios; depois do nome, so a chuva.",
+    "music": "Nenhuma.",
+    "narration": "Nenhuma.",
+    "subtitles": "Nao gerar."
+  },
+  "negative_prompt": [
+    "letras gravadas no anel",
+    "texto legivel na tela do celular",
+    "foto da parede em foco",
+    "esteban falando",
+    "roupa de um personagem em outro",
+    "texto ou letras em qualquer lugar",
+    "nome ou idade de personagem escrito na tela",
+    "letreiro de apresentacao de personagem (lower third)",
+    "palavra inventada no ultimo plano",
+    "fala repetida",
+    "fala adiantada ou atrasada para outro plano",
+    "personagem falando ou olhando para quem nao e o destinatario da fala",
+    "fala neutra ou monotona",
+    "rosto neutro ou expressao vazia",
+    "voz sem rosto na tela",
+    "tela dividida",
+    "colagem",
+    "formato horizontal",
+    "bordas pretas",
+    "palavras em ingles",
+    "palavras em portugues",
+    "duas vozes simultaneas",
+    "movimento labial do ouvinte",
+    "fala cortada, encurtada ou incompleta",
+    "personagem olhando para a camera",
+    "mudanca de rosto",
+    "mudanca de roupa",
+    "legendas",
+    "logotipo",
+    "marca-d'agua",
+    "trilha sonora"
+  ]
+}
+```
+
+**Depois de gerar este clipe, salve os frames:**
+- **FRAME_LUCIA_MARISOL:** frame do clipe 3, plano 4 (por volta do segundo 8): close de LUCIA dizendo o nome da mae, cabelo molhado.
+- **FRAME_RAMIRO_SENTADO:** frame do clipe 3, plano 5 (por volta do segundo 9): RAMIRO sentado no banco atras do balcao, sem forcas, o anel na mao; ESTEBAN em pe atras dele olhando.

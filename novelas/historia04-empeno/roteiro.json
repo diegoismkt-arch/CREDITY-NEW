@@ -9,7 +9,9 @@
     "FRAME_ESTEBAN": "frame do clipe 1, plano 2 (por volta do segundo 2): ESTEBAN atras do balcao segurando o anel, a parede da loja ao fundo com relogios antigos e uma foto antiga emoldurada desfocada.",
     "FRAME_LUCIA": "frame do clipe 1, plano 3 (por volta do segundo 4): close de LUCIA, cabelo molhado de chuva, jaqueta jeans.",
     "FRAME_RAMIRO": "frame do clipe 2, plano 5 (por volta do segundo 9): close de RAMIRO de oculos de leitura, cardiga marrom, olhando a parede, em choque.",
-    "FRAME_ROSA_ANILLO": "frame do clipe 2, plano 4 (por volta do segundo 6): o anel de ouro com a rosa gravada entre os dedos de RAMIRO."
+    "FRAME_ROSA_ANILLO": "frame do clipe 2, plano 4 (por volta do segundo 6): o anel de ouro com a rosa gravada entre os dedos de RAMIRO.",
+    "FRAME_RAMIRO_SENTADO": "frame do clipe 3, plano 5 (por volta do segundo 9): RAMIRO sentado no banco atras do balcao, sem forcas, o anel na mao; ESTEBAN em pe atras dele olhando.",
+    "FRAME_LUCIA_MARISOL": "frame do clipe 3, plano 4 (por volta do segundo 8): close de LUCIA dizendo o nome da mae, cabelo molhado."
   },
   "personagens": {
     "LUCIA": {
@@ -209,6 +211,103 @@
           "rosto": "RAMIRO: o rosto perde a cor, os olhos marejam por tras dos oculos.",
           "corpo": "RAMIRO: imovel, o anel apertado na mao.",
           "camera": "Corte seco. Slow Push In: tight close-up of RAMIRO SOZINHO no quadro, head and upper shoulders, oculos de leitura, luz quente lateral, lente 75mm. O clipe termina neste rosto."
+        }
+      ]
+    },
+    {
+      "nome": "O nome: Marisol",
+      "atuacao": "Novela dramatica. Atuacao com contraste: RAMIRO contido, a voz baixa e tremula de quem tem medo da resposta; LUCIA estranhando a pergunta, sincera; ESTEBAN calado, so desconfianca. Rostos muito expressivos. Nenhuma fala neutra.",
+      "imagens": [
+        "FRAME_RAMIRO",
+        "FRAME_LUCIA",
+        "FRAME_ESTEBAN",
+        "FRAME_ROSA_ANILLO"
+      ],
+      "salvar_frames": [
+        "FRAME_LUCIA_MARISOL",
+        "FRAME_RAMIRO_SENTADO"
+      ],
+      "personagens": [
+        "RAMIRO",
+        "LUCIA",
+        "ESTEBAN"
+      ],
+      "posicoes": {
+        "RAMIRO": "atras do balcao, de frente para LUCIA, segurando o anel",
+        "LUCIA": "do lado de fora do balcao, de frente para RAMIRO",
+        "ESTEBAN": "atras do balcao, um passo atras de RAMIRO, a ESQUERDA, mexendo no celular"
+      },
+      "preservar_extra": [
+        "A MESMA casa de penhor da imagem FRAME_ESTEBAN: balcao de vidro, relogios, a foto antiga na parede (desfocada), chuva la fora.",
+        "RAMIRO continua com o MESMO anel de ouro com a rosa gravada da imagem FRAME_ROSA_ANILLO na mao.",
+        "Atras do balcao ha um banco alto de madeira."
+      ],
+      "cenario": "A MESMA casa de penhor, segundos depois de RAMIRO ver a rosa gravada no anel.",
+      "som": "Chuva na vitrine, tic-tac dos relogios; depois do nome, so a chuva.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida"
+      ],
+      "negativos_extra": [
+        "letras gravadas no anel",
+        "texto legivel na tela do celular",
+        "foto da parede em foco",
+        "esteban falando",
+        "roupa de um personagem em outro"
+      ],
+      "regras_extra": [
+        "ESTEBAN nao fala neste clipe."
+      ],
+      "planos": [
+        {
+          "quem": "RAMIRO",
+          "para": "LUCIA",
+          "fala": "¿De dónde sacó este anillo?",
+          "emocao": 9,
+          "intencao": "Perguntar contido, com medo da resposta.",
+          "voz": "Voz masculina grave, baixa, tremula.",
+          "rosto": "RAMIRO: olhos marejados por tras dos oculos.",
+          "corpo": "RAMIRO: levanta o anel entre os dedos, mostrando a ela.",
+          "camera": "Tight close-up of RAMIRO SOZINHO no quadro, head and upper shoulders, o anel em primeiro plano desfocado, lente 75mm."
+        },
+        {
+          "quem": "LUCIA",
+          "para": "RAMIRO",
+          "fala": "Mi mamá lo usó hasta el último día.",
+          "emocao": 9,
+          "intencao": "Responder com saudade, sem entender a pergunta.",
+          "voz": "Voz feminina suave, embargada no fim.",
+          "rosto": "LUCIA: testa franzida de estranhamento, depois um sorriso triste.",
+          "corpo": "LUCIA: toca o proprio dedo onde usava o anel.",
+          "camera": "Corte seco. Tight close-up of LUCIA SOZINHA no quadro, head and upper shoulders, cabelo molhado, lente 75mm."
+        },
+        {
+          "quem": "RAMIRO",
+          "para": "LUCIA",
+          "fala": "¿Cómo se llamaba su mamá?",
+          "emocao": 10,
+          "intencao": "Fazer a pergunta que vai mudar tudo.",
+          "voz": "Voz masculina grave, quase um sussurro.",
+          "rosto": "RAMIRO: respiracao presa, olhar fixo nela.",
+          "corpo": "RAMIRO: apoia a mao livre no balcao para se segurar.",
+          "camera": "Corte seco. Slow Push In: Medium Close-Up de RAMIRO SOZINHO no quadro, lente 50mm."
+        },
+        {
+          "quem": "LUCIA",
+          "para": "RAMIRO",
+          "fala": "Marisol.",
+          "emocao": 10,
+          "intencao": "Dizer o nome da mae com carinho.",
+          "voz": "Voz feminina suave e baixa.",
+          "rosto": "LUCIA: olhar sincero, um leve sorriso triste.",
+          "corpo": "LUCIA: imovel.",
+          "camera": "Corte seco. Tight close-up of LUCIA SOZINHA no quadro, head and upper shoulders, lente 75mm."
+        },
+        {
+          "rosto": "RAMIRO: o rosto desaba, os olhos fechados por um instante. ESTEBAN ao fundo: levanta os olhos do celular, desconfiado. Bocas FECHADAS.",
+          "corpo": "RAMIRO se deixa cair sentado no banco alto atras do balcao, sem forcas, o anel apertado na mao; ESTEBAN em pe atras dele.",
+          "camera": "Corte seco. Medium Shot atras do balcao: RAMIRO sentando pesado em primeiro plano, ESTEBAN ao fundo em foco suave. Ninguem fala. O clipe termina nesta imagem.",
+          "segundos": 1.0
         }
       ]
     }
