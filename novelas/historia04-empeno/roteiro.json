@@ -7,7 +7,9 @@
   "imagens": {
     "FRAME_ANILLO": "frame do clipe 1, plano 1 (por volta do segundo 0,5): a mao molhada de LUCIA colocando o anel de ouro com uma pequena rosa gravada sobre o balcao de vidro.",
     "FRAME_ESTEBAN": "frame do clipe 1, plano 2 (por volta do segundo 2): ESTEBAN atras do balcao segurando o anel, a parede da loja ao fundo com relogios antigos e uma foto antiga emoldurada desfocada.",
-    "FRAME_LUCIA": "frame do clipe 1, plano 3 (por volta do segundo 4): close de LUCIA, cabelo molhado de chuva, jaqueta jeans."
+    "FRAME_LUCIA": "frame do clipe 1, plano 3 (por volta do segundo 4): close de LUCIA, cabelo molhado de chuva, jaqueta jeans.",
+    "FRAME_RAMIRO": "frame do clipe 2, plano 5 (por volta do segundo 9): close de RAMIRO de oculos de leitura, cardiga marrom, olhando a parede, em choque.",
+    "FRAME_ROSA_ANILLO": "frame do clipe 2, plano 4 (por volta do segundo 6): o anel de ouro com a rosa gravada entre os dedos de RAMIRO."
   },
   "personagens": {
     "LUCIA": {
@@ -112,6 +114,102 @@
           "rosto": "LUCIA: uma lagrima escorre, mas ela nao baixa o olhar.",
           "corpo": "LUCIA: imovel, as maos ainda no balcao.",
           "camera": "Corte seco. Slow Push In: tight close-up of LUCIA SOZINHA no quadro, head and upper shoulders, lente 75mm. O clipe termina neste rosto."
+        }
+      ]
+    },
+    {
+      "nome": "O velho e a rosa gravada",
+      "atuacao": "Novela dramatica. Atuacao com contraste: RAMIRO serio e seco, depois paralisado por dentro; ESTEBAN irritado e nervoso com a ligacao; LUCIA contida, digna, sem gritar. Rostos muito expressivos. Nenhuma fala neutra.",
+      "imagens": [
+        "FRAME_ESTEBAN",
+        "FRAME_LUCIA",
+        "FRAME_ANILLO"
+      ],
+      "salvar_frames": [
+        "FRAME_ROSA_ANILLO",
+        "FRAME_RAMIRO"
+      ],
+      "personagens": [
+        "RAMIRO",
+        "ESTEBAN",
+        "LUCIA"
+      ],
+      "posicoes": {
+        "RAMIRO": "sai pela cortina dos fundos e para atras do balcao, ao lado de ESTEBAN, a DIREITA dele",
+        "ESTEBAN": "atras do balcao, a ESQUERDA de RAMIRO",
+        "LUCIA": "do lado de fora do balcao, de frente para os dois"
+      },
+      "preservar_extra": [
+        "A MESMA casa de penhor da imagem FRAME_ESTEBAN: balcao de vidro, relogios na parede e a FOTO ANTIGA emoldurada na parede, chuva la fora.",
+        "O MESMO anel de ouro com a pequena rosa gravada da imagem FRAME_ANILLO, sem letras.",
+        "RAMIRO e um personagem NOVO, criado pela descricao. Ele ENTRA no quadro pela cortina dos fundos no plano 1.",
+        "A tela do celular de ESTEBAN fica desfocada, sem nada legivel."
+      ],
+      "cenario": "A MESMA casa de penhor da imagem FRAME_ESTEBAN, segundos depois. O dono, RAMIRO, sai dos fundos da loja.",
+      "som": "Chuva na vitrine, tic-tac dos relogios, o celular vibrando no balcao.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida"
+      ],
+      "negativos_extra": [
+        "letras gravadas no anel",
+        "texto legivel na tela do celular",
+        "foto da parede em foco",
+        "lucia gritando",
+        "isabel",
+        "roupa de um personagem em outro"
+      ],
+      "planos": [
+        {
+          "quem": "RAMIRO",
+          "para": "ESTEBAN",
+          "fala": "Esteban, deja eso.",
+          "emocao": 9,
+          "intencao": "Repreender o filho, seco.",
+          "voz": "Voz masculina grave, rouca e seca.",
+          "rosto": "RAMIRO: olhar serio por cima dos oculos.",
+          "corpo": "RAMIRO: sai pela cortina dos fundos e tira o anel da mao de ESTEBAN.",
+          "camera": "Medium Shot de RAMIRO SOZINHO no quadro saindo pela cortina e chegando ao balcao, lente 50mm."
+        },
+        {
+          "quem": "ESTEBAN",
+          "para": "RAMIRO",
+          "fala": "Papá, yo estaba atendiendo.",
+          "emocao": 9,
+          "intencao": "Reclamar, irritado e nervoso.",
+          "voz": "Voz masculina irritada, apressada.",
+          "rosto": "ESTEBAN: testa franzida, olhar nervoso para o celular.",
+          "corpo": "ESTEBAN: o celular vibra na mao dele e ele recusa a ligacao com o polegar, escondendo a tela.",
+          "camera": "Corte seco. Medium Close-Up de ESTEBAN SOZINHO no quadro, a tela do celular desfocada, lente 50mm."
+        },
+        {
+          "quem": "LUCIA",
+          "para": "RAMIRO",
+          "fala": "No lo venda. Vuelvo en un mes.",
+          "emocao": 9,
+          "intencao": "Pedir com dignidade, sem implorar.",
+          "voz": "Voz feminina baixa e firme.",
+          "rosto": "LUCIA: olhar firme nos olhos de RAMIRO, os olhos ainda molhados.",
+          "corpo": "LUCIA: as maos na beira do balcao.",
+          "camera": "Corte seco. Tight close-up of LUCIA SOZINHA no quadro, head and upper shoulders, cabelo molhado, lente 75mm."
+        },
+        {
+          "rosto": "Sem rostos.",
+          "corpo": "Os dedos grossos de RAMIRO giram o anel de ouro sob a luz da luminaria: a pequena ROSA gravada aparece nitida. O polegar dele treme.",
+          "camera": "Corte seco. Insert shot em escala real, lente macro, Slow Zoom In ate a rosa gravada ocupar o quadro. A rosa fica bem visivel. Ninguem fala.",
+          "segundos": 2.5
+        },
+        {
+          "quem": "RAMIRO",
+          "para": "FOTO",
+          "fala": "No puede ser…",
+          "emocao": 10,
+          "eyeline": "RAMIRO levanta os olhos do anel e olha para a FOTO ANTIGA na parede atras dele, fora do quadro. NAO olha para LUCIA nem para ESTEBAN.",
+          "intencao": "Sussurrar para si mesmo, em choque contido.",
+          "voz": "Voz masculina grave, quase um sussurro, falhando.",
+          "rosto": "RAMIRO: o rosto perde a cor, os olhos marejam por tras dos oculos.",
+          "corpo": "RAMIRO: imovel, o anel apertado na mao.",
+          "camera": "Corte seco. Slow Push In: tight close-up of RAMIRO SOZINHO no quadro, head and upper shoulders, oculos de leitura, luz quente lateral, lente 75mm. O clipe termina neste rosto."
         }
       ]
     }
