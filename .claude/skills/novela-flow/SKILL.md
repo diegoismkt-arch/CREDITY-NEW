@@ -21,6 +21,15 @@ Produz novelas em espanhol (sotaque mexicano) 100% no **Google Flow**, no format
 9. **Filtro do Flow:** nunca mostrar bebês, crianças ou berços, nem escrever "bebê/recém-nascido" no prompt — o Flow recusa ("conteúdo relacionado a menores"). Contar a história com adultos e objetos (ficha, foto de adultos, pulseira).
 10. **Atuação forte, mas com contraste:** `ATUACAO_PRIORIDADE_MAXIMA` e os campos voice/face descrevem emoção clara (voz falhando, lágrimas, desprezo, choque). Nada neutro — mas nem todo mundo grita e chora o tempo todo: contenção (voz baixa, olhar firme, silêncio de 1 s) também é emoção e faz o pico pesar mais.
 
+## Decupagem da conversa (cobertura de câmera) — OBRIGATÓRIO
+Erro do clipe 4 de El Anillo: closes "sozinhos no quadro" em todo plano deixam cada um falando para o nada — o público não vê com quem a pessoa fala, não há troca de câmera de verdade nem reação.
+1. **Plano/contraplano com Over-the-Shoulder (OTS):** fala dirigida a alguém = OTS por cima do ombro do OUVINTE (ombro/nuca desfocados em primeiro plano, rosto do falante nítido). O próximo falante ganha o OTS invertido. Assim cada fala mostra para quem é.
+2. **Direção de tela fixa (regra dos 180°):** definir no clipe quem fica à ESQUERDA e quem à DIREITA do quadro e manter: quem está à esquerda olha para a DIREITA do quadro e vice-versa. Escrever isso no `eyeline` ("olha para a DIREITA do quadro, para X").
+3. **Close de reação:** depois da fala mais forte do clipe, ~0,8 s no rosto de quem OUVIU (boca fechada). Pelo menos 1 por clipe quando couber.
+4. **Variar o tamanho:** abrir com plano médio/dois personagens (situa o espaço), depois OTS, depois close no pico. Nunca 4 closes iguais seguidos.
+5. **Duas pessoas do mesmo lado do balcão** (ex.: pai e filho): para um falar com o outro, plano de perfil dos dois (two-shot de perfil) ou OTS de um sobre o outro — nunca o falante olhando para a lente/frente.
+6. **"SOZINHO no quadro"** só em close de reação ou de choque. Nos planos de fala usar OTS ou two-shot.
+
 ## Construção da história (incorporado do "Prompt Mestre", v2)
 1. **Vínculo com o protagonista nas primeiras 2–3 cenas:** logo depois do gancho, mostrar um gesto concreto de dignidade, cuidado, lealdade ou sacrifício (ex.: ela ajuda alguém mesmo humilhada, protege um objeto, não revida). O público precisa TORCER por ele, não só sentir pena.
 2. **Virada preparada:** planejar o final ANTES do clipe 1. Toda revelação tem 1–2 pistas discretas já mostradas antes; a solução nasce de ações, objetos ou relações estabelecidas — nunca de segredo inventado no último segundo nem de salvador aleatório.

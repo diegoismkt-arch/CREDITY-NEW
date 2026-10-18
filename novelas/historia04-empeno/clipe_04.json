@@ -14,20 +14,21 @@
       "O video COMECA EXATAMENTE na imagem 1: RAMIRO sentado no banco alto atras do balcao com o anel na mao, ESTEBAN em pe atras dele, mesma luz, mesma loja.",
       "LUCIA esta do outro lado do balcao (fora da imagem 1) e aparece no plano 3 com o rosto, cabelo molhado e roupa da descricao.",
       "RAMIRO guarda o anel no bolso do cardiga antes de pegar o envelope.",
-      "O envelope e pardo, grosso, com notas de dinheiro aparecendo na borda, sem letras."
+      "O envelope e pardo, grosso, com notas de dinheiro aparecendo na borda, sem letras.",
+      "ESTEBAN tem 35 anos e barba por fazer PRETA, sem nenhum fio grisalho; so RAMIRO e grisalho."
     ]
   },
   "scene": {
     "title": "EL ANILLO",
-    "duration_seconds": 9.6,
+    "duration_seconds": 9.3,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
     "structure": "4 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
     "style": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns e ficticias, textura real de pele. Casa de penhor pequena a noite com chuva: luz quente amarela de uma luminaria sobre o balcao (Practical Lighting), reflexo vermelho de um neon de fora na vitrine molhada, gotas de chuva escorrendo no vidro, Low-key com Eye Light nos closes, Shallow Focus, cortes rapidos.",
     "setting": "A MESMA casa de penhor, logo depois de LUCIA dizer o nome Marisol.",
     "blocking": [
-      "RAMIRO: atras do balcao, levanta-se do banco, de frente para LUCIA",
-      "ESTEBAN: atras do balcao, colado ao lado ESQUERDO de RAMIRO",
-      "LUCIA: do lado de fora do balcao, de frente para RAMIRO"
+      "LUCIA: do lado de fora do balcao, SEMPRE na ESQUERDA do quadro, olhando para a DIREITA",
+      "RAMIRO: atras do balcao, SEMPRE na DIREITA do quadro, de frente para LUCIA, olhando para a ESQUERDA",
+      "ESTEBAN: atras do balcao, colado atras do ombro direito de RAMIRO, ainda mais a DIREITA do quadro"
     ],
     "characters": {
       "RAMIRO": "O MESMO da imagem 1. Personagem ficticio. Voz masculina grave, rouca e pausada de homem de 65 anos.",
@@ -46,45 +47,45 @@
       "mouths": "Bocas FECHADAS. Ninguem fala."
     },
     {
-      "time": "00:01.20-00:03.62",
+      "time": "00:01.20-00:03.25",
       "speaker": "ESTEBAN",
-      "dialogue": "¡¿Estás loco, papá?! Es una estafadora.",
+      "dialogue": "¿Estás loco? Es una estafadora.",
       "addressee": "RAMIRO",
-      "eyeline": "ESTEBAN fala PARA RAMIRO e olha para RAMIRO (atras do balcao, levanta-se do banco, de frente para LUCIA), fora do quadro. NAO olha para LUCIA.",
+      "eyeline": "ESTEBAN vira o rosto para a ESQUERDA e para baixo, para RAMIRO, que esta na frente dele. NAO olha para LUCIA nem para a camera.",
       "emotion_level": 10,
       "intention": "Explodir de raiva, protegendo o dinheiro.",
       "voice": "Voz masculina alta, indignada.",
       "face": "ESTEBAN: olhos arregalados de raiva.",
       "body": "ESTEBAN: agarra o braco do pai.",
-      "camera": "Corte seco. Handheld, Medium Close-Up de ESTEBAN SOZINHO no quadro, lente 50mm. A fala comeca no primeiro instante do plano.",
+      "camera": "Corte seco. Over-the-Shoulder: o ombro e a nuca grisalha de RAMIRO desfocados em primeiro plano a ESQUERDA do quadro; ESTEBAN nitido atras, inclinado para o pai, Handheld leve, lente 50mm. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente ESTEBAN movimenta os labios."
     },
     {
-      "time": "00:03.62-00:06.04",
+      "time": "00:03.25-00:05.67",
       "speaker": "LUCIA",
       "dialogue": "No quiero limosna. Solo lo justo.",
       "addressee": "RAMIRO",
-      "eyeline": "LUCIA fala PARA RAMIRO e olha para RAMIRO (atras do balcao, levanta-se do banco, de frente para LUCIA), fora do quadro. NAO olha para ESTEBAN.",
+      "eyeline": "LUCIA olha para a DIREITA do quadro, para RAMIRO, cujo ombro esta em primeiro plano. NAO olha para ESTEBAN nem para a camera.",
       "emotion_level": 9,
       "intention": "Recusar com dignidade, serena.",
       "voice": "Voz feminina baixa, firme, ofendida mas calma.",
       "face": "LUCIA: queixo erguido, olhar firme em RAMIRO.",
       "body": "LUCIA: empurra o envelope de volta pelo balcao com a ponta dos dedos.",
-      "camera": "Corte seco. Tight close-up of LUCIA SOZINHA no quadro, head and upper shoulders, lente 75mm. A fala comeca no primeiro instante do plano.",
+      "camera": "Corte seco. Over-the-Shoulder reverso: ombro do cardiga marrom de RAMIRO desfocado em primeiro plano a DIREITA do quadro; LUCIA nitida a ESQUERDA, em close, head and upper shoulders, lente 75mm. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente LUCIA movimenta os labios."
     },
     {
-      "time": "00:06.04-00:09.58",
+      "time": "00:05.67-00:09.21",
       "speaker": "ESTEBAN",
       "dialogue": "Esta tienda va a ser mía. No de ella.",
       "addressee": "RAMIRO",
-      "eyeline": "ESTEBAN se inclina e fala PERTO do ouvido de RAMIRO, olhando de lado para ele. NAO olha para LUCIA.",
+      "eyeline": "ESTEBAN, de perfil, fala com a boca perto do ouvido de RAMIRO, olhando para o pai de lado. RAMIRO, em primeiro plano de perfil, continua olhando para a ESQUERDA, para LUCIA. Ninguem olha para a camera.",
       "emotion_level": 10,
       "intention": "Ameacar baixinho, mostrando o verdadeiro motivo.",
       "voice": "Voz masculina BAIXA, quase um sussurro, fria e ameacadora.",
-      "face": "ESTEBAN: maxilar travado, olhar frio.",
+      "face": "ESTEBAN: maxilar travado, olhar frio. RAMIRO: imovel, boca FECHADA, olhos marejados.",
       "body": "ESTEBAN: aperta o ombro do pai.",
-      "camera": "Corte seco. Slow Push In: tight close-up of ESTEBAN SOZINHO no quadro, head and upper shoulders, luz vermelha do neon no rosto, lente 75mm. O clipe termina neste rosto. A fala comeca no primeiro instante do plano.",
+      "camera": "Corte seco. Two-shot de perfil bem fechado: RAMIRO em primeiro plano, de perfil, olhando para a ESQUERDA (para LUCIA), ESTEBAN logo atras sussurrando no ouvido dele, os dois rostos no quadro, luz vermelha do neon, Slow Push In, lente 75mm. O clipe termina nesta imagem. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente ESTEBAN movimenta os labios."
     }
   ],
@@ -121,6 +122,9 @@
     "lucia aceitando o dinheiro",
     "roupa de um personagem em outro",
     "ramiro falando",
+    "esteban com barba grisalha",
+    "esteban parecido com ramiro",
+    "personagem falando de frente para a camera",
     "texto ou letras em qualquer lugar",
     "nome ou idade de personagem escrito na tela",
     "letreiro de apresentacao de personagem (lower third)",
