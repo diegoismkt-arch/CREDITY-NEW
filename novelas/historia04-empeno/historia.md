@@ -13,4 +13,4 @@ Pistas plantadas: (1) foto antiga na parede atrás do balcão, de uma jovem com 
 4. O dinheiro — Ramiro oferece um envelope de dinheiro; Esteban explode; Lucía recusa ("Solo lo justo"); Esteban: a loja vai ser dele.
 5. A foto — Ramiro tira a foto da parede: a jovem com o mesmo anel. "Ese anillo… se lo di yo."
 6. Vinte e oito anos — "Se fue hace veintinueve años." "Yo cumplí veintiocho." "Entonces… eres mi hija." Ela segura a mão dele.
-7. A ligação — Esteban sai na chuva e liga: "Mamá… la encontró. … Y no sabe lo que tú le hiciste a su madre." FIM + Comenta PARTE 2.
+7. A ligação (versão escolhida pelo usuário) — Esteban sai na chuva e liga: "Mamá… la encontró. Es la hija de Marisol." Close do celular na chuva (sem rosto), voz feminina fria da mãe: "Entonces haz lo mismo que hice con su madre." Esteban olha pela vitrine molhada para Lucía e Ramiro de mãos dadas, frio e decidido. FIM + Comenta PARTE 2.
