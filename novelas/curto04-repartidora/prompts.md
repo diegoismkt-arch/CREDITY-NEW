@@ -192,7 +192,7 @@ Referências, nesta ordem: 1) FRAME_ANA; 2) FRAME_BEATRIZ
       "ERNESTO: homem rico de 55 anos, pele morena clara, cabelo preto com as temporas GRISALHAS, barba feita, CAMISA SOCIAL AZUL-CLARA com as mangas dobradas, relogio de ouro, calca social cinza.",
       "BEATRIZ: o MESMO rosto da imagem 2, mulher rica de 50 anos, pele clara, cabelo castanho-claro liso com escova perfeita na altura dos ombros, maquiagem impecavel, batom nude, CONJUNTO DE SEDA CHAMPANHE de calca e blusa, brincos de diamante, TACA DE VINHO TINTO na mao.",
       "ANA: o MESMO rosto da imagem 1, mulher de 24 anos, pele morena, rosto doce e firme, cabelo CASTANHO-ESCURO preso em rabo de cavalo, ENCHARCADO de chuva, sem maquiagem, JAQUETA corta-vento VERMELHA de entregadora com capuz, mochila termica PRETA quadrada nas costas, calca jeans escura.",
-      "A MESMA porta de mansao a noite com chuva forte, hall iluminado por dentro, das imagens FRAME_ANA e FRAME_BEATRIZ.",
+      "A MESMA porta de mansao a noite com chuva forte, hall iluminado por dentro, da imagem 1 e da imagem 2.",
       "ERNESTO e um personagem NOVO, criado pela descricao.",
       "Nenhum letreiro, placa ou letra na casa, na sacola ou nas roupas."
     ]
