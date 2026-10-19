@@ -1,6 +1,6 @@
 {
-  "titulo_post": "",
-  "legenda": "",
+  "titulo_post": "Le tiró la comida al suelo a la repartidora… sin saber quién era ella 😱",
+  "legenda": "Una señora rica humilló a una repartidora bajo la lluvia… hasta que su esposo abrió la puerta 😳\n\n¿Por qué él nunca habló de ella?\n¿Qué hará la esposa ahora? 👇\n\nComenta PARTE 2.\n\n#historias #novela #drama #reflexiones #lahistoriaprincipal",
   "texto_final": "Comenta PARTE 2 👇",
   "titulo_interno": "LA REPARTIDORA",
   "estilo": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns e ficticias, textura real de pele. Porta de entrada de uma mansao moderna a noite com chuva forte: luz quente amarela vindo do hall de dentro, chuva fria azulada do lado de fora, gotas brilhando no contraluz, piso de pedra molhado. Low-key com Eye Light nos closes, Shallow Focus, cortes rapidos.",
@@ -118,6 +118,108 @@
           "corpo": "As maos molhadas de ANA recolhem com cuidado a comida espalhada no piso de pedra e devolvem para a sacola; gotas de chuva caindo.",
           "camera": "Corte seco. Insert em escala real ao nivel do chao: so as maos de ANA e a sacola no piso molhado, a luz quente da porta no fundo. Nenhum rosto no quadro. O clipe termina nesta imagem.",
           "bocas": "NENHUM rosto no quadro: a voz vem de dentro da casa."
+        }
+      ]
+    },
+    {
+      "nome": "'Hola, papá' + CTA",
+      "atuacao": "Novela dramatica. Atuacao FORTE: ERNESTO paralisado, palido, culpado; BEATRIZ desconfiada e depois em CHOQUE; ANA firme e magoada, com dignidade. No ultimo plano ANA olha para a lente e chama para a Parte 2. Rostos muito expressivos. Nenhum momento parado.",
+      "imagens": [
+        "FRAME_ANA",
+        "FRAME_BEATRIZ"
+      ],
+      "personagens": [
+        "ERNESTO",
+        "BEATRIZ",
+        "ANA"
+      ],
+      "posicoes": {
+        "ANA": "do lado de FORA, na chuva, SEMPRE na ESQUERDA do quadro, olhando para a DIREITA; levanta-se do chao com a sacola",
+        "BEATRIZ": "na porta, SEMPRE na DIREITA do quadro, na frente",
+        "ERNESTO": "aparece atras de BEATRIZ, na porta, ainda mais a DIREITA, olhando para a ESQUERDA para ANA"
+      },
+      "preservar_extra": [
+        "A MESMA porta de mansao a noite com chuva forte, hall iluminado por dentro, das imagens FRAME_ANA e FRAME_BEATRIZ.",
+        "ERNESTO e um personagem NOVO, criado pela descricao.",
+        "Nenhum letreiro, placa ou letra na casa, na sacola ou nas roupas."
+      ],
+      "cenario": "A MESMA porta da mansao, segundos depois: ERNESTO chega a porta atras da esposa enquanto ANA esta recolhendo a comida do chao.",
+      "som": "Chuva forte; a taca de vinho se espatifando no piso; no CTA, so a chuva.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida"
+      ],
+      "negativos_extra": [
+        "letras ou logotipos",
+        "letreiro com letras",
+        "ana chorando ou gritando",
+        "roupa de um personagem em outro",
+        "momento parado sem fala",
+        "personagem olhando para a camera antes do ultimo plano"
+      ],
+      "regras_extra": [
+        "SOMENTE no ultimo plano ANA olha direto para a lente; antes disso ninguem olha para a camera."
+      ],
+      "planos": [
+        {
+          "quem": "ERNESTO",
+          "para": "ANA",
+          "fala": "¿Ana…? ¿Qué haces aquí?",
+          "emocao": 10,
+          "eyeline": "ERNESTO olha para a ESQUERDA do quadro, para baixo, para ANA na chuva. NAO olha para a camera.",
+          "intencao": "Reconhecer a filha escondida, em panico.",
+          "voz": "Voz masculina grave, baixa, sem ar, assustada.",
+          "rosto": "ERNESTO: a cor some do rosto, olhos arregalados.",
+          "corpo": "ERNESTO chega a porta atras de BEATRIZ e congela.",
+          "camera": "Over-the-Shoulder: o ombro e o capuz molhados da jaqueta vermelha de ANA desfocados em primeiro plano a ESQUERDA; na porta iluminada, BEATRIZ de costas desfocada e ERNESTO nitido atras dela, lente 50mm."
+        },
+        {
+          "quem": "BEATRIZ",
+          "para": "ERNESTO",
+          "fala": "¿La conoces?",
+          "emocao": 9,
+          "eyeline": "BEATRIZ vira o rosto para a DIREITA e para tras, para ERNESTO. NAO olha para ANA nem para a camera.",
+          "intencao": "Desconfiar do marido.",
+          "voz": "Voz feminina fria, baixa e desconfiada.",
+          "rosto": "BEATRIZ: sobrancelha erguida, olhar desconfiado.",
+          "corpo": "BEATRIZ se vira para o marido, a taca na mao.",
+          "camera": "Corte seco. Two-shot de perfil na porta: BEATRIZ em primeiro plano virada para ERNESTO, ERNESTO atras, palido, lente 50mm."
+        },
+        {
+          "quem": "ANA",
+          "para": "ERNESTO",
+          "fala": "Hola, papá.",
+          "emocao": 10,
+          "eyeline": "ANA, ja de pe, olha para a DIREITA do quadro, para cima, direto para ERNESTO. NAO olha para BEATRIZ nem para a camera.",
+          "intencao": "Revelar com dignidade e magoa.",
+          "voz": "Voz feminina baixa, firme, com dor contida.",
+          "rosto": "ANA: olhar firme, os olhos marejados, a chuva escorrendo.",
+          "corpo": "ANA se levanta com a sacola de comida na mao.",
+          "camera": "Corte seco. Tight close-up de ANA, head and upper shoulders, na chuva, contraluz da porta, Slow Push In, lente 75mm."
+        },
+        {
+          "rosto": "BEATRIZ: CHOQUE total, boca aberta, olhos arregalados. Boca sem falar.",
+          "corpo": "A taca de vinho escorrega da mao de BEATRIZ e se espatifa no piso.",
+          "camera": "Corte seco. Crash Zoom In ate tight close-up de BEATRIZ, a taca caindo na borda do quadro. Ninguem fala.",
+          "segundos": 0.8
+        },
+        {
+          "rosto": "ERNESTO: palido, culpado, sem conseguir falar. Boca FECHADA.",
+          "corpo": "ERNESTO: imovel na porta.",
+          "camera": "Corte seco. Reaction shot: tight close-up de ERNESTO, olhando para a ESQUERDA, para ANA, lente 75mm. Ninguem fala.",
+          "segundos": 0.7
+        },
+        {
+          "quem": "ANA",
+          "para": "CAMERA",
+          "fala": "¿Quieres saber qué pasó? Comenta parte dos.",
+          "emocao": 9,
+          "olha_para_camera": true,
+          "intencao": "Quebrar a quarta parede e chamar para a Parte 2.",
+          "voz": "Voz feminina baixa, firme e misteriosa.",
+          "rosto": "ANA: vira o rosto devagar e olha DIRETO para a lente, olhar serio e misterioso, a chuva no rosto.",
+          "corpo": "ANA: imovel, a sacola na mao.",
+          "camera": "Corte seco. Extreme close-up de ANA, olhando direto para a lente, chuva caindo, Slow Push In, lente 85mm. O video termina neste rosto."
         }
       ]
     }

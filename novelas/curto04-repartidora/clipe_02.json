@@ -1,0 +1,174 @@
+{
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao FORTE: ERNESTO paralisado, palido, culpado; BEATRIZ desconfiada e depois em CHOQUE; ANA firme e magoada, com dignidade. No ultimo plano ANA olha para a lente e chama para a Parte 2. Rostos muito expressivos. Nenhum momento parado.",
+  "input_image": {
+    "required": false,
+    "mode": "Ingredients to Video, sem primeiro frame.",
+    "additional_references": true,
+    "reference_images": [
+      "Imagem 1 — frame do clipe 1, plano 2 (por volta do segundo 3,8): ANA encharcada de chuva, jaqueta vermelha de entregadora, por cima do ombro de BEATRIZ.",
+      "Imagem 2 — frame do clipe 1, plano 3 (por volta do segundo 5,8): close de BEATRIZ na porta, taca de vinho na mao, hall iluminado atras."
+    ],
+    "preserve_exactly": [
+      "ERNESTO: homem rico de 55 anos, pele morena clara, cabelo preto com as temporas GRISALHAS, barba feita, CAMISA SOCIAL AZUL-CLARA com as mangas dobradas, relogio de ouro, calca social cinza.",
+      "BEATRIZ: o MESMO rosto da imagem 2, mulher rica de 50 anos, pele clara, cabelo castanho-claro liso com escova perfeita na altura dos ombros, maquiagem impecavel, batom nude, CONJUNTO DE SEDA CHAMPANHE de calca e blusa, brincos de diamante, TACA DE VINHO TINTO na mao.",
+      "ANA: o MESMO rosto da imagem 1, mulher de 24 anos, pele morena, rosto doce e firme, cabelo CASTANHO-ESCURO preso em rabo de cavalo, ENCHARCADO de chuva, sem maquiagem, JAQUETA corta-vento VERMELHA de entregadora com capuz, mochila termica PRETA quadrada nas costas, calca jeans escura.",
+      "A MESMA porta de mansao a noite com chuva forte, hall iluminado por dentro, das imagens FRAME_ANA e FRAME_BEATRIZ.",
+      "ERNESTO e um personagem NOVO, criado pela descricao.",
+      "Nenhum letreiro, placa ou letra na casa, na sacola ou nas roupas."
+    ]
+  },
+  "scene": {
+    "title": "LA REPARTIDORA",
+    "duration_seconds": 8.4,
+    "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
+    "structure": "6 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "style": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns e ficticias, textura real de pele. Porta de entrada de uma mansao moderna a noite com chuva forte: luz quente amarela vindo do hall de dentro, chuva fria azulada do lado de fora, gotas brilhando no contraluz, piso de pedra molhado. Low-key com Eye Light nos closes, Shallow Focus, cortes rapidos.",
+    "setting": "A MESMA porta da mansao, segundos depois: ERNESTO chega a porta atras da esposa enquanto ANA esta recolhendo a comida do chao.",
+    "blocking": [
+      "ANA: do lado de FORA, na chuva, SEMPRE na ESQUERDA do quadro, olhando para a DIREITA; levanta-se do chao com a sacola",
+      "BEATRIZ: na porta, SEMPRE na DIREITA do quadro, na frente",
+      "ERNESTO: aparece atras de BEATRIZ, na porta, ainda mais a DIREITA, olhando para a ESQUERDA para ANA"
+    ],
+    "characters": {
+      "ERNESTO": "homem rico de 55 anos, pele morena clara, cabelo preto com as temporas GRISALHAS, barba feita, CAMISA SOCIAL AZUL-CLARA com as mangas dobradas, relogio de ouro, calca social cinza. Personagem ficticio. Voz masculina grave e educada de homem de 55 anos.",
+      "BEATRIZ": "A MESMA da imagem 2. Personagem ficticia. Voz feminina fria, esnobe e cortante de mulher de 50 anos.",
+      "ANA": "A MESMA da imagem 1. Personagem ficticia. Voz feminina suave, firme e cansada de mulher de 24 anos."
+    }
+  },
+  "timeline": [
+    {
+      "time": "00:00.00-00:01.68",
+      "speaker": "ERNESTO",
+      "dialogue": "¿Ana…? ¿Qué haces aquí?",
+      "addressee": "ANA",
+      "eyeline": "ERNESTO olha para a ESQUERDA do quadro, para baixo, para ANA na chuva. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Reconhecer a filha escondida, em panico.",
+      "voice": "Voz masculina grave, baixa, sem ar, assustada.",
+      "face": "ERNESTO: a cor some do rosto, olhos arregalados.",
+      "body": "ERNESTO chega a porta atras de BEATRIZ e congela.",
+      "camera": "Over-the-Shoulder: o ombro e o capuz molhados da jaqueta vermelha de ANA desfocados em primeiro plano a ESQUERDA; na porta iluminada, BEATRIZ de costas desfocada e ERNESTO nitido atras dela, lente 50mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente ERNESTO movimenta os labios."
+    },
+    {
+      "time": "00:01.68-00:02.88",
+      "speaker": "BEATRIZ",
+      "dialogue": "¿La conoces?",
+      "addressee": "ERNESTO",
+      "eyeline": "BEATRIZ vira o rosto para a DIREITA e para tras, para ERNESTO. NAO olha para ANA nem para a camera.",
+      "emotion_level": 9,
+      "intention": "Desconfiar do marido.",
+      "voice": "Voz feminina fria, baixa e desconfiada.",
+      "face": "BEATRIZ: sobrancelha erguida, olhar desconfiado.",
+      "body": "BEATRIZ se vira para o marido, a taca na mao.",
+      "camera": "Corte seco. Two-shot de perfil na porta: BEATRIZ em primeiro plano virada para ERNESTO, ERNESTO atras, palido, lente 50mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente BEATRIZ movimenta os labios."
+    },
+    {
+      "time": "00:02.88-00:04.08",
+      "speaker": "ANA",
+      "dialogue": "Hola, papá.",
+      "addressee": "ERNESTO",
+      "eyeline": "ANA, ja de pe, olha para a DIREITA do quadro, para cima, direto para ERNESTO. NAO olha para BEATRIZ nem para a camera.",
+      "emotion_level": 10,
+      "intention": "Revelar com dignidade e magoa.",
+      "voice": "Voz feminina baixa, firme, com dor contida.",
+      "face": "ANA: olhar firme, os olhos marejados, a chuva escorrendo.",
+      "body": "ANA se levanta com a sacola de comida na mao.",
+      "camera": "Corte seco. Tight close-up de ANA, head and upper shoulders, na chuva, contraluz da porta, Slow Push In, lente 75mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente ANA movimenta os labios."
+    },
+    {
+      "time": "00:04.08-00:04.88",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "BEATRIZ: CHOQUE total, boca aberta, olhos arregalados. Boca sem falar.",
+      "body": "A taca de vinho escorrega da mao de BEATRIZ e se espatifa no piso.",
+      "camera": "Corte seco. Crash Zoom In ate tight close-up de BEATRIZ, a taca caindo na borda do quadro. Ninguem fala.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    },
+    {
+      "time": "00:04.88-00:05.58",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "ERNESTO: palido, culpado, sem conseguir falar. Boca FECHADA.",
+      "body": "ERNESTO: imovel na porta.",
+      "camera": "Corte seco. Reaction shot: tight close-up de ERNESTO, olhando para a ESQUERDA, para ANA, lente 75mm. Ninguem fala.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    },
+    {
+      "time": "00:05.58-00:08.37",
+      "speaker": "ANA",
+      "dialogue": "¿Quieres saber qué pasó? Comenta parte dos.",
+      "addressee": "CAMERA",
+      "eyeline": "ANA olha DIRETO para a lente.",
+      "emotion_level": 9,
+      "intention": "Quebrar a quarta parede e chamar para a Parte 2.",
+      "voice": "Voz feminina baixa, firme e misteriosa.",
+      "face": "ANA: vira o rosto devagar e olha DIRETO para a lente, olhar serio e misterioso, a chuva no rosto.",
+      "body": "ANA: imovel, a sacola na mao.",
+      "camera": "Corte seco. Extreme close-up de ANA, olhando direto para a lente, chuva caindo, Slow Push In, lente 85mm. O video termina neste rosto. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente ANA movimenta os labios. Olha DIRETO para a lente, quebrando a quarta parede."
+    }
+  ],
+  "dialogue_rules": {
+    "language": "Espanol de Mexico, acento mexicano natural, TODAS as palavras em espanhol.",
+    "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
+    "total_dialogue_lines": 4,
+    "exact_order": [
+      "ERNESTO",
+      "BEATRIZ",
+      "ANA",
+      "ANA"
+    ],
+    "rules": [
+      "So existem 4 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "A ultima fala termina junto com o video.",
+      "Cada fala e dirigida a: ERNESTO -> ANA; BEATRIZ -> ERNESTO; ANA -> ERNESTO; ANA -> CAMERA.",
+      "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
+      "Nao repetir, misturar, traduzir ou acrescentar palavras.",
+      "Cada frase e dita INTEIRA, do comeco ao fim.",
+      "SOMENTE no ultimo plano ANA olha direto para a lente; antes disso ninguem olha para a camera."
+    ]
+  },
+  "audio": {
+    "single_voice_at_a_time": true,
+    "sound": "Chuva forte; a taca de vinho se espatifando no piso; no CTA, so a chuva.",
+    "music": "Nenhuma.",
+    "narration": "Nenhuma.",
+    "subtitles": "Nao gerar."
+  },
+  "negative_prompt": [
+    "letras ou logotipos",
+    "letreiro com letras",
+    "ana chorando ou gritando",
+    "roupa de um personagem em outro",
+    "momento parado sem fala",
+    "personagem olhando para a camera antes do ultimo plano",
+    "texto ou letras em qualquer lugar",
+    "nome ou idade de personagem escrito na tela",
+    "letreiro de apresentacao de personagem (lower third)",
+    "palavra inventada no ultimo plano",
+    "fala repetida",
+    "fala adiantada ou atrasada para outro plano",
+    "personagem falando ou olhando para quem nao e o destinatario da fala",
+    "fala neutra ou monotona",
+    "rosto neutro ou expressao vazia",
+    "voz sem rosto na tela",
+    "tela dividida",
+    "colagem",
+    "formato horizontal",
+    "bordas pretas",
+    "palavras em ingles",
+    "palavras em portugues",
+    "duas vozes simultaneas",
+    "movimento labial do ouvinte",
+    "fala cortada, encurtada ou incompleta",
+    "mudanca de rosto",
+    "mudanca de roupa",
+    "legendas",
+    "logotipo",
+    "marca-d'agua",
+    "trilha sonora"
+  ]
+}
