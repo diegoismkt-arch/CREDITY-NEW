@@ -81,11 +81,11 @@
         {
           "quem": "VOZ DE HOMEM (no celular)",
           "para": "RENATA",
-          "fala": "Sé lo que hiciste, Renata.",
+          "fala": "Sé lo que le pusiste a mi café, Renata.",
           "emocao": 10,
           "eyeline": "Ninguem visivel fala. A voz masculina sai do alto-falante do celular.",
           "intencao": "Ameacar, frio, como quem sabe de tudo.",
-          "voz": "Voz masculina grave, calma, gelada, um pouco abafada pelo alto-falante do celular.",
+          "voz": "Voz masculina grave e madura de homem de 55 anos, calma, gelada, um pouco abafada pelo alto-falante do celular.",
           "rosto": "Sem rostos no quadro.",
           "corpo": "A mao de RENATA, com unhas vermelho-escuras, segura o celular vibrando; a tela acesa mostra so uma onda de audio tocando, sem nenhuma letra.",
           "camera": "Corte seco. Insert em escala real: so a mao de RENATA e o celular, a luz da tela no rosto fora de foco, a rosa vermelha no caixao ao fundo. Nenhum rosto no quadro.",
@@ -94,12 +94,12 @@
         {
           "quem": "RENATA",
           "para": "CELULAR",
-          "fala": "No… no puede ser.",
+          "fala": "No… no puede ser… ¿Rodolfo?",
           "emocao": 10,
           "eyeline": "RENATA olha para BAIXO, para o celular na mao, depois para o caixao. NAO olha para a camera.",
-          "intencao": "Choque e terror.",
+          "intencao": "Reconhecer a voz do marido morto, em choque e terror.",
           "voz": "Voz feminina quase sem ar, tremula, falhando.",
-          "rosto": "RENATA: o sorriso some, rosto palido, olhos arregalados, labios tremendo.",
+          "rosto": "RENATA: o sorriso some, rosto palido, olhos arregalados, labios tremendo; no '¿Rodolfo?' olha devagar para o caixao.",
           "corpo": "RENATA: da um passo para tras, a mao no peito.",
           "camera": "Corte seco. Tight close-up de RENATA, head and upper shoulders, luz das velas no rosto, lente 75mm."
         },
@@ -107,7 +107,7 @@
           "rosto": "RENATA de costas, em silhueta. O homem de chapeu sem rosto visivel.",
           "corpo": "No fundo escuro da sala, junto a porta entreaberta, um homem alto de terno preto e chapeu preto esta parado olhando para RENATA; o rosto na sombra, so o BIGODE GRISALHO aparece num fio de luz, igual ao do retrato. Ele vira e sai pela porta.",
           "camera": "Corte seco. Over-the-Shoulder: ombro e veu de RENATA desfocados em primeiro plano a ESQUERDA; ao fundo, nitido, o homem de chapeu na porta, lente 50mm, Rack Focus para ele. Ninguem fala. O video termina com a porta se fechando.",
-          "segundos": 1.4,
+          "segundos": 1.6,
           "bocas": "Bocas FECHADAS. Ninguem fala."
         }
       ]

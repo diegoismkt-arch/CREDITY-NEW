@@ -13,7 +13,7 @@ Pero alguien sabe lo que hizo.
 
 ## Clipe 1 — O velorio e a mensagem
 
-clipe 1: 7.9s, 6.5s de fala (16 palavras, 4 planos, falantes: RENATA, VOZ DE HOMEM (no celular)) ✅
+clipe 1: 10.0s, 8.4s de fala (21 palavras, 4 planos, falantes: RENATA, VOZ DE HOMEM (no celular)) ✅
 
 Sem imagem de referência (Text to Video).
 
@@ -31,7 +31,7 @@ Sem imagem de referência (Text to Video).
   ],
   "scene": {
     "title": "EL MENSAJE",
-    "duration_seconds": 8.0,
+    "duration_seconds": 10.0,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
     "structure": "4 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
     "style": "Suspense dramatico de novela, cinematografico. Fotografia hiper-realista, pessoas comuns e ficticias, textura real de pele. Velorio mexicano a noite numa sala de velorio: luz quente e baixa de velas, lirios brancos, caixao de madeira escura fechado, sombras profundas nos cantos. Low-key com Eye Light nos closes, Shallow Focus, cortes rapidos.",
@@ -61,35 +61,35 @@ Sem imagem de referência (Text to Video).
       "mouths": "Somente RENATA movimenta os labios."
     },
     {
-      "time": "00:02.79-00:04.84",
+      "time": "00:02.79-00:06.33",
       "speaker": "VOZ DE HOMEM (no celular)",
-      "dialogue": "Sé lo que hiciste, Renata.",
+      "dialogue": "Sé lo que le pusiste a mi café, Renata.",
       "addressee": "RENATA",
       "eyeline": "Ninguem visivel fala. A voz masculina sai do alto-falante do celular.",
       "emotion_level": 10,
       "intention": "Ameacar, frio, como quem sabe de tudo.",
-      "voice": "Voz masculina grave, calma, gelada, um pouco abafada pelo alto-falante do celular.",
+      "voice": "Voz masculina grave e madura de homem de 55 anos, calma, gelada, um pouco abafada pelo alto-falante do celular.",
       "face": "Sem rostos no quadro.",
       "body": "A mao de RENATA, com unhas vermelho-escuras, segura o celular vibrando; a tela acesa mostra so uma onda de audio tocando, sem nenhuma letra.",
       "camera": "Corte seco. Insert em escala real: so a mao de RENATA e o celular, a luz da tela no rosto fora de foco, a rosa vermelha no caixao ao fundo. Nenhum rosto no quadro. A fala comeca no primeiro instante do plano.",
       "mouths": "NENHUM rosto no quadro: a voz sai do celular."
     },
     {
-      "time": "00:04.84-00:06.53",
+      "time": "00:06.33-00:08.38",
       "speaker": "RENATA",
-      "dialogue": "No… no puede ser.",
+      "dialogue": "No… no puede ser… ¿Rodolfo?",
       "addressee": "CELULAR",
       "eyeline": "RENATA olha para BAIXO, para o celular na mao, depois para o caixao. NAO olha para a camera.",
       "emotion_level": 10,
-      "intention": "Choque e terror.",
+      "intention": "Reconhecer a voz do marido morto, em choque e terror.",
       "voice": "Voz feminina quase sem ar, tremula, falhando.",
-      "face": "RENATA: o sorriso some, rosto palido, olhos arregalados, labios tremendo.",
+      "face": "RENATA: o sorriso some, rosto palido, olhos arregalados, labios tremendo; no '¿Rodolfo?' olha devagar para o caixao.",
       "body": "RENATA: da um passo para tras, a mao no peito.",
       "camera": "Corte seco. Tight close-up de RENATA, head and upper shoulders, luz das velas no rosto, lente 75mm. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente RENATA movimenta os labios."
     },
     {
-      "time": "00:06.53-00:07.93",
+      "time": "00:08.38-00:09.98",
       "speaker": "NONE",
       "dialogue": null,
       "face": "RENATA de costas, em silhueta. O homem de chapeu sem rosto visivel.",
@@ -109,7 +109,7 @@ Sem imagem de referência (Text to Video).
     ],
     "rules": [
       "So existem 3 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
-      "Depois de 6.5 segundos ninguem fala.",
+      "Depois de 8.4 segundos ninguem fala.",
       "Cada fala e dirigida a: RENATA -> CAIXAO; VOZ DE HOMEM (no celular) -> RENATA; RENATA -> CELULAR.",
       "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
       "Nao repetir, misturar, traduzir ou acrescentar palavras.",
