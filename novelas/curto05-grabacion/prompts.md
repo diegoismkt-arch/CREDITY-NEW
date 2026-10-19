@@ -1,6 +1,15 @@
-# 
+# La señora de la limpieza escuchó al hijo del jefe planear algo terrible… y lo grabó todo 😱
 
-**Legenda:** 
+**Legenda:** Nadie se fija en la señora de la limpieza… por eso él habló sin miedo 😳
+
+Pero ella lo grabó todo. Y él ya lo sabe.
+
+¿Alcanzó a enviar el mensaje?
+¿Qué le hará Mauricio ahora? 👇
+
+Comenta PARTE 2.
+
+#historias #novela #drama #suspenso #reflexiones #lahistoriaprincipal
 
 **Texto na edição (final):** Comenta PARTE 2 👇
 
