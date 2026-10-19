@@ -123,6 +123,96 @@
           "segundos": 1.0
         }
       ]
+    },
+    {
+      "nome": "O elevador + CTA",
+      "atuacao": "Thriller de novela. Atuacao FORTE com contraste: CHELA sussurrando apavorada, a voz falhando, depois em CHOQUE; MAURICIO calmo, sorriso gelado, sem gritar. No ultimo plano CHELA olha para a lente e chama para a Parte 2. Rostos muito expressivos. Nenhum momento parado.",
+      "imagens": [
+        "FRAME_CHELA",
+        "FRAME_MAURICIO"
+      ],
+      "personagens": [
+        "CHELA",
+        "MAURICIO"
+      ],
+      "descricoes": {
+        "CHELA": "faxineira de 58 anos, pele morena, rosto cansado e bondoso, rugas, cabelo GRISALHO preso em coque com redinha, UNIFORME CINZA de manga curta, AVENTAL AZUL-MARINHO com bolso na frente, celular simples na mao."
+      },
+      "posicoes": {
+        "CHELA": "DENTRO do elevador, SEMPRE na ESQUERDA do quadro, olhando para a DIREITA, para as portas",
+        "MAURICIO": "do lado de FORA, parado na frente das portas do elevador quando elas abrem, SEMPRE na DIREITA do quadro, olhando para a ESQUERDA"
+      },
+      "preservar_extra": [
+        "A MESMA CHELA da imagem FRAME_CHELA e o MESMO MAURICIO da imagem FRAME_MAURICIO, com as mesmas roupas.",
+        "Elevador de luxo: paredes de aco escovado, luz fria de cima; fora das portas, o corredor escuro do mesmo escritorio a noite.",
+        "O cracha de CHELA: cartao de plastico branco com uma FOTO pequena do rosto dela, SEM nenhuma letra ou numero, preso numa fita azul.",
+        "Nenhum letreiro, numero de andar, botao com numero, logotipo ou letra no elevador, nas roupas ou nas telas."
+      ],
+      "cenario": "Minutos depois, no elevador do mesmo predio. CHELA esta sozinha descendo e grava uma mensagem de voz escondida. As portas abrem e MAURICIO ja esta esperando por ela, com o cracha que ela deixou cair.",
+      "som": "Zumbido do elevador descendo, o 'ding' das portas, as portas deslizando; no CTA, so o zumbido baixo.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida"
+      ],
+      "negativos_extra": [
+        "numeros de andar ou letras no painel do elevador",
+        "letras ou numeros no cracha ou na tela do celular",
+        "outras pessoas",
+        "mauricio gritando",
+        "roupa de um personagem em outro",
+        "momento parado sem fala",
+        "personagem olhando para a camera antes do ultimo plano",
+        "fala de um plano repetida no plano seguinte"
+      ],
+      "regras_extra": [
+        "SOMENTE no ultimo plano CHELA olha direto para a lente; antes disso ninguem olha para a camera.",
+        "No ultimo plano CHELA diz SOMENTE '¿Quieres saber qué pasó? Comenta parte dos.' e nada mais: NAO repete nenhuma fala anterior."
+      ],
+      "planos": [
+        {
+          "quem": "CHELA",
+          "para": "TELEFONE",
+          "fala": "Don Alberto… su hijo lo quiere matar.",
+          "emocao": 10,
+          "eyeline": "CHELA olha para o celular perto da boca, de lado, sussurrando. NAO olha para a camera.",
+          "intencao": "Avisar o patrao, escondida e apavorada.",
+          "voz": "Voz feminina rouca, sussurrada, tremula e urgente.",
+          "rosto": "CHELA: olhos cheios de lagrimas, olhando de relance para as portas.",
+          "corpo": "CHELA: encolhida no canto do elevador, o celular colado na boca com as duas maos.",
+          "camera": "Medium Close-Up de CHELA de tres quartos no canto do elevador, luz fria de cima, lente 50mm, Slow Push In."
+        },
+        {
+          "quem": "MAURICIO",
+          "para": "CHELA",
+          "fala": "¿Se te cayó esto, Chela?",
+          "emocao": 10,
+          "eyeline": "MAURICIO olha para a ESQUERDA do quadro, para CHELA dentro do elevador, cujo ombro esta em primeiro plano. NAO olha para a camera.",
+          "intencao": "Mostrar que sabe de tudo, com calma assustadora.",
+          "voz": "Voz masculina baixa, calma, gelada, com falsa gentileza.",
+          "rosto": "MAURICIO: sorriso frio, olhar fixo nela.",
+          "corpo": "As portas do elevador se abrem e MAURICIO ja esta parado ali, levantando o cracha de CHELA pela fita azul.",
+          "camera": "Corte seco. Over-the-Shoulder: ombro e coque grisalho de CHELA desfocados em primeiro plano a ESQUERDA; as portas abrindo e MAURICIO nitido a DIREITA no corredor escuro, Medium Shot, lente 50mm."
+        },
+        {
+          "rosto": "CHELA: olhos arregalados, sem ar, o rosto sem cor. Boca FECHADA.",
+          "corpo": "CHELA: esconde o celular atras das costas, encostando na parede do elevador.",
+          "camera": "Corte seco. Reaction shot: tight close-up de CHELA, olhando para a DIREITA, para MAURICIO, lente 75mm. Ninguem fala.",
+          "segundos": 0.7
+        },
+        {
+          "quem": "CHELA",
+          "para": "CAMERA",
+          "fala": "¿Quieres saber qué pasó? Comenta parte dos.",
+          "emocao": 9,
+          "olha_para_camera": true,
+          "intencao": "Quebrar a quarta parede e chamar para a Parte 2.",
+          "voz": "Voz feminina baixa, rouca, misteriosa, quase um sussurro.",
+          "rosto": "CHELA: vira o rosto devagar e olha DIRETO para a lente, olhos marejados, olhar serio e misterioso.",
+          "corpo": "CHELA: imovel, encostada na parede de aco do elevador.",
+          "camera": "Corte seco. Extreme close-up de CHELA, olhando direto para a lente, luz fria de cima, Slow Push In, lente 85mm. O video termina neste rosto."
+        }
+      ],
+      "estilo": "Thriller dramatico de novela, cinematografico. Fotografia hiper-realista, pessoas comuns e ficticias, textura real de pele. Elevador de luxo a noite: paredes de aco escovado, luz fria azulada vinda de cima, reflexos no metal; fora das portas, corredor escuro. Low-key com Eye Light nos closes, Shallow Focus, cortes rapidos."
     }
   ]
 }
