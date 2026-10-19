@@ -102,3 +102,16 @@ No Flow cada geração custa créditos, então **cada clipe de 10 s precisa esta
 - **El Anillo, clipe 4 (Frames to Video):** a continuidade com o clipe 3 funcionou (começou no Ramiro sentado). Erros: closes isolados sem relação espacial (Esteban falava com o pai olhando para frente), nenhuma reação, e o rosto do Esteban ficou grisalho no último close (misturou com o Ramiro). Correção: decupagem OTS/plano-contraplano, direção de tela fixa, two-shot de perfil para quem está do mesmo lado, negativo 'esteban com barba grisalha'.
 - **El Anillo, clipe 4 (Ingredients + último frame como imagem 1):** FUNCIONOU — abriu com o Ramiro sentado, OTS e contraplano mostrando com quem cada um fala, close de reação, two-shot de perfil no sussurro. Detalhes: neon com letras ao fundo (por isso o estilo agora diz 'neon sem letras'), camiseta do Esteban saiu preta.
 - **El Anillo, clipe 5 (reprovado):** 3,8 s sem fala no começo (a fala do Esteban, dita enquanto o Ramiro andava de costas, sumiu + insert de 2,5 s), falas calmas, neon com letras (copiado do frame de referência). Correção: regra de no máx ~1,5 s mudo, 1º plano com fala de frente, emoção física na voz/corpo, fechar na reação do vilão, frames sem letreiro.
+
+## Referência "El Príncipe y la Fiona" (86 s, enviada pelo usuário)
+Estrutura: conto de fadas (Cinderela) + justiça física. Anúncio do príncipe → ela, chorando, esbarra e mancha
+de vinho o smoking BRANCO dele (a mancha vira marca visual até o fim) → "¿Sabes quién soy?" "No, y no quiero
+saberlo." → "Entonces eres tú… la mujer que estaba buscando" → ele seca as lágrimas dela (close com toque)
+→ "¿Por qué llora?" "Me dijo que era fea." "Entonces está ciego. Dime quién es." → o valentão se apresenta
+("Fui yo") e repete a ofensa com humor cruel → "Dilo otra vez, pero mírame a mí" → briga coreografada na pista,
+plateia em volta → "Eso es para que respetes a las damas" → sino da meia-noite, ela foge → ele corre atrás,
+ela entra num carro → ele acha a bolsa dela com documento → "Ahora sé dónde encontrarte."
+O que funciona: arquétipo conhecido (o público entende sem explicação), romance + vingança no mesmo vídeo,
+herói que defende sem ser pedido, toque carinhoso em close, mancha/objeto como continuidade visual,
+plateia, perseguição + objeto perdido, final que PROMETE continuação (não CTA falado). Falas curtíssimas,
+muitos closes alternados com OTS, choro intenso dela.
