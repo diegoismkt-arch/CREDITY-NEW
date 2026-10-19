@@ -1,0 +1,128 @@
+{
+  "titulo_post": "",
+  "legenda": "",
+  "texto_final": "Comenta PARTE 2 👇",
+  "titulo_interno": "LA GRABACION",
+  "estilo": "Thriller dramatico de novela, cinematografico. Fotografia hiper-realista, pessoas comuns e ficticias, textura real de pele. Escritorio corporativo de luxo vazio a noite: luz fria azulada baixa, poucas luminarias acesas, parede de vidro com as luzes da cidade desfocadas ao fundo (Bokeh), reflexos no piso polido. Low-key com Eye Light nos closes, Shallow Focus, cortes rapidos.",
+  "imagens": {
+    "FRAME_MAURICIO": "frame do clipe 1, plano 1 (por volta do segundo 1,5): MAURICIO de terno azul-marinho ao telefone junto a parede de vidro, luzes da cidade ao fundo, CHELA desfocada atras passando pano.",
+    "FRAME_CHELA": "frame do clipe 1, plano 4 (por volta do segundo 6): close de CHELA assustada, uniforme cinza, por cima do ombro de MAURICIO.",
+    "FRAME_BOLSILLO": "frame do clipe 1, ultimo plano (por volta do segundo 8,3): o bolso do avental de CHELA com o celular escondido, um pontinho vermelho de gravacao aceso."
+  },
+  "personagens": {
+    "CHELA": {
+      "descricao": "faxineira de 58 anos, pele morena, rosto cansado e bondoso, rugas, cabelo GRISALHO preso em coque com redinha, UNIFORME CINZA de manga curta, AVENTAL AZUL-MARINHO com bolso na frente, segurando um esfregao.",
+      "voz": "Voz feminina rouca, humilde e assustada de senhora de 58 anos.",
+      "frame": "FRAME_CHELA",
+      "feminino": true
+    },
+    "MAURICIO": {
+      "descricao": "homem de 30 anos, pele clara, cabelo castanho curto penteado de lado, barba feita, TERNO AZUL-MARINHO slim, camisa BRANCA sem gravata, relogio prateado caro, celular na mao.",
+      "voz": "Voz masculina fria, educada e ameacadora de homem de 30 anos.",
+      "frame": "FRAME_MAURICIO"
+    }
+  },
+  "clips": [
+    {
+      "nome": "O telefonema e a ameaça",
+      "atuacao": "Thriller de novela. Atuacao FORTE com contraste: MAURICIO frio e calmo ao telefone, depois ameacador em voz baixa, sem gritar; CHELA paralisada de medo, tremendo, a voz falhando. Rostos muito expressivos. Nenhum momento parado.",
+      "personagens": [
+        "MAURICIO",
+        "CHELA"
+      ],
+      "posicoes": {
+        "CHELA": "no meio do escritorio, com o esfregao e o balde, SEMPRE na ESQUERDA do quadro, olhando para a DIREITA",
+        "MAURICIO": "junto a parede de vidro, SEMPRE na DIREITA do quadro, de costas para ela no comeco e depois virado para ela"
+      },
+      "preservar_extra": [
+        "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
+        "Um balde amarelo de faxina com agua ao lado de CHELA.",
+        "No bolso do avental de CHELA ha um celular simples; a tela nao mostra nenhuma letra, so um pontinho vermelho aceso.",
+        "Nenhum letreiro, placa, logotipo ou letra no escritorio, nas roupas ou nas telas."
+      ],
+      "cenario": "Um escritorio corporativo de luxo vazio a noite, no ultimo andar. So CHELA, a faxineira, e MAURICIO, o filho do dono, estao la.",
+      "som": "Silencio do escritorio, o zumbido do ar-condicionado, o esfregao no piso; o balde virando e a agua espalhando.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida"
+      ],
+      "negativos_extra": [
+        "letras ou numeros em telas",
+        "logotipos",
+        "outras pessoas no escritorio",
+        "mauricio gritando",
+        "chela respondendo com raiva",
+        "personagem falando de frente para a camera",
+        "roupa de um personagem em outro",
+        "momento parado sem fala"
+      ],
+      "salvar_frames": [
+        "FRAME_MAURICIO",
+        "FRAME_CHELA",
+        "FRAME_BOLSILLO"
+      ],
+      "planos": [
+        {
+          "quem": "MAURICIO",
+          "para": "TELEFONE",
+          "fala": "Mañana el viejo firma… y después, un accidente.",
+          "emocao": 10,
+          "eyeline": "MAURICIO fala ao celular olhando pela parede de vidro, para a cidade la fora. NAO olha para CHELA nem para a camera.",
+          "intencao": "Combinar um crime com calma assustadora.",
+          "voz": "Voz masculina baixa, calma e fria, quase um sussurro.",
+          "rosto": "MAURICIO: meio sorriso frio, olhar vazio.",
+          "corpo": "MAURICIO de pe junto ao vidro, celular no ouvido; atras dele, desfocada, CHELA passando o esfregao no piso.",
+          "camera": "Medium Shot de perfil de MAURICIO junto a parede de vidro, luzes da cidade em Bokeh, CHELA desfocada ao fundo a ESQUERDA, lente 50mm, Slow Push In."
+        },
+        {
+          "rosto": "CHELA: para o esfregao, olhos arregalados de medo, a respiracao presa. Boca FECHADA.",
+          "corpo": "CHELA: congelada, as maos apertando o cabo do esfregao.",
+          "camera": "Corte seco. Reaction shot: tight close-up de CHELA, olhando para a DIREITA, para MAURICIO, lente 75mm. Ninguem fala.",
+          "segundos": 0.8
+        },
+        {
+          "quem": "MAURICIO",
+          "para": "CHELA",
+          "fala": "¿Qué oíste?",
+          "emocao": 10,
+          "eyeline": "MAURICIO se vira e olha para a ESQUERDA do quadro, direto para CHELA. NAO olha para a camera.",
+          "intencao": "Intimidar, frio.",
+          "voz": "Voz masculina baixa, gelada, ameacadora.",
+          "rosto": "MAURICIO: olhar duro, mandibula travada.",
+          "corpo": "MAURICIO se vira e chuta o balde de CHELA; a agua se espalha no piso.",
+          "camera": "Corte seco. Low Angle, Medium Shot de MAURICIO chutando o balde, a agua espirrando, lente 35mm."
+        },
+        {
+          "quem": "CHELA",
+          "para": "MAURICIO",
+          "fala": "Nada, joven. Nada.",
+          "emocao": 10,
+          "eyeline": "CHELA olha para a DIREITA do quadro, para cima, para MAURICIO, cujo ombro esta em primeiro plano. NAO olha para a camera.",
+          "intencao": "Negar, apavorada.",
+          "voz": "Voz feminina rouca, tremula, quase um sussurro.",
+          "rosto": "CHELA: olhos marejados de medo, labios tremendo.",
+          "corpo": "CHELA: recua um passo, segurando o esfregao contra o peito.",
+          "camera": "Corte seco. Over-the-Shoulder: ombro do terno azul-marinho de MAURICIO desfocado em primeiro plano a DIREITA; CHELA nitida a ESQUERDA, close, head and upper shoulders, High Angle, lente 75mm."
+        },
+        {
+          "quem": "MAURICIO",
+          "para": "CHELA",
+          "fala": "Más te vale.",
+          "emocao": 10,
+          "eyeline": "MAURICIO olha para a ESQUERDA do quadro, de cima para baixo, para CHELA, cujo ombro grisalho esta em primeiro plano. NAO olha para a camera.",
+          "intencao": "Ameacar de perto.",
+          "voz": "Voz masculina BAIXA, sussurrada, gelada.",
+          "rosto": "MAURICIO: rosto bem perto, olhar frio.",
+          "corpo": "MAURICIO aperta o braco de CHELA com forca.",
+          "camera": "Corte seco. Over-the-Shoulder reverso: ombro e coque grisalho de CHELA desfocados em primeiro plano a ESQUERDA; MAURICIO nitido a DIREITA, tight close-up, Low Angle, lente 75mm."
+        },
+        {
+          "rosto": "Sem rostos.",
+          "corpo": "No bolso do avental azul-marinho de CHELA, o celular escondido com a tela virada para fora: um pontinho VERMELHO aceso, piscando. Sem nenhuma letra.",
+          "camera": "Corte seco. Insert em escala real, Rack Focus ate o pontinho vermelho no bolso do avental. Ninguem fala. O clipe termina nesta imagem.",
+          "segundos": 1.0
+        }
+      ]
+    }
+  ]
+}
