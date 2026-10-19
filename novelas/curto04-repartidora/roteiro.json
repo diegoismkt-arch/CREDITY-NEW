@@ -1,0 +1,125 @@
+{
+  "titulo_post": "",
+  "legenda": "",
+  "texto_final": "Comenta PARTE 2 👇",
+  "titulo_interno": "LA REPARTIDORA",
+  "estilo": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns e ficticias, textura real de pele. Porta de entrada de uma mansao moderna a noite com chuva forte: luz quente amarela vindo do hall de dentro, chuva fria azulada do lado de fora, gotas brilhando no contraluz, piso de pedra molhado. Low-key com Eye Light nos closes, Shallow Focus, cortes rapidos.",
+  "imagens": {
+    "FRAME_PUERTA": "frame do clipe 1, plano 1 (por volta do segundo 1,5): BEATRIZ na porta iluminada da mansao, por cima do ombro molhado de ANA, a sacola de comida caindo no chao.",
+    "FRAME_ANA": "frame do clipe 1, plano 2 (por volta do segundo 3,8): ANA encharcada de chuva, jaqueta vermelha de entregadora, por cima do ombro de BEATRIZ.",
+    "FRAME_BEATRIZ": "frame do clipe 1, plano 3 (por volta do segundo 5,8): close de BEATRIZ na porta, taca de vinho na mao, hall iluminado atras."
+  },
+  "personagens": {
+    "ANA": {
+      "descricao": "mulher de 24 anos, pele morena, rosto doce e firme, cabelo CASTANHO-ESCURO preso em rabo de cavalo, ENCHARCADO de chuva, sem maquiagem, JAQUETA corta-vento VERMELHA de entregadora com capuz, mochila termica PRETA quadrada nas costas, calca jeans escura.",
+      "voz": "Voz feminina suave, firme e cansada de mulher de 24 anos.",
+      "frame": "FRAME_ANA",
+      "feminino": true
+    },
+    "BEATRIZ": {
+      "descricao": "mulher rica de 50 anos, pele clara, cabelo castanho-claro liso com escova perfeita na altura dos ombros, maquiagem impecavel, batom nude, CONJUNTO DE SEDA CHAMPANHE de calca e blusa, brincos de diamante, TACA DE VINHO TINTO na mao.",
+      "voz": "Voz feminina fria, esnobe e cortante de mulher de 50 anos.",
+      "frame": "FRAME_BEATRIZ",
+      "feminino": true
+    },
+    "ERNESTO": {
+      "descricao": "homem rico de 55 anos, pele morena clara, cabelo preto com as temporas GRISALHAS, barba feita, CAMISA SOCIAL AZUL-CLARA com as mangas dobradas, relogio de ouro, calca social cinza.",
+      "voz": "Voz masculina grave e educada de homem de 55 anos.",
+      "frame": "FRAME_ERNESTO"
+    }
+  },
+  "clips": [
+    {
+      "nome": "A comida no chão",
+      "atuacao": "Novela dramatica. Atuacao FORTE com contraste: BEATRIZ fria, esnobe e cruel, sem levantar a voz demais; ANA cansada e encharcada, digna, voz firme, sem chorar nem gritar. Rostos muito expressivos. Nenhuma fala neutra, nenhum momento parado.",
+      "personagens": [
+        "BEATRIZ",
+        "ANA"
+      ],
+      "posicoes": {
+        "ANA": "do lado de FORA, na chuva, SEMPRE na ESQUERDA do quadro, olhando para a DIREITA",
+        "BEATRIZ": "na porta aberta da mansao, protegida da chuva, SEMPRE na DIREITA do quadro, olhando para a ESQUERDA"
+      },
+      "preservar_extra": [
+        "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
+        "A sacola de papel pardo com a comida, sem nenhuma letra ou logotipo.",
+        "Nenhum letreiro, placa ou letra na casa, na moto ou nas roupas."
+      ],
+      "cenario": "A porta de entrada de uma mansao moderna a noite, chuva forte. ANA, entregadora de comida, acabou de tocar a campainha; BEATRIZ abre a porta com uma taca de vinho. So as duas aparecem; uma voz de homem vem de dentro da casa no fim.",
+      "som": "Chuva forte, a sacola batendo no piso molhado, musica classica baixinha vindo de dentro da casa.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida",
+        "voz sem rosto na tela"
+      ],
+      "negativos_extra": [
+        "letras ou logotipos na sacola, jaqueta ou mochila",
+        "letreiro com letras",
+        "homem aparecendo",
+        "ana chorando ou gritando",
+        "personagem falando de frente para a camera",
+        "roupa de um personagem em outro",
+        "momento parado sem fala"
+      ],
+      "regras_extra": [
+        "A ultima fala e de uma VOZ masculina de dentro da casa, FORA DO QUADRO, no plano 4, onde NAO aparece nenhum rosto."
+      ],
+      "salvar_frames": [
+        "FRAME_PUERTA",
+        "FRAME_ANA",
+        "FRAME_BEATRIZ"
+      ],
+      "planos": [
+        {
+          "quem": "BEATRIZ",
+          "para": "ANA",
+          "fala": "¡Esto está frío! No te voy a pagar.",
+          "emocao": 10,
+          "eyeline": "BEATRIZ olha para a ESQUERDA do quadro, de cima para baixo, para ANA, cujo ombro molhado esta em primeiro plano. NAO olha para a camera.",
+          "intencao": "Humilhar a entregadora com desprezo.",
+          "voz": "Voz feminina fria e cortante, com nojo.",
+          "rosto": "BEATRIZ: nariz torcido de nojo, olhar de cima.",
+          "corpo": "BEATRIZ: abre a sacola, olha e a deixa cair no piso molhado.",
+          "camera": "Over-the-Shoulder: o ombro e o capuz molhados da jaqueta vermelha de ANA desfocados em primeiro plano a ESQUERDA; BEATRIZ nitida a DIREITA na porta iluminada, Low Angle, lente 50mm."
+        },
+        {
+          "quem": "ANA",
+          "para": "BEATRIZ",
+          "fala": "Señora, vine bajo la lluvia.",
+          "emocao": 9,
+          "eyeline": "ANA olha para a DIREITA do quadro, para cima, para BEATRIZ, cujo ombro de seda esta em primeiro plano. NAO olha para a camera.",
+          "intencao": "Pedir respeito com dignidade, sem implorar.",
+          "voz": "Voz feminina baixa, firme, cansada.",
+          "rosto": "ANA: agua escorrendo pelo rosto, olhar firme e magoado.",
+          "corpo": "ANA: imovel na chuva, as maos fechadas.",
+          "camera": "Corte seco. Over-the-Shoulder reverso: o ombro de seda champanhe de BEATRIZ desfocado em primeiro plano a DIREITA; ANA nitida a ESQUERDA na chuva, close, head and upper shoulders, High Angle, lente 75mm."
+        },
+        {
+          "quem": "BEATRIZ",
+          "para": "ANA",
+          "fala": "Ese es tu problema. ¡Lárgate!",
+          "emocao": 10,
+          "eyeline": "BEATRIZ olha para a ESQUERDA do quadro, para ANA. NAO olha para a camera.",
+          "intencao": "Expulsar com crueldade.",
+          "voz": "Voz feminina cortante, subindo no '¡Lárgate!'.",
+          "rosto": "BEATRIZ: sorriso de desdem, depois raiva.",
+          "corpo": "BEATRIZ: toma um gole de vinho e aponta a rua com a taca.",
+          "camera": "Corte seco. Low Angle, tight close-up de BEATRIZ, head and upper shoulders, o hall iluminado atras, lente 75mm."
+        },
+        {
+          "quem": "VOZ DE ERNESTO (dentro da casa)",
+          "para": "BEATRIZ",
+          "fala": "¿Qué pasa, mi amor?",
+          "emocao": 8,
+          "eyeline": "Ninguem visivel fala. A voz masculina vem de dentro da casa, fora do quadro.",
+          "intencao": "Perguntar de dentro, sem saber de nada.",
+          "voz": "Voz masculina grave e educada, vindo de longe, de dentro da casa.",
+          "rosto": "Sem rostos no quadro.",
+          "corpo": "As maos molhadas de ANA recolhem com cuidado a comida espalhada no piso de pedra e devolvem para a sacola; gotas de chuva caindo.",
+          "camera": "Corte seco. Insert em escala real ao nivel do chao: so as maos de ANA e a sacola no piso molhado, a luz quente da porta no fundo. Nenhum rosto no quadro. O clipe termina nesta imagem.",
+          "bocas": "NENHUM rosto no quadro: a voz vem de dentro da casa."
+        }
+      ]
+    }
+  ]
+}
