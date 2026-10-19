@@ -5,8 +5,8 @@ preta de baile), REGINA (noiva mimada, 26, vestido prata), BRUNO (irmão de REGI
 Plateia de convidados. Cenário: baile de máscaras do NOIVADO de REGINA num salão de mansão; depois escadaria
 externa; por fim a oficina de costura humilde.
 
-Pistas: (1) clipe 1, voz do anfitrião: "¡Y ahora… el prometido de Regina!" e ninguém aparece; (2) MATEO sem anel
-na mão... na verdade com anel de noivado escondido no bolso, que ele tira no clipe 5; (3) o alfineteiro de pulso
+Pistas: (1) clipe 1, voz do anfitrião: "¡Y ahora… el prometido de Regina!" e ninguém aparece; (2) o anel de noivado
+escondido no bolso de MATEO, que ele tira no clipe 5; (3) o alfineteiro de pulso
 de VALERIA aparece no clipe 3 quando ele segura a mão dela.
 
 1. Gancho: REGINA rasga a manga do vestido vermelho de VALERIA na frente de todos: "¡Ese vestido es mío! ¡Ladrona!"
