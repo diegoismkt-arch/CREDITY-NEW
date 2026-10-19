@@ -1,0 +1,116 @@
+{
+  "titulo_post": "La viuda sonreía frente al ataúd… hasta que sonó su celular 😱",
+  "legenda": "En el velorio de su esposo, ella no derramó ni una lágrima… 😳\n\nPero alguien sabe lo que hizo.\n\n¿Quién era el hombre del sombrero? 👇\n\n#historias #novela #misterio #suspenso #drama #lahistoriaprincipal",
+  "texto_final": "",
+  "titulo_interno": "EL MENSAJE",
+  "estilo": "Suspense dramatico de novela, cinematografico. Fotografia hiper-realista, pessoas comuns e ficticias, textura real de pele. Velorio mexicano a noite numa sala de velorio: luz quente e baixa de velas, lirios brancos, caixao de madeira escura fechado, sombras profundas nos cantos. Low-key com Eye Light nos closes, Shallow Focus, cortes rapidos.",
+  "imagens": {
+    "FRAME_RENATA": "frame do plano 1 (por volta do segundo 1,5): RENATA de vestido preto e veu junto ao caixao, com a rosa vermelha."
+  },
+  "personagens": {
+    "RENATA": {
+      "descricao": "viuva de 40 anos, pele clara, muito bonita, cabelo PRETO liso preso em coque elegante, VEU PRETO de renda curto, VESTIDO PRETO justo de manga longa, brincos de perola, batom vermelho escuro, celular na mao.",
+      "voz": "Voz feminina suave, sedutora e fria de mulher de 40 anos.",
+      "frame": "FRAME_RENATA",
+      "feminino": true
+    },
+    "DESCONHECIDO": {
+      "descricao": "homem alto de terno PRETO e chapeu PRETO de aba, o rosto escondido na sombra; so um BIGODE GRISALHO aparece num fio de luz.",
+      "voz": "Sem voz.",
+      "frame": "FRAME_RENATA"
+    }
+  },
+  "clips": [
+    {
+      "nome": "O velorio e a mensagem",
+      "atuacao": "Suspense de novela. Atuacao FORTE com contraste: RENATA fingindo luto, com um sorriso discreto e frio de vitoria; depois o sorriso some e ela fica PALIDA de terror, a voz falhando. Rosto muito expressivo. Nenhum momento parado.",
+      "personagens": [
+        "RENATA",
+        "DESCONHECIDO"
+      ],
+      "posicoes": {
+        "RENATA": "de pe junto ao caixao fechado, SEMPRE na ESQUERDA do quadro, olhando para a DIREITA",
+        "DESCONHECIDO": "so aparece no ultimo plano, LONGE, no fundo escuro da sala, perto da porta, parado"
+      },
+      "preservar_extra": [
+        "Mesmo rosto e mesma roupa de RENATA do comeco ao fim do clipe.",
+        "Ao lado do caixao, num cavalete, um retrato emoldurado de um homem de 55 anos de bigode grisalho, sem nenhuma letra.",
+        "O celular de RENATA: a tela acesa mostra so uma onda de audio, SEM nenhuma letra ou numero.",
+        "A sala de velorio esta vazia: so RENATA e, no fim, o homem de chapeu no fundo.",
+        "Nenhum letreiro, coroa com faixa escrita, placa ou letra em lugar nenhum."
+      ],
+      "cenario": "A sala de velorio do marido de RENATA, tarde da noite, quando todos ja foram embora. RENATA fica sozinha com o caixao fechado.",
+      "som": "Silencio pesado, velas crepitando, a vibracao do celular; a mensagem de voz tocando baixinho pelo alto-falante do celular; no fim, so o silencio e um rangido de porta.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida",
+        "voz sem rosto na tela"
+      ],
+      "negativos_extra": [
+        "letras ou numeros na tela do celular",
+        "faixa de coroa de flores com letras",
+        "outras pessoas na sala",
+        "corpo ou rosto de defunto visivel",
+        "caixao aberto",
+        "olhos ou rosto inteiro do homem de chapeu visiveis",
+        "renata chorando de verdade no comeco",
+        "personagem falando de frente para a camera",
+        "momento parado sem fala",
+        "musica"
+      ],
+      "regras_extra": [
+        "A segunda fala e uma VOZ masculina saindo do alto-falante do celular, no plano 2, onde NAO aparece nenhum rosto.",
+        "O homem de chapeu do ultimo plano NAO fala; os olhos e o rosto inteiro dele nunca aparecem, so o bigode grisalho."
+      ],
+      "salvar_frames": [
+        "FRAME_RENATA"
+      ],
+      "planos": [
+        {
+          "quem": "RENATA",
+          "para": "CAIXAO",
+          "fala": "Descansa, mi amor… ahora todo es mío.",
+          "emocao": 10,
+          "eyeline": "RENATA olha para BAIXO, para o caixao fechado na DIREITA do quadro. NAO olha para a camera.",
+          "intencao": "Se despedir fingindo luto, revelando que esta feliz com a morte dele.",
+          "voz": "Voz feminina baixa, sussurrada, doce e fria, com um prazer escondido.",
+          "rosto": "RENATA: olhos secos, um sorriso discreto e cruel no canto da boca.",
+          "corpo": "RENATA: coloca uma rosa VERMELHA em cima do caixao fechado e passa a mao devagar na madeira.",
+          "camera": "Medium Shot de perfil de RENATA junto ao caixao, velas e lirios em Bokeh, o retrato do marido desfocado ao fundo, lente 50mm, Slow Push In."
+        },
+        {
+          "quem": "VOZ DE HOMEM (no celular)",
+          "para": "RENATA",
+          "fala": "Sé lo que hiciste, Renata.",
+          "emocao": 10,
+          "eyeline": "Ninguem visivel fala. A voz masculina sai do alto-falante do celular.",
+          "intencao": "Ameacar, frio, como quem sabe de tudo.",
+          "voz": "Voz masculina grave, calma, gelada, um pouco abafada pelo alto-falante do celular.",
+          "rosto": "Sem rostos no quadro.",
+          "corpo": "A mao de RENATA, com unhas vermelho-escuras, segura o celular vibrando; a tela acesa mostra so uma onda de audio tocando, sem nenhuma letra.",
+          "camera": "Corte seco. Insert em escala real: so a mao de RENATA e o celular, a luz da tela no rosto fora de foco, a rosa vermelha no caixao ao fundo. Nenhum rosto no quadro.",
+          "bocas": "NENHUM rosto no quadro: a voz sai do celular."
+        },
+        {
+          "quem": "RENATA",
+          "para": "CELULAR",
+          "fala": "No… no puede ser.",
+          "emocao": 10,
+          "eyeline": "RENATA olha para BAIXO, para o celular na mao, depois para o caixao. NAO olha para a camera.",
+          "intencao": "Choque e terror.",
+          "voz": "Voz feminina quase sem ar, tremula, falhando.",
+          "rosto": "RENATA: o sorriso some, rosto palido, olhos arregalados, labios tremendo.",
+          "corpo": "RENATA: da um passo para tras, a mao no peito.",
+          "camera": "Corte seco. Tight close-up de RENATA, head and upper shoulders, luz das velas no rosto, lente 75mm."
+        },
+        {
+          "rosto": "RENATA de costas, em silhueta. O homem de chapeu sem rosto visivel.",
+          "corpo": "No fundo escuro da sala, junto a porta entreaberta, um homem alto de terno preto e chapeu preto esta parado olhando para RENATA; o rosto na sombra, so o BIGODE GRISALHO aparece num fio de luz, igual ao do retrato. Ele vira e sai pela porta.",
+          "camera": "Corte seco. Over-the-Shoulder: ombro e veu de RENATA desfocados em primeiro plano a ESQUERDA; ao fundo, nitido, o homem de chapeu na porta, lente 50mm, Rack Focus para ele. Ninguem fala. O video termina com a porta se fechando.",
+          "segundos": 1.4,
+          "bocas": "Bocas FECHADAS. Ninguem fala."
+        }
+      ]
+    }
+  ]
+}
