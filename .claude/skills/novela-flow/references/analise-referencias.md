@@ -120,4 +120,4 @@ muitos closes alternados com OTS, choro intenso dela.
 Descrições glamourosas e genéricas (loira platinada, coque alto, vestido prata, diamantes, "muito bonita")
 fizeram o Flow recusar por parecer celebridade. Correção: rosto comum com traços marcantes e imperfeitos
 (sardas, pinta, nariz largo, sobrancelhas grossas, queixo pontudo), cabelo menos "de tapete vermelho",
-"pessoas desconhecidas, rostos com imperfeições reais" no estilo e negativo "rosto parecido com celebridade".
+"pessoas desconhecidas, rostos com imperfeições reais" no estilo. NÃO escrever "celebridade/famoso" nem no negativo (o filtro lê as palavras).

@@ -55,8 +55,7 @@
         "personagem falando de frente para a camera",
         "roupa de um personagem em outro",
         "momento parado sem fala",
-        "musica de fundo durante as falas",
-        "rosto parecido com celebridade, atriz, cantora ou pessoa famosa"
+        "musica de fundo durante as falas"
       ],
       "regras_extra": [
         "A quarta fala e a VOZ do anfitriao, FORA DO QUADRO, no plano 4, onde NAO aparece nenhum rosto: so a escadaria VAZIA iluminada."

@@ -140,7 +140,6 @@ Sem imagem de referência (Text to Video).
     "roupa de um personagem em outro",
     "momento parado sem fala",
     "musica de fundo durante as falas",
-    "rosto parecido com celebridade, atriz, cantora ou pessoa famosa",
     "texto ou letras em qualquer lugar",
     "nome ou idade de personagem escrito na tela",
     "letreiro de apresentacao de personagem (lower third)",
