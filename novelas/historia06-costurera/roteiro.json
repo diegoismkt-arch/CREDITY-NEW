@@ -11,7 +11,7 @@
     "FRAME_MATEO": "frame do clipe 2, plano 5 (por volta do segundo 7,5): close de MATEO de mascara preta e smoking preto.",
     "FRAME_VALERIA_MOLHADA": "frame do clipe 3, plano 5 (por volta do segundo 7,5): close de VALERIA sorrindo timida, vestido vermelho, alfineteiro branco no pulso.",
     "FRAME_BRUNO": "frame do clipe 4, plano 3 (por volta do segundo 3,8): close de BRUNO de smoking branco gritando.",
-    "FRAME_MATEO_ROSTO": "frame do clipe 5, plano 5 (por volta do segundo 7): close de MATEO SEM mascara, smoking preto."
+    "FRAME_MATEO_ROSTO": "frame do clipe 5, plano 5 (por volta do segundo 7): close de MATEO SEM mascara, smoking preto, cicatriz na testa."
   },
   "personagens": {
     "VALERIA": {
@@ -27,7 +27,7 @@
       "feminino": true
     },
     "MATEO": {
-      "descricao": "homem de 30 anos, rosto comum e desconhecido, pele morena clara, queixo quadrado, barba curta bem aparada, uma cicatriz pequena no queixo, cabelo PRETO curto penteado para tras, SMOKING PRETO com gravata borboleta preta, MASCARA veneziana PRETA lisa cobrindo os olhos e o alto do nariz.",
+      "descricao": "homem de 30 anos, rosto comum e desconhecido, pele morena clara, queixo quadrado, barba curta bem aparada, uma cicatriz pequena na testa, acima da sobrancelha, cabelo PRETO curto penteado para tras, SMOKING PRETO com gravata borboleta preta, MASCARA veneziana PRETA lisa cobrindo os olhos e o alto do nariz.",
       "voz": "Voz masculina grave, calma e firme de homem de 30 anos.",
       "frame": "FRAME_MATEO"
     },
