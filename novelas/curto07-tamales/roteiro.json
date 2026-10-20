@@ -240,7 +240,11 @@
           "corpo": "DANIEL: joga o envelope na mesa de mogno; ao fundo, RAUL e PAOLA congelados, palidos.",
           "camera": "Corte seco. Medium Shot de DANIEL a ESQUERDA, com RAUL e PAOLA palidos e desfocados a DIREITA ao fundo, Low Angle, lente 50mm. O video termina neste plano."
         }
-      ]
+      ],
+      "descricoes": {
+        "DANIEL": "homem de 35 anos, rosto comum e desconhecido, pele morena, rosto magro, nariz largo, olhos castanhos, barba curta, cabelo preto curto CACHEADO, TERNO CINZA CLARO sem gravata, camisa branca com o colarinho aberto.",
+        "LUPE": "senhora humilde de 68 anos, rosto comum e desconhecido, pele morena escura, rugas profundas, maos calejadas, cabelo GRISALHO numa trança longa, REBOZO AZUL nos ombros, vestido simples florido e desbotado, avental branco."
+      }
     }
   ]
 }

@@ -211,8 +211,8 @@ Referências, nesta ordem: 1) FRAME_DANIEL; 2) FRAME_LUPE; 3) FRAME_PAOLA
     ],
     "preserve_exactly": [
       "RAUL: homem de 42 anos, irmao mais velho de DANIEL, rosto comum e desconhecido, pele morena, rosto redondo e corpo acima do peso, entradas no cabelo preto, bigode grosso, CAMISA POLO AZUL-MARINHO cara, relogio de ouro grande, suando na testa.",
-      "DANIEL: o MESMO rosto da imagem 1, homem de 35 anos, rosto comum e desconhecido, pele morena, rosto magro, nariz largo, olhos castanhos, barba curta, cabelo preto curto CACHEADO, TERNO CINZA CLARO sem gravata, camisa branca com o colarinho aberto. Traz uma mala pequena de viagem PRETA na mao.",
-      "LUPE: o MESMO rosto da imagem 2, senhora humilde de 68 anos, rosto comum e desconhecido, pele morena escura, rugas profundas, maos calejadas, cabelo GRISALHO numa trança longa, REBOZO AZUL nos ombros, vestido simples florido e desbotado, avental branco, uma panela grande de aluminio de tamales com um pano de prato por cima.",
+      "DANIEL: o MESMO rosto da imagem 1, homem de 35 anos, rosto comum e desconhecido, pele morena, rosto magro, nariz largo, olhos castanhos, barba curta, cabelo preto curto CACHEADO, TERNO CINZA CLARO sem gravata, camisa branca com o colarinho aberto.",
+      "LUPE: o MESMO rosto da imagem 2, senhora humilde de 68 anos, rosto comum e desconhecido, pele morena escura, rugas profundas, maos calejadas, cabelo GRISALHO numa trança longa, REBOZO AZUL nos ombros, vestido simples florido e desbotado, avental branco.",
       "PAOLA: o MESMO rosto da imagem 3, mulher rica de 38 anos, rosto comum e desconhecido, pele clara, nariz fino e comprido, cabelo CASTANHO liso com mechas loiras, oculos escuros na cabeca, VESTIDO BRANCO de grife, unhas longas vermelhas, pulseiras de ouro.",
       "O MESMO DANIEL da imagem 1, a MESMA DONA LUPE da imagem 2 e a MESMA PAOLA da imagem 3, com as mesmas roupas do clipe anterior.",
       "DONA LUPE continua com o REBOZO AZUL nos ombros e SEM oculos.",
