@@ -1706,3 +1706,167 @@ Referências, nesta ordem: 1) FRAME_VALERIA_EMOCIONADA; 2) FRAME_MATEO_DECIDIDO;
   ]
 }
 ```
+
+
+## Clipe 10 — Cena do carro (final separado)
+
+clipe 10: 9.3s, 9.3s de fala (23 palavras, 4 planos, falantes: REGINA, VOZ ROUCA (no celular)) ✅
+
+Referências, nesta ordem: 1) FRAME_REGINA
+
+```json
+{
+  "ATUACAO_PRIORIDADE_MAXIMA": "Suspense de novela. Atuacao FORTE com contraste: REGINA calma, fria e cruel, falando baixo, com um sorriso pequeno e assustador. Rosto muito expressivo. Nenhum momento parado.",
+  "input_image": {
+    "required": false,
+    "mode": "Ingredients to Video, sem primeiro frame.",
+    "additional_references": true,
+    "reference_images": [
+      "Imagem 1 — frame do clipe 1, plano 3 (por volta do segundo 5,5): close de REGINA ruiva de vestido prata, mascara prata na mao, lustres ao fundo."
+    ],
+    "preserve_exactly": [
+      "REGINA: o MESMO rosto da imagem 1, mulher rica de 26 anos, o MESMO rosto: pele clara com SARDAS no nariz, rosto fino, queixo pontudo, cabelo RUIVO-ACOBREADO solto, OCULOS ESCUROS, CASACO PRETO elegante, sentada no banco de tras de um carro preto, celular PRETO no ouvido.",
+      "A MESMA REGINA da imagem 1, agora com casaco preto e oculos escuros.",
+      "REGINA esta SOZINHA no banco de tras; ninguem mais aparece no carro.",
+      "O celular PRETO simples, a tela virada para ela, sem nenhuma letra visivel.",
+      "A oficina do outro lado da rua: vitrine de vidro, rolos de tecido, um manequim, uma moca e um homem pequenos e desfocados la dentro; SEM nome, letreiro ou letra.",
+      "Nenhum letreiro, placa ou letra em lugar nenhum."
+    ]
+  },
+  "scene": {
+    "title": "LA COSTURERA",
+    "duration_seconds": 9.4,
+    "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
+    "structure": "4 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "style": "Suspense dramatico de novela, cinematografico. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Interior de um carro preto de luxo estacionado numa rua humilde de bairro pela manha; pelo para-brisa e pela janela, do outro lado da rua, uma pequena oficina de costura com vitrine de vidro SEM nenhuma letra. Contraste entre a sombra fria dentro do carro e o sol quente la fora, Low-key no rosto, Shallow Focus, cortes rapidos.",
+    "setting": "Na manha seguinte ao baile. REGINA, de dentro de um carro preto estacionado, espiona a oficina de VALERIA do outro lado da rua e liga para alguem cuja voz rouca ninguem conhece.",
+    "blocking": [
+      "REGINA: sentada no banco de tras do carro, do lado da janela, olhando para a ESQUERDA, para a oficina do outro lado da rua"
+    ],
+    "characters": {
+      "REGINA": "A MESMA da imagem 1. Personagem ficticia. Voz feminina aguda, esnobe e cruel de mulher de 26 anos."
+    }
+  },
+  "timeline": [
+    {
+      "time": "00:00.00-00:02.79",
+      "speaker": "REGINA",
+      "dialogue": "Sí… la costurera del barrio San Juan.",
+      "addressee": "CELULAR",
+      "eyeline": "REGINA olha para a ESQUERDA, pela janela do carro, para a oficina do outro lado da rua, com o celular no ouvido. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Entregar VALERIA a alguem perigoso, fria e calma.",
+      "voice": "Voz feminina baixa, gelada, quase um sussurro.",
+      "face": "REGINA: tira os oculos escuros devagar, olhar de odio fixo na oficina.",
+      "body": "REGINA: no primeiro instante abaixa os oculos escuros com a mao livre, o celular no ouvido.",
+      "camera": "Close-up de REGINA de perfil no banco de tras, a janela aberta, a oficina desfocada ao fundo, lente 75mm, Slow Push In. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente REGINA movimenta os labios."
+    },
+    {
+      "time": "00:02.79-00:05.21",
+      "speaker": "VOZ ROUCA (no celular)",
+      "dialogue": "¿Y qué quieres que le pase?",
+      "addressee": "REGINA",
+      "eyeline": "Ninguem visivel fala. A voz sai do celular de REGINA.",
+      "emotion_level": 10,
+      "intention": "Perguntar com frieza assustadora.",
+      "voice": "Voz masculina MUITO rouca, grave, arrastada e abafada, irreconhecivel, saindo baixinho do alto-falante do celular.",
+      "face": "Sem rostos no quadro.",
+      "body": "Por tras da cabeca de REGINA: o celular preto colado no ouvido, o cabelo ruivo em primeiro plano; pela janela, a vitrine da oficina com a moca e o homem pequenos la dentro, sem saber de nada.",
+      "camera": "Corte seco. Plano por tras de REGINA, o celular e o cabelo ruivo desfocados em primeiro plano, a oficina nitida ao fundo pela janela. Nenhum rosto visivel. A fala comeca no primeiro instante do plano.",
+      "mouths": "NENHUMA boca visivel: a voz rouca sai do celular."
+    },
+    {
+      "time": "00:05.21-00:08.01",
+      "speaker": "REGINA",
+      "dialogue": "Que no vuelva a coser nunca más.",
+      "addressee": "CELULAR",
+      "eyeline": "REGINA olha para a ESQUERDA, para a oficina. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Sentenciar, com prazer cruel.",
+      "voice": "Voz feminina baixa, lenta, cada palavra fria.",
+      "face": "REGINA: um sorriso pequeno e cruel no canto da boca, os olhos sem piscar.",
+      "body": "REGINA: imovel, o celular no ouvido.",
+      "camera": "Corte seco. Extreme close-up de REGINA, so olhos e boca, Low-key, lente 85mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente REGINA movimenta os labios."
+    },
+    {
+      "time": "00:08.01-00:09.32",
+      "speaker": "VOZ ROUCA (no celular)",
+      "dialogue": "Entendido. Esta noche.",
+      "addressee": "REGINA",
+      "eyeline": "Ninguem visivel fala. A voz sai do celular de REGINA.",
+      "emotion_level": 10,
+      "intention": "Confirmar, sem emocao.",
+      "voice": "Voz masculina MUITO rouca, grave, arrastada e abafada, irreconhecivel, saindo do alto-falante do celular.",
+      "face": "Sem rostos no quadro.",
+      "body": "O vidro escuro da janela do carro SOBE devagar, e a oficina do outro lado da rua vai sumindo atras do vidro escuro.",
+      "camera": "Corte seco. Insert de dentro do carro: o vidro escuro subindo e escondendo a oficina, Slow Motion. Nenhum rosto visivel. O video termina com o vidro todo escuro. A fala comeca no primeiro instante do plano.",
+      "mouths": "NENHUMA boca visivel: a voz rouca sai do celular."
+    }
+  ],
+  "dialogue_rules": {
+    "language": "Espanol de Mexico, acento mexicano natural, TODAS as palavras em espanhol.",
+    "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
+    "total_dialogue_lines": 4,
+    "exact_order": [
+      "REGINA",
+      "VOZ ROUCA (no celular)",
+      "REGINA",
+      "VOZ ROUCA (no celular)"
+    ],
+    "rules": [
+      "So existem 4 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "A ultima fala termina junto com o video.",
+      "Cada fala e dirigida a: REGINA -> CELULAR; VOZ ROUCA (no celular) -> REGINA; REGINA -> CELULAR; VOZ ROUCA (no celular) -> REGINA.",
+      "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
+      "Nao repetir, misturar, traduzir ou acrescentar palavras.",
+      "Cada frase e dita INTEIRA, do comeco ao fim.",
+      "A VOZ ROUCA sai do celular de REGINA e so toca nos planos 2 e 4, onde NAO aparece nenhuma boca.",
+      "REGINA nunca olha para a camera."
+    ]
+  },
+  "audio": {
+    "single_voice_at_a_time": true,
+    "sound": "Silencio abafado dentro do carro, a rua la fora distante; a voz rouca saindo baixinho do alto-falante do celular; no fim, o zumbido do vidro eletrico subindo.",
+    "music": "Nenhuma.",
+    "narration": "Nenhuma.",
+    "subtitles": "Nao gerar."
+  },
+  "negative_prompt": [
+    "nome da loja na vitrine",
+    "letras na tela do celular",
+    "motorista aparecendo",
+    "outra pessoa no carro",
+    "regina saindo do carro",
+    "regina gritando",
+    "regina olhando para a camera",
+    "personagem falando de frente para a camera",
+    "momento parado sem fala",
+    "texto ou letras em qualquer lugar",
+    "nome ou idade de personagem escrito na tela",
+    "letreiro de apresentacao de personagem (lower third)",
+    "palavra inventada no ultimo plano",
+    "fala repetida",
+    "fala adiantada ou atrasada para outro plano",
+    "personagem falando ou olhando para quem nao e o destinatario da fala",
+    "fala neutra ou monotona",
+    "rosto neutro ou expressao vazia",
+    "tela dividida",
+    "colagem",
+    "formato horizontal",
+    "bordas pretas",
+    "palavras em ingles",
+    "palavras em portugues",
+    "duas vozes simultaneas",
+    "movimento labial do ouvinte",
+    "fala cortada, encurtada ou incompleta",
+    "mudanca de rosto",
+    "mudanca de roupa",
+    "legendas",
+    "logotipo",
+    "marca-d'agua",
+    "trilha sonora"
+  ]
+}
+```

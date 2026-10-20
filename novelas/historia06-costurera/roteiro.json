@@ -1042,6 +1042,106 @@
       "regras_extra": [
         "A ultima fala e uma VOZ masculina ROUCA saindo do celular de REGINA, no ultimo plano, onde NAO aparece nenhuma boca."
       ]
+    },
+    {
+      "nome": "Cena do carro (final separado)",
+      "estilo": "Suspense dramatico de novela, cinematografico. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Interior de um carro preto de luxo estacionado numa rua humilde de bairro pela manha; pelo para-brisa e pela janela, do outro lado da rua, uma pequena oficina de costura com vitrine de vidro SEM nenhuma letra. Contraste entre a sombra fria dentro do carro e o sol quente la fora, Low-key no rosto, Shallow Focus, cortes rapidos.",
+      "atuacao": "Suspense de novela. Atuacao FORTE com contraste: REGINA calma, fria e cruel, falando baixo, com um sorriso pequeno e assustador. Rosto muito expressivo. Nenhum momento parado.",
+      "imagens": [
+        "FRAME_REGINA"
+      ],
+      "personagens": [
+        "REGINA"
+      ],
+      "descricoes": {
+        "REGINA": "mulher rica de 26 anos, o MESMO rosto: pele clara com SARDAS no nariz, rosto fino, queixo pontudo, cabelo RUIVO-ACOBREADO solto, OCULOS ESCUROS, CASACO PRETO elegante, sentada no banco de tras de um carro preto, celular PRETO no ouvido."
+      },
+      "posicoes": {
+        "REGINA": "sentada no banco de tras do carro, do lado da janela, olhando para a ESQUERDA, para a oficina do outro lado da rua"
+      },
+      "preservar_extra": [
+        "A MESMA REGINA da imagem 1, agora com casaco preto e oculos escuros.",
+        "REGINA esta SOZINHA no banco de tras; ninguem mais aparece no carro.",
+        "O celular PRETO simples, a tela virada para ela, sem nenhuma letra visivel.",
+        "A oficina do outro lado da rua: vitrine de vidro, rolos de tecido, um manequim, uma moca e um homem pequenos e desfocados la dentro; SEM nome, letreiro ou letra.",
+        "Nenhum letreiro, placa ou letra em lugar nenhum."
+      ],
+      "cenario": "Na manha seguinte ao baile. REGINA, de dentro de um carro preto estacionado, espiona a oficina de VALERIA do outro lado da rua e liga para alguem cuja voz rouca ninguem conhece.",
+      "som": "Silencio abafado dentro do carro, a rua la fora distante; a voz rouca saindo baixinho do alto-falante do celular; no fim, o zumbido do vidro eletrico subindo.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida",
+        "voz sem rosto na tela",
+        "personagem olhando para a camera"
+      ],
+      "negativos_extra": [
+        "nome da loja na vitrine",
+        "letras na tela do celular",
+        "motorista aparecendo",
+        "outra pessoa no carro",
+        "regina saindo do carro",
+        "regina gritando",
+        "regina olhando para a camera",
+        "personagem falando de frente para a camera",
+        "momento parado sem fala"
+      ],
+      "regras_extra": [
+        "A VOZ ROUCA sai do celular de REGINA e so toca nos planos 2 e 4, onde NAO aparece nenhuma boca.",
+        "REGINA nunca olha para a camera."
+      ],
+      "salvar_frames": [],
+      "planos": [
+        {
+          "quem": "REGINA",
+          "para": "CELULAR",
+          "fala": "Sí… la costurera del barrio San Juan.",
+          "emocao": 10,
+          "eyeline": "REGINA olha para a ESQUERDA, pela janela do carro, para a oficina do outro lado da rua, com o celular no ouvido. NAO olha para a camera.",
+          "intencao": "Entregar VALERIA a alguem perigoso, fria e calma.",
+          "voz": "Voz feminina baixa, gelada, quase um sussurro.",
+          "rosto": "REGINA: tira os oculos escuros devagar, olhar de odio fixo na oficina.",
+          "corpo": "REGINA: no primeiro instante abaixa os oculos escuros com a mao livre, o celular no ouvido.",
+          "camera": "Close-up de REGINA de perfil no banco de tras, a janela aberta, a oficina desfocada ao fundo, lente 75mm, Slow Push In."
+        },
+        {
+          "quem": "VOZ ROUCA (no celular)",
+          "para": "REGINA",
+          "fala": "¿Y qué quieres que le pase?",
+          "emocao": 10,
+          "eyeline": "Ninguem visivel fala. A voz sai do celular de REGINA.",
+          "intencao": "Perguntar com frieza assustadora.",
+          "voz": "Voz masculina MUITO rouca, grave, arrastada e abafada, irreconhecivel, saindo baixinho do alto-falante do celular.",
+          "rosto": "Sem rostos no quadro.",
+          "corpo": "Por tras da cabeca de REGINA: o celular preto colado no ouvido, o cabelo ruivo em primeiro plano; pela janela, a vitrine da oficina com a moca e o homem pequenos la dentro, sem saber de nada.",
+          "camera": "Corte seco. Plano por tras de REGINA, o celular e o cabelo ruivo desfocados em primeiro plano, a oficina nitida ao fundo pela janela. Nenhum rosto visivel.",
+          "bocas": "NENHUMA boca visivel: a voz rouca sai do celular."
+        },
+        {
+          "quem": "REGINA",
+          "para": "CELULAR",
+          "fala": "Que no vuelva a coser nunca más.",
+          "emocao": 10,
+          "eyeline": "REGINA olha para a ESQUERDA, para a oficina. NAO olha para a camera.",
+          "intencao": "Sentenciar, com prazer cruel.",
+          "voz": "Voz feminina baixa, lenta, cada palavra fria.",
+          "rosto": "REGINA: um sorriso pequeno e cruel no canto da boca, os olhos sem piscar.",
+          "corpo": "REGINA: imovel, o celular no ouvido.",
+          "camera": "Corte seco. Extreme close-up de REGINA, so olhos e boca, Low-key, lente 85mm."
+        },
+        {
+          "quem": "VOZ ROUCA (no celular)",
+          "para": "REGINA",
+          "fala": "Entendido. Esta noche.",
+          "emocao": 10,
+          "eyeline": "Ninguem visivel fala. A voz sai do celular de REGINA.",
+          "intencao": "Confirmar, sem emocao.",
+          "voz": "Voz masculina MUITO rouca, grave, arrastada e abafada, irreconhecivel, saindo do alto-falante do celular.",
+          "rosto": "Sem rostos no quadro.",
+          "corpo": "O vidro escuro da janela do carro SOBE devagar, e a oficina do outro lado da rua vai sumindo atras do vidro escuro.",
+          "camera": "Corte seco. Insert de dentro do carro: o vidro escuro subindo e escondendo a oficina, Slow Motion. Nenhum rosto visivel. O video termina com o vidro todo escuro.",
+          "bocas": "NENHUMA boca visivel: a voz rouca sai do celular."
+        }
+      ]
     }
   ]
 }
