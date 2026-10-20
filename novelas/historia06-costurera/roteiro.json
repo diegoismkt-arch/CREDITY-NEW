@@ -5,12 +5,13 @@
   "titulo_interno": "LA COSTURERA",
   "estilo": "Novela romantica e dramatica, cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Baile de mascaras de gala a noite no salao de uma mansao: lustres de cristal dourados, cortinas de veludo, piso de marmore brilhante, flores brancas, convidados de gala com mascaras venezianas. Luz quente dourada, Eye Light nos closes, Shallow Focus, cortes rapidos.",
   "imagens": {
-    "FRAME_VALERIA": "frame do clipe 1, plano 2 (por volta do segundo 3): close de VALERIA de vestido vermelho, a manga rasgada, por cima do ombro de REGINA.",
-    "FRAME_REGINA": "frame do clipe 1, plano 3 (por volta do segundo 5): close de REGINA de vestido prata rindo, lustres ao fundo."
+    "FRAME_VALERIA": "frame do clipe 1, plano 2 (por volta do segundo 2,7): VALERIA de vestido vermelho, mao no peito, alfineteiro branco no pulso, por cima do ombro de REGINA.",
+    "FRAME_REGINA": "frame do clipe 1, plano 3 (por volta do segundo 5,5): close de REGINA ruiva de vestido prata, mascara prata na mao, lustres ao fundo.",
+    "FRAME_ESCADARIA": "frame do clipe 1, plano 4 (por volta do segundo 7,5): a grande escadaria de marmore vazia com o canhao de luz."
   },
   "personagens": {
     "VALERIA": {
-      "descricao": "costureira de 24 anos, rosto comum de moca do bairro, pele morena, rosto redondo, nariz largo, sobrancelhas grossas, uma pinta pequena acima do labio, olhos castanhos, cabelo CASTANHO-ESCURO ondulado e solto, sem joias, VESTIDO VERMELHO longo de cetim com mangas caidas no ombro, feito a mao, alfineteiro de pulso (pulseira com uma almofadinha vermelha cheia de alfinetes) no pulso esquerdo.",
+      "descricao": "costureira de 24 anos, rosto comum de moca do bairro, pele morena, rosto redondo, nariz largo, sobrancelhas grossas, uma pinta pequena acima do labio, olhos castanhos, cabelo CASTANHO-ESCURO ondulado e solto, sem joias, VESTIDO VERMELHO longo de cetim com mangas caidas no ombro, feito a mao, alfineteiro de pulso (pulseira com uma almofadinha BRANCA redonda cheia de alfinetes de cabeca colorida) no pulso esquerdo.",
       "voz": "Voz feminina doce, humilde e firme de mulher de 24 anos.",
       "frame": "FRAME_VALERIA",
       "feminino": true
