@@ -1120,3 +1120,204 @@ Referências, nesta ordem: 1) FRAME_REGINA; 2) FRAME_MATEO_ROSTO; 3) FRAME_VALER
 
 **Depois de gerar este clipe, salve os frames:**
 - **FRAME_VALERIA_EMOCIONADA:** frame do clipe 6, plano 3 (por volta do segundo 4,4): close de VALERIA emocionada, mao no peito, vestido vermelho.
+
+## Clipe 7 — A fuga na escadaria
+
+clipe 7: 9.6s, 7.6s de fala (17 palavras, 7 planos, falantes: MATEO, VALERIA) ✅
+
+Referências, nesta ordem: 1) FRAME_VALERIA_EMOCIONADA; 2) FRAME_MATEO_ROSTO
+
+```json
+{
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela romantica. Atuacao FORTE com contraste: VALERIA chorando, fugindo, a voz quebrada; MATEO desesperado, sem fôlego, correndo atras dela. Rostos muito expressivos. Nenhum momento parado.",
+  "input_image": {
+    "required": false,
+    "mode": "Ingredients to Video, sem primeiro frame.",
+    "additional_references": true,
+    "reference_images": [
+      "Imagem 1 — frame do clipe 6, plano 3 (por volta do segundo 4,4): close de VALERIA emocionada, mao no peito, vestido vermelho.",
+      "Imagem 2 — frame do clipe 5, plano 5 (por volta do segundo 7): close de MATEO SEM mascara, smoking preto, cicatriz na testa."
+    ],
+    "preserve_exactly": [
+      "MATEO: homem de 30 anos, rosto comum e desconhecido, pele morena clara, queixo quadrado, barba curta bem aparada, uma cicatriz pequena na testa, acima da sobrancelha, cabelo PRETO curto penteado para tras, SMOKING PRETO com gravata borboleta preta, SEM mascara.",
+      "VALERIA: costureira de 24 anos, rosto comum de moca do bairro, pele morena, rosto redondo, nariz largo, sobrancelhas grossas, uma pinta pequena acima do labio, olhos castanhos, cabelo CASTANHO-ESCURO ondulado e solto, sem joias, VESTIDO VERMELHO longo de cetim com mangas caidas no ombro, feito a mao, alfineteiro de pulso (pulseira com uma almofadinha BRANCA redonda cheia de alfinetes de cabeca colorida) no pulso esquerdo.",
+      "A MESMA VALERIA da imagem 1 e o MESMO MATEO da imagem 2, com as mesmas roupas.",
+      "O vestido vermelho de VALERIA tem a manga direita RASGADA; o alfineteiro BRANCO no pulso esquerdo ate cair no plano 4.",
+      "MATEO esta SEM mascara.",
+      "O taxi e um carro velho BRANCO, SEM nenhum letreiro, placa legivel ou letra.",
+      "Nenhum letreiro, placa ou letra em lugar nenhum."
+    ]
+  },
+  "scene": {
+    "title": "LA COSTURERA",
+    "duration_seconds": 9.6,
+    "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
+    "structure": "7 planos de cinema em tela cheia, ligados por cortes secos. 5 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "style": "Novela romantica e dramatica, cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Escadaria externa de marmore de uma mansao a noite, garoa fina, degraus molhados brilhando, lampioes de luz quente, a porta do salao iluminada no alto, um taxi velho esperando embaixo. Contraluz dourado e azul da noite, Eye Light nos closes, cortes rapidos.",
+    "setting": "Lado de fora da mansao, a meia-noite, garoa fina. VALERIA desce correndo a grande escadaria externa ate um taxi; MATEO sai pela porta do salao e corre atras dela.",
+    "blocking": [
+      "VALERIA: descendo a escadaria, SEMPRE na ESQUERDA do quadro e mais ABAIXO",
+      "MATEO: no alto da escadaria, SEMPRE na DIREITA do quadro e mais ACIMA, descendo atras dela"
+    ],
+    "characters": {
+      "MATEO": "homem de 30 anos, rosto comum e desconhecido, pele morena clara, queixo quadrado, barba curta bem aparada, uma cicatriz pequena na testa, acima da sobrancelha, cabelo PRETO curto penteado para tras, SMOKING PRETO com gravata borboleta preta, SEM mascara. Personagem ficticio. Voz masculina grave, calma e firme de homem de 30 anos.",
+      "VALERIA": "costureira de 24 anos, rosto comum de moca do bairro, pele morena, rosto redondo, nariz largo, sobrancelhas grossas, uma pinta pequena acima do labio, olhos castanhos, cabelo CASTANHO-ESCURO ondulado e solto, sem joias, VESTIDO VERMELHO longo de cetim com mangas caidas no ombro, feito a mao, alfineteiro de pulso (pulseira com uma almofadinha BRANCA redonda cheia de alfinetes de cabeca colorida) no pulso esquerdo. Personagem ficticia. Voz feminina doce, humilde e firme de mulher de 24 anos."
+    }
+  },
+  "timeline": [
+    {
+      "time": "00:00.00-00:01.68",
+      "speaker": "MATEO",
+      "dialogue": "¡Espera! ¡Dime tu nombre!",
+      "addressee": "VALERIA",
+      "eyeline": "MATEO olha para BAIXO e para a ESQUERDA do quadro, para VALERIA descendo a escadaria. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Implorar, desesperado.",
+      "voice": "Voz masculina alta, sem folego.",
+      "face": "MATEO: desespero, sobrancelhas erguidas.",
+      "body": "MATEO: sai correndo pela porta iluminada no alto da escadaria, a mao estendida.",
+      "camera": "Medium Shot de MATEO no alto da escadaria, a porta do salao iluminada atras; VALERIA pequena e desfocada la embaixo a ESQUERDA, lente 50mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente MATEO movimenta os labios."
+    },
+    {
+      "time": "00:01.68-00:03.73",
+      "speaker": "VALERIA",
+      "dialogue": "¡No soy de tu mundo!",
+      "addressee": "MATEO",
+      "eyeline": "VALERIA para no meio da escadaria, vira e olha para CIMA e para a DIREITA do quadro, para MATEO. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Se proteger da dor, dizendo adeus.",
+      "voice": "Voz feminina chorosa, quebrando.",
+      "face": "VALERIA: lagrimas e garoa no rosto, olhar de dor.",
+      "body": "VALERIA: segura a saia do vestido, para um instante e se vira.",
+      "camera": "Corte seco. Close-up de VALERIA na escadaria, olhando para cima, lampioes em Bokeh atras, lente 75mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente VALERIA movimenta os labios."
+    },
+    {
+      "time": "00:03.73-00:05.04",
+      "speaker": "MATEO",
+      "dialogue": "¡No me importa!",
+      "addressee": "VALERIA",
+      "eyeline": "MATEO olha para BAIXO e para a ESQUERDA do quadro, para VALERIA. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Declarar que ela importa mais que tudo.",
+      "voice": "Voz masculina forte, apaixonada.",
+      "face": "MATEO: olhar intenso, a garoa no rosto.",
+      "body": "MATEO: desce os degraus correndo.",
+      "camera": "Corte seco. High Angle, medium close-up de MATEO descendo a escadaria, Handheld, lente 50mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente MATEO movimenta os labios."
+    },
+    {
+      "time": "00:05.04-00:06.04",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "Sem rostos.",
+      "body": "Os pes de VALERIA descendo correndo; o alfineteiro BRANCO escorrega do pulso dela e cai num degrau de marmore molhado, sem ela perceber.",
+      "camera": "Corte seco. Insert em escala real ao nivel dos degraus, Slow Motion no alfineteiro caindo. Ninguem fala.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    },
+    {
+      "time": "00:06.04-00:07.36",
+      "speaker": "VALERIA",
+      "dialogue": "¡Arranque, por favor!",
+      "addressee": "TAXISTA",
+      "eyeline": "VALERIA olha para a frente do carro, para o taxista fora do quadro. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Fugir antes que ele a alcance.",
+      "voice": "Voz feminina urgente, chorando.",
+      "face": "VALERIA: chorando, olha para tras pela janela.",
+      "body": "VALERIA: entra no taxi branco e bate a porta.",
+      "camera": "Corte seco. Close-up de VALERIA dentro do taxi pela janela molhada, lente 75mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente VALERIA movimenta os labios."
+    },
+    {
+      "time": "00:07.36-00:08.56",
+      "speaker": "MATEO",
+      "dialogue": "¿Quién eres?",
+      "addressee": "VALERIA",
+      "eyeline": "MATEO olha para a ESQUERDA do quadro, para o taxi indo embora. NAO olha para a camera.",
+      "emotion_level": 9,
+      "intention": "Perguntar ao vazio, perdido.",
+      "voice": "Voz masculina baixa, sem folego, quase um sussurro.",
+      "face": "MATEO: ofegante, olhar perdido.",
+      "body": "MATEO: chega ao pe da escadaria; as luzes vermelhas do taxi se afastam na garoa.",
+      "camera": "Corte seco. Medium Shot de MATEO no pe da escadaria, as luzes do taxi se afastando em Bokeh, lente 50mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente MATEO movimenta os labios."
+    },
+    {
+      "time": "00:08.56-00:09.56",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "Sem rostos.",
+      "body": "O alfineteiro BRANCO caido sozinho no degrau molhado, brilhando com a luz do lampiao.",
+      "camera": "Corte seco. Insert em escala real, Slow Push In ate o alfineteiro no degrau. Ninguem fala. O clipe termina nesta imagem.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    }
+  ],
+  "dialogue_rules": {
+    "language": "Espanol de Mexico, acento mexicano natural, TODAS as palavras em espanhol.",
+    "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
+    "total_dialogue_lines": 5,
+    "exact_order": [
+      "MATEO",
+      "VALERIA",
+      "MATEO",
+      "VALERIA",
+      "MATEO"
+    ],
+    "rules": [
+      "So existem 5 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "Depois de 8.6 segundos ninguem fala.",
+      "Cada fala e dirigida a: MATEO -> VALERIA; VALERIA -> MATEO; MATEO -> VALERIA; VALERIA -> TAXISTA; MATEO -> VALERIA.",
+      "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
+      "Nao repetir, misturar, traduzir ou acrescentar palavras.",
+      "Cada frase e dita INTEIRA, do comeco ao fim."
+    ]
+  },
+  "audio": {
+    "single_voice_at_a_time": true,
+    "sound": "Os sinos da meia-noite ainda ecoando, a garoa, os saltos nos degraus, a porta do taxi batendo, o motor arrancando.",
+    "music": "Nenhuma.",
+    "narration": "Nenhuma.",
+    "subtitles": "Nao gerar."
+  },
+  "negative_prompt": [
+    "mateo de mascara",
+    "beijo",
+    "letreiro de taxi",
+    "placa de carro legivel",
+    "outras pessoas",
+    "personagem falando de frente para a camera",
+    "roupa de um personagem em outro",
+    "momento parado sem fala",
+    "texto ou letras em qualquer lugar",
+    "nome ou idade de personagem escrito na tela",
+    "letreiro de apresentacao de personagem (lower third)",
+    "palavra inventada no ultimo plano",
+    "fala repetida",
+    "fala adiantada ou atrasada para outro plano",
+    "personagem falando ou olhando para quem nao e o destinatario da fala",
+    "fala neutra ou monotona",
+    "rosto neutro ou expressao vazia",
+    "voz sem rosto na tela",
+    "tela dividida",
+    "colagem",
+    "formato horizontal",
+    "bordas pretas",
+    "palavras em ingles",
+    "palavras em portugues",
+    "duas vozes simultaneas",
+    "movimento labial do ouvinte",
+    "fala cortada, encurtada ou incompleta",
+    "personagem olhando para a camera",
+    "mudanca de rosto",
+    "mudanca de roupa",
+    "legendas",
+    "logotipo",
+    "marca-d'agua"
+  ]
+}
+```
+
+**Depois de gerar este clipe, salve os frames:**
+- **FRAME_ALFINETERO:** frame do clipe 7, ultimo plano (por volta do segundo 9): o alfineteiro branco caido num degrau de marmore molhado a noite.
