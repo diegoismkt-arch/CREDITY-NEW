@@ -149,3 +149,12 @@ Os OCULOS ESCUROS na cabeça da PAOLA apareceram na cabeça da DONA LUPE nos doi
 "dona lupe de oculos". O negativo citando o objeto parece até reforçar. Regra: não dar acessório "solto"
 (óculos na cabeça, chapéu, lenço) a um personagem quando outro está em close; se o objeto pular, TIRAR o objeto
 da descrição de todo mundo em vez de proibir no negativo.
+
+## Referência "El anillo de mi hija" (15 s, enviada pelo usuário)
+Restaurante de luxo. Segurança segura uma menina suja pelos ombros diante de um senhor rico: "Señor, la
+encontramos robando pan." → "Solo tenía hambre." → ele: "¿Qué escondes ahí?" → ela abre um paninho → INSERT
+longo (≈2,5 s) de um anel de esmeralda → close dele mudando de raiva para choque: "Este anillo era de mi hija."
+→ "¿Dónde está tu madre?" → ela, chorando: "Mamá me dijo que buscara a mi abuelo." (fim, sem resolver).
+O que funciona: acusação injusta no 1º segundo; reconhecimento por OBJETO (não por rosto); o objeto ganha insert
+longo e brilhante; o poderoso passa de juiz a vítima do segredo; última fala revela o parentesco e abre 2
+perguntas (onde está a mãe? por que sumiu?). Usa criança → para o nosso Flow, trocar por jovem adulta.
