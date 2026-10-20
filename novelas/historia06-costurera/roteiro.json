@@ -9,7 +9,8 @@
     "FRAME_REGINA": "frame do clipe 1, plano 3 (por volta do segundo 5,5): close de REGINA ruiva de vestido prata, mascara prata na mao, lustres ao fundo.",
     "FRAME_ESCADARIA": "frame do clipe 1, plano 4 (por volta do segundo 7,5): a grande escadaria de marmore vazia com o canhao de luz.",
     "FRAME_MATEO": "frame do clipe 2, plano 5 (por volta do segundo 7,5): close de MATEO de mascara preta e smoking preto.",
-    "FRAME_VALERIA_MOLHADA": "frame do clipe 3, plano 5 (por volta do segundo 7,5): close de VALERIA sorrindo timida, vestido vermelho, alfineteiro branco no pulso."
+    "FRAME_VALERIA_MOLHADA": "frame do clipe 3, plano 5 (por volta do segundo 7,5): close de VALERIA sorrindo timida, vestido vermelho, alfineteiro branco no pulso.",
+    "FRAME_BRUNO": "frame do clipe 4, plano 3 (por volta do segundo 4,5): close de BRUNO de smoking branco rindo (por volta do segundo 4,2)."
   },
   "personagens": {
     "VALERIA": {
@@ -28,6 +29,11 @@
       "descricao": "homem de 30 anos, rosto comum e desconhecido, pele morena clara, queixo quadrado, barba curta bem aparada, uma cicatriz pequena no queixo, cabelo PRETO curto penteado para tras, SMOKING PRETO com gravata borboleta preta, MASCARA veneziana PRETA lisa cobrindo os olhos e o alto do nariz.",
       "voz": "Voz masculina grave, calma e firme de homem de 30 anos.",
       "frame": "FRAME_MATEO"
+    },
+    "BRUNO": {
+      "descricao": "homem rico de 28 anos, irmao de REGINA, rosto comum e desconhecido, pele clara avermelhada, rosto largo, nariz adunco, olhos pequenos, cabelo CASTANHO-CLARO ondulado e bagunçado, SMOKING BRANCO com gravata borboleta preta, sem mascara, um pouco bebado.",
+      "voz": "Voz masculina alta, arrogante e debochada de homem de 28 anos.",
+      "frame": "FRAME_BRUNO"
     }
   },
   "clips": [
@@ -346,6 +352,125 @@
           "rosto": "MATEO: sorriso misterioso de canto por tras da mascara preta.",
           "corpo": "MATEO: guarda o lenco no bolso do smoking sem soltar a mao dela.",
           "camera": "Corte seco. Tight close-up de MATEO de mascara preta, head and upper shoulders, lente 85mm. O clipe termina neste rosto."
+        }
+      ]
+    },
+    {
+      "nome": "A briga e a torre de taças",
+      "atuacao": "Novela dramatica com acao. Atuacao FORTE com contraste: BRUNO arrogante, bebado e debochado; MATEO calmo, frio e firme, sem gritar, protegendo VALERIA; REGINA em panico no grito. Plateia chocada. Rostos muito expressivos. Nenhum momento parado.",
+      "imagens": [
+        "FRAME_MATEO",
+        "FRAME_VALERIA_MOLHADA",
+        "FRAME_REGINA"
+      ],
+      "personagens": [
+        "BRUNO",
+        "MATEO",
+        "VALERIA",
+        "REGINA"
+      ],
+      "posicoes": {
+        "MATEO": "na ESQUERDA do quadro, na frente de VALERIA, protegendo-a, olhando para a DIREITA, para BRUNO",
+        "VALERIA": "atras de MATEO, mais a ESQUERDA, assustada",
+        "BRUNO": "chega pela DIREITA, SEMPRE na DIREITA do quadro, olhando para a ESQUERDA, para MATEO",
+        "REGINA": "so aparece no plano 5, na DIREITA, no meio da plateia"
+      },
+      "preservar_extra": [
+        "O MESMO MATEO da imagem 1, a MESMA VALERIA da imagem 2 e a MESMA REGINA da imagem 3, com as mesmas roupas e o MESMO salao de baile de mascaras.",
+        "A mascara preta NUNCA sai do rosto de MATEO.",
+        "BRUNO e um personagem NOVO, criado pela descricao, de smoking BRANCO, sem mascara.",
+        "O vestido vermelho de VALERIA tem a manga direita RASGADA e caida, mostrando o ombro; o alfineteiro branco no pulso esquerdo.",
+        "Ao lado deles, uma TORRE alta de tacas de champanhe numa mesa redonda.",
+        "Convidados mascarados em roda, observando.",
+        "Nenhum letreiro, faixa, placa ou letra no salao ou nas roupas."
+      ],
+      "cenario": "O MESMO salao, logo depois. BRUNO, irmao de REGINA, ja bebado, atravessa a plateia para tirar satisfacao com o mascarado que humilhou a irma.",
+      "som": "Murmurio tenso, o empurrao, o soco no ar, a torre de tacas DESABANDO com estrondo de vidro quebrando, gritos dos convidados.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida",
+        "trilha sonora"
+      ],
+      "negativos_extra": [
+        "mascara de MATEO saindo do rosto",
+        "mateo gritando",
+        "mateo batendo em bruno no chao",
+        "sangue",
+        "vestido de VALERIA inteiro sem rasgo",
+        "letras ou faixas no salao",
+        "personagem falando de frente para a camera",
+        "roupa de um personagem em outro",
+        "momento parado sem fala"
+      ],
+      "salvar_frames": [
+        "FRAME_BRUNO"
+      ],
+      "planos": [
+        {
+          "quem": "BRUNO",
+          "para": "MATEO",
+          "fala": "¡Quítate la máscara, cobarde!",
+          "emocao": 10,
+          "eyeline": "BRUNO olha para a ESQUERDA do quadro, para MATEO, cujo ombro de smoking preto esta em primeiro plano. NAO olha para a camera.",
+          "intencao": "Provocar e humilhar o mascarado.",
+          "voz": "Voz masculina alta, arrogante, um pouco enrolada de bebado.",
+          "rosto": "BRUNO: sorriso de deboche, olhos vermelhos.",
+          "corpo": "BRUNO: no primeiro instante EMPURRA o peito de MATEO com as duas maos.",
+          "camera": "Over-the-Shoulder: ombro do smoking preto de MATEO desfocado em primeiro plano a ESQUERDA; BRUNO nitido a DIREITA empurrando, plateia ao fundo, lente 50mm."
+        },
+        {
+          "quem": "MATEO",
+          "para": "BRUNO",
+          "fala": "Primero, discúlpate con ella.",
+          "emocao": 9,
+          "eyeline": "MATEO olha para a DIREITA do quadro, para BRUNO, cujo ombro de smoking branco esta em primeiro plano. NAO olha para a camera.",
+          "intencao": "Exigir respeito, frio e firme.",
+          "voz": "Voz masculina grave, baixa, cortante.",
+          "rosto": "MATEO: olhar gelado por tras da mascara preta.",
+          "corpo": "MATEO: nao se mexe com o empurrao; estende o braco para tras protegendo VALERIA, que aparece assustada atras dele.",
+          "camera": "Corte seco. Over-the-Shoulder reverso: ombro do smoking branco de BRUNO desfocado em primeiro plano a DIREITA; MATEO nitido a ESQUERDA, VALERIA atras dele, medium close-up, lente 75mm."
+        },
+        {
+          "quem": "BRUNO",
+          "para": "MATEO",
+          "fala": "¿Con la costurera? ¡Jamás!",
+          "emocao": 10,
+          "eyeline": "BRUNO olha para a ESQUERDA do quadro, para MATEO. NAO olha para a camera.",
+          "intencao": "Desprezar e partir para a briga.",
+          "voz": "Voz masculina alta, rindo, depois raivosa.",
+          "rosto": "BRUNO: gargalhada que vira raiva.",
+          "corpo": "BRUNO: ri e no fim da frase arma um soco.",
+          "camera": "Corte seco. Tight close-up de BRUNO, head and upper shoulders, lustres em Bokeh atras, lente 75mm."
+        },
+        {
+          "rosto": "BRUNO: susto. MATEO: concentrado. Bocas FECHADAS.",
+          "corpo": "MATEO desvia do soco, torce o braco de BRUNO e o empurra; BRUNO cambaleia para tras e cai em cima da torre de tacas de champanhe, que DESABA inteira, vidro e champanhe voando.",
+          "camera": "Corte seco. Wide Shot da acao, plateia recuando, Slow Motion na queda da torre de tacas, lente 35mm. Ninguem fala.",
+          "segundos": 1.4
+        },
+        {
+          "quem": "REGINA",
+          "para": "BRUNO",
+          "fala": "¡Bruno!",
+          "emocao": 10,
+          "eyeline": "REGINA olha para BAIXO, para BRUNO caido no chao. NAO olha para a camera.",
+          "intencao": "Panico ao ver o irmao no chao.",
+          "voz": "Voz feminina aguda, grito de panico.",
+          "rosto": "REGINA: boca aberta no grito, maos no rosto.",
+          "corpo": "REGINA: no meio da plateia, com a mascara prata caindo da mao.",
+          "camera": "Corte seco. Close-up de REGINA, head and upper shoulders, plateia mascarada atras, lente 75mm."
+        },
+        {
+          "quem": "MATEO",
+          "para": "BRUNO",
+          "fala": "Ahora sí. Pídele perdón.",
+          "emocao": 9,
+          "eyeline": "MATEO olha para BAIXO, para BRUNO caido no chao entre os vidros. NAO olha para a camera.",
+          "intencao": "Encerrar com autoridade, sem gritar.",
+          "voz": "Voz masculina grave, baixa e firme.",
+          "rosto": "MATEO: olhar frio por tras da mascara preta.",
+          "corpo": "MATEO de pe, ajeitando o punho do smoking; BRUNO no chao, encharcado de champanhe, entre tacas quebradas.",
+          "camera": "Corte seco. High Angle por cima do ombro de MATEO: BRUNO no chao entre os vidros, olhando para cima, assustado; o rosto de MATEO de perfil em primeiro plano, lente 50mm. O clipe termina nesta imagem."
         }
       ]
     }

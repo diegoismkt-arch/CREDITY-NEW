@@ -552,4 +552,206 @@ Referências, nesta ordem: 1) FRAME_VALERIA; 2) FRAME_MATEO
 ```
 
 **Depois de gerar este clipe, salve os frames:**
-- **FRAME_VALERIA_MOLHADA:** frame do clipe 3, plano 5 (por volta do segundo 7,5): close de VALERIA molhada sorrindo timida, manga rasgada.
+- **FRAME_VALERIA_MOLHADA:** frame do clipe 3, plano 5 (por volta do segundo 7,5): close de VALERIA sorrindo timida, vestido vermelho, alfineteiro branco no pulso.
+
+## Clipe 4 — A briga e a torre de taças
+
+clipe 4: 9.3s, 7.9s de fala (17 palavras, 6 planos, falantes: BRUNO, MATEO, REGINA) ✅
+
+Referências, nesta ordem: 1) FRAME_MATEO; 2) FRAME_VALERIA_MOLHADA; 3) FRAME_REGINA
+
+```json
+{
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica com acao. Atuacao FORTE com contraste: BRUNO arrogante, bebado e debochado; MATEO calmo, frio e firme, sem gritar, protegendo VALERIA; REGINA em panico no grito. Plateia chocada. Rostos muito expressivos. Nenhum momento parado.",
+  "input_image": {
+    "required": false,
+    "mode": "Ingredients to Video, sem primeiro frame.",
+    "additional_references": true,
+    "reference_images": [
+      "Imagem 1 — frame do clipe 2, plano 5 (por volta do segundo 7,5): close de MATEO de mascara preta e smoking preto.",
+      "Imagem 2 — frame do clipe 3, plano 5 (por volta do segundo 7,5): close de VALERIA sorrindo timida, vestido vermelho, alfineteiro branco no pulso.",
+      "Imagem 3 — frame do clipe 1, plano 3 (por volta do segundo 5,5): close de REGINA ruiva de vestido prata, mascara prata na mao, lustres ao fundo."
+    ],
+    "preserve_exactly": [
+      "BRUNO: homem rico de 28 anos, irmao de REGINA, rosto comum e desconhecido, pele clara avermelhada, rosto largo, nariz adunco, olhos pequenos, cabelo CASTANHO-CLARO ondulado e bagunçado, SMOKING BRANCO com gravata borboleta preta, sem mascara, um pouco bebado.",
+      "MATEO: o MESMO rosto da imagem 1, homem de 30 anos, rosto comum e desconhecido, pele morena clara, queixo quadrado, barba curta bem aparada, uma cicatriz pequena no queixo, cabelo PRETO curto penteado para tras, SMOKING PRETO com gravata borboleta preta, MASCARA veneziana PRETA lisa cobrindo os olhos e o alto do nariz.",
+      "VALERIA: costureira de 24 anos, rosto comum de moca do bairro, pele morena, rosto redondo, nariz largo, sobrancelhas grossas, uma pinta pequena acima do labio, olhos castanhos, cabelo CASTANHO-ESCURO ondulado e solto, sem joias, VESTIDO VERMELHO longo de cetim com mangas caidas no ombro, feito a mao, alfineteiro de pulso (pulseira com uma almofadinha BRANCA redonda cheia de alfinetes de cabeca colorida) no pulso esquerdo.",
+      "REGINA: o MESMO rosto da imagem 3, mulher rica de 26 anos, rosto comum e desconhecido, pele clara com SARDAS no nariz, rosto fino, queixo pontudo, cabelo RUIVO-ACOBREADO preso em coque alto, batom nude, VESTIDO PRATA tomara-que-caia, colar de diamantes, mascara veneziana PRATA com cabo na mao.",
+      "O MESMO MATEO da imagem 1, a MESMA VALERIA da imagem 2 e a MESMA REGINA da imagem 3, com as mesmas roupas e o MESMO salao de baile de mascaras.",
+      "A mascara preta NUNCA sai do rosto de MATEO.",
+      "BRUNO e um personagem NOVO, criado pela descricao, de smoking BRANCO, sem mascara.",
+      "O vestido vermelho de VALERIA tem a manga direita RASGADA e caida, mostrando o ombro; o alfineteiro branco no pulso esquerdo.",
+      "Ao lado deles, uma TORRE alta de tacas de champanhe numa mesa redonda.",
+      "Convidados mascarados em roda, observando.",
+      "Nenhum letreiro, faixa, placa ou letra no salao ou nas roupas."
+    ]
+  },
+  "scene": {
+    "title": "LA COSTURERA",
+    "duration_seconds": 9.4,
+    "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
+    "structure": "6 planos de cinema em tela cheia, ligados por cortes secos. 5 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "style": "Novela romantica e dramatica, cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Baile de mascaras de gala a noite no salao de uma mansao: lustres de cristal dourados, cortinas de veludo, piso de marmore brilhante, flores brancas, convidados de gala com mascaras venezianas. Luz quente dourada, Eye Light nos closes, Shallow Focus, cortes rapidos.",
+    "setting": "O MESMO salao, logo depois. BRUNO, irmao de REGINA, ja bebado, atravessa a plateia para tirar satisfacao com o mascarado que humilhou a irma.",
+    "blocking": [
+      "MATEO: na ESQUERDA do quadro, na frente de VALERIA, protegendo-a, olhando para a DIREITA, para BRUNO",
+      "VALERIA: atras de MATEO, mais a ESQUERDA, assustada",
+      "BRUNO: chega pela DIREITA, SEMPRE na DIREITA do quadro, olhando para a ESQUERDA, para MATEO",
+      "REGINA: so aparece no plano 5, na DIREITA, no meio da plateia"
+    ],
+    "characters": {
+      "BRUNO": "homem rico de 28 anos, irmao de REGINA, rosto comum e desconhecido, pele clara avermelhada, rosto largo, nariz adunco, olhos pequenos, cabelo CASTANHO-CLARO ondulado e bagunçado, SMOKING BRANCO com gravata borboleta preta, sem mascara, um pouco bebado. Personagem ficticio. Voz masculina alta, arrogante e debochada de homem de 28 anos.",
+      "MATEO": "O MESMO da imagem 1. Personagem ficticio. Voz masculina grave, calma e firme de homem de 30 anos.",
+      "VALERIA": "costureira de 24 anos, rosto comum de moca do bairro, pele morena, rosto redondo, nariz largo, sobrancelhas grossas, uma pinta pequena acima do labio, olhos castanhos, cabelo CASTANHO-ESCURO ondulado e solto, sem joias, VESTIDO VERMELHO longo de cetim com mangas caidas no ombro, feito a mao, alfineteiro de pulso (pulseira com uma almofadinha BRANCA redonda cheia de alfinetes de cabeca colorida) no pulso esquerdo. Personagem ficticia. Voz feminina doce, humilde e firme de mulher de 24 anos.",
+      "REGINA": "A MESMA da imagem 3. Personagem ficticia. Voz feminina aguda, esnobe e cruel de mulher de 26 anos."
+    }
+  },
+  "timeline": [
+    {
+      "time": "00:00.00-00:01.68",
+      "speaker": "BRUNO",
+      "dialogue": "¡Quítate la máscara, cobarde!",
+      "addressee": "MATEO",
+      "eyeline": "BRUNO olha para a ESQUERDA do quadro, para MATEO, cujo ombro de smoking preto esta em primeiro plano. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Provocar e humilhar o mascarado.",
+      "voice": "Voz masculina alta, arrogante, um pouco enrolada de bebado.",
+      "face": "BRUNO: sorriso de deboche, olhos vermelhos.",
+      "body": "BRUNO: no primeiro instante EMPURRA o peito de MATEO com as duas maos.",
+      "camera": "Over-the-Shoulder: ombro do smoking preto de MATEO desfocado em primeiro plano a ESQUERDA; BRUNO nitido a DIREITA empurrando, plateia ao fundo, lente 50mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente BRUNO movimenta os labios."
+    },
+    {
+      "time": "00:01.68-00:03.36",
+      "speaker": "MATEO",
+      "dialogue": "Primero, discúlpate con ella.",
+      "addressee": "BRUNO",
+      "eyeline": "MATEO olha para a DIREITA do quadro, para BRUNO, cujo ombro de smoking branco esta em primeiro plano. NAO olha para a camera.",
+      "emotion_level": 9,
+      "intention": "Exigir respeito, frio e firme.",
+      "voice": "Voz masculina grave, baixa, cortante.",
+      "face": "MATEO: olhar gelado por tras da mascara preta.",
+      "body": "MATEO: nao se mexe com o empurrao; estende o braco para tras protegendo VALERIA, que aparece assustada atras dele.",
+      "camera": "Corte seco. Over-the-Shoulder reverso: ombro do smoking branco de BRUNO desfocado em primeiro plano a DIREITA; MATEO nitido a ESQUERDA, VALERIA atras dele, medium close-up, lente 75mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente MATEO movimenta os labios."
+    },
+    {
+      "time": "00:03.36-00:05.04",
+      "speaker": "BRUNO",
+      "dialogue": "¿Con la costurera? ¡Jamás!",
+      "addressee": "MATEO",
+      "eyeline": "BRUNO olha para a ESQUERDA do quadro, para MATEO. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Desprezar e partir para a briga.",
+      "voice": "Voz masculina alta, rindo, depois raivosa.",
+      "face": "BRUNO: gargalhada que vira raiva.",
+      "body": "BRUNO: ri e no fim da frase arma um soco.",
+      "camera": "Corte seco. Tight close-up de BRUNO, head and upper shoulders, lustres em Bokeh atras, lente 75mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente BRUNO movimenta os labios."
+    },
+    {
+      "time": "00:05.04-00:06.44",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "BRUNO: susto. MATEO: concentrado. Bocas FECHADAS.",
+      "body": "MATEO desvia do soco, torce o braco de BRUNO e o empurra; BRUNO cambaleia para tras e cai em cima da torre de tacas de champanhe, que DESABA inteira, vidro e champanhe voando.",
+      "camera": "Corte seco. Wide Shot da acao, plateia recuando, Slow Motion na queda da torre de tacas, lente 35mm. Ninguem fala.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    },
+    {
+      "time": "00:06.44-00:07.64",
+      "speaker": "REGINA",
+      "dialogue": "¡Bruno!",
+      "addressee": "BRUNO",
+      "eyeline": "REGINA olha para BAIXO, para BRUNO caido no chao. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Panico ao ver o irmao no chao.",
+      "voice": "Voz feminina aguda, grito de panico.",
+      "face": "REGINA: boca aberta no grito, maos no rosto.",
+      "body": "REGINA: no meio da plateia, com a mascara prata caindo da mao.",
+      "camera": "Corte seco. Close-up de REGINA, head and upper shoulders, plateia mascarada atras, lente 75mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente REGINA movimenta os labios."
+    },
+    {
+      "time": "00:07.64-00:09.33",
+      "speaker": "MATEO",
+      "dialogue": "Ahora sí. Pídele perdón.",
+      "addressee": "BRUNO",
+      "eyeline": "MATEO olha para BAIXO, para BRUNO caido no chao entre os vidros. NAO olha para a camera.",
+      "emotion_level": 9,
+      "intention": "Encerrar com autoridade, sem gritar.",
+      "voice": "Voz masculina grave, baixa e firme.",
+      "face": "MATEO: olhar frio por tras da mascara preta.",
+      "body": "MATEO de pe, ajeitando o punho do smoking; BRUNO no chao, encharcado de champanhe, entre tacas quebradas.",
+      "camera": "Corte seco. High Angle por cima do ombro de MATEO: BRUNO no chao entre os vidros, olhando para cima, assustado; o rosto de MATEO de perfil em primeiro plano, lente 50mm. O clipe termina nesta imagem. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente MATEO movimenta os labios."
+    }
+  ],
+  "dialogue_rules": {
+    "language": "Espanol de Mexico, acento mexicano natural, TODAS as palavras em espanhol.",
+    "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
+    "total_dialogue_lines": 5,
+    "exact_order": [
+      "BRUNO",
+      "MATEO",
+      "BRUNO",
+      "REGINA",
+      "MATEO"
+    ],
+    "rules": [
+      "So existem 5 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "A ultima fala termina junto com o video.",
+      "Cada fala e dirigida a: BRUNO -> MATEO; MATEO -> BRUNO; BRUNO -> MATEO; REGINA -> BRUNO; MATEO -> BRUNO.",
+      "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
+      "Nao repetir, misturar, traduzir ou acrescentar palavras.",
+      "Cada frase e dita INTEIRA, do comeco ao fim."
+    ]
+  },
+  "audio": {
+    "single_voice_at_a_time": true,
+    "sound": "Murmurio tenso, o empurrao, o soco no ar, a torre de tacas DESABANDO com estrondo de vidro quebrando, gritos dos convidados.",
+    "music": "Nenhuma.",
+    "narration": "Nenhuma.",
+    "subtitles": "Nao gerar."
+  },
+  "negative_prompt": [
+    "mascara de MATEO saindo do rosto",
+    "mateo gritando",
+    "mateo batendo em bruno no chao",
+    "sangue",
+    "vestido de VALERIA inteiro sem rasgo",
+    "letras ou faixas no salao",
+    "personagem falando de frente para a camera",
+    "roupa de um personagem em outro",
+    "momento parado sem fala",
+    "texto ou letras em qualquer lugar",
+    "nome ou idade de personagem escrito na tela",
+    "letreiro de apresentacao de personagem (lower third)",
+    "palavra inventada no ultimo plano",
+    "fala repetida",
+    "fala adiantada ou atrasada para outro plano",
+    "personagem falando ou olhando para quem nao e o destinatario da fala",
+    "fala neutra ou monotona",
+    "rosto neutro ou expressao vazia",
+    "voz sem rosto na tela",
+    "tela dividida",
+    "colagem",
+    "formato horizontal",
+    "bordas pretas",
+    "palavras em ingles",
+    "palavras em portugues",
+    "duas vozes simultaneas",
+    "movimento labial do ouvinte",
+    "fala cortada, encurtada ou incompleta",
+    "personagem olhando para a camera",
+    "mudanca de rosto",
+    "mudanca de roupa",
+    "legendas",
+    "logotipo",
+    "marca-d'agua"
+  ]
+}
+```
+
+**Depois de gerar este clipe, salve os frames:**
+- **FRAME_BRUNO:** frame do clipe 4, plano 3 (por volta do segundo 4,5): close de BRUNO de smoking branco rindo (por volta do segundo 4,2).
