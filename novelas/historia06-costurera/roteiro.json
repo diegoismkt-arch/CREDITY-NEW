@@ -11,7 +11,8 @@
     "FRAME_MATEO": "frame do clipe 2, plano 5 (por volta do segundo 7,5): close de MATEO de mascara preta e smoking preto.",
     "FRAME_VALERIA_MOLHADA": "frame do clipe 3, plano 5 (por volta do segundo 7,5): close de VALERIA sorrindo timida, vestido vermelho, alfineteiro branco no pulso.",
     "FRAME_BRUNO": "frame do clipe 4, plano 3 (por volta do segundo 3,8): close de BRUNO de smoking branco gritando.",
-    "FRAME_MATEO_ROSTO": "frame do clipe 5, plano 5 (por volta do segundo 7): close de MATEO SEM mascara, smoking preto, cicatriz na testa."
+    "FRAME_MATEO_ROSTO": "frame do clipe 5, plano 5 (por volta do segundo 7): close de MATEO SEM mascara, smoking preto, cicatriz na testa.",
+    "FRAME_VALERIA_EMOCIONADA": "frame do clipe 6, plano 3 (por volta do segundo 4,4): close de VALERIA emocionada, mao no peito, vestido vermelho."
   },
   "personagens": {
     "VALERIA": {
@@ -575,6 +576,116 @@
       "descricoes": {
         "MATEO": "homem de 30 anos, rosto comum e desconhecido, pele morena clara, queixo quadrado, barba curta bem aparada, uma cicatriz pequena no queixo, cabelo PRETO curto penteado para tras, SMOKING PRETO com gravata borboleta preta; comeca com a MASCARA veneziana PRETA e a tira no plano 2."
       }
+    },
+    {
+      "nome": "Por ella + meia-noite",
+      "atuacao": "Novela dramatica. Atuacao FORTE com contraste: REGINA humilhada e venenosa, gritando; MATEO firme, sem gritar, com ternura ao olhar VALERIA; VALERIA emocionada e depois em PANICO, fugindo. Rostos muito expressivos. Nenhum momento parado.",
+      "imagens": [
+        "FRAME_REGINA",
+        "FRAME_MATEO_ROSTO",
+        "FRAME_VALERIA_MOLHADA"
+      ],
+      "personagens": [
+        "REGINA",
+        "MATEO",
+        "VALERIA"
+      ],
+      "descricoes": {
+        "MATEO": "homem de 30 anos, rosto comum e desconhecido, pele morena clara, queixo quadrado, barba curta bem aparada, uma cicatriz pequena na testa, acima da sobrancelha, cabelo PRETO curto penteado para tras, SMOKING PRETO com gravata borboleta preta, SEM mascara, com a mascara preta na mao."
+      },
+      "posicoes": {
+        "MATEO": "SEMPRE na ESQUERDA do quadro, olhando para a DIREITA, para REGINA",
+        "VALERIA": "atras de MATEO, na ESQUERDA, um pouco afastada",
+        "REGINA": "SEMPRE na DIREITA do quadro, olhando para a ESQUERDA"
+      },
+      "preservar_extra": [
+        "A MESMA REGINA da imagem 1, o MESMO MATEO da imagem 2 e a MESMA VALERIA da imagem 3, com as mesmas roupas e o MESMO salao de baile de mascaras.",
+        "MATEO esta SEM mascara o clipe inteiro.",
+        "O vestido vermelho de VALERIA tem a manga direita RASGADA; o alfineteiro branco no pulso esquerdo.",
+        "Ao fundo, cacos de taca no piso e convidados mascarados em roda.",
+        "Nenhum relogio, letreiro, faixa, placa ou letra no salao ou nas roupas."
+      ],
+      "cenario": "O MESMO salao, logo depois de MATEO romper o noivado. REGINA explode. A familia de REGINA e cliente de VALERIA. Quando os sinos da meia-noite comecam a tocar, VALERIA, apavorada, foge.",
+      "som": "Murmurio chocado da plateia; no plano 5, as badaladas FORTES dos sinos da meia-noite comecam a ecoar no salao.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida",
+        "trilha sonora"
+      ],
+      "negativos_extra": [
+        "mateo de mascara",
+        "relogio com numeros",
+        "beijo",
+        "letras ou faixas no salao",
+        "personagem falando de frente para a camera",
+        "roupa de um personagem em outro",
+        "momento parado sem fala"
+      ],
+      "salvar_frames": [
+        "FRAME_VALERIA_EMOCIONADA"
+      ],
+      "planos": [
+        {
+          "quem": "REGINA",
+          "para": "MATEO",
+          "fala": "¡¿Por ella?! ¡Es una costurera!",
+          "emocao": 10,
+          "eyeline": "REGINA olha para a ESQUERDA do quadro, para MATEO, cujo ombro de smoking preto esta em primeiro plano. NAO olha para a camera.",
+          "intencao": "Humilhada, desprezar VALERIA com nojo.",
+          "voz": "Voz feminina aguda, gritando, com nojo.",
+          "rosto": "REGINA: olhos cheios de lagrimas de raiva, boca torcida.",
+          "corpo": "REGINA: no primeiro instante aponta para VALERIA com a mascara prata.",
+          "camera": "Over-the-Shoulder: ombro do smoking preto de MATEO desfocado em primeiro plano a ESQUERDA; REGINA nitida a DIREITA apontando, plateia ao fundo, lente 50mm."
+        },
+        {
+          "quem": "MATEO",
+          "para": "REGINA",
+          "fala": "Es lo único real aquí.",
+          "emocao": 9,
+          "eyeline": "MATEO olha para a DIREITA do quadro, para REGINA, e no fim vira o olhar para VALERIA atras dele. NAO olha para a camera.",
+          "intencao": "Defender VALERIA com firmeza e ternura.",
+          "voz": "Voz masculina grave, firme, suave no fim.",
+          "rosto": "MATEO: olhar duro para REGINA que vira ternura ao olhar VALERIA.",
+          "corpo": "MATEO: estende a mao para tras, para VALERIA.",
+          "camera": "Corte seco. Over-the-Shoulder reverso: ombro prateado de REGINA desfocado em primeiro plano a DIREITA; MATEO nitido a ESQUERDA, VALERIA desfocada atras dele, medium close-up, lente 75mm."
+        },
+        {
+          "rosto": "VALERIA: emocionada, os olhos marejados, a mao no peito. Boca FECHADA.",
+          "corpo": "VALERIA: imovel, sem acreditar.",
+          "camera": "Corte seco. Reaction shot: tight close-up de VALERIA, olhando para a DIREITA, para MATEO, lente 85mm. Ninguem fala.",
+          "segundos": 0.6
+        },
+        {
+          "quem": "REGINA",
+          "para": "VALERIA",
+          "fala": "¡Y tú, mañana te quedas sin trabajo!",
+          "emocao": 10,
+          "eyeline": "REGINA olha para a ESQUERDA do quadro, para VALERIA. NAO olha para a camera.",
+          "intencao": "Ameacar e destruir VALERIA.",
+          "voz": "Voz feminina aguda, cruel, cuspindo as palavras.",
+          "rosto": "REGINA: olhar de odio, sorriso torto.",
+          "corpo": "REGINA: da um passo na direcao de VALERIA.",
+          "camera": "Corte seco. Tight close-up de REGINA, head and upper shoulders, Low Angle, lente 75mm."
+        },
+        {
+          "rosto": "VALERIA: PANICO nos olhos. Boca FECHADA.",
+          "corpo": "Os sinos da meia-noite comecam a tocar; VALERIA levanta a saia do vestido vermelho e CORRE pela plateia em direcao a saida, sem olhar para tras.",
+          "camera": "Corte seco. Medium Wide Shot de VALERIA correndo entre os convidados mascarados, Handheld, lente 35mm. Ninguem fala.",
+          "segundos": 1.2
+        },
+        {
+          "quem": "MATEO",
+          "para": "VALERIA",
+          "fala": "¡Espera!",
+          "emocao": 10,
+          "eyeline": "MATEO olha para a ESQUERDA do quadro, para VALERIA que foge. NAO olha para a camera.",
+          "intencao": "Implorar que ela fique.",
+          "voz": "Voz masculina alta, desesperada.",
+          "rosto": "MATEO: desespero, sobrancelhas erguidas.",
+          "corpo": "MATEO: estende o braco e comeca a correr atras dela.",
+          "camera": "Corte seco. Medium close-up de MATEO, lustres atras, lente 50mm. O clipe termina com ele saindo do quadro pela ESQUERDA."
+        }
+      ]
     }
   ]
 }

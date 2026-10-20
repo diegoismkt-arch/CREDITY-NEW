@@ -192,7 +192,7 @@ Referências, nesta ordem: 1) FRAME_VALERIA; 2) FRAME_REGINA
     "preserve_exactly": [
       "REGINA: o MESMO rosto da imagem 2, mulher rica de 26 anos, rosto comum e desconhecido, pele clara com SARDAS no nariz, rosto fino, queixo pontudo, cabelo RUIVO-ACOBREADO preso em coque alto, batom nude, VESTIDO PRATA tomara-que-caia, colar de diamantes, mascara veneziana PRATA com cabo na mao.",
       "VALERIA: o MESMO rosto da imagem 1, costureira de 24 anos, rosto comum de moca do bairro, pele morena, rosto redondo, nariz largo, sobrancelhas grossas, uma pinta pequena acima do labio, olhos castanhos, cabelo CASTANHO-ESCURO ondulado e solto, sem joias, VESTIDO VERMELHO longo de cetim com mangas caidas no ombro, feito a mao, alfineteiro de pulso (pulseira com uma almofadinha BRANCA redonda cheia de alfinetes de cabeca colorida) no pulso esquerdo.",
-      "MATEO: homem de 30 anos, rosto comum e desconhecido, pele morena clara, queixo quadrado, barba curta bem aparada, uma cicatriz pequena no queixo, cabelo PRETO curto penteado para tras, SMOKING PRETO com gravata borboleta preta, MASCARA veneziana PRETA lisa cobrindo os olhos e o alto do nariz.",
+      "MATEO: homem de 30 anos, rosto comum e desconhecido, pele morena clara, queixo quadrado, barba curta bem aparada, uma cicatriz pequena na testa, acima da sobrancelha, cabelo PRETO curto penteado para tras, SMOKING PRETO com gravata borboleta preta, MASCARA veneziana PRETA lisa cobrindo os olhos e o alto do nariz.",
       "A MESMA VALERIA da imagem 1 e a MESMA REGINA da imagem 2, com as mesmas roupas e o MESMO salao de baile de mascaras.",
       "A manga direita do vestido vermelho de VALERIA continua RASGADA, pendurada no braco; o alfineteiro branco no pulso esquerdo.",
       "REGINA segura a mascara prata na mao esquerda e a taca de champanhe na mao direita.",
@@ -216,7 +216,7 @@ Referências, nesta ordem: 1) FRAME_VALERIA; 2) FRAME_REGINA
     "characters": {
       "REGINA": "A MESMA da imagem 2. Personagem ficticia. Voz feminina aguda, esnobe e cruel de mulher de 26 anos.",
       "VALERIA": "A MESMA da imagem 1. Personagem ficticia. Voz feminina doce, humilde e firme de mulher de 24 anos.",
-      "MATEO": "homem de 30 anos, rosto comum e desconhecido, pele morena clara, queixo quadrado, barba curta bem aparada, uma cicatriz pequena no queixo, cabelo PRETO curto penteado para tras, SMOKING PRETO com gravata borboleta preta, MASCARA veneziana PRETA lisa cobrindo os olhos e o alto do nariz. Personagem ficticio. Voz masculina grave, calma e firme de homem de 30 anos."
+      "MATEO": "homem de 30 anos, rosto comum e desconhecido, pele morena clara, queixo quadrado, barba curta bem aparada, uma cicatriz pequena na testa, acima da sobrancelha, cabelo PRETO curto penteado para tras, SMOKING PRETO com gravata borboleta preta, MASCARA veneziana PRETA lisa cobrindo os olhos e o alto do nariz. Personagem ficticio. Voz masculina grave, calma e firme de homem de 30 anos."
     }
   },
   "timeline": [
@@ -379,7 +379,7 @@ Referências, nesta ordem: 1) FRAME_VALERIA; 2) FRAME_MATEO
       "Imagem 2 — frame do clipe 2, plano 5 (por volta do segundo 7,5): close de MATEO de mascara preta e smoking preto."
     ],
     "preserve_exactly": [
-      "MATEO: o MESMO rosto da imagem 2, homem de 30 anos, rosto comum e desconhecido, pele morena clara, queixo quadrado, barba curta bem aparada, uma cicatriz pequena no queixo, cabelo PRETO curto penteado para tras, SMOKING PRETO com gravata borboleta preta, MASCARA veneziana PRETA lisa cobrindo os olhos e o alto do nariz.",
+      "MATEO: o MESMO rosto da imagem 2, homem de 30 anos, rosto comum e desconhecido, pele morena clara, queixo quadrado, barba curta bem aparada, uma cicatriz pequena na testa, acima da sobrancelha, cabelo PRETO curto penteado para tras, SMOKING PRETO com gravata borboleta preta, MASCARA veneziana PRETA lisa cobrindo os olhos e o alto do nariz.",
       "VALERIA: o MESMO rosto da imagem 1, costureira de 24 anos, rosto comum de moca do bairro, pele morena, rosto redondo, nariz largo, sobrancelhas grossas, uma pinta pequena acima do labio, olhos castanhos, cabelo CASTANHO-ESCURO ondulado e solto, sem joias, VESTIDO VERMELHO longo de cetim com mangas caidas no ombro, feito a mao, alfineteiro de pulso (pulseira com uma almofadinha BRANCA redonda cheia de alfinetes de cabeca colorida) no pulso esquerdo.",
       "A MESMA VALERIA da imagem 1 e o MESMO MATEO da imagem 2, com as mesmas roupas e o MESMO salao de baile de mascaras.",
       "VALERIA continua MOLHADA de champanhe, cabelo umido, e a manga direita do vestido vermelho RASGADA; o alfineteiro branco no pulso esquerdo.",
@@ -574,7 +574,7 @@ Referências, nesta ordem: 1) FRAME_MATEO; 2) FRAME_VALERIA_MOLHADA; 3) FRAME_RE
     ],
     "preserve_exactly": [
       "BRUNO: homem rico de 28 anos, irmao de REGINA, rosto comum e desconhecido, pele clara avermelhada, rosto largo, nariz adunco, olhos pequenos, cabelo CASTANHO-CLARO ondulado e bagunçado, SMOKING BRANCO com gravata borboleta preta, sem mascara, um pouco bebado.",
-      "MATEO: o MESMO rosto da imagem 1, homem de 30 anos, rosto comum e desconhecido, pele morena clara, queixo quadrado, barba curta bem aparada, uma cicatriz pequena no queixo, cabelo PRETO curto penteado para tras, SMOKING PRETO com gravata borboleta preta, MASCARA veneziana PRETA lisa cobrindo os olhos e o alto do nariz.",
+      "MATEO: o MESMO rosto da imagem 1, homem de 30 anos, rosto comum e desconhecido, pele morena clara, queixo quadrado, barba curta bem aparada, uma cicatriz pequena na testa, acima da sobrancelha, cabelo PRETO curto penteado para tras, SMOKING PRETO com gravata borboleta preta, MASCARA veneziana PRETA lisa cobrindo os olhos e o alto do nariz.",
       "VALERIA: costureira de 24 anos, rosto comum de moca do bairro, pele morena, rosto redondo, nariz largo, sobrancelhas grossas, uma pinta pequena acima do labio, olhos castanhos, cabelo CASTANHO-ESCURO ondulado e solto, sem joias, VESTIDO VERMELHO longo de cetim com mangas caidas no ombro, feito a mao, alfineteiro de pulso (pulseira com uma almofadinha BRANCA redonda cheia de alfinetes de cabeca colorida) no pulso esquerdo.",
       "REGINA: o MESMO rosto da imagem 3, mulher rica de 26 anos, rosto comum e desconhecido, pele clara com SARDAS no nariz, rosto fino, queixo pontudo, cabelo RUIVO-ACOBREADO preso em coque alto, batom nude, VESTIDO PRATA tomara-que-caia, colar de diamantes, mascara veneziana PRATA com cabo na mao.",
       "O MESMO MATEO da imagem 1, a MESMA VALERIA da imagem 2 e a MESMA REGINA da imagem 3, com as mesmas roupas e o MESMO salao de baile de mascaras.",
@@ -930,4 +930,193 @@ Referências, nesta ordem: 1) FRAME_REGINA; 2) FRAME_MATEO
 ```
 
 **Depois de gerar este clipe, salve os frames:**
-- **FRAME_MATEO_ROSTO:** frame do clipe 5, plano 5 (por volta do segundo 7): close de MATEO SEM mascara, smoking preto.
+- **FRAME_MATEO_ROSTO:** frame do clipe 5, plano 5 (por volta do segundo 7): close de MATEO SEM mascara, smoking preto, cicatriz na testa.
+
+## Clipe 6 — Por ella + meia-noite
+
+clipe 6: 9.9s, 8.1s de fala (18 palavras, 6 planos, falantes: REGINA, MATEO) ✅
+
+Referências, nesta ordem: 1) FRAME_REGINA; 2) FRAME_MATEO_ROSTO; 3) FRAME_VALERIA_MOLHADA
+
+```json
+{
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao FORTE com contraste: REGINA humilhada e venenosa, gritando; MATEO firme, sem gritar, com ternura ao olhar VALERIA; VALERIA emocionada e depois em PANICO, fugindo. Rostos muito expressivos. Nenhum momento parado.",
+  "input_image": {
+    "required": false,
+    "mode": "Ingredients to Video, sem primeiro frame.",
+    "additional_references": true,
+    "reference_images": [
+      "Imagem 1 — frame do clipe 1, plano 3 (por volta do segundo 5,5): close de REGINA ruiva de vestido prata, mascara prata na mao, lustres ao fundo.",
+      "Imagem 2 — frame do clipe 5, plano 5 (por volta do segundo 7): close de MATEO SEM mascara, smoking preto, cicatriz na testa.",
+      "Imagem 3 — frame do clipe 3, plano 5 (por volta do segundo 7,5): close de VALERIA sorrindo timida, vestido vermelho, alfineteiro branco no pulso."
+    ],
+    "preserve_exactly": [
+      "REGINA: o MESMO rosto da imagem 1, mulher rica de 26 anos, rosto comum e desconhecido, pele clara com SARDAS no nariz, rosto fino, queixo pontudo, cabelo RUIVO-ACOBREADO preso em coque alto, batom nude, VESTIDO PRATA tomara-que-caia, colar de diamantes, mascara veneziana PRATA com cabo na mao.",
+      "MATEO: homem de 30 anos, rosto comum e desconhecido, pele morena clara, queixo quadrado, barba curta bem aparada, uma cicatriz pequena na testa, acima da sobrancelha, cabelo PRETO curto penteado para tras, SMOKING PRETO com gravata borboleta preta, SEM mascara, com a mascara preta na mao.",
+      "VALERIA: costureira de 24 anos, rosto comum de moca do bairro, pele morena, rosto redondo, nariz largo, sobrancelhas grossas, uma pinta pequena acima do labio, olhos castanhos, cabelo CASTANHO-ESCURO ondulado e solto, sem joias, VESTIDO VERMELHO longo de cetim com mangas caidas no ombro, feito a mao, alfineteiro de pulso (pulseira com uma almofadinha BRANCA redonda cheia de alfinetes de cabeca colorida) no pulso esquerdo.",
+      "A MESMA REGINA da imagem 1, o MESMO MATEO da imagem 2 e a MESMA VALERIA da imagem 3, com as mesmas roupas e o MESMO salao de baile de mascaras.",
+      "MATEO esta SEM mascara o clipe inteiro.",
+      "O vestido vermelho de VALERIA tem a manga direita RASGADA; o alfineteiro branco no pulso esquerdo.",
+      "Ao fundo, cacos de taca no piso e convidados mascarados em roda.",
+      "Nenhum relogio, letreiro, faixa, placa ou letra no salao ou nas roupas."
+    ]
+  },
+  "scene": {
+    "title": "LA COSTURERA",
+    "duration_seconds": 9.9,
+    "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
+    "structure": "6 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "style": "Novela romantica e dramatica, cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Baile de mascaras de gala a noite no salao de uma mansao: lustres de cristal dourados, cortinas de veludo, piso de marmore brilhante, flores brancas, convidados de gala com mascaras venezianas. Luz quente dourada, Eye Light nos closes, Shallow Focus, cortes rapidos.",
+    "setting": "O MESMO salao, logo depois de MATEO romper o noivado. REGINA explode. A familia de REGINA e cliente de VALERIA. Quando os sinos da meia-noite comecam a tocar, VALERIA, apavorada, foge.",
+    "blocking": [
+      "MATEO: SEMPRE na ESQUERDA do quadro, olhando para a DIREITA, para REGINA",
+      "VALERIA: atras de MATEO, na ESQUERDA, um pouco afastada",
+      "REGINA: SEMPRE na DIREITA do quadro, olhando para a ESQUERDA"
+    ],
+    "characters": {
+      "REGINA": "A MESMA da imagem 1. Personagem ficticia. Voz feminina aguda, esnobe e cruel de mulher de 26 anos.",
+      "MATEO": "homem de 30 anos, rosto comum e desconhecido, pele morena clara, queixo quadrado, barba curta bem aparada, uma cicatriz pequena na testa, acima da sobrancelha, cabelo PRETO curto penteado para tras, SMOKING PRETO com gravata borboleta preta, SEM mascara, com a mascara preta na mao. Personagem ficticio. Voz masculina grave, calma e firme de homem de 30 anos.",
+      "VALERIA": "costureira de 24 anos, rosto comum de moca do bairro, pele morena, rosto redondo, nariz largo, sobrancelhas grossas, uma pinta pequena acima do labio, olhos castanhos, cabelo CASTANHO-ESCURO ondulado e solto, sem joias, VESTIDO VERMELHO longo de cetim com mangas caidas no ombro, feito a mao, alfineteiro de pulso (pulseira com uma almofadinha BRANCA redonda cheia de alfinetes de cabeca colorida) no pulso esquerdo. Personagem ficticia. Voz feminina doce, humilde e firme de mulher de 24 anos."
+    }
+  },
+  "timeline": [
+    {
+      "time": "00:00.00-00:02.05",
+      "speaker": "REGINA",
+      "dialogue": "¡¿Por ella?! ¡Es una costurera!",
+      "addressee": "MATEO",
+      "eyeline": "REGINA olha para a ESQUERDA do quadro, para MATEO, cujo ombro de smoking preto esta em primeiro plano. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Humilhada, desprezar VALERIA com nojo.",
+      "voice": "Voz feminina aguda, gritando, com nojo.",
+      "face": "REGINA: olhos cheios de lagrimas de raiva, boca torcida.",
+      "body": "REGINA: no primeiro instante aponta para VALERIA com a mascara prata.",
+      "camera": "Over-the-Shoulder: ombro do smoking preto de MATEO desfocado em primeiro plano a ESQUERDA; REGINA nitida a DIREITA apontando, plateia ao fundo, lente 50mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente REGINA movimenta os labios."
+    },
+    {
+      "time": "00:02.05-00:04.10",
+      "speaker": "MATEO",
+      "dialogue": "Es lo único real aquí.",
+      "addressee": "REGINA",
+      "eyeline": "MATEO olha para a DIREITA do quadro, para REGINA, e no fim vira o olhar para VALERIA atras dele. NAO olha para a camera.",
+      "emotion_level": 9,
+      "intention": "Defender VALERIA com firmeza e ternura.",
+      "voice": "Voz masculina grave, firme, suave no fim.",
+      "face": "MATEO: olhar duro para REGINA que vira ternura ao olhar VALERIA.",
+      "body": "MATEO: estende a mao para tras, para VALERIA.",
+      "camera": "Corte seco. Over-the-Shoulder reverso: ombro prateado de REGINA desfocado em primeiro plano a DIREITA; MATEO nitido a ESQUERDA, VALERIA desfocada atras dele, medium close-up, lente 75mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente MATEO movimenta os labios."
+    },
+    {
+      "time": "00:04.10-00:04.70",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "VALERIA: emocionada, os olhos marejados, a mao no peito. Boca FECHADA.",
+      "body": "VALERIA: imovel, sem acreditar.",
+      "camera": "Corte seco. Reaction shot: tight close-up de VALERIA, olhando para a DIREITA, para MATEO, lente 85mm. Ninguem fala.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    },
+    {
+      "time": "00:04.70-00:07.50",
+      "speaker": "REGINA",
+      "dialogue": "¡Y tú, mañana te quedas sin trabajo!",
+      "addressee": "VALERIA",
+      "eyeline": "REGINA olha para a ESQUERDA do quadro, para VALERIA. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Ameacar e destruir VALERIA.",
+      "voice": "Voz feminina aguda, cruel, cuspindo as palavras.",
+      "face": "REGINA: olhar de odio, sorriso torto.",
+      "body": "REGINA: da um passo na direcao de VALERIA.",
+      "camera": "Corte seco. Tight close-up de REGINA, head and upper shoulders, Low Angle, lente 75mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente REGINA movimenta os labios."
+    },
+    {
+      "time": "00:07.50-00:08.70",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "VALERIA: PANICO nos olhos. Boca FECHADA.",
+      "body": "Os sinos da meia-noite comecam a tocar; VALERIA levanta a saia do vestido vermelho e CORRE pela plateia em direcao a saida, sem olhar para tras.",
+      "camera": "Corte seco. Medium Wide Shot de VALERIA correndo entre os convidados mascarados, Handheld, lente 35mm. Ninguem fala.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    },
+    {
+      "time": "00:08.70-00:09.90",
+      "speaker": "MATEO",
+      "dialogue": "¡Espera!",
+      "addressee": "VALERIA",
+      "eyeline": "MATEO olha para a ESQUERDA do quadro, para VALERIA que foge. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Implorar que ela fique.",
+      "voice": "Voz masculina alta, desesperada.",
+      "face": "MATEO: desespero, sobrancelhas erguidas.",
+      "body": "MATEO: estende o braco e comeca a correr atras dela.",
+      "camera": "Corte seco. Medium close-up de MATEO, lustres atras, lente 50mm. O clipe termina com ele saindo do quadro pela ESQUERDA. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente MATEO movimenta os labios."
+    }
+  ],
+  "dialogue_rules": {
+    "language": "Espanol de Mexico, acento mexicano natural, TODAS as palavras em espanhol.",
+    "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
+    "total_dialogue_lines": 4,
+    "exact_order": [
+      "REGINA",
+      "MATEO",
+      "REGINA",
+      "MATEO"
+    ],
+    "rules": [
+      "So existem 4 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "A ultima fala termina junto com o video.",
+      "Cada fala e dirigida a: REGINA -> MATEO; MATEO -> REGINA; REGINA -> VALERIA; MATEO -> VALERIA.",
+      "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
+      "Nao repetir, misturar, traduzir ou acrescentar palavras.",
+      "Cada frase e dita INTEIRA, do comeco ao fim."
+    ]
+  },
+  "audio": {
+    "single_voice_at_a_time": true,
+    "sound": "Murmurio chocado da plateia; no plano 5, as badaladas FORTES dos sinos da meia-noite comecam a ecoar no salao.",
+    "music": "Nenhuma.",
+    "narration": "Nenhuma.",
+    "subtitles": "Nao gerar."
+  },
+  "negative_prompt": [
+    "mateo de mascara",
+    "relogio com numeros",
+    "beijo",
+    "letras ou faixas no salao",
+    "personagem falando de frente para a camera",
+    "roupa de um personagem em outro",
+    "momento parado sem fala",
+    "texto ou letras em qualquer lugar",
+    "nome ou idade de personagem escrito na tela",
+    "letreiro de apresentacao de personagem (lower third)",
+    "palavra inventada no ultimo plano",
+    "fala repetida",
+    "fala adiantada ou atrasada para outro plano",
+    "personagem falando ou olhando para quem nao e o destinatario da fala",
+    "fala neutra ou monotona",
+    "rosto neutro ou expressao vazia",
+    "voz sem rosto na tela",
+    "tela dividida",
+    "colagem",
+    "formato horizontal",
+    "bordas pretas",
+    "palavras em ingles",
+    "palavras em portugues",
+    "duas vozes simultaneas",
+    "movimento labial do ouvinte",
+    "fala cortada, encurtada ou incompleta",
+    "personagem olhando para a camera",
+    "mudanca de rosto",
+    "mudanca de roupa",
+    "legendas",
+    "logotipo",
+    "marca-d'agua"
+  ]
+}
+```
+
+**Depois de gerar este clipe, salve os frames:**
+- **FRAME_VALERIA_EMOCIONADA:** frame do clipe 6, plano 3 (por volta do segundo 4,4): close de VALERIA emocionada, mao no peito, vestido vermelho.
