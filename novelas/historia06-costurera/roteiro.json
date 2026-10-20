@@ -42,7 +42,7 @@
     "HOMEM_SOMBRA": {
       "descricao": "homem desconhecido, o rosto TODO na sombra escura; so a BOCA e o queixo com barba por fazer aparecem num fio de luz; jaqueta de couro preta, celular preto no ouvido.",
       "voz": "Voz masculina MUITO rouca, grave e arrastada, irreconhecivel.",
-      "frame": "FRAME_REGINA"
+      "frame": "FRAME_HOMEM_SOMBRA"
     }
   },
   "clips": [
@@ -1060,7 +1060,7 @@
         "REGINA"
       ],
       "descricoes": {
-        "REGINA": "mulher rica de 26 anos, o MESMO rosto da imagem 1: pele clara com SARDAS no nariz, rosto fino, queixo pontudo, o MESMO cabelo RUIVO-ACOBREADO preso em COQUE ALTO, o MESMO colar de diamantes, um casaco preto por cima dos ombros, sentada no banco de tras de um carro preto, celular PRETO no ouvido."
+        "REGINA": "mulher rica de 26 anos, pele clara com SARDAS no nariz, rosto fino, queixo pontudo, o MESMO cabelo RUIVO-ACOBREADO preso em COQUE ALTO, o MESMO colar de diamantes, um casaco preto por cima dos ombros, sentada no banco de tras de um carro preto, celular PRETO no ouvido."
       },
       "posicoes": {
         "HOMEM_SOMBRA": "so no plano 1, sozinho num quarto escuro",

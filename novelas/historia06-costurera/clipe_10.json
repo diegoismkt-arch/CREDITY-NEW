@@ -8,8 +8,8 @@
       "Imagem 1 — frame do clipe 1, plano 3 (por volta do segundo 5,5): close de REGINA ruiva de vestido prata, mascara prata na mao, lustres ao fundo."
     ],
     "preserve_exactly": [
-      "HOMEM_SOMBRA: o MESMO rosto da imagem 1, homem desconhecido, o rosto TODO na sombra escura; so a BOCA e o queixo com barba por fazer aparecem num fio de luz; jaqueta de couro preta, celular preto no ouvido.",
-      "REGINA: o MESMO rosto da imagem 1, mulher rica de 26 anos, o MESMO rosto da imagem 1: pele clara com SARDAS no nariz, rosto fino, queixo pontudo, o MESMO cabelo RUIVO-ACOBREADO preso em COQUE ALTO, o MESMO colar de diamantes, um casaco preto por cima dos ombros, sentada no banco de tras de um carro preto, celular PRETO no ouvido.",
+      "HOMEM_SOMBRA: homem desconhecido, o rosto TODO na sombra escura; so a BOCA e o queixo com barba por fazer aparecem num fio de luz; jaqueta de couro preta, celular preto no ouvido.",
+      "REGINA: o MESMO rosto da imagem 1, mulher rica de 26 anos, pele clara com SARDAS no nariz, rosto fino, queixo pontudo, o MESMO cabelo RUIVO-ACOBREADO preso em COQUE ALTO, o MESMO colar de diamantes, um casaco preto por cima dos ombros, sentada no banco de tras de um carro preto, celular PRETO no ouvido.",
       "REGINA tem o MESMO rosto, o MESMO coque ruivo alto e o MESMO colar de diamantes da imagem 1: e a mesma mulher do baile. SEM oculos escuros.",
       "O rosto do HOMEM nunca aparece: so a boca e o queixo num fio de luz, o resto em sombra total.",
       "Celulares PRETOS simples, sem nenhuma letra na tela.",
@@ -28,7 +28,7 @@
       "REGINA: so no plano 2, no banco de tras do carro, olhando para a ESQUERDA, pela janela"
     ],
     "characters": {
-      "HOMEM_SOMBRA": "O MESMO da imagem 1. Personagem ficticio. Voz masculina MUITO rouca, grave e arrastada, irreconhecivel.",
+      "HOMEM_SOMBRA": "homem desconhecido, o rosto TODO na sombra escura; so a BOCA e o queixo com barba por fazer aparecem num fio de luz; jaqueta de couro preta, celular preto no ouvido. Personagem ficticio. Voz masculina MUITO rouca, grave e arrastada, irreconhecivel.",
       "REGINA": "A MESMA da imagem 1. Personagem ficticia. Voz feminina aguda, esnobe e cruel de mulher de 26 anos."
     }
   },
