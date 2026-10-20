@@ -1,0 +1,135 @@
+{
+  "titulo_post": "",
+  "legenda": "",
+  "texto_final": "Comenta PARTE 2 👇",
+  "titulo_interno": "LOS TAMALES",
+  "estilo": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Portao de ferro preto de uma mansao moderna numa rua de bairro rico, de dia, sol forte do meio-dia, sombras duras, calcada de pedra clara. Eye Light nos closes, Shallow Focus, cortes rapidos.",
+  "imagens": {
+    "FRAME_LUPE": "frame do clipe 1, plano 4 (por volta do segundo 7): close de DONA LUPE chorando, rebozo azul, trança grisalha.",
+    "FRAME_DANIEL": "frame do clipe 1, plano 3 (por volta do segundo 4,3): close de DANIEL de terno cinza claro.",
+    "FRAME_PAOLA": "frame do clipe 1, plano 1 (por volta do segundo 1): PAOLA de vestido branco no portao, por cima do ombro de DONA LUPE."
+  },
+  "personagens": {
+    "LUPE": {
+      "descricao": "senhora humilde de 68 anos, rosto comum e desconhecido, pele morena escura, rugas profundas, maos calejadas, cabelo GRISALHO numa trança longa, REBOZO AZUL nos ombros, vestido simples florido e desbotado, avental branco, uma panela grande de aluminio de tamales com um pano de prato por cima.",
+      "voz": "Voz feminina rouca, doce e cansada de senhora de 68 anos.",
+      "frame": "FRAME_LUPE",
+      "feminino": true
+    },
+    "DANIEL": {
+      "descricao": "homem de 35 anos, rosto comum e desconhecido, pele morena, rosto magro, nariz largo, olhos castanhos, barba curta, cabelo preto curto ondulado, TERNO CINZA CLARO sem gravata, camisa branca com o colarinho aberto. Traz uma mala pequena de viagem PRETA na mao.",
+      "voz": "Voz masculina grave e emocionada de homem de 35 anos.",
+      "frame": "FRAME_DANIEL"
+    },
+    "PAOLA": {
+      "descricao": "mulher rica de 38 anos, rosto comum e desconhecido, pele clara, nariz fino e comprido, cabelo CASTANHO liso com mechas loiras, oculos escuros na cabeca, VESTIDO BRANCO de grife, unhas longas vermelhas, pulseiras de ouro.",
+      "voz": "Voz feminina esnobe, aguda e cruel de mulher de 38 anos.",
+      "frame": "FRAME_PAOLA",
+      "feminino": true
+    }
+  },
+  "clips": [
+    {
+      "nome": "Os tamales no chão",
+      "atuacao": "Novela dramatica. Atuacao FORTE com contraste: PAOLA cruel e enojada; DONA LUPE humilhada, humilde, depois em choque e emocionada; DANIEL em choque, a voz quebrando, depois gelado. Rostos muito expressivos. Nenhum momento parado.",
+      "personagens": [
+        "PAOLA",
+        "LUPE",
+        "DANIEL"
+      ],
+      "posicoes": {
+        "LUPE": "na calcada, SEMPRE na ESQUERDA do quadro, olhando para a DIREITA",
+        "PAOLA": "no portao da mansao, SEMPRE na DIREITA do quadro, olhando para a ESQUERDA",
+        "DANIEL": "chega pela DIREITA, saindo de um carro preto parado na rua, e fica na DIREITA do quadro, olhando para a ESQUERDA, para DONA LUPE; PAOLA fica atras dele"
+      },
+      "preservar_extra": [
+        "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
+        "Depois do plano 1, a panela de tamales esta CAIDA na calcada e os tamales espalhados; DONA LUPE ajoelhada no chao.",
+        "O carro de DANIEL e um carro PRETO sem nenhuma letra ou placa legivel.",
+        "Nenhum letreiro, placa, numero ou letra na casa, no portao, no carro ou nas roupas."
+      ],
+      "cenario": "Na porta de uma mansao. DONA LUPE, uma senhora que vende tamales na rua, tocou o portao. PAOLA, a dona da casa, a expulsa. Nesse momento chega DANIEL, que acabou de voltar do exterior depois de anos.",
+      "som": "Rua tranquila de bairro rico, a panela de aluminio batendo na calcada, a porta do carro fechando.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida"
+      ],
+      "negativos_extra": [
+        "letras ou numeros na casa ou no carro",
+        "placa de carro legivel",
+        "dona lupe respondendo com raiva",
+        "daniel gritando",
+        "personagem falando de frente para a camera",
+        "roupa de um personagem em outro",
+        "momento parado sem fala"
+      ],
+      "salvar_frames": [
+        "FRAME_PAOLA",
+        "FRAME_LUPE",
+        "FRAME_DANIEL"
+      ],
+      "planos": [
+        {
+          "quem": "PAOLA",
+          "para": "LUPE",
+          "fala": "¡Lárguese! Aquí no se vende.",
+          "emocao": 10,
+          "eyeline": "PAOLA olha para a ESQUERDA do quadro, para DONA LUPE, cujo ombro com rebozo azul esta em primeiro plano. NAO olha para a camera.",
+          "intencao": "Humilhar e expulsar com nojo.",
+          "voz": "Voz feminina aguda, cruel, com nojo.",
+          "rosto": "PAOLA: nariz torcido de nojo, olhar de desprezo.",
+          "corpo": "PAOLA: no primeiro instante DA UM TAPA na panela de tamales, que cai na calcada e os tamales se espalham.",
+          "camera": "Over-the-Shoulder: ombro e trança grisalha de DONA LUPE desfocados em primeiro plano a ESQUERDA; PAOLA nitida a DIREITA no portao, derrubando a panela, lente 50mm."
+        },
+        {
+          "quem": "LUPE",
+          "para": "DANIEL",
+          "fala": "¿Daniel? ¿Hijo?",
+          "emocao": 10,
+          "eyeline": "DONA LUPE, ajoelhada no chao, olha para CIMA e para a DIREITA do quadro, para DANIEL que acabou de descer do carro. NAO olha para a camera.",
+          "intencao": "Reconhecer o filho, sem acreditar.",
+          "voz": "Voz feminina rouca, tremula, quase um sussurro.",
+          "rosto": "DONA LUPE: olhos se enchendo de lagrimas, boca tremendo.",
+          "corpo": "DONA LUPE: de joelhos na calcada, com um tamal na mao, olha para cima.",
+          "camera": "Corte seco. Over-the-Shoulder: ombro do terno cinza claro de DANIEL desfocado em primeiro plano a DIREITA; DONA LUPE nitida a ESQUERDA, de joelhos no chao, High Angle, close, lente 75mm."
+        },
+        {
+          "quem": "DANIEL",
+          "para": "LUPE",
+          "fala": "¿Mamá? ¿Vendiendo en la calle?",
+          "emocao": 10,
+          "eyeline": "DANIEL olha para BAIXO e para a ESQUERDA do quadro, para DONA LUPE. NAO olha para a camera.",
+          "intencao": "Choque e dor ao ver a mae assim.",
+          "voz": "Voz masculina grave, quebrando.",
+          "rosto": "DANIEL: olhos arregalados, o rosto desmoronando.",
+          "corpo": "DANIEL: deixa a mala cair e se ajoelha na frente dela.",
+          "camera": "Corte seco. Low Angle, close-up de DANIEL, head and upper shoulders, o carro preto e a mansao desfocados atras, lente 75mm."
+        },
+        {
+          "quem": "LUPE",
+          "para": "DANIEL",
+          "fala": "Tu hermano dijo que ya no mandabas.",
+          "emocao": 10,
+          "eyeline": "DONA LUPE olha para a DIREITA do quadro, para DANIEL, cujo ombro esta em primeiro plano. NAO olha para a camera.",
+          "intencao": "Contar a verdade, sem rancor, so com dor.",
+          "voz": "Voz feminina rouca, chorando baixinho.",
+          "rosto": "DONA LUPE: lagrimas escorrendo, um sorriso triste.",
+          "corpo": "DONA LUPE: toca o rosto de DANIEL com a mao calejada.",
+          "camera": "Corte seco. Over-the-Shoulder: ombro do terno cinza de DANIEL desfocado em primeiro plano a DIREITA; DONA LUPE nitida a ESQUERDA, close, lente 85mm."
+        },
+        {
+          "quem": "DANIEL",
+          "para": "LUPE",
+          "fala": "Mamá… yo mandaba dinero.",
+          "emocao": 10,
+          "eyeline": "DANIEL olha para DONA LUPE e no fim levanta o olhar devagar, para PAOLA no portao, na DIREITA. NAO olha para a camera.",
+          "intencao": "Entender a traicao, a dor virando raiva fria.",
+          "voz": "Voz masculina baixa, gelada, a garganta fechada.",
+          "rosto": "DANIEL: lagrimas nos olhos, mandibula travada, o olhar endurecendo.",
+          "corpo": "DANIEL: segura as maos da mae e levanta os olhos para a mansao.",
+          "camera": "Corte seco. Tight close-up de DANIEL, lente 85mm, Slow Push In. O clipe termina neste rosto."
+        }
+      ]
+    }
+  ]
+}
