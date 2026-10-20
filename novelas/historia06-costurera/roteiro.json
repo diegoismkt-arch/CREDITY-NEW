@@ -940,7 +940,7 @@
       "posicoes": {
         "VALERIA": "sentada na maquina de costura, SEMPRE na ESQUERDA do quadro, olhando para a DIREITA, para a porta",
         "MATEO": "na porta da oficina, SEMPRE na DIREITA do quadro, olhando para a ESQUERDA, para VALERIA",
-        "REGINA": "so aparece no ultimo plano, DENTRO de um carro preto estacionado na rua, vista pela janela do carro"
+        "REGINA": "so aparece nos DOIS ultimos planos, DENTRO de um carro preto estacionado na rua, vista pela janela do carro"
       },
       "preservar_extra": [
         "A MESMA VALERIA da imagem 1, o MESMO MATEO da imagem 2 e a MESMA REGINA da imagem 3, agora com as roupas descritas acima.",

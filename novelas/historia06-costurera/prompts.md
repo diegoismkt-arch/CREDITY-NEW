@@ -1552,7 +1552,7 @@ Referências, nesta ordem: 1) FRAME_VALERIA_EMOCIONADA; 2) FRAME_MATEO_DECIDIDO;
     "blocking": [
       "VALERIA: sentada na maquina de costura, SEMPRE na ESQUERDA do quadro, olhando para a DIREITA, para a porta",
       "MATEO: na porta da oficina, SEMPRE na DIREITA do quadro, olhando para a ESQUERDA, para VALERIA",
-      "REGINA: so aparece no ultimo plano, DENTRO de um carro preto estacionado na rua, vista pela janela do carro"
+      "REGINA: so aparece nos DOIS ultimos planos, DENTRO de um carro preto estacionado na rua, vista pela janela do carro"
     ],
     "characters": {
       "MATEO": "homem de 30 anos, o MESMO rosto: pele morena clara, queixo quadrado, barba curta, cicatriz pequena na testa acima da sobrancelha, cabelo PRETO curto penteado para tras, CAMISA BRANCA social com as mangas dobradas e CALCA ESCURA, o alfineteiro BRANCO na mao. Personagem ficticio. Voz masculina grave, calma e firme de homem de 30 anos.",
