@@ -1,6 +1,6 @@
 {
-  "titulo_post": "",
-  "legenda": "",
+  "titulo_post": "Le tiraron los tamales al suelo a una señora… sin saber que su hijo acababa de llegar 😱",
+  "legenda": "Por 5 años él mandó dinero para su mamá… y ella vendiendo tamales en la calle 😢\n\nSu propio hermano se lo quedaba todo.\n\n¿Qué hará Daniel con él? 👇\n\nComenta PARTE 2.\n\n#historias #novela #drama #familia #reflexiones #lahistoriaprincipal",
   "texto_final": "Comenta PARTE 2 👇",
   "titulo_interno": "LOS TAMALES",
   "estilo": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Portao de ferro preto de uma mansao moderna numa rua de bairro rico, de dia, sol forte do meio-dia, sombras duras, calcada de pedra clara. Eye Light nos closes, Shallow Focus, cortes rapidos.",
@@ -26,6 +26,11 @@
       "voz": "Voz feminina esnobe, aguda e cruel de mulher de 38 anos.",
       "frame": "FRAME_PAOLA",
       "feminino": true
+    },
+    "RAUL": {
+      "descricao": "homem de 42 anos, irmao mais velho de DANIEL, rosto comum e desconhecido, pele morena, rosto redondo e corpo acima do peso, entradas no cabelo preto, bigode grosso, CAMISA POLO AZUL-MARINHO cara, relogio de ouro grande, suando na testa.",
+      "voz": "Voz masculina nervosa e falsa de homem de 42 anos.",
+      "frame": "FRAME_RAUL"
     }
   },
   "clips": [
@@ -128,6 +133,112 @@
           "rosto": "DANIEL: lagrimas nos olhos, mandibula travada, o olhar endurecendo.",
           "corpo": "DANIEL: segura as maos da mae e levanta os olhos para a mansao.",
           "camera": "Corte seco. Tight close-up de DANIEL, lente 85mm, Slow Push In. O clipe termina neste rosto."
+        }
+      ]
+    },
+    {
+      "nome": "O cofre",
+      "estilo": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Escritorio de luxo dentro da mansao, de dia: estantes de madeira escura, mesa de mogno, um cofre de aco embutido na parede, luz do sol entrando pela janela em faixas. Eye Light nos closes, Shallow Focus, cortes rapidos.",
+      "atuacao": "Novela dramatica. Atuacao FORTE com contraste: RAUL nervoso, suando, mentindo; DANIEL frio, controlado, a raiva contida explodindo so no fim; DONA LUPE em choque, chorando em silencio; PAOLA palida. Rostos muito expressivos. Nenhum momento parado.",
+      "imagens": [
+        "FRAME_DANIEL",
+        "FRAME_LUPE",
+        "FRAME_PAOLA"
+      ],
+      "personagens": [
+        "RAUL",
+        "DANIEL",
+        "LUPE",
+        "PAOLA"
+      ],
+      "posicoes": {
+        "DANIEL": "SEMPRE na ESQUERDA do quadro, olhando para a DIREITA, para RAUL; DONA LUPE logo atras dele, tambem na ESQUERDA",
+        "RAUL": "perto do cofre na parede, SEMPRE na DIREITA do quadro, olhando para a ESQUERDA, para DANIEL; PAOLA atras dele, tambem na DIREITA"
+      },
+      "preservar_extra": [
+        "O MESMO DANIEL da imagem 1, a MESMA DONA LUPE da imagem 2 e a MESMA PAOLA da imagem 3, com as mesmas roupas do clipe anterior.",
+        "DONA LUPE continua com o REBOZO AZUL nos ombros e SEM oculos.",
+        "RAUL e um personagem NOVO, criado pela descricao.",
+        "Dentro do cofre: pilhas de MACOS DE DINHEIRO e dezenas de ENVELOPES fechados amarrados com elastico, SEM nenhuma letra visivel.",
+        "Nenhum letreiro, documento legivel, numero ou letra em lugar nenhum."
+      ],
+      "cenario": "Minutos depois, dentro do escritorio da mansao. DANIEL entrou com a mae; RAUL, o irmao, e PAOLA, a esposa dele, sao pegos de surpresa.",
+      "som": "Silencio tenso, o relogio da parede, o clique e o rangido da porta do cofre abrindo.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida"
+      ],
+      "negativos_extra": [
+        "dona lupe de oculos",
+        "dona lupe sem rebozo",
+        "letras ou numeros nos envelopes",
+        "documentos legiveis",
+        "daniel batendo em raul",
+        "personagem falando de frente para a camera",
+        "roupa de um personagem em outro",
+        "momento parado sem fala"
+      ],
+      "salvar_frames": [],
+      "planos": [
+        {
+          "quem": "RAUL",
+          "para": "DANIEL",
+          "fala": "Hermano… puedo explicarlo.",
+          "emocao": 10,
+          "eyeline": "RAUL olha para a ESQUERDA do quadro, para DANIEL, cujo ombro de terno cinza esta em primeiro plano. NAO olha para a camera.",
+          "intencao": "Se defender, mentindo, com medo.",
+          "voz": "Voz masculina nervosa, sorriso falso.",
+          "rosto": "RAUL: suando, sorriso amarelo, olhos fugindo.",
+          "corpo": "RAUL: no primeiro instante levanta as maos e da um passo para tras, encostando no cofre da parede.",
+          "camera": "Over-the-Shoulder: ombro do terno cinza claro de DANIEL desfocado em primeiro plano a ESQUERDA; RAUL nitido a DIREITA na frente do cofre, PAOLA palida atras dele, lente 50mm."
+        },
+        {
+          "quem": "DANIEL",
+          "para": "RAUL",
+          "fala": "Abre la caja fuerte.",
+          "emocao": 10,
+          "eyeline": "DANIEL olha para a DIREITA do quadro, para RAUL, cujo ombro de camisa polo esta em primeiro plano. NAO olha para a camera.",
+          "intencao": "Exigir a prova, frio e sem pressa.",
+          "voz": "Voz masculina baixa, gelada, firme.",
+          "rosto": "DANIEL: olhar duro, sem piscar.",
+          "corpo": "DANIEL: aponta o cofre com o queixo; DONA LUPE atras dele, segurando o braco do filho.",
+          "camera": "Corte seco. Over-the-Shoulder reverso: ombro da camisa polo azul-marinho de RAUL desfocado em primeiro plano a DIREITA; DANIEL nitido a ESQUERDA, DONA LUPE atras dele, close, lente 75mm."
+        },
+        {
+          "rosto": "Sem rostos.",
+          "corpo": "As maos tremulas de RAUL abrem a porta pesada do cofre: la dentro, pilhas de macos de dinheiro e dezenas de envelopes fechados amarrados com elastico.",
+          "camera": "Corte seco. Insert em escala real do cofre abrindo, Slow Zoom In ate o dinheiro e os envelopes ocuparem o quadro. Ninguem fala.",
+          "segundos": 1.5
+        },
+        {
+          "quem": "DANIEL",
+          "para": "RAUL",
+          "fala": "Cinco años robándole a nuestra madre.",
+          "emocao": 10,
+          "eyeline": "DANIEL olha para a DIREITA do quadro, para RAUL. NAO olha para a camera.",
+          "intencao": "Acusar, a voz quebrando de dor e raiva.",
+          "voz": "Voz masculina grave, tremendo de raiva contida.",
+          "rosto": "DANIEL: lagrimas nos olhos, mandibula travada.",
+          "corpo": "DANIEL: pega um envelope fechado do cofre e o aperta na mao.",
+          "camera": "Corte seco. Tight close-up de DANIEL, head and upper shoulders, luz da janela em faixas, lente 85mm."
+        },
+        {
+          "rosto": "DONA LUPE: a mao na boca, lagrimas escorrendo, olhando os envelopes. Boca FECHADA.",
+          "corpo": "DONA LUPE: imovel, tremendo.",
+          "camera": "Corte seco. Reaction shot: close-up de DONA LUPE, lente 85mm. Ninguem fala.",
+          "segundos": 0.6
+        },
+        {
+          "quem": "DANIEL",
+          "para": "RAUL",
+          "fala": "¡Que nadie salga de esta casa!",
+          "emocao": 10,
+          "eyeline": "DANIEL olha para a DIREITA do quadro, para RAUL e PAOLA. NAO olha para a camera.",
+          "intencao": "Dar a ordem final, explodindo.",
+          "voz": "Voz masculina forte, o grito que estava preso.",
+          "rosto": "DANIEL: furioso, os olhos vermelhos.",
+          "corpo": "DANIEL: joga o envelope na mesa de mogno; ao fundo, RAUL e PAOLA congelados, palidos.",
+          "camera": "Corte seco. Medium Shot de DANIEL a ESQUERDA, com RAUL e PAOLA palidos e desfocados a DIREITA ao fundo, Low Angle, lente 50mm. O video termina neste plano."
         }
       ]
     }
