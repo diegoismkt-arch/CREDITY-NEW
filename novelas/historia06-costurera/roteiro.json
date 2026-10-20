@@ -8,7 +8,8 @@
     "FRAME_VALERIA": "frame do clipe 1, plano 2 (por volta do segundo 2,7): VALERIA de vestido vermelho, mao no peito, alfineteiro branco no pulso, por cima do ombro de REGINA.",
     "FRAME_REGINA": "frame do clipe 1, plano 3 (por volta do segundo 5,5): close de REGINA ruiva de vestido prata, mascara prata na mao, lustres ao fundo.",
     "FRAME_ESCADARIA": "frame do clipe 1, plano 4 (por volta do segundo 7,5): a grande escadaria de marmore vazia com o canhao de luz.",
-    "FRAME_MATEO": "frame do clipe 2, plano 5 (por volta do segundo 8): close de MATEO de mascara preta e smoking preto."
+    "FRAME_MATEO": "frame do clipe 2, plano 5 (por volta do segundo 7,5): close de MATEO de mascara preta e smoking preto.",
+    "FRAME_VALERIA_MOLHADA": "frame do clipe 3, plano 5 (por volta do segundo 7,5): close de VALERIA molhada sorrindo timida, manga rasgada."
   },
   "personagens": {
     "VALERIA": {
@@ -233,6 +234,118 @@
           "corpo": "VALERIA: imovel, a mao no peito.",
           "camera": "Corte seco. Reaction shot: tight close-up de VALERIA olhando para cima, lente 85mm. Ninguem fala. O clipe termina neste rosto.",
           "segundos": 0.6
+        }
+      ]
+    },
+    {
+      "nome": "O lenço",
+      "atuacao": "Novela romantica. Atuacao FORTE e delicada com contraste: MATEO terno, voz baixa, olhar intenso por tras da mascara; VALERIA envergonhada e encharcada, a voz quebrando, se rendendo aos poucos ao carinho. Rostos muito expressivos. Nenhum momento parado.",
+      "imagens": [
+        "FRAME_VALERIA",
+        "FRAME_MATEO"
+      ],
+      "personagens": [
+        "MATEO",
+        "VALERIA"
+      ],
+      "posicoes": {
+        "VALERIA": "SEMPRE na ESQUERDA do quadro, olhando para a DIREITA, para MATEO",
+        "MATEO": "agora de frente para ela, SEMPRE na DIREITA do quadro, olhando para a ESQUERDA, para VALERIA"
+      },
+      "preservar_extra": [
+        "A MESMA VALERIA da imagem 1 e o MESMO MATEO da imagem 2, com as mesmas roupas e o MESMO salao de baile de mascaras.",
+        "VALERIA continua MOLHADA de champanhe, cabelo umido, e a manga direita do vestido vermelho RASGADA; o alfineteiro branco no pulso esquerdo.",
+        "A mascara preta NUNCA sai do rosto de MATEO.",
+        "MATEO segura um lenco BRANCO de tecido, sem nenhuma letra ou bordado.",
+        "Convidados mascarados ao fundo, desfocados, observando em silencio.",
+        "Nenhum letreiro, faixa, placa ou letra no salao ou nas roupas."
+      ],
+      "cenario": "O MESMO salao, logo depois. REGINA se afastou furiosa. O mascarado se vira para VALERIA e, pela primeira vez, alguem cuida dela.",
+      "som": "Murmurio baixo dos convidados ao fundo, a valsa voltando bem baixinho e distante.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida",
+        "trilha sonora"
+      ],
+      "negativos_extra": [
+        "mascara de MATEO saindo do rosto",
+        "beijo",
+        "letras ou bordado no lenco",
+        "regina aparecendo",
+        "letras ou faixas no salao",
+        "personagem falando de frente para a camera",
+        "roupa de um personagem em outro",
+        "momento parado sem fala"
+      ],
+      "salvar_frames": [
+        "FRAME_VALERIA_MOLHADA"
+      ],
+      "planos": [
+        {
+          "quem": "MATEO",
+          "para": "VALERIA",
+          "fala": "¿Por qué no te defiendes?",
+          "emocao": 8,
+          "eyeline": "MATEO olha para a ESQUERDA do quadro, para VALERIA. NAO olha para a camera.",
+          "intencao": "Entender, com carinho e indignacao.",
+          "voz": "Voz masculina baixa, suave e intensa.",
+          "rosto": "MATEO: olhar terno e preocupado por tras da mascara.",
+          "corpo": "MATEO: no primeiro instante seca o rosto molhado de VALERIA com o lenco branco, devagar.",
+          "camera": "Two-shot de perfil, VALERIA a ESQUERDA e MATEO a DIREITA, frente a frente, a mao dele com o lenco no rosto dela, lustres em Bokeh, lente 50mm, Slow Push In."
+        },
+        {
+          "quem": "VALERIA",
+          "para": "MATEO",
+          "fala": "Porque nadie me cree.",
+          "emocao": 9,
+          "eyeline": "VALERIA olha para a DIREITA do quadro, para cima, para MATEO, cujo ombro de smoking preto esta em primeiro plano. NAO olha para a camera.",
+          "intencao": "Confessar a dor de sempre ser desprezada.",
+          "voz": "Voz feminina baixa, quebrando no fim.",
+          "rosto": "VALERIA: olhos marejados, labios tremendo, um sorriso triste.",
+          "corpo": "VALERIA: abaixa o olhar e segura a manga rasgada.",
+          "camera": "Corte seco. Over-the-Shoulder: ombro do smoking preto de MATEO desfocado em primeiro plano a DIREITA; VALERIA nitida a ESQUERDA, close, head and upper shoulders, lente 75mm."
+        },
+        {
+          "quem": "MATEO",
+          "para": "VALERIA",
+          "fala": "Yo sí te creo.",
+          "emocao": 9,
+          "eyeline": "MATEO olha para a ESQUERDA do quadro, para baixo, para VALERIA, cujo ombro molhado esta em primeiro plano. NAO olha para a camera.",
+          "intencao": "Dar confianca, firme e doce.",
+          "voz": "Voz masculina baixa, firme, quase um sussurro.",
+          "rosto": "MATEO: meio sorriso sincero por tras da mascara.",
+          "corpo": "MATEO: segura a mao esquerda de VALERIA com delicadeza.",
+          "camera": "Corte seco. Over-the-Shoulder reverso: ombro molhado e cabelo castanho de VALERIA desfocados em primeiro plano a ESQUERDA; MATEO nitido a DIREITA, close, head and upper shoulders, lente 75mm."
+        },
+        {
+          "rosto": "Sem rostos.",
+          "corpo": "A mao de MATEO segurando a mao esquerda de VALERIA; o polegar dele toca o alfineteiro BRANCO cheio de alfinetes coloridos no pulso dela.",
+          "camera": "Corte seco. Insert em escala real das duas maos e do alfineteiro, Rack Focus no alfineteiro, luz dourada. Ninguem fala.",
+          "segundos": 0.8
+        },
+        {
+          "quem": "VALERIA",
+          "para": "MATEO",
+          "fala": "Ni sé quién eres.",
+          "emocao": 8,
+          "eyeline": "VALERIA olha para a DIREITA do quadro, para cima, para MATEO. NAO olha para a camera.",
+          "intencao": "Curiosidade e encanto, sem acreditar no que esta vivendo.",
+          "voz": "Voz feminina doce, baixinha, com um meio sorriso.",
+          "rosto": "VALERIA: um sorriso timido nasce entre as lagrimas.",
+          "corpo": "VALERIA: nao solta a mao dele.",
+          "camera": "Corte seco. Tight close-up de VALERIA, head and upper shoulders, lustres em Bokeh atras, lente 85mm."
+        },
+        {
+          "quem": "MATEO",
+          "para": "VALERIA",
+          "fala": "Esta noche, nadie lo sabe.",
+          "emocao": 8,
+          "eyeline": "MATEO olha para a ESQUERDA do quadro, para VALERIA. NAO olha para a camera.",
+          "intencao": "Guardar o segredo com charme e misterio.",
+          "voz": "Voz masculina baixa, misteriosa, com um sorriso na voz.",
+          "rosto": "MATEO: sorriso misterioso de canto por tras da mascara preta.",
+          "corpo": "MATEO: guarda o lenco no bolso do smoking sem soltar a mao dela.",
+          "camera": "Corte seco. Tight close-up de MATEO de mascara preta, head and upper shoulders, lente 85mm. O clipe termina neste rosto."
         }
       ]
     }
