@@ -132,3 +132,14 @@ Voz saindo do celular sobre plano sem boca: o Flow falhou 2x (fala incompleta / 
 curta, MOSTRAR quem fala do outro lado (rosto na sombra, só a boca num fio de luz) — com boca visível o Flow
 gera a fala. E trocar roupa/cabelo de um personagem (óculos, cabelo solto) fez o rosto não bater com o baile:
 manter penteado e acessório-marca (coque ruivo, colar) quando mudar a roupa.
+
+## Referência "¿Papá?" (15 s, enviada pelo usuário)
+Mansão à noite. A avó rica expulsa uma mulher pobre e a menina: "Váyanse antes de que alguien las vea." O dono
+entra com seguranças → a menina: "¿Papá?" → "La abuela dijo que estabas muerto." → a mãe: "Me dijo que habías
+muerto… y que el dinero dejó de llegar." → avó: "Andrés, esto no es lo que parece." → ele: "Abre la caja fuerte."
+"No." → INSERT do cofre com pastas/documentos (a prova) → "Tres años… robando el dinero que les enviaba." → ele
+se ajoelha ao lado da filha → "¡Que nadie se vaya!" (fim seco, sem resolução).
+O que funciona: segredo de família revelado em 2 s por uma palavra ("¿Papá?"); vilã da própria família com motivo
+(dinheiro); prova física num insert (cofre); herói muda de lado no meio do vídeo; plateia de seguranças; ~10 falas
+em 15 s, todas curtas; termina numa ORDEM que promete punição. Obs.: usa criança — no nosso Flow, evitar
+(filtro); trocar por filha/filho adulto ou mãe idosa.
