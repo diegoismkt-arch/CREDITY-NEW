@@ -1,0 +1,185 @@
+{
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela romantica. Atuacao FORTE com contraste: VALERIA triste e cansada, depois em choque, depois rindo entre lagrimas; MATEO terno, sorriso leve; REGINA fria e venenosa. Rostos muito expressivos. Nenhum momento parado.",
+  "input_image": {
+    "required": false,
+    "mode": "Ingredients to Video, sem primeiro frame.",
+    "additional_references": true,
+    "reference_images": [
+      "Imagem 1 — frame do clipe 6, plano 3 (por volta do segundo 4,4): close de VALERIA emocionada, mao no peito, vestido vermelho.",
+      "Imagem 2 — frame do clipe 8, plano 3 (por volta do segundo 5,5): MATEO no pe da escadaria olhando para cima, com o alfineteiro na mao.",
+      "Imagem 3 — frame do clipe 1, plano 3 (por volta do segundo 5,5): close de REGINA ruiva de vestido prata, mascara prata na mao, lustres ao fundo."
+    ],
+    "preserve_exactly": [
+      "MATEO: homem de 30 anos, o MESMO rosto: pele morena clara, queixo quadrado, barba curta, cicatriz pequena na testa acima da sobrancelha, cabelo PRETO curto penteado para tras, CAMISA BRANCA social com as mangas dobradas e CALCA ESCURA, o alfineteiro BRANCO na mao.",
+      "VALERIA: costureira de 24 anos, o MESMO rosto: pele morena, rosto redondo, nariz largo, sobrancelhas grossas, uma pinta pequena acima do labio, olhos inchados de chorar, cabelo CASTANHO-ESCURO preso num rabo de cavalo baixo, BLUSA de algodao BEGE simples e AVENTAL de costureira AZUL, fita metrica no pescoco, SEM alfineteiro no pulso.",
+      "REGINA: o MESMO rosto da imagem 3, mulher rica de 26 anos, o MESMO rosto: pele clara com SARDAS, rosto fino, queixo pontudo, cabelo RUIVO-ACOBREADO solto, OCULOS ESCUROS levantados na cabeca, CASACO PRETO elegante, sentada no banco de tras de um carro preto.",
+      "A MESMA VALERIA da imagem 1, o MESMO MATEO da imagem 2 e a MESMA REGINA da imagem 3, agora com as roupas descritas acima.",
+      "Na maquina de costura, VALERIA costura a manga RASGADA do mesmo VESTIDO VERMELHO de cetim do baile.",
+      "MATEO segura o MESMO alfineteiro BRANCO com alfinetes coloridos.",
+      "A vitrine, a porta e o carro NAO tem nenhum nome, letreiro, placa ou letra.",
+      "Nenhum letreiro, placa ou letra em lugar nenhum."
+    ]
+  },
+  "scene": {
+    "title": "LA COSTURERA",
+    "duration_seconds": 9.5,
+    "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
+    "structure": "6 planos de cinema em tela cheia, ligados por cortes secos. 5 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "style": "Novela romantica e dramatica, cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Oficina de costura humilde de bairro pela manha: paredes descascadas, maquina de costura antiga, rolos de tecido coloridos, um manequim, sininho de metal em cima da porta, vitrine de vidro SEM nenhuma letra dando para a rua. Luz natural quente do sol entrando pela vitrine, poeira no ar, Shallow Focus, cortes rapidos.",
+    "setting": "Na manha seguinte, na oficina humilde de VALERIA. Ela costura a manga rasgada do vestido vermelho quando o sininho da porta toca: e MATEO. Na rua, um carro preto parado observa.",
+    "blocking": [
+      "VALERIA: sentada na maquina de costura, SEMPRE na ESQUERDA do quadro, olhando para a DIREITA, para a porta",
+      "MATEO: na porta da oficina, SEMPRE na DIREITA do quadro, olhando para a ESQUERDA, para VALERIA",
+      "REGINA: so aparece no ultimo plano, DENTRO de um carro preto estacionado na rua, vista pela janela do carro"
+    ],
+    "characters": {
+      "MATEO": "homem de 30 anos, o MESMO rosto: pele morena clara, queixo quadrado, barba curta, cicatriz pequena na testa acima da sobrancelha, cabelo PRETO curto penteado para tras, CAMISA BRANCA social com as mangas dobradas e CALCA ESCURA, o alfineteiro BRANCO na mao. Personagem ficticio. Voz masculina grave, calma e firme de homem de 30 anos.",
+      "VALERIA": "costureira de 24 anos, o MESMO rosto: pele morena, rosto redondo, nariz largo, sobrancelhas grossas, uma pinta pequena acima do labio, olhos inchados de chorar, cabelo CASTANHO-ESCURO preso num rabo de cavalo baixo, BLUSA de algodao BEGE simples e AVENTAL de costureira AZUL, fita metrica no pescoco, SEM alfineteiro no pulso. Personagem ficticia. Voz feminina doce, humilde e firme de mulher de 24 anos.",
+      "REGINA": "A MESMA da imagem 3. Personagem ficticia. Voz feminina aguda, esnobe e cruel de mulher de 26 anos."
+    }
+  },
+  "timeline": [
+    {
+      "time": "00:00.00-00:01.68",
+      "speaker": "MATEO",
+      "dialogue": "Se te olvidó esto.",
+      "addressee": "VALERIA",
+      "eyeline": "MATEO olha para a ESQUERDA do quadro, para VALERIA na maquina de costura. NAO olha para a camera.",
+      "emotion_level": 8,
+      "intention": "Se reaproximar com carinho e leveza.",
+      "voice": "Voz masculina suave, com um sorriso.",
+      "face": "MATEO: sorriso terno, olhar de alivio por te-la encontrado.",
+      "body": "MATEO: no primeiro instante abre a porta, o sininho toca, e ele levanta o alfineteiro BRANCO na mao.",
+      "camera": "Over-the-Shoulder: ombro e rabo de cavalo de VALERIA desfocados em primeiro plano a ESQUERDA, a maquina e o vestido vermelho; MATEO nitido a DIREITA na porta com a luz do sol atras, lente 50mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente MATEO movimenta os labios."
+    },
+    {
+      "time": "00:01.68-00:02.48",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "Sem rostos.",
+      "body": "A mao de VALERIA solta a tesoura, que cai sobre o vestido vermelho na mesa de madeira.",
+      "camera": "Corte seco. Insert em escala real da tesoura caindo sobre o tecido vermelho, Slow Motion. Ninguem fala.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    },
+    {
+      "time": "00:02.48-00:03.79",
+      "speaker": "VALERIA",
+      "dialogue": "¿Cómo me encontraste?",
+      "addressee": "MATEO",
+      "eyeline": "VALERIA olha para a DIREITA do quadro, para cima, para MATEO, cujo ombro de camisa branca esta em primeiro plano. NAO olha para a camera.",
+      "emotion_level": 9,
+      "intention": "Choque e uma esperanca que ela nao quer sentir.",
+      "voice": "Voz feminina baixa, tremula, sem ar.",
+      "face": "VALERIA: olhos inchados arregalados, a mao na boca no fim da frase.",
+      "body": "VALERIA: se levanta devagar da maquina.",
+      "camera": "Corte seco. Over-the-Shoulder reverso: ombro da camisa branca de MATEO desfocado em primeiro plano a DIREITA; VALERIA nitida a ESQUERDA, close, head and upper shoulders, lente 75mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente VALERIA movimenta os labios."
+    },
+    {
+      "time": "00:03.79-00:06.59",
+      "speaker": "MATEO",
+      "dialogue": "Busqué en cada taller de la ciudad.",
+      "addressee": "VALERIA",
+      "eyeline": "MATEO olha para a ESQUERDA do quadro, para VALERIA, cujo ombro de blusa bege esta em primeiro plano. NAO olha para a camera.",
+      "emotion_level": 9,
+      "intention": "Mostrar que nao desistiu dela.",
+      "voice": "Voz masculina baixa, sincera, um pouco cansada.",
+      "face": "MATEO: sorriso cansado e apaixonado, olheiras de quem nao dormiu.",
+      "body": "MATEO: entra e coloca o alfineteiro na mao dela.",
+      "camera": "Corte seco. Over-the-Shoulder: ombro e rabo de cavalo de VALERIA desfocados em primeiro plano a ESQUERDA; MATEO nitido a DIREITA, close, head and upper shoulders, lente 75mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente MATEO movimenta os labios."
+    },
+    {
+      "time": "00:06.59-00:07.79",
+      "speaker": "VALERIA",
+      "dialogue": "Estás loco.",
+      "addressee": "MATEO",
+      "eyeline": "VALERIA olha para a DIREITA do quadro, para MATEO. NAO olha para a camera.",
+      "emotion_level": 9,
+      "intention": "Se render, rindo e chorando ao mesmo tempo.",
+      "voice": "Voz feminina rindo entre lagrimas.",
+      "face": "VALERIA: uma lagrima cai e um sorriso enorme nasce.",
+      "body": "VALERIA: aperta o alfineteiro contra o peito.",
+      "camera": "Corte seco. Tight close-up de VALERIA, luz do sol no rosto, lente 85mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente VALERIA movimenta os labios."
+    },
+    {
+      "time": "00:07.79-00:09.47",
+      "speaker": "REGINA",
+      "dialogue": "Disfrútalo, costurera… mientras dure.",
+      "addressee": "VALERIA",
+      "eyeline": "REGINA olha para a ESQUERDA, pela janela do carro, para a vitrine da oficina do outro lado da rua. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Prometer vinganca, fria e calma.",
+      "voice": "Voz feminina baixa, gelada, quase um sussurro.",
+      "face": "REGINA: sorriso frio e cruel, olhar de odio.",
+      "body": "REGINA: dentro do carro preto, abaixa devagar o vidro escuro da janela e observa.",
+      "camera": "Corte seco. Close-up de REGINA pela janela aberta do carro preto estacionado na rua, a vitrine da oficina desfocada ao fundo, lente 75mm. O video termina neste rosto. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente REGINA movimenta os labios."
+    }
+  ],
+  "dialogue_rules": {
+    "language": "Espanol de Mexico, acento mexicano natural, TODAS as palavras em espanhol.",
+    "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
+    "total_dialogue_lines": 5,
+    "exact_order": [
+      "MATEO",
+      "VALERIA",
+      "MATEO",
+      "VALERIA",
+      "REGINA"
+    ],
+    "rules": [
+      "So existem 5 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "A ultima fala termina junto com o video.",
+      "Cada fala e dirigida a: MATEO -> VALERIA; VALERIA -> MATEO; MATEO -> VALERIA; VALERIA -> MATEO; REGINA -> VALERIA.",
+      "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
+      "Nao repetir, misturar, traduzir ou acrescentar palavras.",
+      "Cada frase e dita INTEIRA, do comeco ao fim."
+    ]
+  },
+  "audio": {
+    "single_voice_at_a_time": true,
+    "sound": "O ruido da maquina de costura que PARA, o sininho da porta tocando, a tesoura caindo na mesa de madeira; no ultimo plano, o motor do carro ligado.",
+    "music": "Nenhuma.",
+    "narration": "Nenhuma.",
+    "subtitles": "Nao gerar."
+  },
+  "negative_prompt": [
+    "nome da loja na vitrine",
+    "letreiro na porta",
+    "smoking",
+    "beijo",
+    "valeria de vestido de festa",
+    "regina saindo do carro",
+    "personagem falando de frente para a camera",
+    "roupa de um personagem em outro",
+    "momento parado sem fala",
+    "texto ou letras em qualquer lugar",
+    "nome ou idade de personagem escrito na tela",
+    "letreiro de apresentacao de personagem (lower third)",
+    "palavra inventada no ultimo plano",
+    "fala repetida",
+    "fala adiantada ou atrasada para outro plano",
+    "personagem falando ou olhando para quem nao e o destinatario da fala",
+    "fala neutra ou monotona",
+    "rosto neutro ou expressao vazia",
+    "voz sem rosto na tela",
+    "tela dividida",
+    "colagem",
+    "formato horizontal",
+    "bordas pretas",
+    "palavras em ingles",
+    "palavras em portugues",
+    "duas vozes simultaneas",
+    "movimento labial do ouvinte",
+    "fala cortada, encurtada ou incompleta",
+    "personagem olhando para a camera",
+    "mudanca de rosto",
+    "mudanca de roupa",
+    "legendas",
+    "logotipo",
+    "marca-d'agua"
+  ]
+}
