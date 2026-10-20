@@ -704,17 +704,18 @@
         "MATEO": "homem de 30 anos, rosto comum e desconhecido, pele morena clara, queixo quadrado, barba curta bem aparada, uma cicatriz pequena na testa, acima da sobrancelha, cabelo PRETO curto penteado para tras, SMOKING PRETO com gravata borboleta preta, SEM mascara."
       },
       "posicoes": {
-        "VALERIA": "descendo a escadaria, SEMPRE na ESQUERDA do quadro e mais ABAIXO",
-        "MATEO": "no alto da escadaria, SEMPRE na DIREITA do quadro e mais ACIMA, descendo atras dela"
+        "VALERIA": "JA esta LA EMBAIXO, no ultimo degrau, ao lado do taxi, LONGE de MATEO; SEMPRE na ESQUERDA do quadro",
+        "MATEO": "so aparece no ALTO da escadaria, na porta, LONGE dela (uns 30 degraus de distancia); SEMPRE na DIREITA do quadro"
       },
       "preservar_extra": [
+        "DISTANCIA: VALERIA esta sempre LA EMBAIXO junto ao taxi e MATEO sempre LA EM CIMA ou descendo SOZINHO; os dois NUNCA correm juntos nem aparecem lado a lado.",
         "A MESMA VALERIA da imagem 1 e o MESMO MATEO da imagem 2, com as mesmas roupas.",
         "O vestido vermelho de VALERIA tem a manga direita RASGADA; o alfineteiro BRANCO no pulso esquerdo ate cair no plano 4.",
         "MATEO esta SEM mascara.",
         "O taxi e um carro velho BRANCO, SEM nenhum letreiro, placa legivel ou letra.",
         "Nenhum letreiro, placa ou letra em lugar nenhum."
       ],
-      "cenario": "Lado de fora da mansao, a meia-noite, garoa fina. VALERIA desce correndo a grande escadaria externa ate um taxi; MATEO sai pela porta do salao e corre atras dela.",
+      "cenario": "Lado de fora da mansao, a meia-noite, garoa fina. VALERIA saiu MUITO antes e JA chegou ao pe da grande escadaria externa, ao lado de um taxi. So entao MATEO aparece na porta, no alto. Eles NUNCA ficam perto um do outro: a escadaria inteira separa os dois o tempo todo.",
       "som": "Os sinos da meia-noite ainda ecoando, a garoa, os saltos nos degraus, a porta do taxi batendo, o motor arrancando.",
       "remover_negativos": [
         "dois rostos visiveis nos planos de fala",
@@ -729,7 +730,11 @@
         "outras pessoas",
         "personagem falando de frente para a camera",
         "roupa de um personagem em outro",
-        "momento parado sem fala"
+        "momento parado sem fala",
+        "os dois correndo juntos",
+        "mateo perto de valeria",
+        "mateo alcancando valeria",
+        "valeria e mateo lado a lado"
       ],
       "salvar_frames": [
         "FRAME_ALFINETERO"
@@ -740,24 +745,24 @@
           "para": "VALERIA",
           "fala": "¡Espera! ¡Dime tu nombre!",
           "emocao": 10,
-          "eyeline": "MATEO olha para BAIXO e para a ESQUERDA do quadro, para VALERIA descendo a escadaria. NAO olha para a camera.",
+          "eyeline": "MATEO olha para BAIXO, para VALERIA la longe no pe da escadaria. NAO olha para a camera.",
           "intencao": "Implorar, desesperado.",
           "voz": "Voz masculina alta, sem folego.",
           "rosto": "MATEO: desespero, sobrancelhas erguidas.",
-          "corpo": "MATEO: sai correndo pela porta iluminada no alto da escadaria, a mao estendida.",
-          "camera": "Medium Shot de MATEO no alto da escadaria, a porta do salao iluminada atras; VALERIA pequena e desfocada la embaixo a ESQUERDA, lente 50mm."
+          "corpo": "MATEO: sai pela porta iluminada no alto da escadaria e para no primeiro degrau, a mao estendida; la embaixo, MUITO LONGE, VALERIA ja esta ao lado do taxi.",
+          "camera": "Wide Shot de cima, por tras de MATEO no alto da escadaria: ele em primeiro plano a DIREITA, a escadaria inteira e, LA EMBAIXO, pequena, VALERIA de vermelho ao lado do taxi a ESQUERDA, lente 35mm."
         },
         {
           "quem": "VALERIA",
           "para": "MATEO",
           "fala": "¡No soy de tu mundo!",
           "emocao": 10,
-          "eyeline": "VALERIA para no meio da escadaria, vira e olha para CIMA e para a DIREITA do quadro, para MATEO. NAO olha para a camera.",
+          "eyeline": "VALERIA, ao lado do taxi, vira e olha para CIMA, para MATEO la no alto da escadaria. NAO olha para a camera.",
           "intencao": "Se proteger da dor, dizendo adeus.",
           "voz": "Voz feminina chorosa, quebrando.",
           "rosto": "VALERIA: lagrimas e garoa no rosto, olhar de dor.",
-          "corpo": "VALERIA: segura a saia do vestido, para um instante e se vira.",
-          "camera": "Corte seco. Close-up de VALERIA na escadaria, olhando para cima, lampioes em Bokeh atras, lente 75mm."
+          "corpo": "VALERIA: segurando a porta aberta do taxi, se vira para olhar para cima.",
+          "camera": "Corte seco. Close-up de VALERIA ao lado do taxi, SOZINHA no quadro, olhando para cima, lampioes em Bokeh, lente 75mm."
         },
         {
           "quem": "MATEO",
@@ -768,13 +773,13 @@
           "intencao": "Declarar que ela importa mais que tudo.",
           "voz": "Voz masculina forte, apaixonada.",
           "rosto": "MATEO: olhar intenso, a garoa no rosto.",
-          "corpo": "MATEO: desce os degraus correndo.",
-          "camera": "Corte seco. High Angle, medium close-up de MATEO descendo a escadaria, Handheld, lente 50mm."
+          "corpo": "MATEO: comeca a descer os degraus correndo, SOZINHO, ainda muito longe dela.",
+          "camera": "Corte seco. Medium close-up de MATEO descendo a escadaria SOZINHO no quadro, Handheld, lente 50mm."
         },
         {
           "rosto": "Sem rostos.",
-          "corpo": "Os pes de VALERIA descendo correndo; o alfineteiro BRANCO escorrega do pulso dela e cai num degrau de marmore molhado, sem ela perceber.",
-          "camera": "Corte seco. Insert em escala real ao nivel dos degraus, Slow Motion no alfineteiro caindo. Ninguem fala.",
+          "corpo": "Ao entrar no taxi, o alfineteiro BRANCO escorrega do pulso de VALERIA e cai no ultimo degrau de marmore molhado, ao lado da roda do taxi, sem ela perceber.",
+          "camera": "Corte seco. Insert em escala real ao nivel do degrau, Slow Motion no alfineteiro caindo. Ninguem fala.",
           "segundos": 1.0
         },
         {
@@ -786,7 +791,7 @@
           "intencao": "Fugir antes que ele a alcance.",
           "voz": "Voz feminina urgente, chorando.",
           "rosto": "VALERIA: chorando, olha para tras pela janela.",
-          "corpo": "VALERIA: entra no taxi branco e bate a porta.",
+          "corpo": "VALERIA: ja dentro do taxi branco, bate a porta.",
           "camera": "Corte seco. Close-up de VALERIA dentro do taxi pela janela molhada, lente 75mm."
         },
         {
@@ -798,12 +803,12 @@
           "intencao": "Perguntar ao vazio, perdido.",
           "voz": "Voz masculina baixa, sem folego, quase um sussurro.",
           "rosto": "MATEO: ofegante, olhar perdido.",
-          "corpo": "MATEO: chega ao pe da escadaria; as luzes vermelhas do taxi se afastam na garoa.",
+          "corpo": "MATEO: chega SOZINHO ao pe da escadaria, tarde demais; as luzes vermelhas do taxi ja vao longe na garoa.",
           "camera": "Corte seco. Medium Shot de MATEO no pe da escadaria, as luzes do taxi se afastando em Bokeh, lente 50mm."
         },
         {
           "rosto": "Sem rostos.",
-          "corpo": "O alfineteiro BRANCO caido sozinho no degrau molhado, brilhando com a luz do lampiao.",
+          "corpo": "O alfineteiro BRANCO caido sozinho no ultimo degrau molhado, brilhando com a luz do lampiao; os sapatos pretos de MATEO param ao lado dele.",
           "camera": "Corte seco. Insert em escala real, Slow Push In ate o alfineteiro no degrau. Ninguem fala. O clipe termina nesta imagem.",
           "segundos": 1.0
         }
