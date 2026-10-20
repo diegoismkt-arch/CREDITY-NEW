@@ -4,7 +4,7 @@
 
 Pero el hombre de la máscara negra no era cualquier invitado.
 
-¿Qué hará Regina ahora? 👇
+¿A quién llamó Regina? ¿Qué pasará esta noche? 👇
 
 Comenta PARTE 2.
 
@@ -1514,13 +1514,13 @@ Referências, nesta ordem: 1) FRAME_MATEO_ROSTO; 2) FRAME_REGINA; 3) FRAME_ALFIN
 
 ## Clipe 9 — A oficina
 
-clipe 9: 9.5s, 8.7s de fala (20 palavras, 6 planos, falantes: MATEO, VALERIA, REGINA) ✅
+clipe 9: 9.9s, 9.1s de fala (22 palavras, 6 planos, falantes: MATEO, VALERIA, REGINA, VOZ ROUCA (no celular)) ✅
 
 Referências, nesta ordem: 1) FRAME_VALERIA_EMOCIONADA; 2) FRAME_MATEO_DECIDIDO; 3) FRAME_REGINA
 
 ```json
 {
-  "ATUACAO_PRIORIDADE_MAXIMA": "Novela romantica. Atuacao FORTE com contraste: VALERIA triste e cansada, depois em choque, depois rindo entre lagrimas; MATEO terno, sorriso leve; REGINA fria e venenosa. Rostos muito expressivos. Nenhum momento parado.",
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela romantica com suspense. Atuacao FORTE com contraste: VALERIA triste e cansada, depois em choque e emocionada; MATEO terno, sorriso leve; REGINA fria, calma e venenosa ao telefone. Rostos muito expressivos. Nenhum momento parado.",
   "input_image": {
     "required": false,
     "mode": "Ingredients to Video, sem primeiro frame.",
@@ -1538,12 +1538,13 @@ Referências, nesta ordem: 1) FRAME_VALERIA_EMOCIONADA; 2) FRAME_MATEO_DECIDIDO;
       "Na maquina de costura, VALERIA costura a manga RASGADA do mesmo VESTIDO VERMELHO de cetim do baile.",
       "MATEO segura o MESMO alfineteiro BRANCO com alfinetes coloridos.",
       "A vitrine, a porta e o carro NAO tem nenhum nome, letreiro, placa ou letra.",
-      "Nenhum letreiro, placa ou letra em lugar nenhum."
+      "Nenhum letreiro, placa ou letra em lugar nenhum.",
+      "REGINA segura um celular PRETO simples, a tela virada para ela, sem nenhuma letra visivel."
     ]
   },
   "scene": {
     "title": "LA COSTURERA",
-    "duration_seconds": 9.5,
+    "duration_seconds": 10.0,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
     "structure": "6 planos de cinema em tela cheia, ligados por cortes secos. 5 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
     "style": "Novela romantica e dramatica, cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Oficina de costura humilde de bairro pela manha: paredes descascadas, maquina de costura antiga, rolos de tecido coloridos, um manequim, sininho de metal em cima da porta, vitrine de vidro SEM nenhuma letra dando para a rua. Luz natural quente do sol entrando pela vitrine, poeira no ar, Shallow Focus, cortes rapidos.",
@@ -1598,9 +1599,9 @@ Referências, nesta ordem: 1) FRAME_VALERIA_EMOCIONADA; 2) FRAME_MATEO_DECIDIDO;
       "mouths": "Somente VALERIA movimenta os labios."
     },
     {
-      "time": "00:03.79-00:06.59",
+      "time": "00:03.79-00:05.84",
       "speaker": "MATEO",
-      "dialogue": "Busqué en cada taller de la ciudad.",
+      "dialogue": "Busqué en toda la ciudad.",
       "addressee": "VALERIA",
       "eyeline": "MATEO olha para a ESQUERDA do quadro, para VALERIA, cujo ombro de blusa bege esta em primeiro plano. NAO olha para a camera.",
       "emotion_level": 9,
@@ -1612,32 +1613,32 @@ Referências, nesta ordem: 1) FRAME_VALERIA_EMOCIONADA; 2) FRAME_MATEO_DECIDIDO;
       "mouths": "Somente MATEO movimenta os labios."
     },
     {
-      "time": "00:06.59-00:07.79",
-      "speaker": "VALERIA",
-      "dialogue": "Estás loco.",
-      "addressee": "MATEO",
-      "eyeline": "VALERIA olha para a DIREITA do quadro, para MATEO. NAO olha para a camera.",
-      "emotion_level": 9,
-      "intention": "Se render, rindo e chorando ao mesmo tempo.",
-      "voice": "Voz feminina rindo entre lagrimas.",
-      "face": "VALERIA: uma lagrima cai e um sorriso enorme nasce.",
-      "body": "VALERIA: aperta o alfineteiro contra o peito.",
-      "camera": "Corte seco. Tight close-up de VALERIA, luz do sol no rosto, lente 85mm. A fala comeca no primeiro instante do plano.",
-      "mouths": "Somente VALERIA movimenta os labios."
+      "time": "00:05.84-00:08.64",
+      "speaker": "REGINA",
+      "dialogue": "Sí… la costurera del barrio San Juan.",
+      "addressee": "CELULAR",
+      "eyeline": "REGINA olha pela janela do carro, para a vitrine da oficina do outro lado da rua, com o celular no ouvido. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Entregar VALERIA a alguem perigoso, fria e calma.",
+      "voice": "Voz feminina baixa, gelada, quase um sussurro.",
+      "face": "REGINA: sorriso frio e cruel, olhar de odio fixo na oficina.",
+      "body": "REGINA: dentro do carro preto estacionado, o vidro escuro abaixado, segura um celular PRETO no ouvido.",
+      "camera": "Corte seco. Close-up de REGINA pela janela aberta do carro preto, celular no ouvido, a vitrine da oficina desfocada ao fundo, lente 75mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente REGINA movimenta os labios."
     },
     {
-      "time": "00:07.79-00:09.47",
-      "speaker": "REGINA",
-      "dialogue": "Disfrútalo, costurera… mientras dure.",
-      "addressee": "VALERIA",
-      "eyeline": "REGINA olha para a ESQUERDA, pela janela do carro, para a vitrine da oficina do outro lado da rua. NAO olha para a camera.",
+      "time": "00:08.64-00:09.95",
+      "speaker": "VOZ ROUCA (no celular)",
+      "dialogue": "Entendido. Esta noche.",
+      "addressee": "REGINA",
+      "eyeline": "Ninguem visivel fala. A voz sai do celular de REGINA.",
       "emotion_level": 10,
-      "intention": "Prometer vinganca, fria e calma.",
-      "voice": "Voz feminina baixa, gelada, quase um sussurro.",
-      "face": "REGINA: sorriso frio e cruel, olhar de odio.",
-      "body": "REGINA: dentro do carro preto, abaixa devagar o vidro escuro da janela e observa.",
-      "camera": "Corte seco. Close-up de REGINA pela janela aberta do carro preto estacionado na rua, a vitrine da oficina desfocada ao fundo, lente 75mm. O video termina neste rosto. A fala comeca no primeiro instante do plano.",
-      "mouths": "Somente REGINA movimenta os labios."
+      "intention": "Confirmar algo terrivel, sem emocao.",
+      "voice": "Voz masculina MUITO rouca, grave, arrastada e abafada, irreconhecivel, saindo baixinho do alto-falante do celular.",
+      "face": "Sem rostos no quadro.",
+      "body": "Por tras da cabeca de REGINA: o celular preto colado no ouvido dela, o cabelo ruivo em primeiro plano; pelo para-brisa, do outro lado da rua, a vitrine da oficina com VALERIA e MATEO pequenos la dentro, sem saber de nada.",
+      "camera": "Corte seco. Plano por tras de REGINA no banco do carro, o celular e o cabelo ruivo desfocados em primeiro plano, a oficina nitida ao fundo pelo para-brisa, Slow Push In. Nenhum rosto visivel. O video termina nesta imagem. A fala comeca no primeiro instante do plano.",
+      "mouths": "NENHUMA boca visivel: a voz rouca sai do celular."
     }
   ],
   "dialogue_rules": {
@@ -1648,21 +1649,22 @@ Referências, nesta ordem: 1) FRAME_VALERIA_EMOCIONADA; 2) FRAME_MATEO_DECIDIDO;
       "MATEO",
       "VALERIA",
       "MATEO",
-      "VALERIA",
-      "REGINA"
+      "REGINA",
+      "VOZ ROUCA (no celular)"
     ],
     "rules": [
       "So existem 5 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
       "A ultima fala termina junto com o video.",
-      "Cada fala e dirigida a: MATEO -> VALERIA; VALERIA -> MATEO; MATEO -> VALERIA; VALERIA -> MATEO; REGINA -> VALERIA.",
+      "Cada fala e dirigida a: MATEO -> VALERIA; VALERIA -> MATEO; MATEO -> VALERIA; REGINA -> CELULAR; VOZ ROUCA (no celular) -> REGINA.",
       "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
       "Nao repetir, misturar, traduzir ou acrescentar palavras.",
-      "Cada frase e dita INTEIRA, do comeco ao fim."
+      "Cada frase e dita INTEIRA, do comeco ao fim.",
+      "A ultima fala e uma VOZ masculina ROUCA saindo do celular de REGINA, no ultimo plano, onde NAO aparece nenhuma boca."
     ]
   },
   "audio": {
     "single_voice_at_a_time": true,
-    "sound": "O ruido da maquina de costura que PARA, o sininho da porta tocando, a tesoura caindo na mesa de madeira; no ultimo plano, o motor do carro ligado.",
+    "sound": "O ruido da maquina de costura que PARA, o sininho da porta tocando, a tesoura caindo na mesa de madeira; nos dois ultimos planos, silencio dentro do carro e a voz rouca abafada no celular.",
     "music": "Nenhuma.",
     "narration": "Nenhuma.",
     "subtitles": "Nao gerar."
@@ -1686,7 +1688,6 @@ Referências, nesta ordem: 1) FRAME_VALERIA_EMOCIONADA; 2) FRAME_MATEO_DECIDIDO;
     "personagem falando ou olhando para quem nao e o destinatario da fala",
     "fala neutra ou monotona",
     "rosto neutro ou expressao vazia",
-    "voz sem rosto na tela",
     "tela dividida",
     "colagem",
     "formato horizontal",

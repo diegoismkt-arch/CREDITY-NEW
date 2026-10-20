@@ -25,6 +25,6 @@ de VALERIA aparece no clipe 3 quando ele segura a mão dela.
 7. Perseguição na escadaria: "¡Espera! ¡No te vayas!" Ela entra num táxi; o alfineteiro de pulso cai na escada.
 8. MATEO pega o alfineteiro. REGINA atrás dele, venenosa: "Si vas tras ella, mi padre te quita todo."
    MATEO: "Que me lo quite." Ele olha os alfinetes e sorri: "Una costurera…"
-9. Manhã, oficina humilde: VALERIA, olhos inchados, costura a manga rasgada. O sininho da porta toca.
+9. (final novo: REGINA liga para uma VOZ ROUCA: "Sí… la costurera del barrio San Juan." — "Entendido. Esta noche.") Manhã, oficina humilde: VALERIA, olhos inchados, costura a manga rasgada. O sininho da porta toca.
    MATEO na porta, segurando o alfineteiro: "Se te olvidó esto." Ela deixa a tesoura cair.
    Pela janela, um carro preto parado: REGINA observando, com ódio. Fim.
