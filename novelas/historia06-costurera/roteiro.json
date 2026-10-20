@@ -10,7 +10,8 @@
     "FRAME_ESCADARIA": "frame do clipe 1, plano 4 (por volta do segundo 7,5): a grande escadaria de marmore vazia com o canhao de luz.",
     "FRAME_MATEO": "frame do clipe 2, plano 5 (por volta do segundo 7,5): close de MATEO de mascara preta e smoking preto.",
     "FRAME_VALERIA_MOLHADA": "frame do clipe 3, plano 5 (por volta do segundo 7,5): close de VALERIA sorrindo timida, vestido vermelho, alfineteiro branco no pulso.",
-    "FRAME_BRUNO": "frame do clipe 4, plano 3 (por volta do segundo 4,5): close de BRUNO de smoking branco rindo (por volta do segundo 4,2)."
+    "FRAME_BRUNO": "frame do clipe 4, plano 3 (por volta do segundo 3,8): close de BRUNO de smoking branco gritando.",
+    "FRAME_MATEO_ROSTO": "frame do clipe 5, plano 5 (por volta do segundo 7): close de MATEO SEM mascara, smoking preto."
   },
   "personagens": {
     "VALERIA": {
@@ -473,6 +474,107 @@
           "camera": "Corte seco. High Angle por cima do ombro de MATEO: BRUNO no chao entre os vidros, olhando para cima, assustado; o rosto de MATEO de perfil em primeiro plano, lente 50mm. O clipe termina nesta imagem."
         }
       ]
+    },
+    {
+      "nome": "A máscara cai",
+      "atuacao": "Novela dramatica. Atuacao FORTE com contraste: REGINA histerica e mandona, depois PALIDA, em choque, sem ar; MATEO calmo, decidido, frio com ela, sem gritar. Plateia em choque. Rostos muito expressivos. Nenhum momento parado.",
+      "imagens": [
+        "FRAME_REGINA",
+        "FRAME_MATEO"
+      ],
+      "personagens": [
+        "REGINA",
+        "MATEO"
+      ],
+      "posicoes": {
+        "MATEO": "SEMPRE na ESQUERDA do quadro, olhando para a DIREITA, para REGINA",
+        "REGINA": "SEMPRE na DIREITA do quadro, olhando para a ESQUERDA, para MATEO"
+      },
+      "preservar_extra": [
+        "A MESMA REGINA da imagem 1 e o MESMO MATEO da imagem 2, com as mesmas roupas e o MESMO salao de baile de mascaras.",
+        "No plano 1 MATEO ainda usa a mascara preta; no plano 2 ele a TIRA, e dali em diante fica SEM mascara, com a mascara preta na mao. O rosto dele: pele morena clara, queixo quadrado, barba curta, cicatriz pequena no queixo, olhos castanhos escuros, sobrancelhas grossas.",
+        "MATEO guarda no bolso do smoking um anel de noivado de ouro com um diamante.",
+        "Ao fundo, cacos de taca e champanhe espalhados no piso, convidados mascarados em roda.",
+        "Nenhum letreiro, faixa, placa ou letra no salao ou nas roupas."
+      ],
+      "cenario": "O MESMO salao, segundos depois da briga. REGINA, furiosa, chama a seguranca e procura o noivo que nunca desceu a escadaria.",
+      "som": "Silencio tenso, murmurio, um 'oh' coletivo da plateia quando a mascara cai, o tilintar do anel na bandeja de prata.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida",
+        "trilha sonora"
+      ],
+      "negativos_extra": [
+        "mateo de mascara depois do plano 2",
+        "mateo gritando",
+        "beijo",
+        "letras ou faixas no salao",
+        "personagem falando de frente para a camera",
+        "roupa de um personagem em outro",
+        "momento parado sem fala"
+      ],
+      "salvar_frames": [
+        "FRAME_MATEO_ROSTO"
+      ],
+      "planos": [
+        {
+          "quem": "REGINA",
+          "para": "CONVIDADOS",
+          "fala": "¡Seguridad! ¿Dónde está mi prometido?",
+          "emocao": 10,
+          "eyeline": "REGINA olha em volta para a plateia e termina olhando para a ESQUERDA do quadro, para o mascarado. NAO olha para a camera.",
+          "intencao": "Mandar, histerica, e cobrar o noivo ausente.",
+          "voz": "Voz feminina aguda, gritando, mandona.",
+          "rosto": "REGINA: furiosa, o coque desarrumado.",
+          "corpo": "REGINA: no primeiro instante aponta para a plateia e gira o corpo procurando.",
+          "camera": "Medium Shot de REGINA, plateia mascarada atras, cacos no chao, lente 50mm."
+        },
+        {
+          "quem": "MATEO",
+          "para": "REGINA",
+          "fala": "Aquí estoy, Regina.",
+          "emocao": 9,
+          "eyeline": "MATEO olha para a DIREITA do quadro, para REGINA, cujo ombro prateado esta em primeiro plano. NAO olha para a camera.",
+          "intencao": "Revelar-se, calmo e firme.",
+          "voz": "Voz masculina grave, calma.",
+          "rosto": "MATEO: o rosto aparece, olhar firme e decepcionado.",
+          "corpo": "MATEO: no primeiro instante TIRA a mascara preta devagar, revelando o rosto inteiro.",
+          "camera": "Corte seco. Over-the-Shoulder: ombro prateado e coque ruivo de REGINA desfocados em primeiro plano a DIREITA; MATEO nitido a ESQUERDA tirando a mascara, medium close-up, lente 75mm."
+        },
+        {
+          "quem": "REGINA",
+          "para": "MATEO",
+          "fala": "¿Mateo? ¿Tú?",
+          "emocao": 10,
+          "eyeline": "REGINA olha para a ESQUERDA do quadro, para MATEO. NAO olha para a camera.",
+          "intencao": "Choque total.",
+          "voz": "Voz feminina sem ar, quase um sussurro.",
+          "rosto": "REGINA: PALIDA, olhos arregalados, a boca tremendo.",
+          "corpo": "REGINA: da um passo para tras, a mao no colar de diamantes.",
+          "camera": "Corte seco. Tight close-up de REGINA, head and upper shoulders, lente 85mm."
+        },
+        {
+          "rosto": "Sem rostos.",
+          "corpo": "A mao de MATEO tira do bolso o anel de noivado de ouro com diamante e o deixa cair numa bandeja de prata de um garcom; o anel gira e para.",
+          "camera": "Corte seco. Insert em escala real da mao e do anel caindo na bandeja de prata, Slow Motion, luz dourada. Ninguem fala.",
+          "segundos": 1.0
+        },
+        {
+          "quem": "MATEO",
+          "para": "REGINA",
+          "fala": "No bajé esas escaleras… porque no me voy a casar contigo.",
+          "emocao": 10,
+          "eyeline": "MATEO olha para a DIREITA do quadro, para REGINA. NAO olha para a camera.",
+          "intencao": "Romper o noivado na frente de todos, com dignidade.",
+          "voz": "Voz masculina grave, firme, sem gritar, cada palavra pesada.",
+          "rosto": "MATEO: SEM mascara, olhar duro e decidido.",
+          "corpo": "MATEO: segura a mascara preta na mao, imovel.",
+          "camera": "Corte seco. Tight close-up de MATEO SEM mascara, head and upper shoulders, lustres em Bokeh atras, Slow Push In, lente 85mm. O clipe termina neste rosto."
+        }
+      ],
+      "descricoes": {
+        "MATEO": "homem de 30 anos, rosto comum e desconhecido, pele morena clara, queixo quadrado, barba curta bem aparada, uma cicatriz pequena no queixo, cabelo PRETO curto penteado para tras, SMOKING PRETO com gravata borboleta preta; comeca com a MASCARA veneziana PRETA e a tira no plano 2."
+      }
     }
   ]
 }
