@@ -17,8 +17,9 @@ de VALERIA aparece no clipe 3 quando ele segura a mão dela.
    "Porque nadie me cree." "Yo sí." Ela: "Ni siquiera sé quién eres."
 4. BRUNO empurra o mascarado: "¡Quítate la máscara, cobarde!" "Primero, discúlpate con ella." "¿Con la costurera?"
    Briga: BRUNO cai na torre de taças de champanhe.
-5. REGINA: "¡Seguridad!" O mascarado tira a máscara: é MATEO, o noivo. REGINA: "¿Mateo?" Ele tira o anel do bolso
-   e o deixa na bandeja: "Se acabó, Regina."
+5. Paga a pista da escadaria vazia: REGINA: "¡Seguridad! ¿Dónde está mi prometido?" — o mascarado: "Aquí estoy, Regina."
+   Tira a máscara: é MATEO. Plateia em choque. Insert do anel de noivado tirado do bolso e deixado na bandeja.
+   MATEO: "No bajé esas escaleras… porque no me voy a casar contigo."
 6. REGINA: "¡¿Por ella?!" MATEO: "Ella es lo único real en esta fiesta." O sino da meia-noite toca; VALERIA,
    assustada com tudo, foge.
 7. Perseguição na escadaria: "¡Espera! ¡No te vayas!" Ela entra num táxi; o alfineteiro de pulso cai na escada.
