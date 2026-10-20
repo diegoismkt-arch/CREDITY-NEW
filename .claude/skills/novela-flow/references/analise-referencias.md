@@ -126,3 +126,9 @@ fizeram o Flow recusar por parecer celebridade. Correção: rosto comum com tra�
 Com "VALERIA descendo e MATEO descendo atrás dela", o Flow pôs os dois correndo JUNTOS. Em fuga/perseguição:
 quem fugiu já está LONGE (no fim do caminho) quando o outro aparece; nunca os dois no mesmo plano, exceto um
 Wide Shot que mostre a DISTÂNCIA; cada um "SOZINHO no quadro"; negativos "os dois correndo juntos", "X alcançando Y".
+
+## Voz de telefone (La Costurera, cena do carro)
+Voz saindo do celular sobre plano sem boca: o Flow falhou 2x (fala incompleta / voz não saiu). Para ligação
+curta, MOSTRAR quem fala do outro lado (rosto na sombra, só a boca num fio de luz) — com boca visível o Flow
+gera a fala. E trocar roupa/cabelo de um personagem (óculos, cabelo solto) fez o rosto não bater com o baile:
+manter penteado e acessório-marca (coque ruivo, colar) quando mudar a roupa.
