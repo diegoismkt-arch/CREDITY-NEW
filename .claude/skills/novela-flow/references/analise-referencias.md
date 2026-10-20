@@ -121,3 +121,8 @@ Descrições glamourosas e genéricas (loira platinada, coque alto, vestido prat
 fizeram o Flow recusar por parecer celebridade. Correção: rosto comum com traços marcantes e imperfeitos
 (sardas, pinta, nariz largo, sobrancelhas grossas, queixo pontudo), cabelo menos "de tapete vermelho",
 "pessoas desconhecidas, rostos com imperfeições reais" no estilo. NÃO escrever "celebridade/famoso" nem no negativo (o filtro lê as palavras).
+
+## Perseguição (La Costurera, clipe 7)
+Com "VALERIA descendo e MATEO descendo atrás dela", o Flow pôs os dois correndo JUNTOS. Em fuga/perseguição:
+quem fugiu já está LONGE (no fim do caminho) quando o outro aparece; nunca os dois no mesmo plano, exceto um
+Wide Shot que mostre a DISTÂNCIA; cada um "SOZINHO no quadro"; negativos "os dois correndo juntos", "X alcançando Y".
