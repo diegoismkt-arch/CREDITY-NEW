@@ -143,3 +143,9 @@ O que funciona: segredo de família revelado em 2 s por uma palavra ("¿Papá?")
 (dinheiro); prova física num insert (cofre); herói muda de lado no meio do vídeo; plateia de seguranças; ~10 falas
 em 15 s, todas curtas; termina numa ORDEM que promete punição. Obs.: usa criança — no nosso Flow, evitar
 (filtro); trocar por filha/filho adulto ou mãe idosa.
+
+## Objeto que pula de personagem (Los Tamales, clipes 1 e 2)
+Os OCULOS ESCUROS na cabeça da PAOLA apareceram na cabeça da DONA LUPE nos dois clipes, mesmo com negativo
+"dona lupe de oculos". O negativo citando o objeto parece até reforçar. Regra: não dar acessório "solto"
+(óculos na cabeça, chapéu, lenço) a um personagem quando outro está em close; se o objeto pular, TIRAR o objeto
+da descrição de todo mundo em vez de proibir no negativo.
