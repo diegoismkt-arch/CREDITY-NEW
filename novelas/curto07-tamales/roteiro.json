@@ -5,9 +5,9 @@
   "titulo_interno": "LOS TAMALES",
   "estilo": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Portao de ferro preto de uma mansao moderna numa rua de bairro rico, de dia, sol forte do meio-dia, sombras duras, calcada de pedra clara. Eye Light nos closes, Shallow Focus, cortes rapidos.",
   "imagens": {
-    "FRAME_LUPE": "frame do clipe 1, plano 4 (por volta do segundo 7): close de DONA LUPE chorando, rebozo azul, trança grisalha.",
-    "FRAME_DANIEL": "frame do clipe 1, plano 3 (por volta do segundo 4,3): close de DANIEL de terno cinza claro.",
-    "FRAME_PAOLA": "frame do clipe 1, plano 1 (por volta do segundo 1): PAOLA de vestido branco no portao, por cima do ombro de DONA LUPE."
+    "FRAME_LUPE": "frame do clipe 1, plano 2 (por volta do segundo 2,7): DONA LUPE de joelhos na calcada, rebozo azul, trança grisalha, tamal na mao.",
+    "FRAME_DANIEL": "frame do clipe 1, plano 5 (por volta do segundo 9): close de DANIEL de terno cinza claro, cabelo preto cacheado.",
+    "FRAME_PAOLA": "frame do clipe 1, plano 1 (por volta do segundo 0,5): PAOLA de vestido branco no portao da mansao."
   },
   "personagens": {
     "LUPE": {
@@ -17,7 +17,7 @@
       "feminino": true
     },
     "DANIEL": {
-      "descricao": "homem de 35 anos, rosto comum e desconhecido, pele morena, rosto magro, nariz largo, olhos castanhos, barba curta, cabelo preto curto ondulado, TERNO CINZA CLARO sem gravata, camisa branca com o colarinho aberto. Traz uma mala pequena de viagem PRETA na mao.",
+      "descricao": "homem de 35 anos, rosto comum e desconhecido, pele morena, rosto magro, nariz largo, olhos castanhos, barba curta, cabelo preto curto CACHEADO, TERNO CINZA CLARO sem gravata, camisa branca com o colarinho aberto. Traz uma mala pequena de viagem PRETA na mao.",
       "voz": "Voz masculina grave e emocionada de homem de 35 anos.",
       "frame": "FRAME_DANIEL"
     },
