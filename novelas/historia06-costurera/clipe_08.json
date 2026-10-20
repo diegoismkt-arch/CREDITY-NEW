@@ -1,0 +1,165 @@
+{
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao FORTE com contraste: MATEO terno ao olhar o alfineteiro, depois firme e desafiador; REGINA no alto da escadaria, gelada e ameacadora, depois furiosa. Rostos muito expressivos. Nenhum momento parado.",
+  "input_image": {
+    "required": false,
+    "mode": "Ingredients to Video, sem primeiro frame.",
+    "additional_references": true,
+    "reference_images": [
+      "Imagem 1 — frame do clipe 5, plano 5 (por volta do segundo 7): close de MATEO SEM mascara, smoking preto, cicatriz na testa.",
+      "Imagem 2 — frame do clipe 1, plano 3 (por volta do segundo 5,5): close de REGINA ruiva de vestido prata, mascara prata na mao, lustres ao fundo.",
+      "Imagem 3 — frame do clipe 7, ultimo plano (por volta do segundo 9): o alfineteiro branco caido num degrau de marmore molhado a noite."
+    ],
+    "preserve_exactly": [
+      "MATEO: homem de 30 anos, rosto comum e desconhecido, pele morena clara, queixo quadrado, barba curta bem aparada, uma cicatriz pequena na testa, acima da sobrancelha, cabelo PRETO curto penteado para tras, SMOKING PRETO com gravata borboleta preta, SEM mascara, o cabelo um pouco molhado de garoa.",
+      "REGINA: o MESMO rosto da imagem 2, mulher rica de 26 anos, rosto comum e desconhecido, pele clara com SARDAS no nariz, rosto fino, queixo pontudo, cabelo RUIVO-ACOBREADO preso em coque alto, batom nude, VESTIDO PRATA tomara-que-caia, colar de diamantes, mascara veneziana PRATA com cabo na mao.",
+      "O MESMO MATEO da imagem 1 e a MESMA REGINA da imagem 2, com as mesmas roupas; o MESMO alfineteiro BRANCO da imagem 3.",
+      "A MESMA escadaria externa de marmore molhada a noite, com garoa, do clipe anterior.",
+      "DISTANCIA: MATEO embaixo e REGINA la em cima o tempo todo; os dois NUNCA ficam perto nem lado a lado.",
+      "Nenhum letreiro, placa ou letra em lugar nenhum."
+    ]
+  },
+  "scene": {
+    "title": "LA COSTURERA",
+    "duration_seconds": 9.5,
+    "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
+    "structure": "5 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "style": "Novela romantica e dramatica, cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Escadaria externa de marmore de uma mansao a noite, garoa fina, degraus molhados brilhando, lampioes de luz quente, a porta do salao iluminada no alto. Contraluz dourado e azul da noite, Eye Light nos closes, cortes rapidos.",
+    "setting": "Segundos depois: o taxi ja foi. MATEO, sozinho no pe da escadaria, pega o alfineteiro que VALERIA deixou cair. REGINA aparece na porta, no alto.",
+    "blocking": [
+      "MATEO: LA EMBAIXO, no pe da escadaria, SEMPRE na ESQUERDA do quadro, olhando para CIMA e para a DIREITA",
+      "REGINA: LA EM CIMA, na porta iluminada no alto da escadaria, LONGE dele, SEMPRE na DIREITA do quadro, olhando para BAIXO e para a ESQUERDA"
+    ],
+    "characters": {
+      "MATEO": "homem de 30 anos, rosto comum e desconhecido, pele morena clara, queixo quadrado, barba curta bem aparada, uma cicatriz pequena na testa, acima da sobrancelha, cabelo PRETO curto penteado para tras, SMOKING PRETO com gravata borboleta preta, SEM mascara, o cabelo um pouco molhado de garoa. Personagem ficticio. Voz masculina grave, calma e firme de homem de 30 anos.",
+      "REGINA": "A MESMA da imagem 2. Personagem ficticia. Voz feminina aguda, esnobe e cruel de mulher de 26 anos."
+    }
+  },
+  "timeline": [
+    {
+      "time": "00:00.00-00:01.20",
+      "speaker": "MATEO",
+      "dialogue": "Una costurera…",
+      "addressee": "ALFINETERO",
+      "eyeline": "MATEO olha para BAIXO, para o alfineteiro na mao dele. NAO olha para a camera.",
+      "emotion_level": 8,
+      "intention": "Encantado, descobrindo quem ela e.",
+      "voice": "Voz masculina baixa, sussurrada, com um sorriso.",
+      "face": "MATEO: um sorriso terno nasce no rosto molhado.",
+      "body": "MATEO: no primeiro instante se abaixa e pega o alfineteiro BRANCO do degrau molhado; passa o polegar pelos alfinetes coloridos.",
+      "camera": "Medium close-up de MATEO agachado no pe da escadaria, SOZINHO no quadro, o alfineteiro na mao em primeiro plano, lente 50mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente MATEO movimenta os labios."
+    },
+    {
+      "time": "00:01.20-00:04.73",
+      "speaker": "REGINA",
+      "dialogue": "Si vas tras ella, mi padre te quita todo.",
+      "addressee": "MATEO",
+      "eyeline": "REGINA olha para BAIXO e para a ESQUERDA do quadro, para MATEO la embaixo. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Ameacar com o poder da familia, gelada.",
+      "voice": "Voz feminina fria, baixa, venenosa, ecoando.",
+      "face": "REGINA: olhar gelado, maquiagem borrada, queixo erguido.",
+      "body": "REGINA: parada na porta iluminada no alto da escadaria, a mascara prata pendurada na mao.",
+      "camera": "Corte seco. Low Angle de baixo para cima: REGINA SOZINHA no alto da escadaria, na porta iluminada, contraluz, lente 50mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente REGINA movimenta os labios."
+    },
+    {
+      "time": "00:04.73-00:06.41",
+      "speaker": "MATEO",
+      "dialogue": "Que me lo quite.",
+      "addressee": "REGINA",
+      "eyeline": "MATEO olha para CIMA e para a DIREITA do quadro, para REGINA la no alto. NAO olha para a camera.",
+      "emotion_level": 9,
+      "intention": "Desafiar sem medo, decidido.",
+      "voice": "Voz masculina grave, calma, firme.",
+      "face": "MATEO: olhar firme, um meio sorriso desafiador.",
+      "body": "MATEO: se levanta devagar, guardando o alfineteiro no bolso do smoking.",
+      "camera": "Corte seco. High Angle de cima para baixo: MATEO SOZINHO no pe da escadaria olhando para cima, garoa caindo, lente 50mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente MATEO movimenta os labios."
+    },
+    {
+      "time": "00:06.41-00:08.47",
+      "speaker": "REGINA",
+      "dialogue": "¡Te vas a arrepentir, Mateo!",
+      "addressee": "MATEO",
+      "eyeline": "REGINA olha para BAIXO e para a ESQUERDA do quadro, para MATEO. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Raiva de quem perdeu, jurando vinganca.",
+      "voice": "Voz feminina aguda, gritando de raiva.",
+      "face": "REGINA: furiosa, lagrimas de odio.",
+      "body": "REGINA: aperta a mascara prata ate entortar.",
+      "camera": "Corte seco. Close-up de REGINA na porta iluminada, lente 75mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente REGINA movimenta os labios."
+    },
+    {
+      "time": "00:08.47-00:09.47",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "MATEO: olhar decidido, ja nao olha para REGINA. Boca FECHADA.",
+      "body": "MATEO: vira as costas para a mansao e caminha para a rua escura, a mao no bolso onde esta o alfineteiro.",
+      "camera": "Corte seco. Medium Shot de MATEO SOZINHO caminhando para longe da mansao na garoa, a escadaria iluminada atras dele, lente 35mm. Ninguem fala. O clipe termina nesta imagem.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    }
+  ],
+  "dialogue_rules": {
+    "language": "Espanol de Mexico, acento mexicano natural, TODAS as palavras em espanhol.",
+    "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
+    "total_dialogue_lines": 4,
+    "exact_order": [
+      "MATEO",
+      "REGINA",
+      "MATEO",
+      "REGINA"
+    ],
+    "rules": [
+      "So existem 4 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "Depois de 8.5 segundos ninguem fala.",
+      "Cada fala e dirigida a: MATEO -> ALFINETERO; REGINA -> MATEO; MATEO -> REGINA; REGINA -> MATEO.",
+      "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
+      "Nao repetir, misturar, traduzir ou acrescentar palavras.",
+      "Cada frase e dita INTEIRA, do comeco ao fim."
+    ]
+  },
+  "audio": {
+    "single_voice_at_a_time": true,
+    "sound": "Garoa, o eco distante da festa; as vozes ecoando na escadaria.",
+    "music": "Nenhuma.",
+    "narration": "Nenhuma.",
+    "subtitles": "Nao gerar."
+  },
+  "negative_prompt": [
+    "mateo de mascara",
+    "regina descendo a escadaria",
+    "regina perto de mateo",
+    "valeria aparecendo",
+    "taxi",
+    "personagem falando de frente para a camera",
+    "roupa de um personagem em outro",
+    "momento parado sem fala",
+    "texto ou letras em qualquer lugar",
+    "nome ou idade de personagem escrito na tela",
+    "letreiro de apresentacao de personagem (lower third)",
+    "palavra inventada no ultimo plano",
+    "fala repetida",
+    "fala adiantada ou atrasada para outro plano",
+    "personagem falando ou olhando para quem nao e o destinatario da fala",
+    "fala neutra ou monotona",
+    "rosto neutro ou expressao vazia",
+    "voz sem rosto na tela",
+    "tela dividida",
+    "colagem",
+    "formato horizontal",
+    "bordas pretas",
+    "palavras em ingles",
+    "palavras em portugues",
+    "duas vozes simultaneas",
+    "movimento labial do ouvinte",
+    "fala cortada, encurtada ou incompleta",
+    "personagem olhando para a camera",
+    "mudanca de rosto",
+    "mudanca de roupa",
+    "legendas",
+    "logotipo",
+    "marca-d'agua"
+  ]
+}

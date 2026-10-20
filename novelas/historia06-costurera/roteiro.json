@@ -13,7 +13,8 @@
     "FRAME_BRUNO": "frame do clipe 4, plano 3 (por volta do segundo 3,8): close de BRUNO de smoking branco gritando.",
     "FRAME_MATEO_ROSTO": "frame do clipe 5, plano 5 (por volta do segundo 7): close de MATEO SEM mascara, smoking preto, cicatriz na testa.",
     "FRAME_VALERIA_EMOCIONADA": "frame do clipe 6, plano 3 (por volta do segundo 4,4): close de VALERIA emocionada, mao no peito, vestido vermelho.",
-    "FRAME_ALFINETERO": "frame do clipe 7, ultimo plano (por volta do segundo 9): o alfineteiro branco caido num degrau de marmore molhado a noite."
+    "FRAME_ALFINETERO": "frame do clipe 7, ultimo plano (por volta do segundo 9): o alfineteiro branco caido num degrau de marmore molhado a noite.",
+    "FRAME_MATEO_DECIDIDO": "frame do clipe 8, plano 3 (por volta do segundo 5,5): MATEO no pe da escadaria olhando para cima, com o alfineteiro na mao."
   },
   "personagens": {
     "VALERIA": {
@@ -810,6 +811,109 @@
           "rosto": "Sem rostos.",
           "corpo": "O alfineteiro BRANCO caido sozinho no ultimo degrau molhado, brilhando com a luz do lampiao; os sapatos pretos de MATEO param ao lado dele.",
           "camera": "Corte seco. Insert em escala real, Slow Push In ate o alfineteiro no degrau. Ninguem fala. O clipe termina nesta imagem.",
+          "segundos": 1.0
+        }
+      ]
+    },
+    {
+      "nome": "O alfineteiro e a ameaça",
+      "estilo": "Novela romantica e dramatica, cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Escadaria externa de marmore de uma mansao a noite, garoa fina, degraus molhados brilhando, lampioes de luz quente, a porta do salao iluminada no alto. Contraluz dourado e azul da noite, Eye Light nos closes, cortes rapidos.",
+      "atuacao": "Novela dramatica. Atuacao FORTE com contraste: MATEO terno ao olhar o alfineteiro, depois firme e desafiador; REGINA no alto da escadaria, gelada e ameacadora, depois furiosa. Rostos muito expressivos. Nenhum momento parado.",
+      "imagens": [
+        "FRAME_MATEO_ROSTO",
+        "FRAME_REGINA",
+        "FRAME_ALFINETERO"
+      ],
+      "personagens": [
+        "MATEO",
+        "REGINA"
+      ],
+      "descricoes": {
+        "MATEO": "homem de 30 anos, rosto comum e desconhecido, pele morena clara, queixo quadrado, barba curta bem aparada, uma cicatriz pequena na testa, acima da sobrancelha, cabelo PRETO curto penteado para tras, SMOKING PRETO com gravata borboleta preta, SEM mascara, o cabelo um pouco molhado de garoa."
+      },
+      "posicoes": {
+        "MATEO": "LA EMBAIXO, no pe da escadaria, SEMPRE na ESQUERDA do quadro, olhando para CIMA e para a DIREITA",
+        "REGINA": "LA EM CIMA, na porta iluminada no alto da escadaria, LONGE dele, SEMPRE na DIREITA do quadro, olhando para BAIXO e para a ESQUERDA"
+      },
+      "preservar_extra": [
+        "O MESMO MATEO da imagem 1 e a MESMA REGINA da imagem 2, com as mesmas roupas; o MESMO alfineteiro BRANCO da imagem 3.",
+        "A MESMA escadaria externa de marmore molhada a noite, com garoa, do clipe anterior.",
+        "DISTANCIA: MATEO embaixo e REGINA la em cima o tempo todo; os dois NUNCA ficam perto nem lado a lado.",
+        "Nenhum letreiro, placa ou letra em lugar nenhum."
+      ],
+      "cenario": "Segundos depois: o taxi ja foi. MATEO, sozinho no pe da escadaria, pega o alfineteiro que VALERIA deixou cair. REGINA aparece na porta, no alto.",
+      "som": "Garoa, o eco distante da festa; as vozes ecoando na escadaria.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida",
+        "trilha sonora"
+      ],
+      "negativos_extra": [
+        "mateo de mascara",
+        "regina descendo a escadaria",
+        "regina perto de mateo",
+        "valeria aparecendo",
+        "taxi",
+        "personagem falando de frente para a camera",
+        "roupa de um personagem em outro",
+        "momento parado sem fala"
+      ],
+      "salvar_frames": [
+        "FRAME_MATEO_DECIDIDO"
+      ],
+      "planos": [
+        {
+          "quem": "MATEO",
+          "para": "ALFINETERO",
+          "fala": "Una costurera…",
+          "emocao": 8,
+          "eyeline": "MATEO olha para BAIXO, para o alfineteiro na mao dele. NAO olha para a camera.",
+          "intencao": "Encantado, descobrindo quem ela e.",
+          "voz": "Voz masculina baixa, sussurrada, com um sorriso.",
+          "rosto": "MATEO: um sorriso terno nasce no rosto molhado.",
+          "corpo": "MATEO: no primeiro instante se abaixa e pega o alfineteiro BRANCO do degrau molhado; passa o polegar pelos alfinetes coloridos.",
+          "camera": "Medium close-up de MATEO agachado no pe da escadaria, SOZINHO no quadro, o alfineteiro na mao em primeiro plano, lente 50mm."
+        },
+        {
+          "quem": "REGINA",
+          "para": "MATEO",
+          "fala": "Si vas tras ella, mi padre te quita todo.",
+          "emocao": 10,
+          "eyeline": "REGINA olha para BAIXO e para a ESQUERDA do quadro, para MATEO la embaixo. NAO olha para a camera.",
+          "intencao": "Ameacar com o poder da familia, gelada.",
+          "voz": "Voz feminina fria, baixa, venenosa, ecoando.",
+          "rosto": "REGINA: olhar gelado, maquiagem borrada, queixo erguido.",
+          "corpo": "REGINA: parada na porta iluminada no alto da escadaria, a mascara prata pendurada na mao.",
+          "camera": "Corte seco. Low Angle de baixo para cima: REGINA SOZINHA no alto da escadaria, na porta iluminada, contraluz, lente 50mm."
+        },
+        {
+          "quem": "MATEO",
+          "para": "REGINA",
+          "fala": "Que me lo quite.",
+          "emocao": 9,
+          "eyeline": "MATEO olha para CIMA e para a DIREITA do quadro, para REGINA la no alto. NAO olha para a camera.",
+          "intencao": "Desafiar sem medo, decidido.",
+          "voz": "Voz masculina grave, calma, firme.",
+          "rosto": "MATEO: olhar firme, um meio sorriso desafiador.",
+          "corpo": "MATEO: se levanta devagar, guardando o alfineteiro no bolso do smoking.",
+          "camera": "Corte seco. High Angle de cima para baixo: MATEO SOZINHO no pe da escadaria olhando para cima, garoa caindo, lente 50mm."
+        },
+        {
+          "quem": "REGINA",
+          "para": "MATEO",
+          "fala": "¡Te vas a arrepentir, Mateo!",
+          "emocao": 10,
+          "eyeline": "REGINA olha para BAIXO e para a ESQUERDA do quadro, para MATEO. NAO olha para a camera.",
+          "intencao": "Raiva de quem perdeu, jurando vinganca.",
+          "voz": "Voz feminina aguda, gritando de raiva.",
+          "rosto": "REGINA: furiosa, lagrimas de odio.",
+          "corpo": "REGINA: aperta a mascara prata ate entortar.",
+          "camera": "Corte seco. Close-up de REGINA na porta iluminada, lente 75mm."
+        },
+        {
+          "rosto": "MATEO: olhar decidido, ja nao olha para REGINA. Boca FECHADA.",
+          "corpo": "MATEO: vira as costas para a mansao e caminha para a rua escura, a mao no bolso onde esta o alfineteiro.",
+          "camera": "Corte seco. Medium Shot de MATEO SOZINHO caminhando para longe da mansao na garoa, a escadaria iluminada atras dele, lente 35mm. Ninguem fala. O clipe termina nesta imagem.",
           "segundos": 1.0
         }
       ]
