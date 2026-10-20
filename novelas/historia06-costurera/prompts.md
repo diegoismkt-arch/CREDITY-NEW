@@ -15,8 +15,8 @@ Sem imagem de referência (Text to Video).
 {
   "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao FORTE com contraste: REGINA cruel, debochada, rindo alto; VALERIA humilhada mas digna, os olhos se enchendo de lagrimas, voz firme que treme. Plateia chocada e rindo. Rostos muito expressivos. Nenhum momento parado.",
   "consistency": [
-    "REGINA: mulher rica de 26 anos, pele clara, cabelo LOIRO platinado preso em coque alto, maquiagem impecavel, batom nude, VESTIDO PRATA brilhante tomara-que-caia, colar de diamantes, mascara veneziana PRATA com cabo na mao.",
-    "VALERIA: costureira de 24 anos, pele morena clara, rosto doce, olhos castanhos grandes, cabelo CASTANHO-ESCURO ondulado e solto, sem joias, VESTIDO VERMELHO longo de cetim com mangas caidas no ombro, feito a mao, alfineteiro de pulso (pulseira com uma almofadinha vermelha cheia de alfinetes) no pulso esquerdo.",
+    "REGINA: mulher rica de 26 anos, rosto comum e desconhecido, pele clara com SARDAS no nariz, rosto fino, queixo pontudo, cabelo RUIVO-ACOBREADO preso em coque alto, batom nude, VESTIDO PRATA tomara-que-caia, colar de diamantes, mascara veneziana PRATA com cabo na mao.",
+    "VALERIA: costureira de 24 anos, rosto comum de moca do bairro, pele morena, rosto redondo, nariz largo, sobrancelhas grossas, uma pinta pequena acima do labio, olhos castanhos, cabelo CASTANHO-ESCURO ondulado e solto, sem joias, VESTIDO VERMELHO longo de cetim com mangas caidas no ombro, feito a mao, alfineteiro de pulso (pulseira com uma almofadinha vermelha cheia de alfinetes) no pulso esquerdo.",
     "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
     "Depois do plano 1, a manga direita do vestido vermelho de VALERIA fica RASGADA, pendurada no braco.",
     "Convidados de gala com mascaras venezianas em volta, formando uma roda de plateia; ao fundo, uma grande escadaria de marmore e uma torre de tacas de champanhe.",
@@ -27,15 +27,15 @@ Sem imagem de referência (Text to Video).
     "duration_seconds": 9.5,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
     "structure": "5 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
-    "style": "Novela romantica e dramatica, cinematografica. Fotografia hiper-realista, pessoas comuns e ficticias, textura real de pele. Baile de mascaras de gala a noite no salao de uma mansao: lustres de cristal dourados, cortinas de veludo, piso de marmore brilhante, flores brancas, convidados de gala com mascaras venezianas. Luz quente dourada, Eye Light nos closes, Shallow Focus, cortes rapidos.",
+    "style": "Novela romantica e dramatica, cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Baile de mascaras de gala a noite no salao de uma mansao: lustres de cristal dourados, cortinas de veludo, piso de marmore brilhante, flores brancas, convidados de gala com mascaras venezianas. Luz quente dourada, Eye Light nos closes, Shallow Focus, cortes rapidos.",
     "setting": "O baile de mascaras de noivado de REGINA, no salao de uma mansao. VALERIA, a costureira, veio com um vestido feito por ela. REGINA a ve e explode na frente de todos.",
     "blocking": [
       "VALERIA: no meio do salao, SEMPRE na ESQUERDA do quadro, olhando para a DIREITA",
       "REGINA: de frente para VALERIA, SEMPRE na DIREITA do quadro, olhando para a ESQUERDA"
     ],
     "characters": {
-      "REGINA": "mulher rica de 26 anos, pele clara, cabelo LOIRO platinado preso em coque alto, maquiagem impecavel, batom nude, VESTIDO PRATA brilhante tomara-que-caia, colar de diamantes, mascara veneziana PRATA com cabo na mao. Personagem ficticia. Voz feminina aguda, esnobe e cruel de mulher de 26 anos.",
-      "VALERIA": "costureira de 24 anos, pele morena clara, rosto doce, olhos castanhos grandes, cabelo CASTANHO-ESCURO ondulado e solto, sem joias, VESTIDO VERMELHO longo de cetim com mangas caidas no ombro, feito a mao, alfineteiro de pulso (pulseira com uma almofadinha vermelha cheia de alfinetes) no pulso esquerdo. Personagem ficticia. Voz feminina doce, humilde e firme de mulher de 24 anos."
+      "REGINA": "mulher rica de 26 anos, rosto comum e desconhecido, pele clara com SARDAS no nariz, rosto fino, queixo pontudo, cabelo RUIVO-ACOBREADO preso em coque alto, batom nude, VESTIDO PRATA tomara-que-caia, colar de diamantes, mascara veneziana PRATA com cabo na mao. Personagem ficticia. Voz feminina aguda, esnobe e cruel de mulher de 26 anos.",
+      "VALERIA": "costureira de 24 anos, rosto comum de moca do bairro, pele morena, rosto redondo, nariz largo, sobrancelhas grossas, uma pinta pequena acima do labio, olhos castanhos, cabelo CASTANHO-ESCURO ondulado e solto, sem joias, VESTIDO VERMELHO longo de cetim com mangas caidas no ombro, feito a mao, alfineteiro de pulso (pulseira com uma almofadinha vermelha cheia de alfinetes) no pulso esquerdo. Personagem ficticia. Voz feminina doce, humilde e firme de mulher de 24 anos."
     }
   },
   "timeline": [
@@ -140,6 +140,7 @@ Sem imagem de referência (Text to Video).
     "roupa de um personagem em outro",
     "momento parado sem fala",
     "musica de fundo durante as falas",
+    "rosto parecido com celebridade, atriz, cantora ou pessoa famosa",
     "texto ou letras em qualquer lugar",
     "nome ou idade de personagem escrito na tela",
     "letreiro de apresentacao de personagem (lower third)",

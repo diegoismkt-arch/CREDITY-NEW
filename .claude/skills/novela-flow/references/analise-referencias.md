@@ -115,3 +115,9 @@ O que funciona: arquétipo conhecido (o público entende sem explicação), roma
 herói que defende sem ser pedido, toque carinhoso em close, mancha/objeto como continuidade visual,
 plateia, perseguição + objeto perdido, final que PROMETE continuação (não CTA falado). Falas curtíssimas,
 muitos closes alternados com OTS, choro intenso dela.
+
+## Recusa do Flow: "pessoas famosas" (La Costurera, clipe 1)
+Descrições glamourosas e genéricas (loira platinada, coque alto, vestido prata, diamantes, "muito bonita")
+fizeram o Flow recusar por parecer celebridade. Correção: rosto comum com traços marcantes e imperfeitos
+(sardas, pinta, nariz largo, sobrancelhas grossas, queixo pontudo), cabelo menos "de tapete vermelho",
+"pessoas desconhecidas, rostos com imperfeições reais" no estilo e negativo "rosto parecido com celebridade".
