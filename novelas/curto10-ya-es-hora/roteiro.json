@@ -5,9 +5,9 @@
   "titulo_interno": "YA ES HORA",
   "estilo": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Sala de estar de uma mansao moderna, de dia: piso de marmore branco, lustre de cristal, cortinas cinza, poltronas de veludo, luz natural fria entrando pelas janelas. Shallow Focus, cortes rapidos.",
   "imagens": {
-    "FRAME_MARIANA": "frame do clipe 1, ultimo plano (por volta do segundo 7): close de MARIANA com o celular no ouvido, a bochecha vermelha, rabo de cavalo preto.",
-    "FRAME_GERARDO": "frame do clipe 1, plano 1 (por volta do segundo 2): GERARDO de blazer azul royal, de pe.",
-    "FRAME_INES": "frame do clipe 1, plano 2 (por volta do segundo 4): close de DONA INES de vestido bordo e colar dourado."
+    "FRAME_MARIANA": "frame do clipe 1, plano 4 (por volta do segundo 7,5): close de MARIANA com o celular no ouvido, blusa creme com laco, rabo de cavalo preto.",
+    "FRAME_GERARDO": "frame do clipe 1, plano 2 (por volta do segundo 3): GERARDO de blazer azul royal inclinado, gritando.",
+    "FRAME_INES": "frame do clipe 1, plano 3 (por volta do segundo 5,8): close de DONA INES de vestido bordo e medalhao dourado."
   },
   "personagens": {
     "MARIANA": {
