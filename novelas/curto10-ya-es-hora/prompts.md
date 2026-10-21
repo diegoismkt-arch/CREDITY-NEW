@@ -7,7 +7,7 @@
 
 ## Clipe 1 — A humilhação e a ligação
 
-clipe 1: 10.5s, 9.7s de fala (24 palavras, 5 planos, falantes: GERARDO, INES, MARIANA) ❌ 10.5s — passa de 10s, corte palavras
+clipe 1: 10.1s, 9.3s de fala (23 palavras, 5 planos, falantes: GERARDO, INES, MARIANA) ❌ 10.1s — passa de 10s, corte palavras
 
 Sem imagem de referência (Text to Video).
 
@@ -94,9 +94,9 @@ Sem imagem de referência (Text to Video).
       "mouths": "Somente MARIANA movimenta os labios."
     },
     {
-      "time": "00:07.70-00:10.49",
+      "time": "00:07.70-00:10.12",
       "speaker": "GERARDO",
-      "dialogue": "¿Por qué le hablas a tu papá?",
+      "dialogue": "¿Por qué llamas a tu papá?",
       "addressee": "MARIANA",
       "eyeline": "GERARDO olha para BAIXO e para a ESQUERDA do quadro, para MARIANA. NAO olha para a camera.",
       "emotion_level": 10,
@@ -135,7 +135,6 @@ Sem imagem de referência (Text to Video).
     "subtitles": "Nao gerar."
   },
   "negative_prompt": [
-    "criancas",
     "mariana gritando",
     "letras na tela do celular",
     "personagem falando de frente para a camera",

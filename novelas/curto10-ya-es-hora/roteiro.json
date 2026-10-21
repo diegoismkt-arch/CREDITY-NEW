@@ -55,7 +55,6 @@
         "atuacao contida"
       ],
       "negativos_extra": [
-        "criancas",
         "mariana gritando",
         "letras na tela do celular",
         "personagem falando de frente para a camera",
@@ -113,7 +112,7 @@
         {
           "quem": "GERARDO",
           "para": "MARIANA",
-          "fala": "¿Por qué le hablas a tu papá?",
+          "fala": "¿Por qué llamas a tu papá?",
           "emocao": 10,
           "eyeline": "GERARDO olha para BAIXO e para a ESQUERDA do quadro, para MARIANA. NAO olha para a camera.",
           "intencao": "Confusao virando medo.",
