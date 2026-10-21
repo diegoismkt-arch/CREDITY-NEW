@@ -172,3 +172,5 @@ vergüenza que me vean con ustedes") e pela sogra ("Te lo mereces"). Ela pega o 
 hora." → o marido, em pânico: "¿Por qué le hablas a tu papá? ¿Por qué viene para acá?" → corta. Texto na tela:
 "Consulta la segunda parte en los comentarios ↗". Funciona: humilhada que tem um poder escondido (o pai);
 virada com UMA frase calma; os vilões passam de rir a ter medo em 3 s; final cortado no auge.
+Usuário: bebê passa no Flow se o ROSTO não aparecer — descrever como "trouxinha de manta branca toda fechada,
+sem rosto", sem usar a palavra bebê/recém-nascido no prompt.
