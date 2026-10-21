@@ -7,7 +7,7 @@
 
 ## Clipe 1 — A humilhação e a ligação
 
-clipe 1: 9.3s, 7.3s de fala (18 palavras, 5 planos, falantes: GERARDO, INES, MARIANA) ✅
+clipe 1: 9.9s, 7.3s de fala (18 palavras, 6 planos, falantes: GERARDO, INES, MARIANA) ✅
 
 Sem imagem de referência (Text to Video).
 
@@ -27,9 +27,9 @@ Sem imagem de referência (Text to Video).
   ],
   "scene": {
     "title": "YA ES HORA",
-    "duration_seconds": 9.3,
+    "duration_seconds": 9.9,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
-    "structure": "5 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "structure": "6 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
     "style": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Sala de estar de uma mansao moderna, de dia: piso de marmore branco, lustre de cristal, cortinas cinza, poltronas de veludo, luz natural fria entrando pelas janelas. Shallow Focus, cortes rapidos.",
     "setting": "A sala da mansao onde MARIANA mora com o marido GERARDO e a sogra DONA INES. Ela esta sentada com o filho pequeno enrolado na manta branca. Eles decidiram expulsa-la de casa.",
     "blocking": [
@@ -101,8 +101,17 @@ Sem imagem de referência (Text to Video).
       "voice": "Voz feminina baixa, calma, firme, sem tremer.",
       "face": "MARIANA: a bochecha vermelha do tapa, uma lagrima no rosto, mas o olhar frio e decidido.",
       "body": "MARIANA: sentada, ereta, o celular no ouvido, a manta branca apertada contra o peito.",
-      "camera": "Corte seco. Close-up de MARIANA com o celular no ouvido, GERARDO desfocado ao fundo a DIREITA, lente 85mm, Slow Push In. O clipe termina neste rosto, frio e decidido. A fala comeca no primeiro instante do plano.",
+      "camera": "Corte seco. Close-up de MARIANA com o celular no ouvido, GERARDO desfocado ao fundo a DIREITA, lente 85mm, Slow Push In. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente MARIANA movimenta os labios."
+    },
+    {
+      "time": "00:09.27-00:09.87",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "GERARDO: a furia some do rosto; ele engole seco, olhos arregalados, inseguro. Boca FECHADA.",
+      "body": "GERARDO: da meio passo para tras.",
+      "camera": "Corte seco. Reaction shot: close-up de GERARDO, lente 85mm. Ninguem fala. O clipe termina neste rosto.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
     }
   ],
   "dialogue_rules": {
@@ -116,7 +125,7 @@ Sem imagem de referência (Text to Video).
     ],
     "rules": [
       "So existem 3 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
-      "A ultima fala termina junto com o video.",
+      "Depois de 9.3 segundos ninguem fala.",
       "Cada fala e dirigida a: GERARDO -> MARIANA; INES -> MARIANA; MARIANA -> CELULAR.",
       "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
       "Nao repetir, misturar, traduzir ou acrescentar palavras.",

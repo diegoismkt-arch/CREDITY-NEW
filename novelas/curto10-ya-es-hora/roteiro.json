@@ -118,7 +118,13 @@
           "voz": "Voz feminina baixa, calma, firme, sem tremer.",
           "rosto": "MARIANA: a bochecha vermelha do tapa, uma lagrima no rosto, mas o olhar frio e decidido.",
           "corpo": "MARIANA: sentada, ereta, o celular no ouvido, a manta branca apertada contra o peito.",
-          "camera": "Corte seco. Close-up de MARIANA com o celular no ouvido, GERARDO desfocado ao fundo a DIREITA, lente 85mm, Slow Push In. O clipe termina neste rosto, frio e decidido."
+          "camera": "Corte seco. Close-up de MARIANA com o celular no ouvido, GERARDO desfocado ao fundo a DIREITA, lente 85mm, Slow Push In."
+        },
+        {
+          "rosto": "GERARDO: a furia some do rosto; ele engole seco, olhos arregalados, inseguro. Boca FECHADA.",
+          "corpo": "GERARDO: da meio passo para tras.",
+          "camera": "Corte seco. Reaction shot: close-up de GERARDO, lente 85mm. Ninguem fala. O clipe termina neste rosto.",
+          "segundos": 0.6
         }
       ]
     }
