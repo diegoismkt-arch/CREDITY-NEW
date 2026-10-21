@@ -1,6 +1,6 @@
 {
-  "titulo_post": "",
-  "legenda": "",
+  "titulo_post": "Le pegó a su esposa frente a su mamá… sin saber de quién era la casa 😱",
+  "legenda": "La humillaron, la golpearon y la quisieron echar a la calle… 💔\n\nPero ella solo hizo una llamada: \"Papá, ya es hora.\"\n\n¿Quién es su papá? 👇\n\nConsulta la PARTE 2 en los comentarios.\n\n#historias #novela #drama #justicia #reflexiones #lahistoriaprincipal",
   "texto_final": "Consulta la segunda parte en los comentarios 👇",
   "titulo_interno": "YA ES HORA",
   "estilo": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Sala de estar de uma mansao moderna, de dia: piso de marmore branco, lustre de cristal, cortinas cinza, poltronas de veludo, luz natural fria entrando pelas janelas. Shallow Focus, cortes rapidos.",
@@ -125,6 +125,121 @@
       "regras_extra": [
         "O primeiro plano e SO o tapa com efeitos sonoros: ninguem fala antes do tapa.",
         "Os efeitos sonoros do tapa precisam ser altos e bem marcados."
+      ]
+    },
+    {
+      "nome": "A casa é do pai",
+      "atuacao": "Novela dramatica. Atuacao FORTE com contraste: GERARDO nervoso, a arrogancia virando PANICO; MARIANA calma, fria, de cabeca erguida, com a bochecha ainda vermelha; DONA INES rindo nervosa e depois PALIDA de medo. Rostos muito expressivos. Nenhum momento parado.",
+      "imagens": [
+        "FRAME_MARIANA",
+        "FRAME_GERARDO",
+        "FRAME_INES"
+      ],
+      "personagens": [
+        "GERARDO",
+        "MARIANA",
+        "INES"
+      ],
+      "posicoes": {
+        "MARIANA": "sentada numa poltrona de veludo, SEMPRE na ESQUERDA do quadro, olhando para a DIREITA e para cima",
+        "GERARDO": "de pe na frente dela, SEMPRE na DIREITA do quadro, olhando para BAIXO e para a ESQUERDA",
+        "INES": "de pe atras de GERARDO, tambem na DIREITA, mais ao fundo"
+      },
+      "preservar_extra": [
+        "A MESMA MARIANA da imagem 1, o MESMO GERARDO da imagem 2 e a MESMA DONA INES da imagem 3, com as mesmas roupas e a MESMA sala da mansao.",
+        "MARIANA segura nos bracos, o clipe inteiro, a trouxinha de manta BRANCA toda fechada; NUNCA aparece rosto dentro da manta.",
+        "A bochecha esquerda de MARIANA continua VERMELHA do tapa.",
+        "As camionetes pretas NAO tem nenhuma letra, logotipo ou placa legivel.",
+        "Nenhum letreiro, quadro com letras ou letra em lugar nenhum."
+      ],
+      "cenario": "A MESMA sala, segundos depois da ligacao. A mansao onde eles vivem, na verdade, pertence ao pai de MARIANA, um homem poderoso.",
+      "som": "Silencio tenso; de repente, la fora, o ronco de VARIOS motores, o portao de ferro abrindo, portas de carro batendo; um TUM grave de suspense na ultima fala.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida"
+      ],
+      "negativos_extra": [
+        "rosto aparecendo dentro da manta",
+        "mariana gritando",
+        "letras ou logotipos nas camionetes",
+        "personagem falando de frente para a camera",
+        "roupa de um personagem em outro",
+        "momento parado sem fala"
+      ],
+      "salvar_frames": [],
+      "planos": [
+        {
+          "quem": "GERARDO",
+          "para": "MARIANA",
+          "fala": "¿Llamaste a tu papá?",
+          "emocao": 10,
+          "eyeline": "GERARDO olha para BAIXO e para a ESQUERDA do quadro, para MARIANA. NAO olha para a camera.",
+          "intencao": "Confusao virando medo.",
+          "voz": "Voz masculina alta, nervosa, perdendo a seguranca.",
+          "rosto": "GERARDO: o deboche some, olhos arregalados.",
+          "corpo": "GERARDO: no primeiro instante tenta arrancar o celular da mao dela; MARIANA afasta a mao.",
+          "camera": "Over-the-Shoulder: ombro e rabo de cavalo de MARIANA em primeiro plano a ESQUERDA; GERARDO nitido a DIREITA se inclinando, DONA INES atras, lente 50mm."
+        },
+        {
+          "quem": "MARIANA",
+          "para": "GERARDO",
+          "fala": "Esta casa… es de él.",
+          "emocao": 9,
+          "eyeline": "MARIANA olha para a DIREITA do quadro e para cima, nos olhos de GERARDO. NAO olha para a camera.",
+          "intencao": "Revelar a verdade com calma fria.",
+          "voz": "Voz feminina baixa, gelada, cada palavra devagar.",
+          "rosto": "MARIANA: olhar frio, sem lagrimas, a bochecha vermelha.",
+          "corpo": "MARIANA: se levanta devagar da poltrona, a manta branca firme contra o peito.",
+          "camera": "Corte seco. Over-the-Shoulder reverso: ombro do blazer azul royal de GERARDO desfocado em primeiro plano a DIREITA; MARIANA nitida a ESQUERDA se levantando, close, lente 75mm."
+        },
+        {
+          "quem": "INES",
+          "para": "MARIANA",
+          "fala": "¿Qué dices, loca?",
+          "emocao": 10,
+          "eyeline": "DONA INES olha para a ESQUERDA do quadro, para MARIANA. NAO olha para a camera.",
+          "intencao": "Rir para disfarcar o medo.",
+          "voz": "Voz feminina rouca, uma risada nervosa e falsa.",
+          "rosto": "DONA INES: sorriso que treme e some, a cor fugindo do rosto.",
+          "corpo": "DONA INES: aperta o medalhao dourado do colar.",
+          "camera": "Corte seco. Close-up de DONA INES, lustre desfocado atras, lente 75mm."
+        },
+        {
+          "rosto": "Sem rostos.",
+          "corpo": "Pela janela grande da sala: tres camionetes PRETAS entram pelo portao da mansao e param; homens de terno preto descem.",
+          "camera": "Corte seco. Plano pela janela, de dentro da sala para o jardim, lente 50mm, Slow Push In. Ninguem fala.",
+          "segundos": 0.8
+        },
+        {
+          "quem": "GERARDO",
+          "para": "MARIANA",
+          "fala": "¿Por qué vienen para acá?",
+          "emocao": 10,
+          "eyeline": "GERARDO olha pela janela e depois para a ESQUERDA do quadro, para MARIANA. NAO olha para a camera.",
+          "intencao": "Panico.",
+          "voz": "Voz masculina tremula, quase sem ar.",
+          "rosto": "GERARDO: palido, suando, olhos arregalados.",
+          "corpo": "GERARDO: recua da janela, a mao na cabeca.",
+          "camera": "Corte seco. Medium close-up de GERARDO na frente da janela, as camionetes desfocadas la fora, lente 50mm."
+        },
+        {
+          "quem": "MARIANA",
+          "para": "GERARDO",
+          "fala": "Vienen por ustedes.",
+          "emocao": 10,
+          "eyeline": "MARIANA olha para a DIREITA do quadro, para GERARDO e DONA INES. NAO olha para a camera.",
+          "intencao": "Sentenca final, sem levantar a voz.",
+          "voz": "Voz feminina baixa, firme, com um meio sorriso.",
+          "rosto": "MARIANA: um meio sorriso frio, o queixo erguido.",
+          "corpo": "MARIANA: de pe, a manta branca no colo, imovel.",
+          "camera": "Corte seco. Low Angle, close-up de MARIANA de pe, lustre atras, lente 85mm."
+        },
+        {
+          "rosto": "DONA INES: boca aberta, palida, a mao no peito. Boca FECHADA no fim.",
+          "corpo": "DONA INES: da um passo para tras.",
+          "camera": "Corte seco. Reaction shot: close-up de DONA INES, lente 85mm. Ninguem fala. O video termina neste rosto.",
+          "segundos": 0.6
+        }
       ]
     }
   ]
