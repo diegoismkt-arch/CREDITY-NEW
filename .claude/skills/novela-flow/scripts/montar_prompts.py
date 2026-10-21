@@ -66,7 +66,7 @@ def montar(rot, n, clip):
     for p in planos:
         fala = p.get("fala")
         if fala:
-            dur = max(MIN_PLANO_FALA, contar(fala) / PALAVRAS_POR_SEG + FOLGA_POR_FALA)
+            dur = max(MIN_PLANO_FALA, contar(fala) / PALAVRAS_POR_SEG + FOLGA_POR_FALA, p.get("segundos", 0))
         else:
             dur = p.get("segundos", 0.8)
         ini, t = t, t + dur

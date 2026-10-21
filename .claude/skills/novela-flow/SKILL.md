@@ -133,6 +133,7 @@ Um longo rende 3 a 5 curtos (cada um com um gancho diferente).
           "olha_para_camera": false
         },
         { "rosto": "plano mudo de reação", "corpo": "...", "camera": "Corte seco...", "segundos": 0.8 }
+        (plano COM fala tambem aceita "segundos": vira a duracao MINIMA do plano — use quando a acao, ex. levantar da cadeira, precisa de mais tempo que a fala)
       ]
     }
   ]
