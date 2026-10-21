@@ -1,6 +1,6 @@
 {
   "IDIOMA_OBRIGATORIO": "TODAS as falas em ESPANHOL do Mexico, exatamente como escritas no campo dialogue. NUNCA em portugues, nunca traduzir.",
-  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao FORTE com contraste: GERARDO cruel e enojado; DONA INES debochada, sorrindo; MARIANA humilhada, segura as lagrimas, e de repente fica CALMA e fria ao telefone. Rostos muito expressivos. Nenhum momento parado.",
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica, EMOCAO MAXIMA no tapa. GERARDO tomado de FURIA: rosto vermelho, veias saltando no pescoco, olhos injetados, respirando pesado, cuspindo as palavras. MARIANA leva o tapa com DOR e CHOQUE reais: o rosto vira com violencia, os olhos se fecham com forca, um soluço escapa, a mao vai a bochecha, os olhos se enchem de lagrimas, ela aperta a manta contra o peito para proteger; depois engole o choro e fica fria. DONA INES saboreia. Rostos muito expressivos. Nenhum momento parado.",
   "consistency": [
     "GERARDO: homem de 42 anos, marido de MARIANA, rosto comum e desconhecido, pele clara, testa larga, barba por fazer grisalha, cabelo PRETO penteado para tras com gel, BLAZER AZUL ROYAL sobre camisa PRETA, relogio de ouro.",
     "INES: senhora rica de 66 anos, mae de GERARDO, rosto comum e desconhecido, pele morena clara, rugas, cabelo PRETO preso em coque baixo, batom vinho, VESTIDO BORDO de manga longa, COLAR DOURADO grande de medalhoes.",
@@ -13,9 +13,9 @@
   ],
   "scene": {
     "title": "YA ES HORA",
-    "duration_seconds": 7.9,
+    "duration_seconds": 9.3,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
-    "structure": "4 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "structure": "5 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
     "style": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Sala de estar de uma mansao moderna, de dia: piso de marmore branco, lustre de cristal, cortinas cinza, poltronas de veludo, luz natural fria entrando pelas janelas. Shallow Focus, cortes rapidos.",
     "setting": "A sala da mansao onde MARIANA mora com o marido GERARDO e a sogra DONA INES. Ela esta sentada com o filho pequeno enrolado na manta branca. Eles decidiram expulsa-la de casa.",
     "blocking": [
@@ -38,14 +38,23 @@
       "eyeline": "GERARDO olha para BAIXO e para a ESQUERDA do quadro, para MARIANA na poltrona. NAO olha para a camera.",
       "emotion_level": 10,
       "intention": "Humilhar e agredir a esposa com desprezo.",
-      "voice": "Voz masculina alta, cruel, com nojo.",
-      "face": "GERARDO: cara de nojo, dentes cerrados.",
-      "body": "GERARDO: no PRIMEIRO instante da um TAPA forte no rosto de MARIANA, de mao aberta; o rosto dela vira para o lado com o impacto (sem sangue, sem ferimento) e ela aperta a manta branca contra o peito, protegendo-a.",
-      "camera": "Over-the-Shoulder: ombro e cabelo escuro de MARIANA sentada em primeiro plano a ESQUERDA, o rosto dela virando com o tapa; GERARDO nitido a DIREITA de pe, DONA INES atras dele, Low Angle, lente 35mm. A fala comeca no primeiro instante do plano.",
+      "voice": "Voz masculina GRITANDO, rouca de raiva, cuspindo cada palavra.",
+      "face": "GERARDO: furia total, rosto vermelho, veias no pescoco, olhos injetados, dentes cerrados.",
+      "body": "GERARDO: se inclina sobre ela gritando, o corpo tremendo de raiva; no FIM da fala ergue o braco, toma impulso com o ombro e da um TAPA forte de mao aberta no rosto de MARIANA.",
+      "camera": "Over-the-Shoulder: ombro e rabo de cavalo de MARIANA sentada desfocados em primeiro plano a ESQUERDA; GERARDO nitido a DIREITA, inclinado sobre ela, DONA INES atras dele, Low Angle, lente 35mm, a camera tremendo levemente. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente GERARDO movimenta os labios."
     },
     {
-      "time": "00:03.16-00:05.59",
+      "time": "00:03.16-00:04.56",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "MARIANA: no impacto os olhos se FECHAM com forca, a boca abre num soluço de dor; depois a mao treme ao tocar a bochecha VERMELHA e os olhos se enchem de lagrimas.",
+      "body": "O tapa acerta: a cabeca de MARIANA VIRA com violencia para o lado, o rabo de cavalo chicoteia no ar; ela encolhe o corpo e aperta a manta branca contra o peito para proteger.",
+      "camera": "Corte seco. Close-up de MARIANA no momento do impacto, SLOW MOTION, a mao de GERARDO entrando no quadro e saindo, lente 85mm. Ninguem fala; so o ESTALO do tapa e o soluço dela.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    },
+    {
+      "time": "00:04.56-00:06.99",
       "speaker": "INES",
       "dialogue": "Te lo mereces, muerta de hambre.",
       "addressee": "MARIANA",
@@ -53,13 +62,13 @@
       "emotion_level": 10,
       "intention": "Debochar com prazer.",
       "voice": "Voz feminina rouca, rindo, venenosa.",
-      "face": "DONA INES: sorriso cruel, sobrancelha erguida.",
+      "face": "DONA INES: sorriso de prazer, os olhos brilhando, saboreando a cena.",
       "body": "DONA INES: cruza os bracos, mexendo no colar dourado.",
       "camera": "Corte seco. Close-up de DONA INES, head and upper shoulders, lustre desfocado atras, lente 75mm. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente INES movimenta os labios."
     },
     {
-      "time": "00:05.59-00:06.19",
+      "time": "00:06.99-00:07.59",
       "speaker": "NONE",
       "dialogue": null,
       "face": "Sem rostos.",
@@ -68,7 +77,7 @@
       "mouths": "Bocas FECHADAS. Ninguem fala."
     },
     {
-      "time": "00:06.19-00:07.87",
+      "time": "00:07.59-00:09.27",
       "speaker": "MARIANA",
       "dialogue": "Papá… ya es hora.",
       "addressee": "CELULAR",
@@ -102,7 +111,7 @@
   },
   "audio": {
     "single_voice_at_a_time": true,
-    "sound": "O ESTALO seco do tapa, o eco da sala grande, o 'ah' abafado de MARIANA, silencio quando ela pega o telefone.",
+    "sound": "Os gritos de GERARDO, o ESTALO seco e alto do tapa em camera lenta, o soluço de dor de MARIANA, o eco da sala, depois silencio total quando ela pega o telefone.",
     "music": "Nenhuma.",
     "narration": "Nenhuma.",
     "subtitles": "Nao gerar."
@@ -114,6 +123,9 @@
     "roupa de um personagem em outro",
     "momento parado sem fala",
     "rosto aparecendo dentro da manta",
+    "tapa fraco ou de mentira",
+    "reacao fria ao tapa",
+    "mariana sem dor",
     "texto ou letras em qualquer lugar",
     "nome ou idade de personagem escrito na tela",
     "letreiro de apresentacao de personagem (lower third)",
