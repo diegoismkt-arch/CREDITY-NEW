@@ -5,7 +5,8 @@
     "INES: senhora rica de 66 anos, mae de GERARDO, rosto comum e desconhecido, pele morena clara, rugas, cabelo PRETO preso em coque baixo, batom vinho, VESTIDO BORDO de manga longa, COLAR DOURADO grande de medalhoes.",
     "MARIANA: mulher de 32 anos, rosto comum e desconhecido, pele morena clara, sobrancelhas grossas, nariz reto e comprido, olhos castanhos, cabelo CASTANHO-ESCURO liso na altura do ombro, BLUSA DE SEDA CREME com lacinho no pescoco, saia marrom, aliança no dedo.",
     "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
-    "Uma MALA de viagem preta aberta, com roupas saindo, caida no chao aos pes de MARIANA depois do plano 1.",
+    "Uma MALA de viagem preta aberta, com roupas saindo, ja esta caida no chao aos pes de MARIANA desde o comeco.",
+    "Depois do tapa, a bochecha esquerda de MARIANA fica VERMELHA, sem sangue e sem ferimento.",
     "Um celular simples na mesinha de canto ao lado da poltrona, com a tela SEM nenhuma letra.",
     "Nenhum letreiro, quadro com letras ou letra em lugar nenhum."
   ],
@@ -35,11 +36,11 @@
       "addressee": "MARIANA",
       "eyeline": "GERARDO olha para BAIXO e para a ESQUERDA do quadro, para MARIANA na poltrona. NAO olha para a camera.",
       "emotion_level": 10,
-      "intention": "Humilhar a esposa com desprezo.",
+      "intention": "Humilhar e agredir a esposa com desprezo.",
       "voice": "Voz masculina alta, cruel, com nojo.",
       "face": "GERARDO: cara de nojo, dentes cerrados.",
-      "body": "GERARDO: no primeiro instante ATIRA uma mala preta aberta aos pes de MARIANA; roupas se espalham no marmore.",
-      "camera": "Over-the-Shoulder: ombro e cabelo escuro de MARIANA sentada desfocados em primeiro plano a ESQUERDA; GERARDO nitido a DIREITA de pe, DONA INES atras dele, Low Angle, lente 35mm. A fala comeca no primeiro instante do plano.",
+      "body": "GERARDO: no PRIMEIRO instante da um TAPA forte no rosto de MARIANA, de mao aberta; o rosto dela vira para o lado com o impacto (sem sangue, sem ferimento). Depois ele fala, apontando a mala jogada no chao.",
+      "camera": "Over-the-Shoulder: ombro e cabelo escuro de MARIANA sentada em primeiro plano a ESQUERDA, o rosto dela virando com o tapa; GERARDO nitido a DIREITA de pe, DONA INES atras dele, Low Angle, lente 35mm. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente GERARDO movimenta os labios."
     },
     {
@@ -74,7 +75,7 @@
       "emotion_level": 9,
       "intention": "Dar uma ordem calma, depois de anos aguentando calada.",
       "voice": "Voz feminina baixa, calma, firme, sem tremer.",
-      "face": "MARIANA: uma lagrima seca no rosto, mas o olhar frio e decidido.",
+      "face": "MARIANA: a bochecha vermelha do tapa, uma lagrima no rosto, mas o olhar frio e decidido.",
       "body": "MARIANA: sentada, ereta, o celular no ouvido.",
       "camera": "Corte seco. Close-up de MARIANA com o celular no ouvido, GERARDO desfocado ao fundo a DIREITA, lente 85mm. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente MARIANA movimenta os labios."
@@ -115,7 +116,7 @@
   },
   "audio": {
     "single_voice_at_a_time": true,
-    "sound": "A mala batendo no marmore, o eco da sala grande, silencio quando MARIANA pega o telefone.",
+    "sound": "O ESTALO seco do tapa, o eco da sala grande, o 'ah' abafado de MARIANA, silencio quando ela pega o telefone.",
     "music": "Nenhuma.",
     "narration": "Nenhuma.",
     "subtitles": "Nao gerar."
