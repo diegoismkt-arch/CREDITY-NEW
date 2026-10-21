@@ -17,6 +17,7 @@ Sem imagem de referência (Text to Video).
   "consistency": [
     "SOFI: menina de 6 anos, rosto comum, pele clara, bochechas rosadas, olhos castanhos, cabelo CASTANHO-CLARO bem CACHEADO ate os ombros, VESTIDO ROSA-CLARO com mangas bufantes e laco nas costas, sapatilhas brancas.",
     "RODRIGO: homem de 38 anos, rosto comum e desconhecido, pele clara, barba curta castanha, nariz um pouco torto, olheiras, cabelo CASTANHO-ESCURO penteado de lado, TERNO AZUL-MARINHO de tres pecas com colete, camisa branca, gravata BORDO, sentado numa CADEIRA DE RODAS preta.",
+    "Existe UMA UNICA cadeira de rodas em todo o video: a de RODRIGO. O salao NAO tem nenhuma outra cadeira, mesa ou banco; os convidados estao todos de pe.",
     "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
     "RODRIGO fica SENTADO na cadeira de rodas o clipe inteiro.",
     "Os convidados de gala em roda, longe, olhando em silencio; ninguem mais dancando.",
@@ -49,8 +50,8 @@ Sem imagem de referência (Text to Video).
       "intention": "Curiosidade doce e pura.",
       "voice": "Voz infantil doce, baixinha.",
       "face": "SOFI: cabecinha inclinada, olhar curioso e carinhoso.",
-      "body": "SOFI: no primeiro instante chega andando e para ao lado da cadeira, tocando o braco dela.",
-      "camera": "Wide Shot do salao: RODRIGO sozinho na cadeira de rodas no centro da pista a ESQUERDA, SOFI chegando pela DIREITA, os convidados em roda ao fundo, lustres enormes, lente 35mm, Slow Push In. A fala comeca no primeiro instante do plano.",
+      "body": "SOFI: no primeiro instante chega andando e para ao lado de RODRIGO, tocando a mao dele.",
+      "camera": "Wide Shot do salao: RODRIGO sozinho na UNICA cadeira de rodas, no centro da pista vazia, a ESQUERDA; SOFI chegando a pe pela DIREITA; os convidados de pe em roda ao fundo; lustres enormes, lente 35mm, Slow Push In. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente SOFI movimenta os labios."
     },
     {
@@ -100,7 +101,7 @@ Sem imagem de referência (Text to Video).
       "speaker": "NONE",
       "dialogue": null,
       "face": "Sem rostos.",
-      "body": "As maozinhas de SOFI segurando as maos grandes de RODRIGO; embaixo, os sapatos pretos dele, apoiados no estribo da cadeira, se mexem e PISAM no piso de madeira pela primeira vez.",
+      "body": "As maozinhas de SOFI segurando as maos grandes de RODRIGO; embaixo, os sapatos pretos dele se mexem e PISAM firme no piso de madeira pela primeira vez.",
       "camera": "Corte seco. Insert em escala real descendo das maos ate os sapatos tocando o chao, Slow Motion. Ninguem fala. O clipe termina nesta imagem.",
       "mouths": "Bocas FECHADAS. Ninguem fala."
     }
@@ -137,6 +138,9 @@ Sem imagem de referência (Text to Video).
     "personagem falando de frente para a camera",
     "roupa de um personagem em outro",
     "momento parado sem fala",
+    "segunda cadeira de rodas",
+    "cadeira vazia",
+    "mesas e cadeiras no salao",
     "texto ou letras em qualquer lugar",
     "nome ou idade de personagem escrito na tela",
     "letreiro de apresentacao de personagem (lower third)",
