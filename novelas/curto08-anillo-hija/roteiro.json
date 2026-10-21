@@ -1,0 +1,221 @@
+{
+  "titulo_post": "",
+  "legenda": "",
+  "texto_final": "Comenta PARTE 2 👇",
+  "titulo_interno": "EL ANILLO DE MI HIJA",
+  "estilo": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Restaurante de luxo a noite: paredes de madeira escura, arandelas de luz quente, mesas com toalha e tacas de cristal, luzes douradas desfocadas em Bokeh. Low-key quente, Eye Light nos closes, Shallow Focus, cortes rapidos.",
+  "imagens": {
+    "FRAME_ALFREDO": "frame do clipe 1, plano 3 (por volta do segundo 4,5): close de DON ALFREDO grisalho de terno bordo, sentado a mesa.",
+    "FRAME_LUCIA": "frame do clipe 1, plano 2 (por volta do segundo 3): close de LUCIA chorando, rosto sujo, segurando o paninho.",
+    "FRAME_ANILLO": "frame do clipe 1, plano 4 (por volta do segundo 6,5): o anel de esmeralda brilhando no paninho."
+  },
+  "personagens": {
+    "ALFREDO": {
+      "descricao": "homem rico de 65 anos, rosto comum e desconhecido, pele clara bronzeada, rugas marcadas na testa, sobrancelhas grossas pretas, cabelo GRISALHO prateado volumoso penteado para tras, TERNO BORDO (vinho) com camisa PRETA e gravata bordo, anel de ouro no dedo.",
+      "voz": "Voz masculina grave, autoritaria, de homem de 65 anos.",
+      "frame": "FRAME_ALFREDO"
+    },
+    "LUCIA": {
+      "descricao": "menina de 10 anos, pele morena clara, rosto magro e SUJO de terra, arranhoes no nariz e na bochecha, olhos castanhos grandes, cabelo CASTANHO-ESCURO embaraçado preso para tras, CAMISETA BEGE velha e rasgada, segurando com as duas maos um paninho de tecido cru amarrado.",
+      "voz": "Voz feminina infantil, chorosa, de menina de 10 anos.",
+      "frame": "FRAME_LUCIA",
+      "feminino": true
+    },
+    "GUARDA": {
+      "descricao": "seguranca de 35 anos, rosto comum, pele clara, cabelo preto curto, barba feita, UNIFORME PRETO de seguranca com distintivo dourado no peito SEM letras.",
+      "voz": "Voz masculina firme e seca de homem de 35 anos.",
+      "frame": "FRAME_GUARDA"
+    }
+  },
+  "clips": [
+    {
+      "nome": "O pão e o anel",
+      "atuacao": "Novela dramatica. Atuacao FORTE com contraste: o GUARDA seco e duro; LUCIA chorando muito, soluçando, com medo; DON ALFREDO frio e desconfiado, depois em CHOQUE. Rostos muito expressivos. Nenhum momento parado.",
+      "personagens": [
+        "GUARDA",
+        "LUCIA",
+        "ALFREDO"
+      ],
+      "posicoes": {
+        "ALFREDO": "sentado a mesa do restaurante, SEMPRE na ESQUERDA do quadro, olhando para a DIREITA, para LUCIA",
+        "LUCIA": "de pe na frente da mesa, SEMPRE na DIREITA do quadro, olhando para a ESQUERDA, para DON ALFREDO",
+        "GUARDA": "de pe ATRAS de LUCIA, com as duas maos nos ombros dela"
+      },
+      "preservar_extra": [
+        "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
+        "LUCIA segura o paninho de tecido cru amarrado com as duas maos, apertado contra o peito, ate o plano 4.",
+        "Dentro do paninho ha um anel de ouro branco com uma grande ESMERALDA verde rodeada de pequenos diamantes.",
+        "Nenhum letreiro, cardapio legivel, placa ou letra no restaurante ou nas roupas."
+      ],
+      "cenario": "Um restaurante de luxo a noite. O seguranca traz LUCIA, uma menina de rua, ate a mesa do dono, DON ALFREDO, depois de pega-la com um pao.",
+      "som": "Murmurio baixo de restaurante, talheres, os soluços de LUCIA.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida"
+      ],
+      "negativos_extra": [
+        "letras no distintivo ou no restaurante",
+        "outras pessoas falando",
+        "lucia sorrindo",
+        "personagem falando de frente para a camera",
+        "roupa de um personagem em outro",
+        "momento parado sem fala"
+      ],
+      "salvar_frames": [
+        "FRAME_LUCIA",
+        "FRAME_ALFREDO",
+        "FRAME_ANILLO"
+      ],
+      "planos": [
+        {
+          "quem": "GUARDA",
+          "para": "ALFREDO",
+          "fala": "Señor, la encontramos robando pan.",
+          "emocao": 9,
+          "eyeline": "O GUARDA olha para BAIXO e para a ESQUERDA do quadro, para DON ALFREDO sentado. NAO olha para a camera.",
+          "intencao": "Entregar a ladra ao patrao.",
+          "voz": "Voz masculina firme e seca.",
+          "rosto": "GUARDA: serio, duro.",
+          "corpo": "GUARDA: no primeiro instante empurra LUCIA ate a mesa, as maos nos ombros dela; LUCIA chorando, apertando o paninho.",
+          "camera": "Over-the-Shoulder: ombro de terno bordo e cabelo grisalho de DON ALFREDO desfocados em primeiro plano a ESQUERDA; o GUARDA e LUCIA nitidos a DIREITA, de pe ao lado da mesa, lente 35mm."
+        },
+        {
+          "quem": "LUCIA",
+          "para": "ALFREDO",
+          "fala": "Solo tenía hambre.",
+          "emocao": 10,
+          "eyeline": "LUCIA olha para a ESQUERDA do quadro, para DON ALFREDO. NAO olha para a camera.",
+          "intencao": "Implorar perdao, com vergonha e medo.",
+          "voz": "Voz infantil chorosa, soluçando.",
+          "rosto": "LUCIA: chorando muito, lagrimas no rosto sujo, labios tremendo.",
+          "corpo": "LUCIA: aperta o paninho contra o peito com as duas maos.",
+          "camera": "Corte seco. Close-up de LUCIA, head and upper shoulders, as maos do GUARDA nos ombros dela, lente 85mm."
+        },
+        {
+          "quem": "ALFREDO",
+          "para": "LUCIA",
+          "fala": "¿Qué escondes en la mano?",
+          "emocao": 9,
+          "eyeline": "DON ALFREDO olha para a DIREITA do quadro, para LUCIA. NAO olha para a camera.",
+          "intencao": "Desconfiar, frio.",
+          "voz": "Voz masculina grave, dura, desconfiada.",
+          "rosto": "DON ALFREDO: sobrancelhas franzidas, olhar severo.",
+          "corpo": "DON ALFREDO: se inclina para a frente e estende a mao para o paninho.",
+          "camera": "Corte seco. Medium close-up de DON ALFREDO sentado, inclinado para a frente, as maos de LUCIA com o paninho em primeiro plano a DIREITA desfocadas, lente 50mm."
+        },
+        {
+          "rosto": "Sem rostos.",
+          "corpo": "As maos de DON ALFREDO abrem o paninho de tecido cru: la dentro, um anel de ouro branco com uma grande ESMERALDA verde rodeada de diamantes, brilhando.",
+          "camera": "Corte seco. Insert em escala real, Slow Zoom In ate o anel ocupar o quadro, um brilho de luz passando pela esmeralda. Ninguem fala.",
+          "segundos": 1.7
+        },
+        {
+          "quem": "ALFREDO",
+          "para": "LUCIA",
+          "fala": "Este anillo era de mi hija.",
+          "emocao": 10,
+          "eyeline": "DON ALFREDO olha para o anel na mao e depois para a DIREITA do quadro, para LUCIA. NAO olha para a camera.",
+          "intencao": "Choque total, a dureza desmoronando.",
+          "voz": "Voz masculina grave, quebrando, quase sem ar.",
+          "rosto": "DON ALFREDO: olhos arregalados, a raiva virando choque, os labios tremendo.",
+          "corpo": "DON ALFREDO: segura o anel com a mao tremendo.",
+          "camera": "Corte seco. Tight close-up de DON ALFREDO, lustres em Bokeh atras, Slow Push In, lente 85mm. O clipe termina neste rosto."
+        }
+      ]
+    },
+    {
+      "nome": "Mi abuelo",
+      "atuacao": "Novela dramatica. Atuacao FORTE: DON ALFREDO em choque, a voz tremendo, a dureza virando desespero; LUCIA chorando, soluçando, com medo e esperanca. Rostos muito expressivos. Nenhum momento parado.",
+      "imagens": [
+        "FRAME_ALFREDO",
+        "FRAME_LUCIA",
+        "FRAME_ANILLO"
+      ],
+      "personagens": [
+        "ALFREDO",
+        "LUCIA"
+      ],
+      "posicoes": {
+        "ALFREDO": "sentado a mesa do restaurante, SEMPRE na ESQUERDA do quadro, olhando para a DIREITA, para LUCIA",
+        "LUCIA": "de pe na frente da mesa, SEMPRE na DIREITA do quadro, olhando para a ESQUERDA, para DON ALFREDO",
+        "GUARDA": "de pe ATRAS de LUCIA, com as duas maos nos ombros dela"
+      },
+      "preservar_extra": [
+        "O MESMO DON ALFREDO da imagem 1, a MESMA LUCIA da imagem 2 e o MESMO anel de esmeralda da imagem 3, no MESMO restaurante.",
+        "DON ALFREDO segura o anel de esmeralda na mao o clipe inteiro.",
+        "As maos do GUARDA continuam nos ombros de LUCIA, mas o rosto dele fica fora do quadro.",
+        "Nenhum letreiro, placa ou letra no restaurante ou nas roupas."
+      ],
+      "cenario": "O MESMO restaurante, segundos depois. DON ALFREDO segura o anel que estava escondido no paninho da menina.",
+      "som": "O restaurante em silencio, so os soluços de LUCIA.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida"
+      ],
+      "negativos_extra": [
+        "rosto do guarda",
+        "lucia sorrindo",
+        "personagem falando de frente para a camera",
+        "roupa de um personagem em outro",
+        "momento parado sem fala"
+      ],
+      "salvar_frames": [],
+      "planos": [
+        {
+          "quem": "ALFREDO",
+          "para": "LUCIA",
+          "fala": "¿De dónde sacaste esto?",
+          "emocao": 10,
+          "eyeline": "DON ALFREDO olha para a DIREITA do quadro, para LUCIA, cujo ombro esta em primeiro plano. NAO olha para a camera.",
+          "intencao": "Exigir a verdade, desesperado.",
+          "voz": "Voz masculina grave, tremendo, urgente.",
+          "rosto": "DON ALFREDO: olhos vermelhos, choque e medo.",
+          "corpo": "DON ALFREDO: no primeiro instante se levanta da cadeira, o anel na mao.",
+          "camera": "Over-the-Shoulder: ombro e cabelo embaraçado de LUCIA desfocados em primeiro plano a DIREITA; DON ALFREDO nitido a ESQUERDA, se levantando, lente 50mm."
+        },
+        {
+          "quem": "LUCIA",
+          "para": "ALFREDO",
+          "fala": "Es de mi mamá.",
+          "emocao": 10,
+          "eyeline": "LUCIA olha para CIMA e para a ESQUERDA do quadro, para DON ALFREDO. NAO olha para a camera.",
+          "intencao": "Defender o que e dela, com medo.",
+          "voz": "Voz infantil chorosa, soluçando.",
+          "rosto": "LUCIA: chorando, olhos arregalados.",
+          "corpo": "LUCIA: estende a mao para o anel.",
+          "camera": "Corte seco. Over-the-Shoulder reverso: ombro do terno bordo de DON ALFREDO desfocado em primeiro plano a ESQUERDA; LUCIA nitida a DIREITA, close, High Angle, lente 75mm."
+        },
+        {
+          "quem": "ALFREDO",
+          "para": "LUCIA",
+          "fala": "¿Dónde está tu madre?",
+          "emocao": 10,
+          "eyeline": "DON ALFREDO olha para BAIXO e para a DIREITA do quadro, para LUCIA. NAO olha para a camera.",
+          "intencao": "Perguntar pela filha perdida, com esperanca e medo.",
+          "voz": "Voz masculina baixa, quebrando.",
+          "rosto": "DON ALFREDO: uma lagrima escorrendo.",
+          "corpo": "DON ALFREDO: se ajoelha devagar na frente dela.",
+          "camera": "Corte seco. Tight close-up de DON ALFREDO, lente 85mm."
+        },
+        {
+          "quem": "LUCIA",
+          "para": "ALFREDO",
+          "fala": "Mamá me dijo que buscara a mi abuelo.",
+          "emocao": 10,
+          "eyeline": "LUCIA olha para a ESQUERDA do quadro, nos olhos de DON ALFREDO ajoelhado. NAO olha para a camera.",
+          "intencao": "Contar a missao que a mae deu, chorando.",
+          "voz": "Voz infantil chorosa, soluçando no meio da frase.",
+          "rosto": "LUCIA: chorando muito, o rosto sujo de lagrimas.",
+          "corpo": "LUCIA: aperta o paninho vazio contra o peito.",
+          "camera": "Corte seco. Close-up de LUCIA, head and upper shoulders, as maos do GUARDA nos ombros dela, lente 85mm."
+        },
+        {
+          "rosto": "DON ALFREDO: boca aberta, sem ar, os olhos cheios de lagrimas. Boca FECHADA no fim.",
+          "corpo": "DON ALFREDO: ajoelhado, o anel apertado na mao contra o peito.",
+          "camera": "Corte seco. Reaction shot: tight close-up de DON ALFREDO, Slow Push In, lente 85mm. Ninguem fala. O video termina neste rosto.",
+          "segundos": 0.9
+        }
+      ]
+    }
+  ]
+}
