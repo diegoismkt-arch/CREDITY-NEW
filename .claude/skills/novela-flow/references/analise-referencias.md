@@ -158,3 +158,10 @@ longo (≈2,5 s) de um anel de esmeralda → close dele mudando de raiva para ch
 O que funciona: acusação injusta no 1º segundo; reconhecimento por OBJETO (não por rosto); o objeto ganha insert
 longo e brilhante; o poderoso passa de juiz a vítima do segredo; última fala revela o parentesco e abre 2
 perguntas (onde está a mãe? por que sumiu?). Usa criança → para o nosso Flow, trocar por jovem adulta.
+
+## Referência "Posso dançar com você?" (21 s, em português, página Segredos da Vida)
+Baile de gala, homem sozinho na cadeira de rodas no centro, plateia em roda. Uma menina chega: "Moço, por que
+está tão sozinho? Posso dançar com você?" → ele chora: "Há 3 anos não me levanto desta cadeira." → ela segura as
+mãos dele → ele SE LEVANTA (milagre), plateia em choque → ele a pega no colo chorando → ela vira para a lente:
+"Quer saber o que vai acontecer? Comenta parte 2." Funciona: bondade de criança + milagre visual + choro do adulto
++ CTA falado pela criança. Obs.: criança funcionou no Flow em "El Anillo de mi Hija" (bebê/hospital é que barrou).

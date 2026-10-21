@@ -1,0 +1,117 @@
+{
+  "titulo_post": "",
+  "legenda": "",
+  "texto_final": "",
+  "titulo_interno": "EL BAILE",
+  "estilo": "Novela emocionante cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Salao de baile classico a noite: lustres de cristal enormes, paredes douradas com molduras, piso de madeira em espinha de peixe, convidados de gala formando uma roda em volta. Luz quente dourada, Eye Light nos closes, Shallow Focus, cortes suaves.",
+  "imagens": {
+    "FRAME_RODRIGO": "frame do clipe 1, plano 3 (por volta do segundo 5): close de RODRIGO chorando na cadeira de rodas, terno azul-marinho.",
+    "FRAME_SOFI": "frame do clipe 1, plano 2 (por volta do segundo 3): close de SOFI sorrindo, vestido rosa-claro, cabelo cacheado."
+  },
+  "personagens": {
+    "RODRIGO": {
+      "descricao": "homem de 38 anos, rosto comum e desconhecido, pele clara, barba curta castanha, nariz um pouco torto, olheiras, cabelo CASTANHO-ESCURO penteado de lado, TERNO AZUL-MARINHO de tres pecas com colete, camisa branca, gravata BORDO, sentado numa CADEIRA DE RODAS preta.",
+      "voz": "Voz masculina grave, cansada e emocionada de homem de 38 anos.",
+      "frame": "FRAME_RODRIGO"
+    },
+    "SOFI": {
+      "descricao": "menina de 6 anos, rosto comum, pele clara, bochechas rosadas, olhos castanhos, cabelo CASTANHO-CLARO bem CACHEADO ate os ombros, VESTIDO ROSA-CLARO com mangas bufantes e laco nas costas, sapatilhas brancas.",
+      "voz": "Voz infantil doce e alegre de menina de 6 anos.",
+      "frame": "FRAME_SOFI",
+      "feminino": true
+    }
+  },
+  "clips": [
+    {
+      "nome": "Posso dançar?",
+      "atuacao": "Novela emocionante. Atuacao FORTE com contraste: SOFI doce, alegre, inocente; RODRIGO sozinho e triste, depois chorando sem conseguir segurar. Plateia em silencio, emocionada. Rostos muito expressivos. Nenhum momento parado.",
+      "personagens": [
+        "SOFI",
+        "RODRIGO"
+      ],
+      "posicoes": {
+        "RODRIGO": "sozinho na CADEIRA DE RODAS no meio da pista de danca, SEMPRE na ESQUERDA do quadro, olhando para a DIREITA",
+        "SOFI": "chega pela DIREITA e para AO LADO da cadeira, SEMPRE na DIREITA do quadro, olhando para a ESQUERDA, para cima, para RODRIGO"
+      },
+      "preservar_extra": [
+        "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
+        "RODRIGO fica SENTADO na cadeira de rodas o clipe inteiro.",
+        "Os convidados de gala em roda, longe, olhando em silencio; ninguem mais dancando.",
+        "Nenhum letreiro, faixa, placa ou letra no salao ou nas roupas."
+      ],
+      "cenario": "Um grande baile de gala. Todos dancaram, e RODRIGO ficou sozinho na cadeira de rodas no meio da pista. Uma menina que ele nunca viu se aproxima.",
+      "som": "A musica da orquestra terminando, o salao ficando em silencio, os passinhos de SOFI no piso de madeira.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida"
+      ],
+      "negativos_extra": [
+        "rodrigo se levantando",
+        "outras pessoas falando",
+        "personagem falando de frente para a camera",
+        "roupa de um personagem em outro",
+        "momento parado sem fala"
+      ],
+      "salvar_frames": [
+        "FRAME_SOFI",
+        "FRAME_RODRIGO"
+      ],
+      "planos": [
+        {
+          "quem": "SOFI",
+          "para": "RODRIGO",
+          "fala": "Señor, ¿por qué está tan solito?",
+          "emocao": 8,
+          "eyeline": "SOFI olha para a ESQUERDA do quadro e para cima, para RODRIGO na cadeira. NAO olha para a camera.",
+          "intencao": "Curiosidade doce e pura.",
+          "voz": "Voz infantil doce, baixinha.",
+          "rosto": "SOFI: cabecinha inclinada, olhar curioso e carinhoso.",
+          "corpo": "SOFI: no primeiro instante chega andando e para ao lado da cadeira, tocando o braco dela.",
+          "camera": "Wide Shot do salao: RODRIGO sozinho na cadeira de rodas no centro da pista a ESQUERDA, SOFI chegando pela DIREITA, os convidados em roda ao fundo, lustres enormes, lente 35mm, Slow Push In."
+        },
+        {
+          "quem": "SOFI",
+          "para": "RODRIGO",
+          "fala": "¿Puedo bailar con usted?",
+          "emocao": 9,
+          "eyeline": "SOFI olha para a ESQUERDA do quadro e para cima, para RODRIGO, cujo ombro de terno esta em primeiro plano. NAO olha para a camera.",
+          "intencao": "Convidar, com um sorriso enorme.",
+          "voz": "Voz infantil doce e alegre.",
+          "rosto": "SOFI: sorriso enorme, olhos brilhando.",
+          "corpo": "SOFI: estende as duas maozinhas para ele.",
+          "camera": "Corte seco. Over-the-Shoulder: ombro do terno azul-marinho de RODRIGO desfocado em primeiro plano a ESQUERDA; SOFI nitida a DIREITA, close, Low Angle, lente 75mm."
+        },
+        {
+          "quem": "RODRIGO",
+          "para": "SOFI",
+          "fala": "Hace tres años que no me levanto.",
+          "emocao": 10,
+          "eyeline": "RODRIGO olha para a DIREITA do quadro, para SOFI, cujo cabelo cacheado esta em primeiro plano. NAO olha para a camera.",
+          "intencao": "Confessar a dor, envergonhado.",
+          "voz": "Voz masculina grave, quebrando, segurando o choro.",
+          "rosto": "RODRIGO: os olhos se enchem de lagrimas, a boca tremendo, um sorriso triste.",
+          "corpo": "RODRIGO: abre as maos vazias sobre as pernas.",
+          "camera": "Corte seco. Over-the-Shoulder reverso: cabelo cacheado e ombro de SOFI desfocados em primeiro plano a DIREITA; RODRIGO nitido a ESQUERDA na cadeira, close, lente 85mm."
+        },
+        {
+          "quem": "SOFI",
+          "para": "RODRIGO",
+          "fala": "Inténtelo… conmigo.",
+          "emocao": 9,
+          "eyeline": "SOFI olha para a ESQUERDA do quadro, nos olhos de RODRIGO. NAO olha para a camera.",
+          "intencao": "Dar coragem, com fe de crianca.",
+          "voz": "Voz infantil doce, firme e carinhosa.",
+          "rosto": "SOFI: sorriso confiante.",
+          "corpo": "SOFI: segura as duas maos de RODRIGO.",
+          "camera": "Corte seco. Close-up de SOFI, head and upper shoulders, lustres em Bokeh atras, lente 85mm."
+        },
+        {
+          "rosto": "Sem rostos.",
+          "corpo": "As maozinhas de SOFI segurando as maos grandes de RODRIGO; embaixo, os sapatos pretos dele, apoiados no estribo da cadeira, se mexem e PISAM no piso de madeira pela primeira vez.",
+          "camera": "Corte seco. Insert em escala real descendo das maos ate os sapatos tocando o chao, Slow Motion. Ninguem fala. O clipe termina nesta imagem.",
+          "segundos": 1.0
+        }
+      ]
+    }
+  ]
+}

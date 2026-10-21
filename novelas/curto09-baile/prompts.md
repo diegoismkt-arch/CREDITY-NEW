@@ -1,0 +1,172 @@
+# 
+
+**Legenda:** 
+
+**Texto na edição (final):** 
+
+
+## Clipe 1 — Posso dançar?
+
+clipe 1: 9.1s, 8.1s de fala (19 palavras, 5 planos, falantes: SOFI, RODRIGO) ✅
+
+Sem imagem de referência (Text to Video).
+
+```json
+{
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela emocionante. Atuacao FORTE com contraste: SOFI doce, alegre, inocente; RODRIGO sozinho e triste, depois chorando sem conseguir segurar. Plateia em silencio, emocionada. Rostos muito expressivos. Nenhum momento parado.",
+  "consistency": [
+    "SOFI: menina de 6 anos, rosto comum, pele clara, bochechas rosadas, olhos castanhos, cabelo CASTANHO-CLARO bem CACHEADO ate os ombros, VESTIDO ROSA-CLARO com mangas bufantes e laco nas costas, sapatilhas brancas.",
+    "RODRIGO: homem de 38 anos, rosto comum e desconhecido, pele clara, barba curta castanha, nariz um pouco torto, olheiras, cabelo CASTANHO-ESCURO penteado de lado, TERNO AZUL-MARINHO de tres pecas com colete, camisa branca, gravata BORDO, sentado numa CADEIRA DE RODAS preta.",
+    "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
+    "RODRIGO fica SENTADO na cadeira de rodas o clipe inteiro.",
+    "Os convidados de gala em roda, longe, olhando em silencio; ninguem mais dancando.",
+    "Nenhum letreiro, faixa, placa ou letra no salao ou nas roupas."
+  ],
+  "scene": {
+    "title": "EL BAILE",
+    "duration_seconds": 9.1,
+    "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
+    "structure": "5 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "style": "Novela emocionante cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Salao de baile classico a noite: lustres de cristal enormes, paredes douradas com molduras, piso de madeira em espinha de peixe, convidados de gala formando uma roda em volta. Luz quente dourada, Eye Light nos closes, Shallow Focus, cortes suaves.",
+    "setting": "Um grande baile de gala. Todos dancaram, e RODRIGO ficou sozinho na cadeira de rodas no meio da pista. Uma menina que ele nunca viu se aproxima.",
+    "blocking": [
+      "RODRIGO: sozinho na CADEIRA DE RODAS no meio da pista de danca, SEMPRE na ESQUERDA do quadro, olhando para a DIREITA",
+      "SOFI: chega pela DIREITA e para AO LADO da cadeira, SEMPRE na DIREITA do quadro, olhando para a ESQUERDA, para cima, para RODRIGO"
+    ],
+    "characters": {
+      "SOFI": "menina de 6 anos, rosto comum, pele clara, bochechas rosadas, olhos castanhos, cabelo CASTANHO-CLARO bem CACHEADO ate os ombros, VESTIDO ROSA-CLARO com mangas bufantes e laco nas costas, sapatilhas brancas. Personagem ficticia. Voz infantil doce e alegre de menina de 6 anos.",
+      "RODRIGO": "homem de 38 anos, rosto comum e desconhecido, pele clara, barba curta castanha, nariz um pouco torto, olheiras, cabelo CASTANHO-ESCURO penteado de lado, TERNO AZUL-MARINHO de tres pecas com colete, camisa branca, gravata BORDO, sentado numa CADEIRA DE RODAS preta. Personagem ficticio. Voz masculina grave, cansada e emocionada de homem de 38 anos."
+    }
+  },
+  "timeline": [
+    {
+      "time": "00:00.00-00:02.42",
+      "speaker": "SOFI",
+      "dialogue": "Señor, ¿por qué está tan solito?",
+      "addressee": "RODRIGO",
+      "eyeline": "SOFI olha para a ESQUERDA do quadro e para cima, para RODRIGO na cadeira. NAO olha para a camera.",
+      "emotion_level": 8,
+      "intention": "Curiosidade doce e pura.",
+      "voice": "Voz infantil doce, baixinha.",
+      "face": "SOFI: cabecinha inclinada, olhar curioso e carinhoso.",
+      "body": "SOFI: no primeiro instante chega andando e para ao lado da cadeira, tocando o braco dela.",
+      "camera": "Wide Shot do salao: RODRIGO sozinho na cadeira de rodas no centro da pista a ESQUERDA, SOFI chegando pela DIREITA, os convidados em roda ao fundo, lustres enormes, lente 35mm, Slow Push In. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente SOFI movimenta os labios."
+    },
+    {
+      "time": "00:02.42-00:04.10",
+      "speaker": "SOFI",
+      "dialogue": "¿Puedo bailar con usted?",
+      "addressee": "RODRIGO",
+      "eyeline": "SOFI olha para a ESQUERDA do quadro e para cima, para RODRIGO, cujo ombro de terno esta em primeiro plano. NAO olha para a camera.",
+      "emotion_level": 9,
+      "intention": "Convidar, com um sorriso enorme.",
+      "voice": "Voz infantil doce e alegre.",
+      "face": "SOFI: sorriso enorme, olhos brilhando.",
+      "body": "SOFI: estende as duas maozinhas para ele.",
+      "camera": "Corte seco. Over-the-Shoulder: ombro do terno azul-marinho de RODRIGO desfocado em primeiro plano a ESQUERDA; SOFI nitida a DIREITA, close, Low Angle, lente 75mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente SOFI movimenta os labios."
+    },
+    {
+      "time": "00:04.10-00:06.90",
+      "speaker": "RODRIGO",
+      "dialogue": "Hace tres años que no me levanto.",
+      "addressee": "SOFI",
+      "eyeline": "RODRIGO olha para a DIREITA do quadro, para SOFI, cujo cabelo cacheado esta em primeiro plano. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Confessar a dor, envergonhado.",
+      "voice": "Voz masculina grave, quebrando, segurando o choro.",
+      "face": "RODRIGO: os olhos se enchem de lagrimas, a boca tremendo, um sorriso triste.",
+      "body": "RODRIGO: abre as maos vazias sobre as pernas.",
+      "camera": "Corte seco. Over-the-Shoulder reverso: cabelo cacheado e ombro de SOFI desfocados em primeiro plano a DIREITA; RODRIGO nitido a ESQUERDA na cadeira, close, lente 85mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente RODRIGO movimenta os labios."
+    },
+    {
+      "time": "00:06.90-00:08.10",
+      "speaker": "SOFI",
+      "dialogue": "Inténtelo… conmigo.",
+      "addressee": "RODRIGO",
+      "eyeline": "SOFI olha para a ESQUERDA do quadro, nos olhos de RODRIGO. NAO olha para a camera.",
+      "emotion_level": 9,
+      "intention": "Dar coragem, com fe de crianca.",
+      "voice": "Voz infantil doce, firme e carinhosa.",
+      "face": "SOFI: sorriso confiante.",
+      "body": "SOFI: segura as duas maos de RODRIGO.",
+      "camera": "Corte seco. Close-up de SOFI, head and upper shoulders, lustres em Bokeh atras, lente 85mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente SOFI movimenta os labios."
+    },
+    {
+      "time": "00:08.10-00:09.10",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "Sem rostos.",
+      "body": "As maozinhas de SOFI segurando as maos grandes de RODRIGO; embaixo, os sapatos pretos dele, apoiados no estribo da cadeira, se mexem e PISAM no piso de madeira pela primeira vez.",
+      "camera": "Corte seco. Insert em escala real descendo das maos ate os sapatos tocando o chao, Slow Motion. Ninguem fala. O clipe termina nesta imagem.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    }
+  ],
+  "dialogue_rules": {
+    "language": "Espanol de Mexico, acento mexicano natural, TODAS as palavras em espanhol.",
+    "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
+    "total_dialogue_lines": 4,
+    "exact_order": [
+      "SOFI",
+      "SOFI",
+      "RODRIGO",
+      "SOFI"
+    ],
+    "rules": [
+      "So existem 4 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "Depois de 8.1 segundos ninguem fala.",
+      "Cada fala e dirigida a: SOFI -> RODRIGO; SOFI -> RODRIGO; RODRIGO -> SOFI; SOFI -> RODRIGO.",
+      "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
+      "Nao repetir, misturar, traduzir ou acrescentar palavras.",
+      "Cada frase e dita INTEIRA, do comeco ao fim."
+    ]
+  },
+  "audio": {
+    "single_voice_at_a_time": true,
+    "sound": "A musica da orquestra terminando, o salao ficando em silencio, os passinhos de SOFI no piso de madeira.",
+    "music": "Nenhuma.",
+    "narration": "Nenhuma.",
+    "subtitles": "Nao gerar."
+  },
+  "negative_prompt": [
+    "rodrigo se levantando",
+    "outras pessoas falando",
+    "personagem falando de frente para a camera",
+    "roupa de um personagem em outro",
+    "momento parado sem fala",
+    "texto ou letras em qualquer lugar",
+    "nome ou idade de personagem escrito na tela",
+    "letreiro de apresentacao de personagem (lower third)",
+    "palavra inventada no ultimo plano",
+    "fala repetida",
+    "fala adiantada ou atrasada para outro plano",
+    "personagem falando ou olhando para quem nao e o destinatario da fala",
+    "fala neutra ou monotona",
+    "rosto neutro ou expressao vazia",
+    "voz sem rosto na tela",
+    "tela dividida",
+    "colagem",
+    "formato horizontal",
+    "bordas pretas",
+    "palavras em ingles",
+    "palavras em portugues",
+    "duas vozes simultaneas",
+    "movimento labial do ouvinte",
+    "fala cortada, encurtada ou incompleta",
+    "personagem olhando para a camera",
+    "mudanca de rosto",
+    "mudanca de roupa",
+    "legendas",
+    "logotipo",
+    "marca-d'agua",
+    "trilha sonora"
+  ]
+}
+```
+
+**Depois de gerar este clipe, salve os frames:**
+- **FRAME_SOFI:** frame do clipe 1, plano 2 (por volta do segundo 3): close de SOFI sorrindo, vestido rosa-claro, cabelo cacheado.
+- **FRAME_RODRIGO:** frame do clipe 1, plano 3 (por volta do segundo 5): close de RODRIGO chorando na cadeira de rodas, terno azul-marinho.
