@@ -1,6 +1,14 @@
-# 
+# La acusaron de robar pan… pero lo que escondía en la mano dejó al millonario sin palabras 😱
 
-**Legenda:** 
+**Legenda:** Solo tenía hambre… y un anillo escondido en un trapito 😢
+
+Ese anillo era de la hija que él perdió.
+
+¿Dónde está la mamá de la niña? 👇
+
+Comenta PARTE 2.
+
+#historias #novela #drama #familia #reflexiones #lahistoriaprincipal
 
 **Texto na edição (final):** Comenta PARTE 2 👇
 
@@ -173,7 +181,7 @@ Sem imagem de referência (Text to Video).
 
 **Depois de gerar este clipe, salve os frames:**
 - **FRAME_LUCIA:** frame do clipe 1, plano 2 (por volta do segundo 3): close de LUCIA chorando, rosto sujo, segurando o paninho.
-- **FRAME_ALFREDO:** frame do clipe 1, plano 3 (por volta do segundo 4,5): close de DON ALFREDO grisalho de terno bordo, sentado a mesa.
+- **FRAME_ALFREDO:** frame do clipe 1, plano 5 (por volta do segundo 8,5): close de DON ALFREDO grisalho de terno bordo, em choque.
 - **FRAME_ANILLO:** frame do clipe 1, plano 4 (por volta do segundo 6,5): o anel de esmeralda brilhando no paninho.
 
 ## Clipe 2 — Mi abuelo
@@ -190,7 +198,7 @@ Referências, nesta ordem: 1) FRAME_ALFREDO; 2) FRAME_LUCIA; 3) FRAME_ANILLO
     "mode": "Ingredients to Video, sem primeiro frame.",
     "additional_references": true,
     "reference_images": [
-      "Imagem 1 — frame do clipe 1, plano 3 (por volta do segundo 4,5): close de DON ALFREDO grisalho de terno bordo, sentado a mesa.",
+      "Imagem 1 — frame do clipe 1, plano 5 (por volta do segundo 8,5): close de DON ALFREDO grisalho de terno bordo, em choque.",
       "Imagem 2 — frame do clipe 1, plano 2 (por volta do segundo 3): close de LUCIA chorando, rosto sujo, segurando o paninho.",
       "Imagem 3 — frame do clipe 1, plano 4 (por volta do segundo 6,5): o anel de esmeralda brilhando no paninho."
     ],
