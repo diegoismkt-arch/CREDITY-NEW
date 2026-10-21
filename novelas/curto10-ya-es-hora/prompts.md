@@ -7,7 +7,7 @@
 
 ## Clipe 1 — A humilhação e a ligação
 
-clipe 1: 10.1s, 9.3s de fala (23 palavras, 5 planos, falantes: GERARDO, INES, MARIANA) ❌ 10.1s — passa de 10s, corte palavras
+clipe 1: 9.2s, 8.6s de fala (21 palavras, 5 planos, falantes: GERARDO, INES, MARIANA) ✅
 
 Sem imagem de referência (Text to Video).
 
@@ -25,7 +25,7 @@ Sem imagem de referência (Text to Video).
   ],
   "scene": {
     "title": "YA ES HORA",
-    "duration_seconds": 10.0,
+    "duration_seconds": 9.2,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
     "structure": "5 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
     "style": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Sala de estar de uma mansao moderna, de dia: piso de marmore branco, lustre de cristal, cortinas cinza, poltronas de veludo, luz natural fria entrando pelas janelas. Shallow Focus, cortes rapidos.",
@@ -71,7 +71,7 @@ Sem imagem de referência (Text to Video).
       "mouths": "Somente INES movimenta os labios."
     },
     {
-      "time": "00:05.21-00:06.01",
+      "time": "00:05.21-00:05.81",
       "speaker": "NONE",
       "dialogue": null,
       "face": "Sem rostos.",
@@ -80,7 +80,7 @@ Sem imagem de referência (Text to Video).
       "mouths": "Bocas FECHADAS. Ninguem fala."
     },
     {
-      "time": "00:06.01-00:07.70",
+      "time": "00:05.81-00:07.50",
       "speaker": "MARIANA",
       "dialogue": "Papá… ya es hora.",
       "addressee": "CELULAR",
@@ -94,9 +94,9 @@ Sem imagem de referência (Text to Video).
       "mouths": "Somente MARIANA movimenta os labios."
     },
     {
-      "time": "00:07.70-00:10.12",
+      "time": "00:07.50-00:09.18",
       "speaker": "GERARDO",
-      "dialogue": "¿Por qué llamas a tu papá?",
+      "dialogue": "¿Llamaste a tu papá?",
       "addressee": "MARIANA",
       "eyeline": "GERARDO olha para BAIXO e para a ESQUERDA do quadro, para MARIANA. NAO olha para a camera.",
       "emotion_level": 10,
