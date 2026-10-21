@@ -165,3 +165,10 @@ está tão sozinho? Posso dançar com você?" → ele chora: "Há 3 anos não me
 mãos dele → ele SE LEVANTA (milagre), plateia em choque → ele a pega no colo chorando → ela vira para a lente:
 "Quer saber o que vai acontecer? Comenta parte 2." Funciona: bondade de criança + milagre visual + choro do adulto
 + CTA falado pela criança. Obs.: criança funcionou no Flow em "El Anillo de mi Hija" (bebê/hospital é que barrou).
+
+## Referência "Papá, ya es hora" (18 s, novela real)
+Sala de mansão. A esposa sentada (no original, com um bebê — NÃO usar no Flow) é humilhada pelo marido ("Me da
+vergüenza que me vean con ustedes") e pela sogra ("Te lo mereces"). Ela pega o celular e diz calma: "Papá, ya es
+hora." → o marido, em pânico: "¿Por qué le hablas a tu papá? ¿Por qué viene para acá?" → corta. Texto na tela:
+"Consulta la segunda parte en los comentarios ↗". Funciona: humilhada que tem um poder escondido (o pai);
+virada com UMA frase calma; os vilões passam de rir a ter medo em 3 s; final cortado no auge.
