@@ -5,13 +5,13 @@
   "titulo_interno": "YA ES HORA",
   "estilo": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Sala de estar de uma mansao moderna, de dia: piso de marmore branco, lustre de cristal, cortinas cinza, poltronas de veludo, luz natural fria entrando pelas janelas. Shallow Focus, cortes rapidos.",
   "imagens": {
-    "FRAME_MARIANA": "frame do clipe 1, plano 4 (por volta do segundo 6,5): close de MARIANA na poltrona com o celular no ouvido, blusa de seda creme.",
-    "FRAME_GERARDO": "frame do clipe 1, plano 5 (por volta do segundo 8,5): close de GERARDO de blazer azul royal.",
+    "FRAME_MARIANA": "frame do clipe 1, ultimo plano (por volta do segundo 7): close de MARIANA com o celular no ouvido, a bochecha vermelha, rabo de cavalo preto.",
+    "FRAME_GERARDO": "frame do clipe 1, plano 1 (por volta do segundo 2): GERARDO de blazer azul royal, de pe.",
     "FRAME_INES": "frame do clipe 1, plano 2 (por volta do segundo 4): close de DONA INES de vestido bordo e colar dourado."
   },
   "personagens": {
     "MARIANA": {
-      "descricao": "mulher de 32 anos, rosto comum e desconhecido, pele morena clara, sobrancelhas grossas, nariz reto e comprido, olhos castanhos, cabelo CASTANHO-ESCURO liso na altura do ombro, BLUSA DE SEDA CREME com lacinho no pescoco, saia marrom, aliança no dedo. Segura nos bracos, contra o peito, uma TROUXINHA de manta BRANCA bem enrolada, toda fechada, sem nenhum rosto aparecendo.",
+      "descricao": "mulher de 32 anos, rosto comum e desconhecido, pele morena clara, sobrancelhas grossas, nariz reto e comprido, olhos castanhos, cabelo PRETO liso preso num RABO DE CAVALO baixo, BLUSA DE SEDA CREME com lacinho no pescoco, saia marrom, aliança no dedo. Segura nos bracos, contra o peito, uma TROUXINHA de manta BRANCA bem enrolada, toda fechada, sem nenhum rosto aparecendo.",
       "voz": "Voz feminina baixa, calma e firme de mulher de 32 anos.",
       "frame": "FRAME_MARIANA",
       "feminino": true
@@ -109,19 +109,7 @@
           "voz": "Voz feminina baixa, calma, firme, sem tremer.",
           "rosto": "MARIANA: a bochecha vermelha do tapa, uma lagrima no rosto, mas o olhar frio e decidido.",
           "corpo": "MARIANA: sentada, ereta, o celular no ouvido, a manta branca apertada contra o peito.",
-          "camera": "Corte seco. Close-up de MARIANA com o celular no ouvido, GERARDO desfocado ao fundo a DIREITA, lente 85mm."
-        },
-        {
-          "quem": "GERARDO",
-          "para": "MARIANA",
-          "fala": "¿Llamaste a tu papá?",
-          "emocao": 10,
-          "eyeline": "GERARDO olha para BAIXO e para a ESQUERDA do quadro, para MARIANA. NAO olha para a camera.",
-          "intencao": "Confusao virando medo.",
-          "voz": "Voz masculina alta, nervosa, perdendo a seguranca.",
-          "rosto": "GERARDO: o deboche some, olhos arregalados.",
-          "corpo": "GERARDO: se inclina sobre a poltrona dela, tentando pegar o celular.",
-          "camera": "Corte seco. Over-the-Shoulder: ombro de MARIANA desfocado em primeiro plano a ESQUERDA; GERARDO nitido a DIREITA se inclinando, DONA INES palida atras, lente 50mm. O clipe termina neste plano."
+          "camera": "Corte seco. Close-up de MARIANA com o celular no ouvido, GERARDO desfocado ao fundo a DIREITA, lente 85mm, Slow Push In. O clipe termina neste rosto, frio e decidido."
         }
       ]
     }

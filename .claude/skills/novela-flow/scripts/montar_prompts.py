@@ -148,7 +148,7 @@ def montar(rot, n, clip):
             # primeira aparição: criado só pela descrição
             fichas[k] = f"{d['descricao']} Personagem {fic}. {d['voz']}"
             preservar.append(f"{k}: {d['descricao']}")
-    prompt = {"ATUACAO_PRIORIDADE_MAXIMA": clip["atuacao"]}
+    prompt = {"IDIOMA_OBRIGATORIO": "TODAS as falas em ESPANHOL do Mexico, exatamente como escritas no campo dialogue. NUNCA em portugues, nunca traduzir.", "ATUACAO_PRIORIDADE_MAXIMA": clip["atuacao"]}
     if imagens:
         prompt["input_image"] = {
             "required": bool(clip.get("primeiro_frame")),
@@ -200,7 +200,7 @@ def montar(rot, n, clip):
     })
     if not imagens:
         # clipe que cria os personagens: aparência fixa logo depois da atuação
-        prompt = {"ATUACAO_PRIORIDADE_MAXIMA": prompt.pop("ATUACAO_PRIORIDADE_MAXIMA"),
+        prompt = {"IDIOMA_OBRIGATORIO": prompt.pop("IDIOMA_OBRIGATORIO"), "ATUACAO_PRIORIDADE_MAXIMA": prompt.pop("ATUACAO_PRIORIDADE_MAXIMA"),
                   "consistency": preservar + clip.get("preservar_extra", []), **prompt}
     # "imagem DON" -> "imagem 2", conforme a ordem das referências deste clipe
     numeros = {k: i for i, k in enumerate(imagens, 1)}

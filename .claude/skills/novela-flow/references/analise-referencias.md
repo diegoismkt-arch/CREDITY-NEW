@@ -174,3 +174,8 @@ hora." → o marido, em pânico: "¿Por qué le hablas a tu papá? ¿Por qué vi
 virada com UMA frase calma; os vilões passam de rir a ter medo em 3 s; final cortado no auge.
 Usuário: bebê passa no Flow se o ROSTO não aparecer — descrever como "trouxinha de manta branca toda fechada,
 sem rosto", sem usar a palavra bebê/recém-nascido no prompt.
+
+## Falas saíram em PORTUGUÊS (Ya es Hora, clipe 1)
+O Flow traduziu as falas para português/portunhol ("Pai, chegou a hora") e cortou a última fala (o clipe acabou
+antes). Correções: o script agora põe "IDIOMA_OBRIGATORIO" no topo do JSON; e não colocar fala nos últimos
+~0,5 s do clipe — terminar num close sem fala nova logo depois de uma fala.
