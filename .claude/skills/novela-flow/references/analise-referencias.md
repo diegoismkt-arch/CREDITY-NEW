@@ -185,3 +185,14 @@ Salão de mansão. Empregada dá sopa na boca do velho na cadeira de rodas; a no
 → "Aún no ha comido." → o filho chega; o velho: "Hijo, ella sí me cuida." → o filho para a esposa: "Me dijiste que
 lo tratabas como un rey." Funciona: bondade humilde x crueldade rica; a mentira cai por uma frase da vítima; o
 poderoso muda de lado; corta na acusação.
+
+## Pesquisa: fórmulas de sucesso (doramas, telenovelas, turcas, microdramas, cinema) — out/2026
+- Microdramas (ReelShort/DramaBox): CEO alfa, "rags-to-riches revenge", "instant karma", milionário secreto,
+  casamento por contrato; CADA episódio termina numa virada (identidade misteriosa ou mal-entendido).
+- K-drama: Cinderela/diferença de classe, CEO dominador, inimigos→amantes, triângulo, casamento por contrato,
+  laço de infância; o público gosta de reconhecer o padrão (tropo = atalho emocional).
+- The Glory: vingança lenta e planejada da vítima contra quem a humilhou; catarse de ver a vítima vencer.
+- Telenovela clássica: pobre simpática x família rica, vilã, segredo de família (Los Ricos También Lloran,
+  María la del Barrio); Betty la Fea = valor interior vence a aparência; Rubí = ambição e preço moral.
+- Turcas: tragédia familiar, vingança, triângulo amoroso, obstáculo "impossível", melodrama intenso.
+- Cinema (Sexto Sentido, Parasita, Knives Out): virada que reinterpreta tudo, com pistas sutis plantadas antes.
