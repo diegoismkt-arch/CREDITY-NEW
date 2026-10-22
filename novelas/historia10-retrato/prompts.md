@@ -211,7 +211,7 @@ Sem imagem de referência (Text to Video).
 **Depois de gerar este clipe, salve os frames:**
 - **FRAME_LUCIA:** frame do clipe 1, plano 2 (por volta do segundo 2,0): close de LUCIA de uniforme cinza e avental branco, tranca sobre o ombro esquerdo.
 - **FRAME_RAMIRO:** frame do clipe 1, plano 3 (por volta do segundo 3,8): RAMIRO de terno cinza gritando.
-- **FRAME_ELENA:** frame do clipe 1, plano 4 (por volta do segundo 5,3): close de DONA ELENA de vestido azul-escuro e coque branco.
+- **FRAME_ELENA:** frame do clipe 1, plano 6 (por volta do segundo 9,4): close de DONA ELENA de vestido azul-escuro e coque branco.
 
 ## Clipe 2 — Expulsa e o quadro
 
@@ -230,7 +230,7 @@ Referências, nesta ordem: 1) FRAME_LUCIA; 2) FRAME_RAMIRO; 3) FRAME_ELENA
     "reference_images": [
       "Imagem 1 — frame do clipe 1, plano 2 (por volta do segundo 2,0): close de LUCIA de uniforme cinza e avental branco, tranca sobre o ombro esquerdo.",
       "Imagem 2 — frame do clipe 1, plano 3 (por volta do segundo 3,8): RAMIRO de terno cinza gritando.",
-      "Imagem 3 — frame do clipe 1, plano 4 (por volta do segundo 5,3): close de DONA ELENA de vestido azul-escuro e coque branco."
+      "Imagem 3 — frame do clipe 1, plano 6 (por volta do segundo 9,4): close de DONA ELENA de vestido azul-escuro e coque branco."
     ],
     "preserve_exactly": [
       "ELENA: o MESMO rosto da imagem 3, senhora rica de 62 anos, viuva, dona da mansao, rosto comum e desconhecido, pele clara, rugas fundas, olhos claros e tristes, cabelo BRANCO preso em COQUE alto, VESTIDO AZUL-ESCURO de manga longa com GOLA ALTA fechada ate o queixo, pescoco totalmente coberto pelo tecido, brincos pequenos de ouro, NENHUM colar.",
