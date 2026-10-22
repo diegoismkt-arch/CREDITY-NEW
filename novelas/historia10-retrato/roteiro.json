@@ -154,6 +154,118 @@
         "Nenhuma fala no ultimo plano: o clipe termina no rosto mudo de DONA ELENA.",
         "A PRIMEIRA fala do video e da MOCA LUCIA ('¡Yo no robé nada, señor!'), com voz FEMININA, logo depois do tapa; RAMIRO esta fora do quadro e de boca fechada nesse plano. So DEPOIS RAMIRO grita '¡Cállate, ratera!'."
       ]
+    },
+    {
+      "nome": "Expulsa e o quadro",
+      "atuacao": "Novela dramatica, EMOCAO MAXIMA. DONA ELENA fria e dura, sem piedade. LUCIA desesperada, chorando, implorando, se debatendo. RAMIRO cruel, com prazer em humilhar, arrastando a moca com brutalidade. No fim LUCIA cai de joelhos e fica PARALISADA olhando para cima, em choque total, como quem viu um fantasma. Rostos muito expressivos. Nenhum momento parado.",
+      "imagens": [
+        "FRAME_LUCIA",
+        "FRAME_RAMIRO",
+        "FRAME_ELENA"
+      ],
+      "personagens": [
+        "ELENA",
+        "LUCIA",
+        "RAMIRO"
+      ],
+      "posicoes": {
+        "LUCIA": "a ESQUERDA do quadro quando aparece com RAMIRO",
+        "RAMIRO": "a DIREITA do quadro, segurando o braco dela",
+        "ELENA": "parada no salao, sozinha nos planos dela"
+      },
+      "preservar_extra": [
+        "A MESMA LUCIA da imagem 1, o MESMO RAMIRO da imagem 2 e a MESMA DONA ELENA da imagem 3, com as mesmas roupas, a mesma tranca e o mesmo salao da mansao.",
+        "DONA ELENA de vestido AZUL-ESCURO de GOLA ALTA, sem colar.",
+        "A bochecha direita de LUCIA continua VERMELHA do tapa.",
+        "A CICATRIZ fica nas costas da MAO DIREITA de RAMIRO; so ele tem cicatriz na mao.",
+        "Ninguem usa colar de perolas neste clipe.",
+        "Nenhum letreiro, quadro com letras ou letra em lugar nenhum."
+      ],
+      "cenario": "Logo depois da acusacao do colar. DONA ELENA expulsa LUCIA. RAMIRO arrasta a moca pelo braco do salao para um corredor comprido da mansao, de paredes creme cheias de quadros antigos em molduras douradas. No fim LUCIA cai de joelhos diante de uma parede e olha para cima, para algo que ainda nao mostramos.",
+      "som": "Choro e respiracao ofegante de LUCIA; passos arrastados e apressados no marmore; o tecido do uniforme sendo puxado; o baque seco dos joelhos de LUCIA no chao; no ultimo plano, um TUM grave de suspense e batidas de coracao, depois silencio total.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida"
+      ],
+      "negativos_extra": [
+        "personagem falando de frente para a camera",
+        "roupa de um personagem em outro",
+        "colar de perolas",
+        "colar no pescoco de alguem",
+        "voz masculina nas falas de lucia",
+        "voz feminina nas falas de ramiro",
+        "dois personagens no quadro quando alguem fala",
+        "mostrar o quadro que lucia esta olhando",
+        "letras na tela"
+      ],
+      "planos": [
+        {
+          "quem": "ELENA",
+          "para": "LUCIA",
+          "fala": "Fuera de mi casa.",
+          "emocao": 9,
+          "eyeline": "DONA ELENA olha para a ESQUERDA do quadro, para LUCIA. NAO olha para a camera.",
+          "intencao": "Expulsar a empregada com desprezo e decepcao.",
+          "voz": "Voz feminina grave de senhora, fria, cortante, sem gritar.",
+          "rosto": "DONA ELENA: olhar gelado, queixo erguido, labios apertados.",
+          "corpo": "DONA ELENA: aponta a porta com o braco esticado, imovel.",
+          "camera": "Close-up SOLO de DONA ELENA, so ela no quadro, lente 85mm, Slow Push In. Ninguem mais aparece neste plano."
+        },
+        {
+          "quem": "LUCIA",
+          "para": "ELENA",
+          "fala": "¡Señora, se lo juro!",
+          "emocao": 10,
+          "eyeline": "LUCIA olha para a DIREITA do quadro, para DONA ELENA. NAO olha para a camera.",
+          "intencao": "Implorar, desesperada, que a senhora acredite nela.",
+          "voz": "Voz FEMININA jovem e aguda de moca de 22 anos, chorando, embargada. NUNCA voz de homem.",
+          "rosto": "LUCIA: lagrimas escorrendo, a bochecha vermelha, sobrancelhas erguidas de desespero, labios tremendo.",
+          "corpo": "LUCIA: as maos juntas no peito, implorando, dando um passo para frente.",
+          "camera": "Corte seco. Close-up SOLO de LUCIA, so ela no quadro, lente 85mm. RAMIRO e DONA ELENA NAO aparecem neste plano."
+        },
+        {
+          "rosto": "RAMIRO: sorriso cruel. LUCIA: pavor, chorando.",
+          "corpo": "RAMIRO agarra LUCIA com forca pelo braco com a MAO DIREITA e a ARRASTA para fora do salao, entrando no corredor comprido de quadros antigos; ela tropeca, os pes deslizando no marmore.",
+          "camera": "Corte seco. Plano medio lateral acompanhando os dois em movimento rapido, LUCIA a ESQUERDA e RAMIRO a DIREITA, handheld. Ninguem fala, bocas fechadas: so o choro e os passos.",
+          "segundos": 1.1
+        },
+        {
+          "quem": "LUCIA",
+          "para": "RAMIRO",
+          "fala": "¡Suélteme!",
+          "emocao": 10,
+          "eyeline": "LUCIA olha para a DIREITA do quadro, para RAMIRO. NAO olha para a camera.",
+          "intencao": "Se debater e tentar se soltar.",
+          "voz": "Voz FEMININA jovem gritando, desesperada. NUNCA voz de homem.",
+          "rosto": "LUCIA: rosto molhado de lagrimas, dentes cerrados de esforco, olhos arregalados.",
+          "corpo": "LUCIA: puxa o proprio braco com toda a forca, o corpo inclinado para tras.",
+          "camera": "Corte seco. Close-up SOLO de LUCIA no corredor, so o rosto e o ombro dela no quadro, quadros desfocados atras, handheld. RAMIRO NAO aparece neste plano."
+        },
+        {
+          "quem": "RAMIRO",
+          "para": "LUCIA",
+          "fala": "Las de tu clase siempre roban.",
+          "emocao": 9,
+          "eyeline": "RAMIRO olha para BAIXO e para a ESQUERDA do quadro, para LUCIA. NAO olha para a camera.",
+          "intencao": "Humilhar com nojo e prazer.",
+          "voz": "Voz masculina grave, baixa, cruel, cheia de desprezo.",
+          "rosto": "RAMIRO: labio torcido de nojo, olhar de superioridade.",
+          "corpo": "RAMIRO: anda puxando com forca, o queixo erguido.",
+          "camera": "Corte seco. Close-up SOLO de RAMIRO no corredor, so ele no quadro, Low Angle, quadros desfocados atras. LUCIA NAO aparece neste plano."
+        },
+        {
+          "rosto": "LUCIA: as lagrimas param; olhos arregalados, boca entreaberta, sem respirar, em CHOQUE total, como quem viu um fantasma. Boca FECHADA, sem falar.",
+          "corpo": "LUCIA arranca o braco da mao de RAMIRO, perde o equilibrio e cai de JOELHOS no marmore diante de uma parede; ergue lentamente o rosto para algo na parede acima dela e CONGELA.",
+          "camera": "Corte seco. Low Angle frontal de LUCIA de joelhos, a camera na altura da parede olhando para ela, Slow Push In no rosto. O que ela ve NAO aparece no quadro. Ninguem fala. O clipe termina neste rosto paralisado.",
+          "segundos": 1.7
+        }
+      ],
+      "regras_extra": [
+        "Cada fala aparece com SO quem fala no quadro.",
+        "As falas de LUCIA sao SEMPRE com voz FEMININA jovem.",
+        "Nenhuma fala no ultimo plano: o clipe termina no rosto mudo e paralisado de LUCIA.",
+        "O quadro que LUCIA olha NAO aparece neste clipe."
+      ]
     }
   ]
 }
