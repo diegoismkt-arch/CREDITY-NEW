@@ -26,6 +26,11 @@
       "voz": "Voz feminina grave, seca e autoritaria de senhora de 62 anos.",
       "frame": "FRAME_ELENA",
       "feminino": true
+    },
+    "CARMEN": {
+      "descricao": "governanta de 58 anos, rosto comum e desconhecido, pele morena, rosto largo, rugas, OCULOS de armacao fina dourada, cabelo grisalho curto, UNIFORME PRETO de manga longa com gola branca, sem joias.",
+      "voz": "Voz feminina baixa e rouca de senhora de 58 anos, sussurrando.",
+      "feminino": true
     }
   },
   "clips": [
@@ -367,6 +372,121 @@
         "A marca de meia-lua aparece SO no pescoco da menina PINTADA; o pescoco de LUCIA continua coberto pela tranca."
       ],
       "estilo": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Corredor comprido de uma mansao antiga mexicana, de dia: piso de marmore bege, paredes cor creme cheias de quadros antigos em molduras douradas, arandelas acesas, luz quente lateral. Shallow Focus, cortes rapidos."
+    },
+    {
+      "nome": "A marca",
+      "estilo": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Corredor comprido de uma mansao antiga mexicana, de dia: piso de marmore bege, paredes cor creme cheias de quadros antigos em molduras douradas, arandelas acesas, luz quente lateral. Shallow Focus, cortes rapidos.",
+      "atuacao": "Novela dramatica, EMOCAO MAXIMA. CARMEN sussurra com medo, olhando para os lados. DONA ELENA chega furiosa e, ao ver a marca, DESMORONA: o rosto treme, os olhos se enchem de lagrimas, a mao cobre a boca. LUCIA firme e emocionada mostrando o pescoco. RAMIRO nervoso, suando, tentando disfarcar. Rostos muito expressivos. Nenhum momento parado.",
+      "imagens": [
+        "FRAME_LUCIA",
+        "FRAME_RAMIRO",
+        "FRAME_ELENA"
+      ],
+      "personagens": [
+        "CARMEN",
+        "ELENA",
+        "LUCIA",
+        "RAMIRO"
+      ],
+      "posicoes": {
+        "LUCIA": "de joelhos no corredor, diante do retrato",
+        "CARMEN": "de pe no fundo do corredor, atras de LUCIA",
+        "ELENA": "chega pelo corredor e para diante de LUCIA",
+        "RAMIRO": "de pe ao lado do retrato"
+      },
+      "preservar_extra": [
+        "A MESMA LUCIA da imagem 1, o MESMO RAMIRO da imagem 2 e a MESMA DONA ELENA da imagem 3, com as mesmas roupas. CARMEN e uma senhora nova, so descrita em texto.",
+        "LUCIA tem uma pequena MARCA DE NASCENCA em forma de MEIA-LUA no lado ESQUERDO do pescoco, escondida pela gola do uniforme ate ela puxar a gola.",
+        "DONA ELENA de vestido AZUL-ESCURO de GOLA ALTA, sem colar.",
+        "O retrato a oleo da menina de vestido branco continua na parede, sem nenhuma letra.",
+        "Ninguem usa colar de perolas.",
+        "Nenhum letreiro, placa ou letra em lugar nenhum."
+      ],
+      "cenario": "Continuacao, no corredor dos quadros. LUCIA, de joelhos, acabou de perguntar quem e a menina do retrato. A governanta CARMEN responde baixinho. DONA ELENA chega e LUCIA mostra a marca de meia-lua no proprio pescoco, igual a da menina pintada.",
+      "som": "Sussurro de CARMEN; passos firmes de salto de DONA ELENA no marmore; quando a marca aparece, um TUM grave e um violino agudo de tensao; a respiracao entrecortada de DONA ELENA; no fim, silencio total.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida"
+      ],
+      "negativos_extra": [
+        "dois personagens no quadro quando alguem fala",
+        "voz masculina nas falas femininas",
+        "voz feminina na fala de ramiro",
+        "colar de perolas",
+        "marca em outro lugar do corpo",
+        "letras ou placa no quadro",
+        "personagem falando de frente para a camera",
+        "lucia com outro rosto",
+        "lucia de coque"
+      ],
+      "planos": [
+        {
+          "quem": "CARMEN",
+          "para": "LUCIA",
+          "fala": "Era la hija de la señora… Sofía.",
+          "emocao": 8,
+          "eyeline": "CARMEN olha para BAIXO, para LUCIA ajoelhada. NAO olha para a camera.",
+          "intencao": "Revelar um segredo proibido da casa, com medo.",
+          "voz": "Voz feminina baixa e rouca de senhora, SUSSURRANDO, com medo.",
+          "rosto": "CARMEN: olhos tristes atras dos oculos, labios tremendo.",
+          "corpo": "CARMEN: as maos apertadas na frente do uniforme preto, olha de lado para ver se alguem escuta.",
+          "camera": "Close-up SOLO de CARMEN no corredor, so ela no quadro, lente 85mm, quadros desfocados atras. Ninguem mais aparece neste plano."
+        },
+        {
+          "quem": "ELENA",
+          "para": "LUCIA",
+          "fala": "¡No toques ese cuadro!",
+          "emocao": 10,
+          "eyeline": "DONA ELENA olha para BAIXO, para LUCIA. NAO olha para a camera.",
+          "intencao": "Proibir com furia, defendendo a memoria da filha.",
+          "voz": "Voz feminina grave de senhora, GRITANDO de raiva.",
+          "rosto": "DONA ELENA: furia, olhos brilhando, a testa franzida.",
+          "corpo": "DONA ELENA: chega a passos rapidos pelo corredor e para, apontando para LUCIA.",
+          "camera": "Corte seco. Medium Close-up SOLO de DONA ELENA chegando, so ela no quadro, lente 50mm. Ninguem mais aparece neste plano."
+        },
+        {
+          "rosto": "LUCIA: olhar firme, lagrimas nos olhos, sem falar. Boca FECHADA.",
+          "corpo": "LUCIA, ajoelhada, puxa a gola do uniforme para o lado e mostra o lado ESQUERDO do pescoco: ali esta a pequena MARCA DE NASCENCA em forma de MEIA-LUA.",
+          "camera": "Corte seco. Close-up do pescoco de LUCIA com a marca de meia-lua, Slow Push In ate a marca. Ninguem fala.",
+          "segundos": 1.4
+        },
+        {
+          "quem": "ELENA",
+          "para": "LUCIA",
+          "fala": "Esa marca…",
+          "emocao": 10,
+          "eyeline": "DONA ELENA olha para BAIXO, para o pescoco de LUCIA. NAO olha para a camera.",
+          "intencao": "Reconhecer, em choque, algo impossivel.",
+          "voz": "Voz feminina de senhora, quase sem ar, falhando, um sussurro.",
+          "rosto": "DONA ELENA: a furia some; o rosto treme, os olhos se enchem de lagrimas, a boca se abre.",
+          "corpo": "DONA ELENA: leva a mao tremula a boca, o corpo vacila.",
+          "camera": "Corte seco. Close-up SOLO de DONA ELENA, so ela no quadro, lente 85mm, Slow Push In.",
+          "segundos": 1.4
+        },
+        {
+          "quem": "RAMIRO",
+          "para": "ELENA",
+          "fala": "Es maquillaje, tía.",
+          "emocao": 9,
+          "eyeline": "RAMIRO olha para a DIREITA do quadro, para DONA ELENA. NAO olha para a camera.",
+          "intencao": "Disfarcar o panico com uma mentira rapida.",
+          "voz": "Voz masculina nervosa, rapida, forcando um riso.",
+          "rosto": "RAMIRO: sorriso forcado, suor na testa, olhos inquietos.",
+          "corpo": "RAMIRO: ajeita a gravata com a mao esquerda, a mao direita escondida atras das costas.",
+          "camera": "Corte seco. Close-up SOLO de RAMIRO, so ele no quadro, lente 85mm. Ninguem mais aparece neste plano."
+        },
+        {
+          "rosto": "DONA ELENA: lagrimas escorrendo, o queixo tremendo, os olhos presos em LUCIA, sem ouvir RAMIRO. Boca FECHADA.",
+          "corpo": "DONA ELENA: os joelhos comecam a fraquejar, a mao estendida devagar na direcao de LUCIA.",
+          "camera": "Corte seco. Reaction shot: close-up SOLO de DONA ELENA, lente 85mm. Ninguem fala. O clipe termina neste rosto.",
+          "segundos": 1.1
+        }
+      ],
+      "regras_extra": [
+        "Cada fala aparece com SO quem fala no quadro.",
+        "LUCIA NAO fala neste clipe.",
+        "Nenhuma fala no ultimo plano: o clipe termina no rosto mudo de DONA ELENA chorando."
+      ]
     }
   ]
 }
