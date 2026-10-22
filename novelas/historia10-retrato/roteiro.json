@@ -7,7 +7,8 @@
   "imagens": {
     "FRAME_LUCIA": "frame do clipe 1, plano 2 (por volta do segundo 2,0): close de LUCIA de uniforme cinza e avental branco, tranca sobre o ombro esquerdo.",
     "FRAME_RAMIRO": "frame do clipe 1, plano 3 (por volta do segundo 3,8): RAMIRO de terno cinza gritando.",
-    "FRAME_ELENA": "frame do clipe 1, plano 6 (por volta do segundo 9,4): close de DONA ELENA de vestido azul-escuro e coque branco."
+    "FRAME_ELENA": "frame do clipe 1, plano 6 (por volta do segundo 9,4): close de DONA ELENA de vestido azul-escuro e coque branco.",
+    "FRAME_CARMEN": "frame do clipe 4, plano 1 (por volta do segundo 1,2): close de CARMEN de oculos e uniforme preto no corredor."
   },
   "personagens": {
     "LUCIA": {
@@ -30,7 +31,8 @@
     "CARMEN": {
       "descricao": "governanta de 58 anos, rosto comum e desconhecido, pele morena, rosto largo, rugas, OCULOS de armacao fina dourada, cabelo grisalho curto, UNIFORME PRETO de manga longa com gola branca, sem joias.",
       "voz": "Voz feminina baixa e rouca de senhora de 58 anos, sussurrando.",
-      "feminino": true
+      "feminino": true,
+      "frame": "FRAME_CARMEN"
     }
   },
   "clips": [
@@ -486,6 +488,105 @@
         "Cada fala aparece com SO quem fala no quadro.",
         "LUCIA NAO fala neste clipe.",
         "Nenhuma fala no ultimo plano: o clipe termina no rosto mudo de DONA ELENA chorando."
+      ]
+    },
+    {
+      "nome": "Te enterramos",
+      "estilo": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Corredor comprido de uma mansao antiga mexicana, de dia: piso de marmore bege, paredes cor creme cheias de quadros antigos em molduras douradas, arandelas acesas, luz quente lateral. Shallow Focus, cortes rapidos.",
+      "atuacao": "Novela dramatica, EMOCAO MAXIMA. DONA ELENA DESMORONA: cai de joelhos chorando, a voz falhando, as maos tremendo. LUCIA confusa e assustada, sem entender. RAMIRO apavorado, suando, tentando esconder o medo. Rostos muito expressivos. Nenhum momento parado.",
+      "imagens": [
+        "FRAME_LUCIA",
+        "FRAME_RAMIRO",
+        "FRAME_ELENA"
+      ],
+      "personagens": [
+        "ELENA",
+        "LUCIA",
+        "RAMIRO"
+      ],
+      "posicoes": {
+        "LUCIA": "de pe no corredor, a ESQUERDA do quadro quando aparece com ELENA",
+        "ELENA": "de joelhos diante de LUCIA, a DIREITA do quadro",
+        "RAMIRO": "de pe mais atras, sozinho nos planos dele"
+      },
+      "preservar_extra": [
+        "A MESMA LUCIA da imagem 1, o MESMO RAMIRO da imagem 2 e a MESMA DONA ELENA da imagem 3, com as mesmas roupas.",
+        "LUCIA tem uma pequena MARCA DE NASCENCA em forma de MEIA-LUA, marrom-escura e bem visivel, no lado ESQUERDO do pescoco, com a gola do uniforme puxada para o lado.",
+        "DONA ELENA de vestido AZUL-ESCURO de GOLA ALTA, sem colar.",
+        "Ninguem usa colar de perolas.",
+        "Nenhum letreiro, placa ou letra em lugar nenhum."
+      ],
+      "cenario": "Continuacao, no corredor dos quadros. DONA ELENA acabou de ver no pescoco de LUCIA a mesma marca de meia-lua da filha Sofia, que ela enterrou ha vinte anos.",
+      "som": "Um TUM grave no close da marca; o baque dos joelhos de DONA ELENA no marmore; o choro dela; um violino agudo de tensao; no fim, a respiracao pesada de RAMIRO e silencio.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida"
+      ],
+      "negativos_extra": [
+        "dois personagens no quadro quando alguem fala",
+        "voz masculina nas falas femininas",
+        "colar de perolas",
+        "marca apagada ou invisivel",
+        "marca em outro lugar do corpo",
+        "personagem falando de frente para a camera",
+        "lucia com outro rosto",
+        "letras na tela"
+      ],
+      "planos": [
+        {
+          "rosto": "Sem rosto: so o pescoco.",
+          "corpo": "A MARCA DE NASCENCA em forma de MEIA-LUA, marrom-escura e nitida, no lado ESQUERDO do pescoco de LUCIA, a gola cinza do uniforme puxada para o lado pela mao dela.",
+          "camera": "Plano de abertura: close extremo, macro, da marca de meia-lua no pescoco de LUCIA, foco nitido na marca, Slow Push In. Ninguem fala.",
+          "segundos": 1.2
+        },
+        {
+          "quem": "ELENA",
+          "para": "LUCIA",
+          "fala": "No puede ser… te enterramos hace veinte años.",
+          "emocao": 10,
+          "eyeline": "DONA ELENA olha para CIMA e para a ESQUERDA do quadro, para LUCIA. NAO olha para a camera.",
+          "intencao": "Dizer, em choque e chorando, algo que ela nao consegue acreditar.",
+          "voz": "Voz feminina de senhora, chorando, falhando, quase sem ar.",
+          "rosto": "DONA ELENA: lagrimas escorrendo, o queixo tremendo, os olhos arregalados.",
+          "corpo": "DONA ELENA: cai de JOELHOS no marmore diante de LUCIA, as maos tremulas estendidas para ela.",
+          "camera": "Corte seco. Medium Close-up SOLO de DONA ELENA caindo de joelhos, so ela no quadro, lente 50mm. Ninguem mais aparece neste plano."
+        },
+        {
+          "quem": "LUCIA",
+          "para": "ELENA",
+          "fala": "¿Enterraron a quién?",
+          "emocao": 9,
+          "eyeline": "LUCIA olha para BAIXO e para a DIREITA do quadro, para DONA ELENA ajoelhada. NAO olha para a camera.",
+          "intencao": "Perguntar, assustada, sem entender nada.",
+          "voz": "Voz FEMININA jovem de moca de 22 anos, tremula, quase um sussurro. NUNCA voz de homem.",
+          "rosto": "LUCIA: testa franzida, olhos marejados, confusa e com medo.",
+          "corpo": "LUCIA: ainda segurando a gola do uniforme, da meio passo para tras.",
+          "camera": "Corte seco. Close-up SOLO de LUCIA, so ela no quadro, High Angle leve, lente 85mm. Ninguem mais aparece neste plano.",
+          "segundos": 1.6
+        },
+        {
+          "quem": "ELENA",
+          "para": "LUCIA",
+          "fala": "A mi hija. El ataúd venía cerrado…",
+          "emocao": 10,
+          "eyeline": "DONA ELENA olha para CIMA, para LUCIA. NAO olha para a camera.",
+          "intencao": "Confessar a dor de nunca ter visto o corpo da filha, comecando a desconfiar.",
+          "voz": "Voz feminina de senhora, soluçando, cada palavra arrancada da garganta.",
+          "rosto": "DONA ELENA: o choro vira espanto; os olhos se estreitam, como quem entende algo terrivel.",
+          "corpo": "DONA ELENA: de joelhos, aperta o peito com as duas maos.",
+          "camera": "Corte seco. Close-up SOLO de DONA ELENA de joelhos, so ela no quadro, lente 85mm. Ninguem mais aparece neste plano."
+        },
+        {
+          "rosto": "RAMIRO: palido, suor escorrendo pela testa, olhos arregalados de medo. Boca FECHADA.",
+          "corpo": "RAMIRO: afrouxa o colarinho com a mao esquerda e engole seco, a mao direita escondida atras das costas.",
+          "camera": "Corte seco. Reaction shot: close-up SOLO de RAMIRO, lente 85mm, Slow Push In. Ninguem fala. O clipe termina neste rosto.",
+          "segundos": 1.2
+        }
+      ],
+      "regras_extra": [
+        "Cada fala aparece com SO quem fala no quadro.",
+        "A fala de LUCIA e com voz FEMININA jovem.",
+        "Nenhuma fala no ultimo plano: o clipe termina no rosto mudo e suado de RAMIRO."
       ]
     }
   ]
