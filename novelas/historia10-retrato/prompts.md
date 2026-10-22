@@ -13,14 +13,14 @@ Pero un cuadro en la pared lo cambió todo.
 
 ## Clipe 1 — O tapa e a acusação
 
-clipe 1: 9.9s, 7.0s de fala (15 palavras, 7 planos, falantes: RAMIRO, LUCIA, ELENA) ✅
+clipe 1: 9.7s, 7.0s de fala (15 palavras, 7 planos, falantes: RAMIRO, LUCIA, ELENA) ✅
 
 Sem imagem de referência (Text to Video).
 
 ```json
 {
   "IDIOMA_OBRIGATORIO": "TODAS as falas em ESPANHOL do Mexico, exatamente como escritas no campo dialogue. NUNCA em portugues, nunca traduzir.",
-  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica, EMOCAO MAXIMA. O video COMECA com o TAPA, antes de qualquer fala. RAMIRO tomado de FURIA e desprezo: rosto vermelho, mandibula travada, olhos injetados. LUCIA leva o tapa com DOR e CHOQUE reais: o rosto vira com violencia, os olhos se fecham com forca, um soluço escapa, a mao vai a bochecha, lagrimas; depois implora, desesperada. DONA ELENA chega severa e fria. Rostos muito expressivos. Nenhum momento parado.",
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica, EMOCAO MAXIMA. O video COMECA com o TAPA, antes de qualquer fala. RAMIRO tomado de ODIO: rosto vermelho, dentes a mostra, veias na testa, olhos arregalados de raiva. O tapa e RAPIDO, em velocidade real, sem camera lenta. LUCIA leva o tapa com DOR e CHOQUE reais: o rosto vira com violencia, os olhos se fecham com forca, um soluço escapa, a mao vai a bochecha, lagrimas; depois implora, desesperada. DONA ELENA chega severa e fria. Rostos muito expressivos. Nenhum momento parado.",
   "consistency": [
     "RAMIRO: homem de 45 anos, sobrinho de DONA ELENA, rosto comum e desconhecido, pele clara, rosto magro e limpo, sem nenhum hematoma, bigode fino, cabelo castanho penteado de lado com entradas, TERNO CINZA-CLARO com gravata vinho, uma CICATRIZ grossa e clara nas costas da MAO DIREITA.",
     "LUCIA: jovem empregada de 22 anos, rosto comum e desconhecido, pele morena, rosto redondo, sobrancelhas grossas, nariz largo, sardas leves no nariz, olhos castanhos escuros, cabelo PRETO numa TRANCA longa caida sobre o ombro ESQUERDO cobrindo o lado esquerdo do pescoco, UNIFORME CINZA de manga curta com AVENTAL BRANCO por cima, sem joias.",
@@ -33,7 +33,7 @@ Sem imagem de referência (Text to Video).
   ],
   "scene": {
     "title": "LA NIÑA DEL RETRATO",
-    "duration_seconds": 9.9,
+    "duration_seconds": 9.7,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
     "structure": "7 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
     "style": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Salao de uma mansao antiga mexicana, de dia: piso de marmore bege, paredes cor creme com molduras douradas, lustre de cristal, sofas de veludo verde-escuro, luz natural quente entrando pelas janelas altas. Shallow Focus, cortes rapidos.",
@@ -51,25 +51,25 @@ Sem imagem de referência (Text to Video).
   },
   "timeline": [
     {
-      "time": "00:00.00-00:01.60",
+      "time": "00:00.00-00:01.10",
       "speaker": "NONE",
       "dialogue": null,
-      "face": "RAMIRO: furia total, dentes cerrados, o rosto vermelho. LUCIA: no impacto o rosto se CONTORCE de dor, os olhos se FECHAM com forca, a boca abre num grito abafado.",
-      "body": "No PRIMEIRO instante do video RAMIRO ja esta colado em LUCIA, ergue a MAO DIREITA bem alto e a desce com TODA a forca num TAPA VIOLENTO de mao aberta que ACERTA EM CHEIO a bochecha dela; a cabeca de LUCIA GIRA quase 90 graus para o lado com o impacto, a tranca voa no ar, o corpo inteiro e jogado para tras e ela tropeca, quase caindo, se apoiando no encosto do sofa.",
-      "camera": "Plano de abertura: Medium Close-up dos dois de perfil, da cintura para cima, bem perto, LUCIA a ESQUERDA e RAMIRO a DIREITA; a mao ATINGE o rosto dentro do quadro; no instante do impacto, SLOW MOTION forte e um tremor de camera. Ninguem fala: so os efeitos sonoros do tapa.",
+      "face": "RAMIRO: ODIO no rosto, rosto vermelho, dentes a mostra, veias saltando na testa, olhos arregalados de raiva, solta um grunhido de furia no golpe.",
+      "body": "No PRIMEIRO instante do video RAMIRO, colado em LUCIA, desce a MAO DIREITA aberta num TAPA RAPIDO, SECO e VIOLENTO, em velocidade real, que ACERTA EM CHEIO a bochecha dela; a cabeca de LUCIA e JOGADA para o lado no mesmo instante, a tranca chicoteia no ar.",
+      "camera": "Plano de abertura: Over-the-Shoulder por tras do ombro de LUCIA a ESQUERDA, mostrando de frente o ROSTO FURIOSO de RAMIRO a DIREITA no momento do golpe, lente 35mm; velocidade NORMAL, sem camera lenta, um tranco de camera no impacto. Ninguem fala: so os efeitos sonoros do tapa.",
       "mouths": "Bocas FECHADAS. Ninguem fala."
     },
     {
-      "time": "00:01.60-00:02.30",
+      "time": "00:01.10-00:02.10",
       "speaker": "NONE",
       "dialogue": null,
-      "face": "Sem rosto: so a mao.",
-      "body": "A MAO DIREITA de RAMIRO, ainda erguida e tremendo depois do tapa, mostra a CICATRIZ grossa nas costas da mao.",
-      "camera": "Corte seco. Insert: close extremo das costas da mao direita de RAMIRO com a cicatriz, fundo desfocado, lente macro. Ninguem fala.",
+      "face": "LUCIA: o rosto ainda virado pelo tapa, a tranca caida sobre o rosto, os olhos apertados de DOR, a boca aberta num soluço sem ar, lagrimas brotando, a bochecha VERMELHA.",
+      "body": "LUCIA: cambaleia, leva a mao a bochecha, o peito arfando, os ombros encolhidos de choque.",
+      "camera": "Corte seco. Close-up de LUCIA logo depois do impacto, head and upper shoulders, lente 85mm, um leve tremor. Ninguem fala: so o zumbido no ouvido e o soluço.",
       "mouths": "Bocas FECHADAS. Ninguem fala."
     },
     {
-      "time": "00:02.30-00:03.50",
+      "time": "00:02.10-00:03.30",
       "speaker": "RAMIRO",
       "dialogue": "¡Ratera!",
       "addressee": "LUCIA",
@@ -83,7 +83,7 @@ Sem imagem de referência (Text to Video).
       "mouths": "Somente RAMIRO movimenta os labios."
     },
     {
-      "time": "00:03.50-00:05.18",
+      "time": "00:03.30-00:04.98",
       "speaker": "LUCIA",
       "dialogue": "¡Yo no robé nada!",
       "addressee": "RAMIRO",
@@ -97,7 +97,7 @@ Sem imagem de referência (Text to Video).
       "mouths": "Somente LUCIA movimenta os labios."
     },
     {
-      "time": "00:05.18-00:06.86",
+      "time": "00:04.98-00:06.66",
       "speaker": "ELENA",
       "dialogue": "¿Qué está pasando aquí?",
       "addressee": "RAMIRO",
@@ -111,7 +111,7 @@ Sem imagem de referência (Text to Video).
       "mouths": "Somente ELENA movimenta os labios."
     },
     {
-      "time": "00:06.86-00:09.29",
+      "time": "00:06.66-00:09.09",
       "speaker": "RAMIRO",
       "dialogue": "Tu collar, tía. En su delantal.",
       "addressee": "ELENA",
@@ -120,12 +120,12 @@ Sem imagem de referência (Text to Video).
       "intention": "Acusar com triunfo e falsa indignacao.",
       "voice": "Voz masculina arrogante, com um sorriso cruel.",
       "face": "RAMIRO: sorriso de canto, triunfante.",
-      "body": "RAMIRO: enfia a mao direita no bolso do avental de LUCIA e puxa um COLAR DE PEROLAS, erguendo-o no ar; LUCIA arregala os olhos.",
-      "camera": "Corte seco. Medium Shot: RAMIRO a DIREITA erguendo o colar de perolas, LUCIA a ESQUERDA em choque, lente 50mm. A fala comeca no primeiro instante do plano.",
+      "body": "RAMIRO: enfia a mao direita no bolso do avental de LUCIA e puxa um COLAR DE PEROLAS, erguendo-o perto do rosto; as costas da MAO DIREITA que segura o colar mostram a CICATRIZ grossa; LUCIA arregala os olhos.",
+      "camera": "Corte seco. Medium Close-up: RAMIRO a DIREITA erguendo o colar de perolas na mao direita perto do rosto, a cicatriz nas costas da mao bem visivel, LUCIA a ESQUERDA em choque, lente 50mm. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente RAMIRO movimenta os labios."
     },
     {
-      "time": "00:09.29-00:09.89",
+      "time": "00:09.09-00:09.69",
       "speaker": "NONE",
       "dialogue": null,
       "face": "DONA ELENA: olhar frio e decepcionado para LUCIA, a boca FECHADA numa linha dura.",
@@ -146,7 +146,7 @@ Sem imagem de referência (Text to Video).
     ],
     "rules": [
       "So existem 4 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
-      "Depois de 9.3 segundos ninguem fala.",
+      "Depois de 9.1 segundos ninguem fala.",
       "Cada fala e dirigida a: RAMIRO -> LUCIA; LUCIA -> RAMIRO; ELENA -> RAMIRO; RAMIRO -> ELENA.",
       "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
       "Nao repetir, misturar, traduzir ou acrescentar palavras.",
@@ -158,7 +158,7 @@ Sem imagem de referência (Text to Video).
   },
   "audio": {
     "single_voice_at_a_time": true,
-    "sound": "EFEITOS SONOROS FORTES E MARCANTES: passos firmes e rapidos no marmore; o WHOOSH do braco cortando o ar; um ESTALO seco e ALTISSIMO do tapa com ECO no salao; um IMPACTO grave de cinema (boom) junto com o tapa; logo depois um ZUMBIDO agudo de ouvido e batidas de coracao lentas; o soluço de LUCIA; a porta do fundo se abrindo; o tilintar das perolas quando o colar sai do avental com um TUM grave de suspense; no fim, silencio total.",
+    "sound": "EFEITOS SONOROS FORTES E MARCANTES: o WHOOSH do braco cortando o ar; um ESTALO seco e ALTISSIMO do tapa com ECO no salao; um IMPACTO grave de cinema (boom) junto com o tapa; logo depois um ZUMBIDO agudo de ouvido e batidas de coracao lentas; o soluço de LUCIA; a porta do fundo se abrindo; o tilintar das perolas quando o colar sai do avental com um TUM grave de suspense; no fim, silencio total.",
     "music": "Nenhuma.",
     "narration": "Nenhuma.",
     "subtitles": "Nao gerar."
@@ -179,6 +179,10 @@ Sem imagem de referência (Text to Video).
     "tapa que so encosta no rosto",
     "mao parando antes do rosto",
     "olho roxo ou hematoma no rosto de ramiro",
+    "camera lenta",
+    "tapa lento",
+    "rosto calmo ou neutro de ramiro no tapa",
+    "insert da mao sozinha",
     "texto ou letras em qualquer lugar",
     "nome ou idade de personagem escrito na tela",
     "letreiro de apresentacao de personagem (lower third)",
@@ -210,6 +214,6 @@ Sem imagem de referência (Text to Video).
 ```
 
 **Depois de gerar este clipe, salve os frames:**
-- **FRAME_LUCIA:** frame do clipe 1, plano 4 (por volta do segundo 4,3): close de LUCIA de uniforme cinza e avental branco, tranca sobre o ombro esquerdo.
-- **FRAME_RAMIRO:** frame do clipe 1, plano 3 (por volta do segundo 2,9): RAMIRO de terno cinza gritando.
-- **FRAME_ELENA:** frame do clipe 1, plano 5 (por volta do segundo 6,0): close de DONA ELENA de vestido azul-escuro e coque branco.
+- **FRAME_LUCIA:** frame do clipe 1, plano 4 (por volta do segundo 4,2): close de LUCIA de uniforme cinza e avental branco, tranca sobre o ombro esquerdo.
+- **FRAME_RAMIRO:** frame do clipe 1, plano 3 (por volta do segundo 2,7): RAMIRO de terno cinza gritando.
+- **FRAME_ELENA:** frame do clipe 1, plano 5 (por volta do segundo 5,8): close de DONA ELENA de vestido azul-escuro e coque branco.

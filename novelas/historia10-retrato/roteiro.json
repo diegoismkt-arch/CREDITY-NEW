@@ -5,9 +5,9 @@
   "titulo_interno": "LA NIÑA DEL RETRATO",
   "estilo": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Salao de uma mansao antiga mexicana, de dia: piso de marmore bege, paredes cor creme com molduras douradas, lustre de cristal, sofas de veludo verde-escuro, luz natural quente entrando pelas janelas altas. Shallow Focus, cortes rapidos.",
   "imagens": {
-    "FRAME_LUCIA": "frame do clipe 1, plano 4 (por volta do segundo 4,3): close de LUCIA de uniforme cinza e avental branco, tranca sobre o ombro esquerdo.",
-    "FRAME_RAMIRO": "frame do clipe 1, plano 3 (por volta do segundo 2,9): RAMIRO de terno cinza gritando.",
-    "FRAME_ELENA": "frame do clipe 1, plano 5 (por volta do segundo 6,0): close de DONA ELENA de vestido azul-escuro e coque branco."
+    "FRAME_LUCIA": "frame do clipe 1, plano 4 (por volta do segundo 4,2): close de LUCIA de uniforme cinza e avental branco, tranca sobre o ombro esquerdo.",
+    "FRAME_RAMIRO": "frame do clipe 1, plano 3 (por volta do segundo 2,7): RAMIRO de terno cinza gritando.",
+    "FRAME_ELENA": "frame do clipe 1, plano 5 (por volta do segundo 5,8): close de DONA ELENA de vestido azul-escuro e coque branco."
   },
   "personagens": {
     "LUCIA": {
@@ -31,7 +31,7 @@
   "clips": [
     {
       "nome": "O tapa e a acusação",
-      "atuacao": "Novela dramatica, EMOCAO MAXIMA. O video COMECA com o TAPA, antes de qualquer fala. RAMIRO tomado de FURIA e desprezo: rosto vermelho, mandibula travada, olhos injetados. LUCIA leva o tapa com DOR e CHOQUE reais: o rosto vira com violencia, os olhos se fecham com forca, um soluço escapa, a mao vai a bochecha, lagrimas; depois implora, desesperada. DONA ELENA chega severa e fria. Rostos muito expressivos. Nenhum momento parado.",
+      "atuacao": "Novela dramatica, EMOCAO MAXIMA. O video COMECA com o TAPA, antes de qualquer fala. RAMIRO tomado de ODIO: rosto vermelho, dentes a mostra, veias na testa, olhos arregalados de raiva. O tapa e RAPIDO, em velocidade real, sem camera lenta. LUCIA leva o tapa com DOR e CHOQUE reais: o rosto vira com violencia, os olhos se fecham com forca, um soluço escapa, a mao vai a bochecha, lagrimas; depois implora, desesperada. DONA ELENA chega severa e fria. Rostos muito expressivos. Nenhum momento parado.",
       "personagens": [
         "RAMIRO",
         "LUCIA",
@@ -50,7 +50,7 @@
         "Nenhum letreiro, quadro com letras ou letra em lugar nenhum."
       ],
       "cenario": "O salao da mansao de DONA ELENA. RAMIRO, o sobrinho que administra a casa, acusa a empregada nova LUCIA de ter roubado o colar de perolas da tia.",
-      "som": "EFEITOS SONOROS FORTES E MARCANTES: passos firmes e rapidos no marmore; o WHOOSH do braco cortando o ar; um ESTALO seco e ALTISSIMO do tapa com ECO no salao; um IMPACTO grave de cinema (boom) junto com o tapa; logo depois um ZUMBIDO agudo de ouvido e batidas de coracao lentas; o soluço de LUCIA; a porta do fundo se abrindo; o tilintar das perolas quando o colar sai do avental com um TUM grave de suspense; no fim, silencio total.",
+      "som": "EFEITOS SONOROS FORTES E MARCANTES: o WHOOSH do braco cortando o ar; um ESTALO seco e ALTISSIMO do tapa com ECO no salao; um IMPACTO grave de cinema (boom) junto com o tapa; logo depois um ZUMBIDO agudo de ouvido e batidas de coracao lentas; o soluço de LUCIA; a porta do fundo se abrindo; o tilintar das perolas quando o colar sai do avental com um TUM grave de suspense; no fim, silencio total.",
       "remover_negativos": [
         "dois rostos visiveis nos planos de fala",
         "atuacao contida"
@@ -70,7 +70,11 @@
         "colar de perolas no pescoco de qualquer pessoa",
         "tapa que so encosta no rosto",
         "mao parando antes do rosto",
-        "olho roxo ou hematoma no rosto de ramiro"
+        "olho roxo ou hematoma no rosto de ramiro",
+        "camera lenta",
+        "tapa lento",
+        "rosto calmo ou neutro de ramiro no tapa",
+        "insert da mao sozinha"
       ],
       "salvar_frames": [
         "FRAME_LUCIA",
@@ -79,16 +83,16 @@
       ],
       "planos": [
         {
-          "rosto": "RAMIRO: furia total, dentes cerrados, o rosto vermelho. LUCIA: no impacto o rosto se CONTORCE de dor, os olhos se FECHAM com forca, a boca abre num grito abafado.",
-          "corpo": "No PRIMEIRO instante do video RAMIRO ja esta colado em LUCIA, ergue a MAO DIREITA bem alto e a desce com TODA a forca num TAPA VIOLENTO de mao aberta que ACERTA EM CHEIO a bochecha dela; a cabeca de LUCIA GIRA quase 90 graus para o lado com o impacto, a tranca voa no ar, o corpo inteiro e jogado para tras e ela tropeca, quase caindo, se apoiando no encosto do sofa.",
-          "camera": "Plano de abertura: Medium Close-up dos dois de perfil, da cintura para cima, bem perto, LUCIA a ESQUERDA e RAMIRO a DIREITA; a mao ATINGE o rosto dentro do quadro; no instante do impacto, SLOW MOTION forte e um tremor de camera. Ninguem fala: so os efeitos sonoros do tapa.",
-          "segundos": 1.6
+          "rosto": "RAMIRO: ODIO no rosto, rosto vermelho, dentes a mostra, veias saltando na testa, olhos arregalados de raiva, solta um grunhido de furia no golpe.",
+          "corpo": "No PRIMEIRO instante do video RAMIRO, colado em LUCIA, desce a MAO DIREITA aberta num TAPA RAPIDO, SECO e VIOLENTO, em velocidade real, que ACERTA EM CHEIO a bochecha dela; a cabeca de LUCIA e JOGADA para o lado no mesmo instante, a tranca chicoteia no ar.",
+          "camera": "Plano de abertura: Over-the-Shoulder por tras do ombro de LUCIA a ESQUERDA, mostrando de frente o ROSTO FURIOSO de RAMIRO a DIREITA no momento do golpe, lente 35mm; velocidade NORMAL, sem camera lenta, um tranco de camera no impacto. Ninguem fala: so os efeitos sonoros do tapa.",
+          "segundos": 1.1
         },
         {
-          "rosto": "Sem rosto: so a mao.",
-          "corpo": "A MAO DIREITA de RAMIRO, ainda erguida e tremendo depois do tapa, mostra a CICATRIZ grossa nas costas da mao.",
-          "camera": "Corte seco. Insert: close extremo das costas da mao direita de RAMIRO com a cicatriz, fundo desfocado, lente macro. Ninguem fala.",
-          "segundos": 0.7
+          "rosto": "LUCIA: o rosto ainda virado pelo tapa, a tranca caida sobre o rosto, os olhos apertados de DOR, a boca aberta num soluço sem ar, lagrimas brotando, a bochecha VERMELHA.",
+          "corpo": "LUCIA: cambaleia, leva a mao a bochecha, o peito arfando, os ombros encolhidos de choque.",
+          "camera": "Corte seco. Close-up de LUCIA logo depois do impacto, head and upper shoulders, lente 85mm, um leve tremor. Ninguem fala: so o zumbido no ouvido e o soluço.",
+          "segundos": 1.0
         },
         {
           "quem": "RAMIRO",
@@ -135,8 +139,8 @@
           "intencao": "Acusar com triunfo e falsa indignacao.",
           "voz": "Voz masculina arrogante, com um sorriso cruel.",
           "rosto": "RAMIRO: sorriso de canto, triunfante.",
-          "corpo": "RAMIRO: enfia a mao direita no bolso do avental de LUCIA e puxa um COLAR DE PEROLAS, erguendo-o no ar; LUCIA arregala os olhos.",
-          "camera": "Corte seco. Medium Shot: RAMIRO a DIREITA erguendo o colar de perolas, LUCIA a ESQUERDA em choque, lente 50mm.",
+          "corpo": "RAMIRO: enfia a mao direita no bolso do avental de LUCIA e puxa um COLAR DE PEROLAS, erguendo-o perto do rosto; as costas da MAO DIREITA que segura o colar mostram a CICATRIZ grossa; LUCIA arregala os olhos.",
+          "camera": "Corte seco. Medium Close-up: RAMIRO a DIREITA erguendo o colar de perolas na mao direita perto do rosto, a cicatriz nas costas da mao bem visivel, LUCIA a ESQUERDA em choque, lente 50mm.",
           "segundos": 2.4
         },
         {
