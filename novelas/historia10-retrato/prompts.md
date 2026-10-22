@@ -13,7 +13,7 @@ Pero un cuadro en la pared lo cambió todo.
 
 ## Clipe 1 — O tapa e a acusação
 
-clipe 1: 9.9s, 7.0s de fala (15 palavras, 6 planos, falantes: RAMIRO, LUCIA, ELENA) ✅
+clipe 1: 9.9s, 7.4s de fala (17 palavras, 6 planos, falantes: LUCIA, RAMIRO, ELENA) ✅
 
 Sem imagem de referência (Text to Video).
 
@@ -60,27 +60,13 @@ Sem imagem de referência (Text to Video).
       "mouths": "Bocas FECHADAS. Ninguem fala."
     },
     {
-      "time": "00:01.10-00:02.30",
-      "speaker": "RAMIRO",
-      "dialogue": "¡Ratera!",
-      "addressee": "LUCIA",
-      "eyeline": "RAMIRO olha para a ESQUERDA do quadro, para LUCIA. NAO olha para a camera.",
-      "emotion_level": 10,
-      "intention": "Humilhar e acusar com desprezo.",
-      "voice": "Voz masculina GRITANDO, cortante, cuspindo a palavra.",
-      "face": "RAMIRO: furia e nojo, labio torcido, olhos injetados.",
-      "body": "RAMIRO: aponta o dedo para o rosto dela, o corpo inclinado para frente.",
-      "camera": "Corte seco. Over-the-Shoulder: ombro e tranca de LUCIA em primeiro plano a ESQUERDA, de costas, boca dela fora do quadro; RAMIRO nitido a DIREITA gritando, Low Angle, lente 35mm. A fala comeca no primeiro instante do plano.",
-      "mouths": "Somente RAMIRO movimenta os labios."
-    },
-    {
-      "time": "00:02.30-00:04.70",
+      "time": "00:01.10-00:03.30",
       "speaker": "LUCIA",
-      "dialogue": "¡Yo no robé nada!",
+      "dialogue": "¡Yo no robé nada, señor!",
       "addressee": "RAMIRO",
       "eyeline": "LUCIA olha para a DIREITA do quadro, para RAMIRO. NAO olha para a camera.",
       "emotion_level": 10,
-      "intention": "Implorar, desesperada, que acreditem nela.",
+      "intention": "Se defender, desesperada, logo depois do tapa.",
       "voice": "Voz FEMININA jovem e aguda de moca de 22 anos, chorando, embargada. NUNCA voz de homem.",
       "face": "LUCIA: o rosto ainda ardendo do tapa, a bochecha VERMELHA, lagrimas escorrendo, os labios tremendo, sobrancelhas erguidas de desespero.",
       "body": "LUCIA: cambaleando, a mao na bochecha, a outra mao apertando o avental, o peito arfando.",
@@ -88,7 +74,21 @@ Sem imagem de referência (Text to Video).
       "mouths": "Somente LUCIA movimenta os labios."
     },
     {
-      "time": "00:04.70-00:06.38",
+      "time": "00:03.30-00:04.50",
+      "speaker": "RAMIRO",
+      "dialogue": "¡Cállate, ratera!",
+      "addressee": "LUCIA",
+      "eyeline": "RAMIRO olha para a ESQUERDA do quadro, para LUCIA. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Humilhar e acusar com desprezo.",
+      "voice": "Voz masculina GRITANDO, cortante, cuspindo a palavra.",
+      "face": "RAMIRO: furia e nojo, labio torcido, olhos injetados.",
+      "body": "RAMIRO: aponta o dedo para frente, o corpo inclinado, a mao direita tremendo de raiva.",
+      "camera": "Corte seco. Close-up SOLO de RAMIRO, so ele no quadro, gritando, Low Angle, lente 50mm. LUCIA NAO aparece neste plano. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente RAMIRO movimenta os labios."
+    },
+    {
+      "time": "00:04.50-00:06.18",
       "speaker": "ELENA",
       "dialogue": "¿Qué está pasando aquí?",
       "addressee": "RAMIRO",
@@ -102,7 +102,7 @@ Sem imagem de referência (Text to Video).
       "mouths": "Somente ELENA movimenta os labios."
     },
     {
-      "time": "00:06.38-00:08.80",
+      "time": "00:06.18-00:08.60",
       "speaker": "RAMIRO",
       "dialogue": "Tu collar, tía. En su delantal.",
       "addressee": "ELENA",
@@ -116,7 +116,7 @@ Sem imagem de referência (Text to Video).
       "mouths": "Somente RAMIRO movimenta os labios."
     },
     {
-      "time": "00:08.80-00:09.90",
+      "time": "00:08.60-00:09.90",
       "speaker": "NONE",
       "dialogue": null,
       "face": "DONA ELENA: olhar frio e decepcionado para LUCIA, a boca FECHADA numa linha dura.",
@@ -130,22 +130,22 @@ Sem imagem de referência (Text to Video).
     "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
     "total_dialogue_lines": 4,
     "exact_order": [
-      "RAMIRO",
       "LUCIA",
+      "RAMIRO",
       "ELENA",
       "RAMIRO"
     ],
     "rules": [
       "So existem 4 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
-      "Depois de 8.1 segundos ninguem fala.",
-      "Cada fala e dirigida a: RAMIRO -> LUCIA; LUCIA -> RAMIRO; ELENA -> RAMIRO; RAMIRO -> ELENA.",
+      "Depois de 8.5 segundos ninguem fala.",
+      "Cada fala e dirigida a: LUCIA -> RAMIRO; RAMIRO -> LUCIA; ELENA -> RAMIRO; RAMIRO -> ELENA.",
       "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
       "Nao repetir, misturar, traduzir ou acrescentar palavras.",
       "Cada frase e dita INTEIRA, do comeco ao fim.",
       "O primeiro plano e SO o tapa com efeitos sonoros: ninguem fala antes do tapa.",
       "Os efeitos sonoros do tapa precisam ser altos e bem marcados.",
       "Nenhuma fala no ultimo plano: o clipe termina no rosto mudo de DONA ELENA.",
-      "A fala '¡Yo no robé nada!' e da MOCA LUCIA, com voz FEMININA; neste plano RAMIRO esta fora do quadro e calado."
+      "A PRIMEIRA fala do video e da MOCA LUCIA ('¡Yo no robé nada, señor!'), com voz FEMININA, logo depois do tapa; RAMIRO esta fora do quadro e de boca fechada nesse plano. So DEPOIS RAMIRO grita '¡Cállate, ratera!'."
     ]
   },
   "audio": {
@@ -176,7 +176,8 @@ Sem imagem de referência (Text to Video).
     "rosto calmo ou neutro de ramiro no tapa",
     "insert da mao sozinha",
     "voz masculina na fala de lucia",
-    "ramiro dizendo yo no robe nada",
+    "ramiro dizendo yo no robe nada senor",
+    "homem falando no close de lucia",
     "texto ou letras em qualquer lugar",
     "nome ou idade de personagem escrito na tela",
     "letreiro de apresentacao de personagem (lower third)",
@@ -208,6 +209,6 @@ Sem imagem de referência (Text to Video).
 ```
 
 **Depois de gerar este clipe, salve os frames:**
-- **FRAME_LUCIA:** frame do clipe 1, plano 3 (por volta do segundo 3,5): close de LUCIA de uniforme cinza e avental branco, tranca sobre o ombro esquerdo.
-- **FRAME_RAMIRO:** frame do clipe 1, plano 2 (por volta do segundo 1,6): RAMIRO de terno cinza gritando.
+- **FRAME_LUCIA:** frame do clipe 1, plano 2 (por volta do segundo 2,0): close de LUCIA de uniforme cinza e avental branco, tranca sobre o ombro esquerdo.
+- **FRAME_RAMIRO:** frame do clipe 1, plano 3 (por volta do segundo 3,8): RAMIRO de terno cinza gritando.
 - **FRAME_ELENA:** frame do clipe 1, plano 4 (por volta do segundo 5,3): close de DONA ELENA de vestido azul-escuro e coque branco.

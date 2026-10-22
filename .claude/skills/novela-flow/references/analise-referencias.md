@@ -202,3 +202,4 @@ poderoso muda de lado; corta na acusação.
 - Tapa em plano aberto de perfil saiu fraco (mão só encosta). Correção: Medium Close-up dos dois, da cintura para cima, "a mão ATINGE o rosto dentro do quadro", cabeça gira ~90°, corpo jogado para trás.
 - "olheiras" virou olho roxo. Evitar essa palavra.
 - Fala da moça saiu com a voz do homem quando o close dela vinha logo depois de um OTS em que ele aparecia (e ele ainda aparecia na borda do close). Correção: close SOLO ("so ela no quadro", "RAMIRO NAO aparece"), voz "FEMININA… NUNCA voz de homem" e regra explícita de quem diz a frase.
+- Mesmo com close solo, a fala de defesa da moça saiu com voz do homem 2x quando vinha DEPOIS do grito dele. Correção: a vítima fala PRIMEIRO logo após o tapa ("¡Yo no robé nada, señor!" — o 'señor' marca quem fala), e o vilão responde depois.
