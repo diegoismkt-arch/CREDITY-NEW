@@ -588,6 +588,105 @@
         "A fala de LUCIA e com voz FEMININA jovem.",
         "Nenhuma fala no ultimo plano: o clipe termina no rosto mudo e suado de RAMIRO."
       ]
+    },
+    {
+      "nome": "Fui vendida",
+      "estilo": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Corredor comprido de uma mansao antiga mexicana, de dia: piso de marmore bege, paredes cor creme cheias de quadros antigos em molduras douradas, arandelas acesas, luz quente lateral. Shallow Focus, cortes rapidos.",
+      "atuacao": "Novela dramatica, EMOCAO MAXIMA. LUCIA conta a verdade com dor e firmeza, as lagrimas escorrendo. DONA ELENA de joelhos, em choque, depois desaba em choro ao reconhecer a pulseira. RAMIRO tenso, com raiva contida, prestes a agir. Rostos muito expressivos. Nenhum momento parado.",
+      "imagens": [
+        "FRAME_LUCIA",
+        "FRAME_RAMIRO",
+        "FRAME_ELENA"
+      ],
+      "personagens": [
+        "LUCIA",
+        "ELENA",
+        "RAMIRO"
+      ],
+      "posicoes": {
+        "LUCIA": "de pe no corredor, sozinha nos planos dela",
+        "ELENA": "de joelhos no chao do corredor, sozinha nos planos dela",
+        "RAMIRO": "de pe mais atras, sozinho no plano dele"
+      },
+      "preservar_extra": [
+        "A MESMA LUCIA da imagem 1, o MESMO RAMIRO da imagem 2 e a MESMA DONA ELENA da imagem 3, com as mesmas roupas.",
+        "A PULSEIRINHA: uma pulseira de bebe de PRATA, fina, velha e escurecida, com um pequeno pingente de MEIA-LUA de prata. SEM nenhuma letra, nome ou gravacao.",
+        "DONA ELENA de vestido AZUL-ESCURO de GOLA ALTA, sem colar.",
+        "Ninguem usa colar de perolas.",
+        "Nenhum letreiro, placa ou letra em lugar nenhum."
+      ],
+      "cenario": "Continuacao, no corredor dos quadros. DONA ELENA, de joelhos, acabou de dizer que enterrou a filha num caixao fechado ha vinte anos. LUCIA revela que nao morreu: foi vendida quando bebe, e guarda desde entao uma pulseirinha de prata.",
+      "som": "Respiracao tremula de LUCIA; um TUM grave quando a mao dela se abre com a pulseira; o leve tilintar da prata; o choro alto de DONA ELENA; no fim, o ranger dos dentes de RAMIRO e silencio.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida"
+      ],
+      "negativos_extra": [
+        "dois personagens no quadro quando alguem fala",
+        "voz masculina nas falas femininas",
+        "letras ou nome gravado na pulseira",
+        "colar de perolas",
+        "personagem falando de frente para a camera",
+        "lucia com outro rosto",
+        "letras na tela"
+      ],
+      "planos": [
+        {
+          "quem": "LUCIA",
+          "para": "ELENA",
+          "fala": "Yo no me morí… a mí me vendieron.",
+          "emocao": 10,
+          "eyeline": "LUCIA olha para BAIXO, para DONA ELENA ajoelhada. NAO olha para a camera.",
+          "intencao": "Revelar, com dor e firmeza, o segredo da propria vida.",
+          "voz": "Voz FEMININA jovem de moca de 22 anos, embargada mas firme. NUNCA voz de homem.",
+          "rosto": "LUCIA: lagrimas escorrendo, o queixo erguido, os olhos fixos na senhora.",
+          "corpo": "LUCIA: a mao direita fechada com forca junto ao peito, guardando algo.",
+          "camera": "Close-up SOLO de LUCIA, so ela no quadro, High Angle leve, lente 85mm. Ninguem mais aparece neste plano."
+        },
+        {
+          "quem": "ELENA",
+          "para": "LUCIA",
+          "fala": "¿Te vendieron?",
+          "emocao": 10,
+          "eyeline": "DONA ELENA olha para CIMA, para LUCIA. NAO olha para a camera.",
+          "intencao": "Repetir, horrorizada, sem conseguir acreditar.",
+          "voz": "Voz feminina de senhora, um sussurro horrorizado.",
+          "rosto": "DONA ELENA: boca aberta, olhos arregalados, lagrimas.",
+          "corpo": "DONA ELENA: de joelhos, as maos cobrindo a boca.",
+          "camera": "Corte seco. Close-up SOLO de DONA ELENA de joelhos, so ela no quadro, Low Angle, lente 85mm. Ninguem mais aparece neste plano.",
+          "segundos": 1.4
+        },
+        {
+          "rosto": "Sem rosto: so as maos.",
+          "corpo": "A mao de LUCIA se abre devagar diante de DONA ELENA: na palma esta uma pulseirinha de bebe de PRATA, velha e escurecida, com um pequeno pingente de MEIA-LUA.",
+          "camera": "Corte seco. Insert: close da palma aberta de LUCIA com a pulseirinha de prata e o pingente de meia-lua, foco nitido, Slow Push In. Ninguem fala.",
+          "segundos": 1.3
+        },
+        {
+          "quem": "ELENA",
+          "para": "LUCIA",
+          "fala": "Yo le puse esa pulsera… el día que naciste.",
+          "emocao": 10,
+          "eyeline": "DONA ELENA olha para a pulseira na mao de LUCIA, depois para o rosto dela. NAO olha para a camera.",
+          "intencao": "Reconhecer, desabando em choro, a pulseira que ela colocou na filha recem-nascida.",
+          "voz": "Voz feminina de senhora, desabando em choro, a voz se quebrando.",
+          "rosto": "DONA ELENA: o rosto se desfaz em choro, a boca tremendo, as lagrimas correndo.",
+          "corpo": "DONA ELENA: toca a pulseira com a ponta dos dedos tremulos.",
+          "camera": "Corte seco. Close-up SOLO de DONA ELENA, so ela no quadro, lente 85mm, Slow Push In. Ninguem mais aparece neste plano."
+        },
+        {
+          "rosto": "RAMIRO: a mandibula travada, as narinas abertas, os olhos fixos na pulseira com raiva e medo. Boca FECHADA.",
+          "corpo": "RAMIRO: da um passo rapido para frente, a mao esquerda ja se esticando.",
+          "camera": "Corte seco. Reaction shot: close-up SOLO de RAMIRO, lente 85mm. Ninguem fala. O clipe termina neste rosto.",
+          "segundos": 0.9
+        }
+      ],
+      "regras_extra": [
+        "Cada fala aparece com SO quem fala no quadro.",
+        "A fala de LUCIA e com voz FEMININA jovem.",
+        "A pulseira NAO tem nenhuma letra.",
+        "Nenhuma fala no ultimo plano: o clipe termina no rosto mudo de RAMIRO."
+      ]
     }
   ]
 }
