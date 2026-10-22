@@ -1,0 +1,141 @@
+{
+  "titulo_post": "La corrió de su casa… sin saber quién era 😱",
+  "legenda": "La acusaron de ratera y la echaron como a un perro… 💔\n\nPero un cuadro en la pared lo cambió todo.\n\n¿Ramiro va a enseñar la mano? 👇\n\n#historias #novela #drama #justicia #reflexiones #lahistoriaprincipal",
+  "texto_final": "",
+  "titulo_interno": "LA NIÑA DEL RETRATO",
+  "estilo": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Salao de uma mansao antiga mexicana, de dia: piso de marmore bege, paredes cor creme com molduras douradas, lustre de cristal, sofas de veludo verde-escuro, luz natural quente entrando pelas janelas altas. Shallow Focus, cortes rapidos.",
+  "imagens": {
+    "FRAME_LUCIA": "frame do clipe 1, plano 4 (por volta do segundo 4,3): close de LUCIA de uniforme cinza e avental branco, tranca sobre o ombro esquerdo.",
+    "FRAME_RAMIRO": "frame do clipe 1, plano 3 (por volta do segundo 2,9): RAMIRO de terno cinza gritando.",
+    "FRAME_ELENA": "frame do clipe 1, plano 5 (por volta do segundo 6,0): close de DONA ELENA de vestido azul-escuro e coque branco."
+  },
+  "personagens": {
+    "LUCIA": {
+      "descricao": "jovem empregada de 22 anos, rosto comum e desconhecido, pele morena, rosto redondo, sobrancelhas grossas, nariz largo, sardas leves no nariz, olhos castanhos escuros, cabelo PRETO numa TRANCA longa caida sobre o ombro ESQUERDO cobrindo o lado esquerdo do pescoco, UNIFORME CINZA de manga curta com AVENTAL BRANCO por cima, sem joias.",
+      "voz": "Voz feminina jovem, doce e assustada de moca de 22 anos.",
+      "frame": "FRAME_LUCIA",
+      "feminino": true
+    },
+    "RAMIRO": {
+      "descricao": "homem de 45 anos, sobrinho de DONA ELENA, rosto comum e desconhecido, pele clara, rosto magro, olheiras, bigode fino, cabelo castanho penteado de lado com entradas, TERNO CINZA-CLARO com gravata vinho, uma CICATRIZ grossa e clara nas costas da MAO DIREITA.",
+      "voz": "Voz masculina arrogante, cortante e cruel de homem de 45 anos.",
+      "frame": "FRAME_RAMIRO"
+    },
+    "ELENA": {
+      "descricao": "senhora rica de 62 anos, viuva, dona da mansao, rosto comum e desconhecido, pele clara, rugas fundas, olhos claros e tristes, cabelo BRANCO preso em COQUE alto, VESTIDO AZUL-ESCURO de manga longa, brincos pequenos de ouro, sem colar.",
+      "voz": "Voz feminina grave, seca e autoritaria de senhora de 62 anos.",
+      "frame": "FRAME_ELENA",
+      "feminino": true
+    }
+  },
+  "clips": [
+    {
+      "nome": "O tapa e a acusação",
+      "atuacao": "Novela dramatica, EMOCAO MAXIMA. O video COMECA com o TAPA, antes de qualquer fala. RAMIRO tomado de FURIA e desprezo: rosto vermelho, mandibula travada, olhos injetados. LUCIA leva o tapa com DOR e CHOQUE reais: o rosto vira com violencia, os olhos se fecham com forca, um soluço escapa, a mao vai a bochecha, lagrimas; depois implora, desesperada. DONA ELENA chega severa e fria. Rostos muito expressivos. Nenhum momento parado.",
+      "personagens": ["RAMIRO", "LUCIA", "ELENA"],
+      "posicoes": {
+        "LUCIA": "de pe no meio do salao, SEMPRE na ESQUERDA do quadro, olhando para a DIREITA",
+        "RAMIRO": "de pe na frente dela, SEMPRE na DIREITA do quadro, olhando para a ESQUERDA",
+        "ELENA": "entra pela porta do fundo, ao centro, e para atras, entre os dois, mais ao fundo"
+      },
+      "preservar_extra": [
+        "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
+        "A CICATRIZ fica nas costas da MAO DIREITA de RAMIRO; so ele tem cicatriz na mao.",
+        "Depois do tapa, a bochecha direita de LUCIA fica VERMELHA, sem sangue e sem ferimento.",
+        "Existe UM UNICO colar de perolas: ele esta escondido no bolso do avental de LUCIA ate RAMIRO puxa-lo. DONA ELENA NAO usa colar.",
+        "Nenhum letreiro, quadro com letras ou letra em lugar nenhum."
+      ],
+      "cenario": "O salao da mansao de DONA ELENA. RAMIRO, o sobrinho que administra a casa, acusa a empregada nova LUCIA de ter roubado o colar de perolas da tia.",
+      "som": "EFEITOS SONOROS FORTES E MARCANTES: passos firmes e rapidos no marmore; o WHOOSH do braco cortando o ar; um ESTALO seco e ALTISSIMO do tapa com ECO no salao; um IMPACTO grave de cinema (boom) junto com o tapa; logo depois um ZUMBIDO agudo de ouvido e batidas de coracao lentas; o soluço de LUCIA; a porta do fundo se abrindo; o tilintar das perolas quando o colar sai do avental com um TUM grave de suspense; no fim, silencio total.",
+      "remover_negativos": ["dois rostos visiveis nos planos de fala", "atuacao contida"],
+      "negativos_extra": [
+        "letras na tela",
+        "personagem falando de frente para a camera",
+        "roupa de um personagem em outro",
+        "colar no pescoco de elena",
+        "dois colares",
+        "cicatriz na mao de outro personagem",
+        "tapa fraco ou de mentira",
+        "reacao fria ao tapa",
+        "lucia sem dor",
+        "fala antes do tapa",
+        "alguem falando no primeiro plano"
+      ],
+      "salvar_frames": ["FRAME_LUCIA", "FRAME_RAMIRO", "FRAME_ELENA"],
+      "planos": [
+        {
+          "rosto": "RAMIRO: furia total, dentes cerrados. LUCIA: no impacto os olhos se FECHAM com forca, a boca abre num soluço de dor.",
+          "corpo": "No PRIMEIRO instante do video RAMIRO avanca a passos rapidos e, sem dizer nada, da um TAPA fortissimo com a MAO DIREITA aberta no rosto de LUCIA; a cabeca dela VIRA com violencia, a tranca chicoteia no ar, ela cambaleia para tras.",
+          "camera": "Plano de abertura: Medium Shot de perfil, LUCIA a ESQUERDA, RAMIRO entrando pela DIREITA; no instante do impacto, SLOW MOTION e um leve tremor de camera. Ninguem fala: so os efeitos sonoros do tapa.",
+          "segundos": 1.6
+        },
+        {
+          "rosto": "Sem rosto: so a mao.",
+          "corpo": "A MAO DIREITA de RAMIRO, ainda erguida e tremendo depois do tapa, mostra a CICATRIZ grossa nas costas da mao.",
+          "camera": "Corte seco. Insert: close extremo das costas da mao direita de RAMIRO com a cicatriz, fundo desfocado, lente macro. Ninguem fala.",
+          "segundos": 0.7
+        },
+        {
+          "quem": "RAMIRO",
+          "para": "LUCIA",
+          "fala": "¡Ratera!",
+          "emocao": 10,
+          "eyeline": "RAMIRO olha para a ESQUERDA do quadro, para LUCIA. NAO olha para a camera.",
+          "intencao": "Humilhar e acusar com desprezo.",
+          "voz": "Voz masculina GRITANDO, cortante, cuspindo a palavra.",
+          "rosto": "RAMIRO: furia e nojo, labio torcido, olhos injetados.",
+          "corpo": "RAMIRO: aponta o dedo para o rosto dela, o corpo inclinado para frente.",
+          "camera": "Corte seco. Over-the-Shoulder: ombro e tranca de LUCIA em primeiro plano a ESQUERDA; RAMIRO nitido a DIREITA gritando, Low Angle, lente 35mm."
+        },
+        {
+          "quem": "LUCIA",
+          "para": "RAMIRO",
+          "fala": "¡Yo no robé nada!",
+          "emocao": 10,
+          "eyeline": "LUCIA olha para a DIREITA do quadro, para RAMIRO. NAO olha para a camera.",
+          "intencao": "Implorar, desesperada, que acreditem nela.",
+          "voz": "Voz feminina jovem, chorando, embargada.",
+          "rosto": "LUCIA: a bochecha vermelha do tapa, lagrimas escorrendo, sobrancelhas erguidas de desespero.",
+          "corpo": "LUCIA: a mao na bochecha, a outra mao apertando o avental.",
+          "camera": "Corte seco. Close-up de LUCIA, head and upper shoulders, lustre desfocado atras, lente 85mm."
+        },
+        {
+          "quem": "ELENA",
+          "para": "RAMIRO",
+          "fala": "¿Qué está pasando aquí?",
+          "emocao": 8,
+          "eyeline": "DONA ELENA olha para a DIREITA do quadro, para RAMIRO. NAO olha para a camera.",
+          "intencao": "Exigir explicacao com autoridade.",
+          "voz": "Voz feminina grave, seca, autoritaria.",
+          "rosto": "DONA ELENA: testa franzida, olhar duro e frio.",
+          "corpo": "DONA ELENA: acaba de entrar pela porta do fundo e para, as maos juntas na frente do corpo.",
+          "camera": "Corte seco. Medium Close-up de DONA ELENA na porta do fundo, lente 50mm."
+        },
+        {
+          "quem": "RAMIRO",
+          "para": "ELENA",
+          "fala": "Tu collar, tía. En su delantal.",
+          "emocao": 9,
+          "eyeline": "RAMIRO olha para o FUNDO do quadro, para DONA ELENA. NAO olha para a camera.",
+          "intencao": "Acusar com triunfo e falsa indignacao.",
+          "voz": "Voz masculina arrogante, com um sorriso cruel.",
+          "rosto": "RAMIRO: sorriso de canto, triunfante.",
+          "corpo": "RAMIRO: enfia a mao direita no bolso do avental de LUCIA e puxa um COLAR DE PEROLAS, erguendo-o no ar; LUCIA arregala os olhos.",
+          "camera": "Corte seco. Medium Shot: RAMIRO a DIREITA erguendo o colar de perolas, LUCIA a ESQUERDA em choque, lente 50mm.",
+          "segundos": 2.4
+        },
+        {
+          "rosto": "DONA ELENA: os olhos frios fixos no colar, a boca FECHADA numa linha dura, decepcionada.",
+          "corpo": "DONA ELENA: imovel, o queixo erguido.",
+          "camera": "Corte seco. Reaction shot: close-up de DONA ELENA, lente 85mm. Ninguem fala. O clipe termina neste rosto.",
+          "segundos": 0.6
+        }
+      ],
+      "regras_extra": [
+        "O primeiro plano e SO o tapa com efeitos sonoros: ninguem fala antes do tapa.",
+        "Os efeitos sonoros do tapa precisam ser altos e bem marcados.",
+        "Nenhuma fala no ultimo plano: o clipe termina no rosto mudo de DONA ELENA."
+      ]
+    }
+  ]
+}
