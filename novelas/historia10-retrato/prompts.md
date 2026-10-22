@@ -22,13 +22,13 @@ Sem imagem de referência (Text to Video).
   "IDIOMA_OBRIGATORIO": "TODAS as falas em ESPANHOL do Mexico, exatamente como escritas no campo dialogue. NUNCA em portugues, nunca traduzir.",
   "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica, EMOCAO MAXIMA. O video COMECA com o TAPA, antes de qualquer fala. RAMIRO tomado de FURIA e desprezo: rosto vermelho, mandibula travada, olhos injetados. LUCIA leva o tapa com DOR e CHOQUE reais: o rosto vira com violencia, os olhos se fecham com forca, um soluço escapa, a mao vai a bochecha, lagrimas; depois implora, desesperada. DONA ELENA chega severa e fria. Rostos muito expressivos. Nenhum momento parado.",
   "consistency": [
-    "RAMIRO: homem de 45 anos, sobrinho de DONA ELENA, rosto comum e desconhecido, pele clara, rosto magro, olheiras, bigode fino, cabelo castanho penteado de lado com entradas, TERNO CINZA-CLARO com gravata vinho, uma CICATRIZ grossa e clara nas costas da MAO DIREITA.",
+    "RAMIRO: homem de 45 anos, sobrinho de DONA ELENA, rosto comum e desconhecido, pele clara, rosto magro e limpo, sem nenhum hematoma, bigode fino, cabelo castanho penteado de lado com entradas, TERNO CINZA-CLARO com gravata vinho, uma CICATRIZ grossa e clara nas costas da MAO DIREITA.",
     "LUCIA: jovem empregada de 22 anos, rosto comum e desconhecido, pele morena, rosto redondo, sobrancelhas grossas, nariz largo, sardas leves no nariz, olhos castanhos escuros, cabelo PRETO numa TRANCA longa caida sobre o ombro ESQUERDO cobrindo o lado esquerdo do pescoco, UNIFORME CINZA de manga curta com AVENTAL BRANCO por cima, sem joias.",
-    "ELENA: senhora rica de 62 anos, viuva, dona da mansao, rosto comum e desconhecido, pele clara, rugas fundas, olhos claros e tristes, cabelo BRANCO preso em COQUE alto, VESTIDO AZUL-ESCURO de manga longa, brincos pequenos de ouro, sem colar.",
+    "ELENA: senhora rica de 62 anos, viuva, dona da mansao, rosto comum e desconhecido, pele clara, rugas fundas, olhos claros e tristes, cabelo BRANCO preso em COQUE alto, VESTIDO AZUL-ESCURO de manga longa com GOLA ALTA fechada ate o queixo, pescoco totalmente coberto pelo tecido, brincos pequenos de ouro, NENHUM colar.",
     "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
     "A CICATRIZ fica nas costas da MAO DIREITA de RAMIRO; so ele tem cicatriz na mao.",
     "Depois do tapa, a bochecha direita de LUCIA fica VERMELHA, sem sangue e sem ferimento.",
-    "Existe UM UNICO colar de perolas: ele esta escondido no bolso do avental de LUCIA ate RAMIRO puxa-lo. DONA ELENA NAO usa colar.",
+    "Existe UM UNICO colar de perolas: ele esta escondido no bolso do avental de LUCIA ate RAMIRO puxa-lo, e depois fica SO na mao de RAMIRO. DONA ELENA usa vestido de GOLA ALTA e NUNCA usa colar, nem no ultimo plano.",
     "Nenhum letreiro, quadro com letras ou letra em lugar nenhum."
   ],
   "scene": {
@@ -44,9 +44,9 @@ Sem imagem de referência (Text to Video).
       "ELENA: entra pela porta do fundo, ao centro, e para atras, entre os dois, mais ao fundo"
     ],
     "characters": {
-      "RAMIRO": "homem de 45 anos, sobrinho de DONA ELENA, rosto comum e desconhecido, pele clara, rosto magro, olheiras, bigode fino, cabelo castanho penteado de lado com entradas, TERNO CINZA-CLARO com gravata vinho, uma CICATRIZ grossa e clara nas costas da MAO DIREITA. Personagem ficticio. Voz masculina arrogante, cortante e cruel de homem de 45 anos.",
+      "RAMIRO": "homem de 45 anos, sobrinho de DONA ELENA, rosto comum e desconhecido, pele clara, rosto magro e limpo, sem nenhum hematoma, bigode fino, cabelo castanho penteado de lado com entradas, TERNO CINZA-CLARO com gravata vinho, uma CICATRIZ grossa e clara nas costas da MAO DIREITA. Personagem ficticio. Voz masculina arrogante, cortante e cruel de homem de 45 anos.",
       "LUCIA": "jovem empregada de 22 anos, rosto comum e desconhecido, pele morena, rosto redondo, sobrancelhas grossas, nariz largo, sardas leves no nariz, olhos castanhos escuros, cabelo PRETO numa TRANCA longa caida sobre o ombro ESQUERDO cobrindo o lado esquerdo do pescoco, UNIFORME CINZA de manga curta com AVENTAL BRANCO por cima, sem joias. Personagem ficticia. Voz feminina jovem, doce e assustada de moca de 22 anos.",
-      "ELENA": "senhora rica de 62 anos, viuva, dona da mansao, rosto comum e desconhecido, pele clara, rugas fundas, olhos claros e tristes, cabelo BRANCO preso em COQUE alto, VESTIDO AZUL-ESCURO de manga longa, brincos pequenos de ouro, sem colar. Personagem ficticia. Voz feminina grave, seca e autoritaria de senhora de 62 anos."
+      "ELENA": "senhora rica de 62 anos, viuva, dona da mansao, rosto comum e desconhecido, pele clara, rugas fundas, olhos claros e tristes, cabelo BRANCO preso em COQUE alto, VESTIDO AZUL-ESCURO de manga longa com GOLA ALTA fechada ate o queixo, pescoco totalmente coberto pelo tecido, brincos pequenos de ouro, NENHUM colar. Personagem ficticia. Voz feminina grave, seca e autoritaria de senhora de 62 anos."
     }
   },
   "timeline": [
@@ -54,9 +54,9 @@ Sem imagem de referência (Text to Video).
       "time": "00:00.00-00:01.60",
       "speaker": "NONE",
       "dialogue": null,
-      "face": "RAMIRO: furia total, dentes cerrados. LUCIA: no impacto os olhos se FECHAM com forca, a boca abre num soluço de dor.",
-      "body": "No PRIMEIRO instante do video RAMIRO avanca a passos rapidos e, sem dizer nada, da um TAPA fortissimo com a MAO DIREITA aberta no rosto de LUCIA; a cabeca dela VIRA com violencia, a tranca chicoteia no ar, ela cambaleia para tras.",
-      "camera": "Plano de abertura: Medium Shot de perfil, LUCIA a ESQUERDA, RAMIRO entrando pela DIREITA; no instante do impacto, SLOW MOTION e um leve tremor de camera. Ninguem fala: so os efeitos sonoros do tapa.",
+      "face": "RAMIRO: furia total, dentes cerrados, o rosto vermelho. LUCIA: no impacto o rosto se CONTORCE de dor, os olhos se FECHAM com forca, a boca abre num grito abafado.",
+      "body": "No PRIMEIRO instante do video RAMIRO ja esta colado em LUCIA, ergue a MAO DIREITA bem alto e a desce com TODA a forca num TAPA VIOLENTO de mao aberta que ACERTA EM CHEIO a bochecha dela; a cabeca de LUCIA GIRA quase 90 graus para o lado com o impacto, a tranca voa no ar, o corpo inteiro e jogado para tras e ela tropeca, quase caindo, se apoiando no encosto do sofa.",
+      "camera": "Plano de abertura: Medium Close-up dos dois de perfil, da cintura para cima, bem perto, LUCIA a ESQUERDA e RAMIRO a DIREITA; a mao ATINGE o rosto dentro do quadro; no instante do impacto, SLOW MOTION forte e um tremor de camera. Ninguem fala: so os efeitos sonoros do tapa.",
       "mouths": "Bocas FECHADAS. Ninguem fala."
     },
     {
@@ -128,8 +128,8 @@ Sem imagem de referência (Text to Video).
       "time": "00:09.29-00:09.89",
       "speaker": "NONE",
       "dialogue": null,
-      "face": "DONA ELENA: os olhos frios fixos no colar, a boca FECHADA numa linha dura, decepcionada.",
-      "body": "DONA ELENA: imovel, o queixo erguido.",
+      "face": "DONA ELENA: olhar frio e decepcionado para LUCIA, a boca FECHADA numa linha dura.",
+      "body": "DONA ELENA: imovel, o queixo erguido, o pescoco coberto pela gola alta do vestido.",
       "camera": "Corte seco. Reaction shot: close-up de DONA ELENA, lente 85mm. Ninguem fala. O clipe termina neste rosto.",
       "mouths": "Bocas FECHADAS. Ninguem fala."
     }
@@ -175,6 +175,10 @@ Sem imagem de referência (Text to Video).
     "lucia sem dor",
     "fala antes do tapa",
     "alguem falando no primeiro plano",
+    "colar de perolas no pescoco de qualquer pessoa",
+    "tapa que so encosta no rosto",
+    "mao parando antes do rosto",
+    "olho roxo ou hematoma no rosto de ramiro",
     "texto ou letras em qualquer lugar",
     "nome ou idade de personagem escrito na tela",
     "letreiro de apresentacao de personagem (lower third)",

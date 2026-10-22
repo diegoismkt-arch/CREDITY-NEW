@@ -196,3 +196,8 @@ poderoso muda de lado; corta na acusação.
   María la del Barrio); Betty la Fea = valor interior vence a aparência; Rubí = ambição e preço moral.
 - Turcas: tragédia familiar, vingança, triângulo amoroso, obstáculo "impossível", melodrama intenso.
 - Cinema (Sexto Sentido, Parasita, Knives Out): virada que reinterpreta tudo, com pistas sutis plantadas antes.
+
+### Lição Flow — La niña del retrato, clipe 1 (tentativa 1)
+- Colar de pérolas "pulou" para o pescoço da dona da casa no plano final de reação (mesmo com "sem colar" + negativo). Correção: vestir a personagem com GOLA ALTA até o queixo (não sobra pescoço para colar) e não citar o objeto no plano de reação dela.
+- Tapa em plano aberto de perfil saiu fraco (mão só encosta). Correção: Medium Close-up dos dois, da cintura para cima, "a mão ATINGE o rosto dentro do quadro", cabeça gira ~90°, corpo jogado para trás.
+- "olheiras" virou olho roxo. Evitar essa palavra.
