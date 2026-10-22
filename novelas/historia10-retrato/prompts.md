@@ -1143,3 +1143,181 @@ Referências, nesta ordem: 1) FRAME_LUCIA; 2) FRAME_RAMIRO; 3) FRAME_ELENA
   ]
 }
 ```
+
+
+## Clipe 7 — É falsa
+
+clipe 7: 9.6s, 7.5s de fala (18 palavras, 5 planos, falantes: RAMIRO, CARMEN) ✅
+
+Referências, nesta ordem: 1) FRAME_RAMIRO; 2) FRAME_ELENA; 3) FRAME_CARMEN
+
+```json
+{
+  "IDIOMA_OBRIGATORIO": "TODAS as falas em ESPANHOL do Mexico, exatamente como escritas no campo dialogue. NUNCA em portugues, nunca traduzir.",
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica, EMOCAO MAXIMA. RAMIRO desesperado disfarcado de raiva, agressivo, suando. CARMEN, que sempre teve medo, cria coragem e fala firme, com a voz tremendo. DONA ELENA, ainda chorando, para de chorar e vira o rosto devagar para o sobrinho, comecando a desconfiar. Rostos muito expressivos. Nenhum momento parado.",
+  "input_image": {
+    "required": false,
+    "mode": "Ingredients to Video, sem primeiro frame.",
+    "additional_references": true,
+    "reference_images": [
+      "Imagem 1 — frame do clipe 1, plano 3 (por volta do segundo 3,8): RAMIRO de terno cinza gritando.",
+      "Imagem 2 — frame do clipe 1, plano 6 (por volta do segundo 9,4): close de DONA ELENA de vestido azul-escuro e coque branco.",
+      "Imagem 3 — frame do clipe 4, plano 1 (por volta do segundo 1,2): close de CARMEN de oculos e uniforme preto no corredor."
+    ],
+    "preserve_exactly": [
+      "RAMIRO: o MESMO rosto da imagem 1, homem de 45 anos, sobrinho de DONA ELENA, rosto comum e desconhecido, pele clara, rosto magro e limpo, sem nenhum hematoma, bigode fino, cabelo castanho penteado de lado com entradas, TERNO CINZA-CLARO com gravata vinho, uma CICATRIZ grossa e clara nas costas da MAO DIREITA.",
+      "CARMEN: o MESMO rosto da imagem 3, governanta de 58 anos, rosto comum e desconhecido, pele morena, rosto largo, rugas, OCULOS de armacao fina dourada, cabelo grisalho curto, UNIFORME PRETO de manga longa com gola branca, sem joias.",
+      "ELENA: o MESMO rosto da imagem 2, senhora rica de 62 anos, viuva, dona da mansao, rosto comum e desconhecido, pele clara, rugas fundas, olhos claros e tristes, cabelo BRANCO preso em COQUE alto, VESTIDO AZUL-ESCURO de manga longa com GOLA ALTA fechada ate o queixo, pescoco totalmente coberto pelo tecido, brincos pequenos de ouro, NENHUM colar.",
+      "O MESMO RAMIRO da imagem 1, a MESMA DONA ELENA da imagem 2 e a MESMA CARMEN da imagem 3, com as mesmas roupas.",
+      "A PULSEIRINHA: uma pulseira de bebe de PRATA, velha e escurecida, com um pequeno pingente de MEIA-LUA. SEM nenhuma letra.",
+      "RAMIRO esconde a MAO DIREITA (a da cicatriz) e usa so a MAO ESQUERDA neste clipe.",
+      "DONA ELENA de vestido AZUL-ESCURO de GOLA ALTA, sem colar.",
+      "Ninguem usa colar de perolas.",
+      "Nenhum letreiro, placa ou letra em lugar nenhum."
+    ]
+  },
+  "scene": {
+    "title": "LA NIÑA DEL RETRATO",
+    "duration_seconds": 9.7,
+    "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
+    "structure": "5 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "style": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Corredor comprido de uma mansao antiga mexicana, de dia: piso de marmore bege, paredes cor creme cheias de quadros antigos em molduras douradas, arandelas acesas, luz quente lateral. Shallow Focus, cortes rapidos.",
+    "setting": "Continuacao, no corredor dos quadros. LUCIA acabou de mostrar a pulseirinha de prata que DONA ELENA colocou na filha ao nascer. RAMIRO, apavorado, arranca a pulseira e tenta desmentir tudo. A governanta CARMEN o enfrenta.",
+    "blocking": [
+      "RAMIRO: de pe no corredor, sozinho nos planos dele",
+      "CARMEN: de pe no fundo do corredor, sozinha no plano dela",
+      "ELENA: de joelhos no chao do corredor, sozinha no plano dela"
+    ],
+    "characters": {
+      "RAMIRO": "O MESMO da imagem 1. Personagem ficticio. Voz masculina arrogante, cortante e cruel de homem de 45 anos.",
+      "CARMEN": "A MESMA da imagem 3. Personagem ficticia. Voz feminina baixa e rouca de senhora de 58 anos, sussurrando.",
+      "ELENA": "A MESMA da imagem 2. Personagem ficticia. Voz feminina grave, seca e autoritaria de senhora de 62 anos."
+    }
+  },
+  "timeline": [
+    {
+      "time": "00:00.00-00:00.90",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "Sem rosto: so as maos.",
+      "body": "A MAO ESQUERDA de RAMIRO entra com violencia no quadro e ARRANCA a pulseirinha de prata da palma aberta de LUCIA.",
+      "camera": "Plano de abertura: Insert, close das maos, movimento rapido, handheld. Ninguem fala.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    },
+    {
+      "time": "00:00.90-00:03.69",
+      "speaker": "RAMIRO",
+      "dialogue": "¡Es falsa! Esta muchacha quiere tu dinero.",
+      "addressee": "ELENA",
+      "eyeline": "RAMIRO olha para BAIXO, para DONA ELENA ajoelhada. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Desmentir tudo, desesperado, fingindo indignacao.",
+      "voice": "Voz masculina gritando, nervosa, rapida demais.",
+      "face": "RAMIRO: olhos arregalados, suor na testa, um sorriso nervoso que nao convence.",
+      "body": "RAMIRO: ergue a pulseira na mao esquerda, a mao direita escondida atras das costas.",
+      "camera": "Corte seco. Close-up SOLO de RAMIRO, so ele no quadro, lente 85mm. Ninguem mais aparece neste plano. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente RAMIRO movimenta os labios."
+    },
+    {
+      "time": "00:03.69-00:07.23",
+      "speaker": "CARMEN",
+      "dialogue": "No es falsa, señor. Yo estaba aquí esa noche.",
+      "addressee": "RAMIRO",
+      "eyeline": "CARMEN olha para a DIREITA do quadro, para RAMIRO. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Enfrentar o patrao pela primeira vez, com coragem e medo ao mesmo tempo.",
+      "voice": "Voz feminina rouca de senhora, firme mas tremendo.",
+      "face": "CARMEN: lagrimas atras dos oculos, o queixo erguido, decidida.",
+      "body": "CARMEN: da um passo a frente, as maos apertadas na frente do uniforme preto.",
+      "camera": "Corte seco. Close-up SOLO de CARMEN no fundo do corredor, so ela no quadro, lente 85mm. Ninguem mais aparece neste plano. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente CARMEN movimenta os labios."
+    },
+    {
+      "time": "00:07.23-00:08.43",
+      "speaker": "RAMIRO",
+      "dialogue": "¡Cállate, Carmen!",
+      "addressee": "CARMEN",
+      "eyeline": "RAMIRO olha para a ESQUERDA do quadro, para CARMEN. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Calar a testemunha com ameaca.",
+      "voice": "Voz masculina berrando, ameacadora.",
+      "face": "RAMIRO: furia e panico, veias no pescoco.",
+      "body": "RAMIRO: aponta para CARMEN com a mao esquerda.",
+      "camera": "Corte seco. Close-up SOLO de RAMIRO, so ele no quadro, lente 85mm. Ninguem mais aparece neste plano. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente RAMIRO movimenta os labios."
+    },
+    {
+      "time": "00:08.43-00:09.63",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "DONA ELENA: o choro para; os olhos ainda molhados ficam FRIOS e desconfiados. Boca FECHADA.",
+      "body": "DONA ELENA: de joelhos, vira o rosto devagar na direcao de RAMIRO.",
+      "camera": "Corte seco. Reaction shot: close-up SOLO de DONA ELENA, lente 85mm, Slow Push In. Ninguem fala. O clipe termina neste olhar.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    }
+  ],
+  "dialogue_rules": {
+    "language": "Espanol de Mexico, acento mexicano natural, TODAS as palavras em espanhol.",
+    "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
+    "total_dialogue_lines": 3,
+    "exact_order": [
+      "RAMIRO",
+      "CARMEN",
+      "RAMIRO"
+    ],
+    "rules": [
+      "So existem 3 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "Depois de 8.4 segundos ninguem fala.",
+      "Cada fala e dirigida a: RAMIRO -> ELENA; CARMEN -> RAMIRO; RAMIRO -> CARMEN.",
+      "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
+      "Nao repetir, misturar, traduzir ou acrescentar palavras.",
+      "Cada frase e dita INTEIRA, do comeco ao fim.",
+      "Cada fala aparece com SO quem fala no quadro.",
+      "A fala de CARMEN e com voz FEMININA de senhora.",
+      "Nenhuma fala no ultimo plano: o clipe termina no olhar mudo de DONA ELENA para RAMIRO."
+    ]
+  },
+  "audio": {
+    "single_voice_at_a_time": true,
+    "sound": "O puxao rapido e o tilintar da pulseira; a respiracao pesada de RAMIRO; a voz tremula de CARMEN; um violino agudo de tensao; no fim, silencio total.",
+    "music": "Nenhuma.",
+    "narration": "Nenhuma.",
+    "subtitles": "Nao gerar."
+  },
+  "negative_prompt": [
+    "dois personagens no quadro quando alguem fala",
+    "voz masculina nas falas femininas",
+    "voz feminina nas falas de ramiro",
+    "letras na pulseira",
+    "colar de perolas",
+    "personagem falando de frente para a camera",
+    "letras na tela",
+    "texto ou letras em qualquer lugar",
+    "nome ou idade de personagem escrito na tela",
+    "letreiro de apresentacao de personagem (lower third)",
+    "palavra inventada no ultimo plano",
+    "fala repetida",
+    "fala adiantada ou atrasada para outro plano",
+    "personagem falando ou olhando para quem nao e o destinatario da fala",
+    "fala neutra ou monotona",
+    "rosto neutro ou expressao vazia",
+    "voz sem rosto na tela",
+    "tela dividida",
+    "colagem",
+    "formato horizontal",
+    "bordas pretas",
+    "palavras em ingles",
+    "palavras em portugues",
+    "duas vozes simultaneas",
+    "movimento labial do ouvinte",
+    "fala cortada, encurtada ou incompleta",
+    "personagem olhando para a camera",
+    "mudanca de rosto",
+    "mudanca de roupa",
+    "legendas",
+    "logotipo",
+    "marca-d'agua",
+    "trilha sonora"
+  ]
+}
+```

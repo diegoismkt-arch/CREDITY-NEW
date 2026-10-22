@@ -686,6 +686,104 @@
         "A pulseira NAO tem nenhuma letra.",
         "Nenhuma fala no ultimo plano: o clipe termina no rosto mudo de RAMIRO."
       ]
+    },
+    {
+      "nome": "É falsa",
+      "estilo": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Corredor comprido de uma mansao antiga mexicana, de dia: piso de marmore bege, paredes cor creme cheias de quadros antigos em molduras douradas, arandelas acesas, luz quente lateral. Shallow Focus, cortes rapidos.",
+      "atuacao": "Novela dramatica, EMOCAO MAXIMA. RAMIRO desesperado disfarcado de raiva, agressivo, suando. CARMEN, que sempre teve medo, cria coragem e fala firme, com a voz tremendo. DONA ELENA, ainda chorando, para de chorar e vira o rosto devagar para o sobrinho, comecando a desconfiar. Rostos muito expressivos. Nenhum momento parado.",
+      "imagens": [
+        "FRAME_RAMIRO",
+        "FRAME_ELENA",
+        "FRAME_CARMEN"
+      ],
+      "personagens": [
+        "RAMIRO",
+        "CARMEN",
+        "ELENA"
+      ],
+      "posicoes": {
+        "RAMIRO": "de pe no corredor, sozinho nos planos dele",
+        "CARMEN": "de pe no fundo do corredor, sozinha no plano dela",
+        "ELENA": "de joelhos no chao do corredor, sozinha no plano dela"
+      },
+      "preservar_extra": [
+        "O MESMO RAMIRO da imagem 1, a MESMA DONA ELENA da imagem 2 e a MESMA CARMEN da imagem 3, com as mesmas roupas.",
+        "A PULSEIRINHA: uma pulseira de bebe de PRATA, velha e escurecida, com um pequeno pingente de MEIA-LUA. SEM nenhuma letra.",
+        "RAMIRO esconde a MAO DIREITA (a da cicatriz) e usa so a MAO ESQUERDA neste clipe.",
+        "DONA ELENA de vestido AZUL-ESCURO de GOLA ALTA, sem colar.",
+        "Ninguem usa colar de perolas.",
+        "Nenhum letreiro, placa ou letra em lugar nenhum."
+      ],
+      "cenario": "Continuacao, no corredor dos quadros. LUCIA acabou de mostrar a pulseirinha de prata que DONA ELENA colocou na filha ao nascer. RAMIRO, apavorado, arranca a pulseira e tenta desmentir tudo. A governanta CARMEN o enfrenta.",
+      "som": "O puxao rapido e o tilintar da pulseira; a respiracao pesada de RAMIRO; a voz tremula de CARMEN; um violino agudo de tensao; no fim, silencio total.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida"
+      ],
+      "negativos_extra": [
+        "dois personagens no quadro quando alguem fala",
+        "voz masculina nas falas femininas",
+        "voz feminina nas falas de ramiro",
+        "letras na pulseira",
+        "colar de perolas",
+        "personagem falando de frente para a camera",
+        "letras na tela"
+      ],
+      "planos": [
+        {
+          "rosto": "Sem rosto: so as maos.",
+          "corpo": "A MAO ESQUERDA de RAMIRO entra com violencia no quadro e ARRANCA a pulseirinha de prata da palma aberta de LUCIA.",
+          "camera": "Plano de abertura: Insert, close das maos, movimento rapido, handheld. Ninguem fala.",
+          "segundos": 0.9
+        },
+        {
+          "quem": "RAMIRO",
+          "para": "ELENA",
+          "fala": "¡Es falsa! Esta muchacha quiere tu dinero.",
+          "emocao": 10,
+          "eyeline": "RAMIRO olha para BAIXO, para DONA ELENA ajoelhada. NAO olha para a camera.",
+          "intencao": "Desmentir tudo, desesperado, fingindo indignacao.",
+          "voz": "Voz masculina gritando, nervosa, rapida demais.",
+          "rosto": "RAMIRO: olhos arregalados, suor na testa, um sorriso nervoso que nao convence.",
+          "corpo": "RAMIRO: ergue a pulseira na mao esquerda, a mao direita escondida atras das costas.",
+          "camera": "Corte seco. Close-up SOLO de RAMIRO, so ele no quadro, lente 85mm. Ninguem mais aparece neste plano."
+        },
+        {
+          "quem": "CARMEN",
+          "para": "RAMIRO",
+          "fala": "No es falsa, señor. Yo estaba aquí esa noche.",
+          "emocao": 10,
+          "eyeline": "CARMEN olha para a DIREITA do quadro, para RAMIRO. NAO olha para a camera.",
+          "intencao": "Enfrentar o patrao pela primeira vez, com coragem e medo ao mesmo tempo.",
+          "voz": "Voz feminina rouca de senhora, firme mas tremendo.",
+          "rosto": "CARMEN: lagrimas atras dos oculos, o queixo erguido, decidida.",
+          "corpo": "CARMEN: da um passo a frente, as maos apertadas na frente do uniforme preto.",
+          "camera": "Corte seco. Close-up SOLO de CARMEN no fundo do corredor, so ela no quadro, lente 85mm. Ninguem mais aparece neste plano."
+        },
+        {
+          "quem": "RAMIRO",
+          "para": "CARMEN",
+          "fala": "¡Cállate, Carmen!",
+          "emocao": 10,
+          "eyeline": "RAMIRO olha para a ESQUERDA do quadro, para CARMEN. NAO olha para a camera.",
+          "intencao": "Calar a testemunha com ameaca.",
+          "voz": "Voz masculina berrando, ameacadora.",
+          "rosto": "RAMIRO: furia e panico, veias no pescoco.",
+          "corpo": "RAMIRO: aponta para CARMEN com a mao esquerda.",
+          "camera": "Corte seco. Close-up SOLO de RAMIRO, so ele no quadro, lente 85mm. Ninguem mais aparece neste plano."
+        },
+        {
+          "rosto": "DONA ELENA: o choro para; os olhos ainda molhados ficam FRIOS e desconfiados. Boca FECHADA.",
+          "corpo": "DONA ELENA: de joelhos, vira o rosto devagar na direcao de RAMIRO.",
+          "camera": "Corte seco. Reaction shot: close-up SOLO de DONA ELENA, lente 85mm, Slow Push In. Ninguem fala. O clipe termina neste olhar.",
+          "segundos": 1.2
+        }
+      ],
+      "regras_extra": [
+        "Cada fala aparece com SO quem fala no quadro.",
+        "A fala de CARMEN e com voz FEMININA de senhora.",
+        "Nenhuma fala no ultimo plano: o clipe termina no olhar mudo de DONA ELENA para RAMIRO."
+      ]
     }
   ]
 }
