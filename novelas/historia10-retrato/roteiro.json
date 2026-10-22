@@ -266,6 +266,106 @@
         "Nenhuma fala no ultimo plano: o clipe termina no rosto mudo e paralisado de LUCIA.",
         "O quadro que LUCIA olha NAO aparece neste clipe."
       ]
+    },
+    {
+      "nome": "O retrato",
+      "atuacao": "Novela dramatica, EMOCAO MAXIMA. LUCIA passa do desespero ao ESPANTO total ao ver o retrato: o choro para, os olhos se arregalam, a mao treme ao tocar o proprio pescoco. RAMIRO cruel no comeco e, no fim, PALIDO de medo, como quem foi descoberto. Rostos muito expressivos. Nenhum momento parado.",
+      "imagens": [
+        "FRAME_LUCIA",
+        "FRAME_RAMIRO"
+      ],
+      "personagens": [
+        "LUCIA",
+        "RAMIRO"
+      ],
+      "posicoes": {
+        "LUCIA": "de joelhos no chao do corredor, a ESQUERDA do quadro quando aparece com RAMIRO",
+        "RAMIRO": "de pe atras dela, a DIREITA do quadro"
+      },
+      "preservar_extra": [
+        "A MESMA LUCIA da imagem 1: rosto jovem e redondo de 22 anos, TRANCA PRETA longa sobre o ombro ESQUERDO, UNIFORME CINZA de MANGA CURTA com AVENTAL BRANCO, bochecha direita VERMELHA do tapa. Ela NAO muda de rosto, NAO envelhece, NAO usa coque nem manga comprida.",
+        "O MESMO RAMIRO da imagem 2, de terno cinza-claro e gravata vinho.",
+        "O mesmo corredor da mansao: paredes creme, quadros antigos em molduras douradas, piso de marmore bege.",
+        "O RETRATO: pintura a OLEO antiga, em moldura dourada grande, de uma MENINA pequena de vestido BRANCO de renda e cabelo preto, com uma pequena MARCA DE NASCENCA em forma de MEIA-LUA no lado ESQUERDO do pescoco. E so uma pintura na parede, sem nenhuma letra, nome ou placa.",
+        "Ninguem usa colar de perolas neste clipe.",
+        "Nenhum letreiro, placa, quadro com letras ou letra em lugar nenhum."
+      ],
+      "cenario": "Continuacao: no corredor dos quadros, LUCIA se solta de RAMIRO e cai de joelhos diante de uma parede. Ali esta pendurado o retrato antigo de uma menina com uma marca de meia-lua no pescoco, a mesma marca que LUCIA esconde sob a tranca.",
+      "som": "O baque dos joelhos de LUCIA no marmore; respiracao ofegante; quando o retrato aparece, um TUM grave de suspense e um zumbido longo; batidas de coracao; no fim, silencio total.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida"
+      ],
+      "negativos_extra": [
+        "lucia com outro rosto",
+        "lucia mais velha",
+        "lucia de coque",
+        "lucia de manga comprida",
+        "letras ou placa no quadro",
+        "nome escrito no retrato",
+        "menina de verdade no corredor",
+        "colar de perolas",
+        "voz masculina na fala de lucia",
+        "dois personagens no quadro quando alguem fala",
+        "personagem falando de frente para a camera"
+      ],
+      "planos": [
+        {
+          "rosto": "LUCIA: desespero, chorando, os dentes cerrados de esforco.",
+          "corpo": "LUCIA arranca o braco da mao de RAMIRO com um puxao, perde o equilibrio e cai de JOELHOS no marmore do corredor, as maos apoiadas no chao.",
+          "camera": "Plano de abertura: Medium Shot lateral, LUCIA a ESQUERDA caindo de joelhos, RAMIRO a DIREITA soltando o braco dela, handheld. Ninguem fala, bocas fechadas: so o baque no chao.",
+          "segundos": 1.2
+        },
+        {
+          "quem": "RAMIRO",
+          "para": "LUCIA",
+          "fala": "¡Levántate, ratera! ¡Largo de aquí!",
+          "emocao": 9,
+          "eyeline": "RAMIRO olha para BAIXO e para a ESQUERDA do quadro, para LUCIA no chao. NAO olha para a camera.",
+          "intencao": "Humilhar e mandar com brutalidade.",
+          "voz": "Voz masculina grave gritando, cruel.",
+          "rosto": "RAMIRO: desprezo, labio torcido.",
+          "corpo": "RAMIRO: de pe, inclinado para baixo, apontando para ela.",
+          "camera": "Corte seco. Close-up SOLO de RAMIRO de cima, so ele no quadro, quadros desfocados atras. LUCIA NAO aparece neste plano."
+        },
+        {
+          "rosto": "LUCIA: o choro PARA de repente; os olhos se arregalam, a boca entreaberta, sem respirar. Boca sem falar.",
+          "corpo": "LUCIA, ajoelhada, ergue lentamente o rosto para a parede acima dela e congela.",
+          "camera": "Corte seco. Medium Close-up frontal de LUCIA de joelhos, da cintura para cima, a tranca no ombro esquerdo, Slow Push In. Ninguem fala.",
+          "segundos": 0.9
+        },
+        {
+          "rosto": "Sem rosto de personagem: so a pintura.",
+          "corpo": "Na parede, o RETRATO a oleo da menina de vestido branco; a camera desce devagar do rosto pintado da menina ate o pescoco, onde aparece a pequena MARCA DE MEIA-LUA.",
+          "camera": "Corte seco. Insert: o retrato visto de baixo, do ponto de vista de LUCIA, Slow Tilt Down ate a marca de meia-lua no pescoco da menina pintada. Ninguem fala.",
+          "segundos": 1.6
+        },
+        {
+          "quem": "LUCIA",
+          "para": "ELA MESMA",
+          "fala": "Esa niña tiene mi marca… ¿quién es?",
+          "emocao": 10,
+          "eyeline": "LUCIA olha para CIMA, para o retrato na parede. NAO olha para a camera.",
+          "intencao": "Sussurrar, em choque, uma descoberta que ela nao entende.",
+          "voz": "Voz FEMININA jovem de moca de 22 anos, sussurrada e tremula. NUNCA voz de homem.",
+          "rosto": "LUCIA: olhos arregalados e marejados, labios tremendo, incredula.",
+          "corpo": "LUCIA: leva a mao tremula ao lado ESQUERDO do proprio pescoco, por baixo da tranca, sem mostrar a pele.",
+          "camera": "Corte seco. Close-up SOLO de LUCIA, so ela no quadro, Low Angle leve, lente 85mm. RAMIRO NAO aparece neste plano.",
+          "segundos": 2.6
+        },
+        {
+          "rosto": "RAMIRO: o desprezo some; ele fica PALIDO, engole seco, os olhos fixos no retrato, com MEDO. Boca FECHADA.",
+          "corpo": "RAMIRO: da meio passo para tras e esconde a MAO DIREITA atras das costas.",
+          "camera": "Corte seco. Reaction shot: close-up SOLO de RAMIRO, lente 85mm, Slow Push In. Ninguem fala. O clipe termina neste rosto.",
+          "segundos": 1.2
+        }
+      ],
+      "regras_extra": [
+        "Cada fala aparece com SO quem fala no quadro.",
+        "A fala de LUCIA e com voz FEMININA jovem, sussurrada.",
+        "Nenhuma fala no ultimo plano: o clipe termina no rosto mudo e palido de RAMIRO.",
+        "A marca de meia-lua aparece SO no pescoco da menina PINTADA; o pescoco de LUCIA continua coberto pela tranca."
+      ]
     }
   ]
 }
