@@ -1,14 +1,14 @@
 {
-  "titulo_post": "",
-  "legenda": "",
+  "titulo_post": "Nadie le daba de comer al abuelo… hasta que su hijo volvió sin avisar 😱",
+  "legenda": "Solo la empleada lo cuidaba… mientras su nuera fingía amor 💔\n\nY el hijo descubrió la verdad en el brazo de su padre.\n\n¿Quién le hizo eso? 👇\n\nComenta PARTE 2.\n\n#historias #novela #drama #familia #reflexiones #lahistoriaprincipal",
   "texto_final": "Comenta PARTE 2 👇",
   "titulo_interno": "ELLA SI ME CUIDA",
   "estilo": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Grande salao de mansao classica a noite: colunas de marmore, lustres de cristal com velas, piso de marmore brilhante, arranjos de rosas brancas, luz quente dourada. Eye Light nos closes, Shallow Focus, cortes rapidos.",
   "imagens": {
-    "FRAME_BARBARA": "frame do clipe 1, plano 3 (por volta do segundo 5): close de BARBARA de terninho preto.",
-    "FRAME_LUPITA": "frame do clipe 1, plano 2 (por volta do segundo 3): close de LUPITA de uniforme bordo.",
-    "FRAME_FERMIN": "frame do clipe 1, plano 5 (por volta do segundo 8): close de DON FERMIN na cadeira de rodas.",
-    "FRAME_ALEJANDRO": "frame do clipe 1, ultimo plano (por volta do segundo 9,4): close de ALEJANDRO de paleto preto."
+    "FRAME_ALEJANDRO": "frame do clipe 1, ultimo plano (por volta do segundo 9,6): close de ALEJANDRO, cabelo castanho ondulado, paleto preto.",
+    "FRAME_BARBARA": "frame do clipe 1, plano 3 (por volta do segundo 4,9): BARBARA loira platinada de terninho preto.",
+    "FRAME_FERMIN": "frame do clipe 1, plano 5 (por volta do segundo 7,6): DON FERMIN de roupao bordo na cadeira de rodas.",
+    "FRAME_LUPITA": "frame do clipe 1, plano 2 (por volta do segundo 2,6): close de LUPITA chorando, uniforme bordo com gola branca."
   },
   "personagens": {
     "FERMIN": {
@@ -17,7 +17,7 @@
       "frame": "FRAME_FERMIN"
     },
     "LUPITA": {
-      "descricao": "empregada de 24 anos, rosto comum e desconhecido, pele clara, sardas leves, olhos castanhos, cabelo CASTANHO preso em coque baixo, UNIFORME BORDO de manga curta com gola e punhos BRANCOS, avental BRANCO, segurando uma tigela branca de sopa e uma colher.",
+      "descricao": "empregada de 24 anos, rosto comum e desconhecido, pele clara, sardas leves, olhos castanhos, cabelo CASTANHO preso em coque baixo, UNIFORME BORDO de manga curta com gola e punhos BRANCOS, avental BRANCO. Sem cracha e sem nome no uniforme.",
       "voz": "Voz feminina doce, humilde e firme de mulher de 24 anos.",
       "frame": "FRAME_LUPITA",
       "feminino": true
@@ -29,7 +29,7 @@
       "feminino": true
     },
     "ALEJANDRO": {
-      "descricao": "homem de 38 anos, filho de FERMIN, rosto comum e desconhecido, pele clara, cabelo CASTANHO-ESCURO ondulado ate o colarinho, barba por fazer, CAMISA PRETA e paleto PRETO, uma mala de viagem pequena na mao.",
+      "descricao": "homem de 38 anos, filho de FERMIN, rosto comum e desconhecido, pele clara, cabelo CASTANHO-ESCURO ondulado ate o colarinho, barba por fazer, CAMISA PRETA e paleto PRETO.",
       "voz": "Voz masculina grave e firme de homem de 38 anos.",
       "frame": "FRAME_ALEJANDRO"
     }
@@ -136,6 +136,100 @@
           "corpo": "ALEJANDRO: imovel na porta.",
           "camera": "Corte seco. Close-up de ALEJANDRO, lente 85mm. Ninguem fala. O clipe termina neste rosto.",
           "segundos": 0.6
+        }
+      ]
+    },
+    {
+      "nome": "Os roxos no braço",
+      "atuacao": "Novela dramatica. Atuacao FORTE com contraste: ALEJANDRO furioso mas contido, a voz grave tremendo de raiva, depois a dor ao ver o braco do pai; BARBARA tentando sorrir, nervosa, e de repente PALIDA; DON FERMIN envergonhado, chorando; LUPITA segurando o choro. Rostos muito expressivos. Nenhum momento parado.",
+      "imagens": [
+        "FRAME_ALEJANDRO",
+        "FRAME_BARBARA",
+        "FRAME_FERMIN",
+        "FRAME_LUPITA"
+      ],
+      "personagens": [
+        "ALEJANDRO",
+        "BARBARA",
+        "FERMIN",
+        "LUPITA"
+      ],
+      "posicoes": {
+        "FERMIN": "na cadeira de rodas, SEMPRE na ESQUERDA do quadro, LUPITA de pe ao lado dele",
+        "ALEJANDRO": "veio da porta e para no meio do salao, de frente para BARBARA, na ESQUERDA do quadro, olhando para a DIREITA",
+        "BARBARA": "SEMPRE na DIREITA do quadro, olhando para a ESQUERDA, para ALEJANDRO"
+      },
+      "preservar_extra": [
+        "O MESMO ALEJANDRO da imagem 1, a MESMA BARBARA da imagem 2, o MESMO DON FERMIN da imagem 3 e a MESMA LUPITA da imagem 4, com as mesmas roupas e o MESMO salao.",
+        "A tigela e a colher continuam CAIDAS no chao; ninguem segura tigela.",
+        "Existe UMA UNICA cadeira de rodas: a de DON FERMIN.",
+        "Nenhum cracha, nome, letreiro ou letra em lugar nenhum."
+      ],
+      "cenario": "O MESMO salao, segundos depois. ALEJANDRO atravessa o salao ate a esposa. A verdade aparece no braco do pai.",
+      "som": "Os passos duros de ALEJANDRO no marmore com eco; um TUM grave de suspense quando a manga sobe e aparecem os roxos; batidas de coracao; silencio total no fim.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida"
+      ],
+      "negativos_extra": [
+        "tigela na mao de alguem",
+        "cracha com nome",
+        "sangue",
+        "segunda cadeira de rodas",
+        "alejandro batendo em alguem",
+        "personagem falando de frente para a camera",
+        "roupa de um personagem em outro",
+        "momento parado sem fala"
+      ],
+      "salvar_frames": [],
+      "planos": [
+        {
+          "quem": "ALEJANDRO",
+          "para": "BARBARA",
+          "fala": "Me dijiste que lo tratabas como un rey.",
+          "emocao": 10,
+          "eyeline": "ALEJANDRO olha para a DIREITA do quadro, para BARBARA, cujo ombro de terninho preto esta em primeiro plano. NAO olha para a camera.",
+          "intencao": "Acusar, a raiva contida.",
+          "voz": "Voz masculina grave, baixa, tremendo de raiva.",
+          "rosto": "ALEJANDRO: mandibula travada, olhos vermelhos.",
+          "corpo": "ALEJANDRO: no primeiro instante chega a passos duros e para bem na frente de BARBARA.",
+          "camera": "Over-the-Shoulder: ombro e cabelo loiro de BARBARA desfocados em primeiro plano a DIREITA; ALEJANDRO nitido a ESQUERDA chegando, lustres atras, lente 50mm."
+        },
+        {
+          "quem": "BARBARA",
+          "para": "ALEJANDRO",
+          "fala": "Amor, no es lo que parece…",
+          "emocao": 9,
+          "eyeline": "BARBARA olha para a ESQUERDA do quadro, para ALEJANDRO. NAO olha para a camera.",
+          "intencao": "Disfarcar, com sorriso falso.",
+          "voz": "Voz feminina doce de repente, falsa, nervosa.",
+          "rosto": "BARBARA: sorriso forcado, os olhos fugindo.",
+          "corpo": "BARBARA: toca o braco de ALEJANDRO; ele tira o braco.",
+          "camera": "Corte seco. Over-the-Shoulder reverso: ombro do paleto preto de ALEJANDRO desfocado em primeiro plano a ESQUERDA; BARBARA nitida a DIREITA, close, lente 75mm."
+        },
+        {
+          "rosto": "Sem rostos.",
+          "corpo": "A mao tremula de DON FERMIN levanta devagar a manga do roupao bordo: o braco magro esta cheio de ROXOS escuros, marcas de dedos apertando.",
+          "camera": "Corte seco. Insert em escala real do braco de DON FERMIN, Slow Zoom In ate os roxos. Ninguem fala.",
+          "segundos": 1.2
+        },
+        {
+          "quem": "ALEJANDRO",
+          "para": "BARBARA",
+          "fala": "¿Quién le hizo esto a mi padre?",
+          "emocao": 10,
+          "eyeline": "ALEJANDRO olha do braco do pai para a DIREITA do quadro, para BARBARA. NAO olha para a camera.",
+          "intencao": "Exigir a verdade, a dor virando furia.",
+          "voz": "Voz masculina grave, quebrando, depois dura.",
+          "rosto": "ALEJANDRO: lagrimas nos olhos, a raiva subindo.",
+          "corpo": "ALEJANDRO: ajoelhado ao lado da cadeira, segurando o braco do pai, levanta os olhos para BARBARA.",
+          "camera": "Corte seco. Close-up de ALEJANDRO ajoelhado ao lado do pai, Low Angle, lente 85mm."
+        },
+        {
+          "rosto": "BARBARA: PALIDA, o sorriso some; atras dela, LUPITA olha fixo para BARBARA. Bocas FECHADAS.",
+          "corpo": "BARBARA: da um passo para tras.",
+          "camera": "Corte seco. Reaction shot: close-up de BARBARA, LUPITA desfocada ao fundo olhando para ela, lente 85mm. Ninguem fala. O video termina neste rosto.",
+          "segundos": 0.7
         }
       ]
     }

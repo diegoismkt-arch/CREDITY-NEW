@@ -1,0 +1,167 @@
+{
+  "IDIOMA_OBRIGATORIO": "TODAS as falas em ESPANHOL do Mexico, exatamente como escritas no campo dialogue. NUNCA em portugues, nunca traduzir.",
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao FORTE com contraste: ALEJANDRO furioso mas contido, a voz grave tremendo de raiva, depois a dor ao ver o braco do pai; BARBARA tentando sorrir, nervosa, e de repente PALIDA; DON FERMIN envergonhado, chorando; LUPITA segurando o choro. Rostos muito expressivos. Nenhum momento parado.",
+  "input_image": {
+    "required": false,
+    "mode": "Ingredients to Video, sem primeiro frame.",
+    "additional_references": true,
+    "reference_images": [
+      "Imagem 1 — frame do clipe 1, ultimo plano (por volta do segundo 9,6): close de ALEJANDRO, cabelo castanho ondulado, paleto preto.",
+      "Imagem 2 — frame do clipe 1, plano 3 (por volta do segundo 4,9): BARBARA loira platinada de terninho preto.",
+      "Imagem 3 — frame do clipe 1, plano 5 (por volta do segundo 7,6): DON FERMIN de roupao bordo na cadeira de rodas.",
+      "Imagem 4 — frame do clipe 1, plano 2 (por volta do segundo 2,6): close de LUPITA chorando, uniforme bordo com gola branca."
+    ],
+    "preserve_exactly": [
+      "ALEJANDRO: o MESMO rosto da imagem 1, homem de 38 anos, filho de FERMIN, rosto comum e desconhecido, pele clara, cabelo CASTANHO-ESCURO ondulado ate o colarinho, barba por fazer, CAMISA PRETA e paleto PRETO.",
+      "BARBARA: o MESMO rosto da imagem 2, mulher rica de 45 anos, rosto comum e desconhecido, pele clara, rosto anguloso, labios finos, cabelo LOIRO-PLATINADO curto penteado para tras, TERNINHO PRETO acinturado de grife, brincos de perola.",
+      "FERMIN: o MESMO rosto da imagem 3, senhor de 80 anos, rosto comum e desconhecido, muito magro, pele clara manchada, careca com cabelo branco ralo dos lados, orelhas grandes, sobrancelhas brancas, ROUPAO DE VELUDO BORDO sobre pijama escuro, sentado numa CADEIRA DE RODAS preta, as maos tremulas.",
+      "LUPITA: o MESMO rosto da imagem 4, empregada de 24 anos, rosto comum e desconhecido, pele clara, sardas leves, olhos castanhos, cabelo CASTANHO preso em coque baixo, UNIFORME BORDO de manga curta com gola e punhos BRANCOS, avental BRANCO. Sem cracha e sem nome no uniforme.",
+      "O MESMO ALEJANDRO da imagem 1, a MESMA BARBARA da imagem 2, o MESMO DON FERMIN da imagem 3 e a MESMA LUPITA da imagem 4, com as mesmas roupas e o MESMO salao.",
+      "A tigela e a colher continuam CAIDAS no chao; ninguem segura tigela.",
+      "Existe UMA UNICA cadeira de rodas: a de DON FERMIN.",
+      "Nenhum cracha, nome, letreiro ou letra em lugar nenhum."
+    ]
+  },
+  "scene": {
+    "title": "ELLA SI ME CUIDA",
+    "duration_seconds": 10.0,
+    "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
+    "structure": "5 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "style": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Grande salao de mansao classica a noite: colunas de marmore, lustres de cristal com velas, piso de marmore brilhante, arranjos de rosas brancas, luz quente dourada. Eye Light nos closes, Shallow Focus, cortes rapidos.",
+    "setting": "O MESMO salao, segundos depois. ALEJANDRO atravessa o salao ate a esposa. A verdade aparece no braco do pai.",
+    "blocking": [
+      "FERMIN: na cadeira de rodas, SEMPRE na ESQUERDA do quadro, LUPITA de pe ao lado dele",
+      "ALEJANDRO: veio da porta e para no meio do salao, de frente para BARBARA, na ESQUERDA do quadro, olhando para a DIREITA",
+      "BARBARA: SEMPRE na DIREITA do quadro, olhando para a ESQUERDA, para ALEJANDRO"
+    ],
+    "characters": {
+      "ALEJANDRO": "O MESMO da imagem 1. Personagem ficticio. Voz masculina grave e firme de homem de 38 anos.",
+      "BARBARA": "A MESMA da imagem 2. Personagem ficticia. Voz feminina fria, autoritaria e cortante de mulher de 45 anos.",
+      "FERMIN": "O MESMO da imagem 3. Personagem ficticio. Voz masculina fraca, rouca e tremula de senhor de 80 anos.",
+      "LUPITA": "A MESMA da imagem 4. Personagem ficticia. Voz feminina doce, humilde e firme de mulher de 24 anos."
+    }
+  },
+  "timeline": [
+    {
+      "time": "00:00.00-00:03.16",
+      "speaker": "ALEJANDRO",
+      "dialogue": "Me dijiste que lo tratabas como un rey.",
+      "addressee": "BARBARA",
+      "eyeline": "ALEJANDRO olha para a DIREITA do quadro, para BARBARA, cujo ombro de terninho preto esta em primeiro plano. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Acusar, a raiva contida.",
+      "voice": "Voz masculina grave, baixa, tremendo de raiva.",
+      "face": "ALEJANDRO: mandibula travada, olhos vermelhos.",
+      "body": "ALEJANDRO: no primeiro instante chega a passos duros e para bem na frente de BARBARA.",
+      "camera": "Over-the-Shoulder: ombro e cabelo loiro de BARBARA desfocados em primeiro plano a DIREITA; ALEJANDRO nitido a ESQUERDA chegando, lustres atras, lente 50mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente ALEJANDRO movimenta os labios."
+    },
+    {
+      "time": "00:03.16-00:05.59",
+      "speaker": "BARBARA",
+      "dialogue": "Amor, no es lo que parece…",
+      "addressee": "ALEJANDRO",
+      "eyeline": "BARBARA olha para a ESQUERDA do quadro, para ALEJANDRO. NAO olha para a camera.",
+      "emotion_level": 9,
+      "intention": "Disfarcar, com sorriso falso.",
+      "voice": "Voz feminina doce de repente, falsa, nervosa.",
+      "face": "BARBARA: sorriso forcado, os olhos fugindo.",
+      "body": "BARBARA: toca o braco de ALEJANDRO; ele tira o braco.",
+      "camera": "Corte seco. Over-the-Shoulder reverso: ombro do paleto preto de ALEJANDRO desfocado em primeiro plano a ESQUERDA; BARBARA nitida a DIREITA, close, lente 75mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente BARBARA movimenta os labios."
+    },
+    {
+      "time": "00:05.59-00:06.79",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "Sem rostos.",
+      "body": "A mao tremula de DON FERMIN levanta devagar a manga do roupao bordo: o braco magro esta cheio de ROXOS escuros, marcas de dedos apertando.",
+      "camera": "Corte seco. Insert em escala real do braco de DON FERMIN, Slow Zoom In ate os roxos. Ninguem fala.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    },
+    {
+      "time": "00:06.79-00:09.58",
+      "speaker": "ALEJANDRO",
+      "dialogue": "¿Quién le hizo esto a mi padre?",
+      "addressee": "BARBARA",
+      "eyeline": "ALEJANDRO olha do braco do pai para a DIREITA do quadro, para BARBARA. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Exigir a verdade, a dor virando furia.",
+      "voice": "Voz masculina grave, quebrando, depois dura.",
+      "face": "ALEJANDRO: lagrimas nos olhos, a raiva subindo.",
+      "body": "ALEJANDRO: ajoelhado ao lado da cadeira, segurando o braco do pai, levanta os olhos para BARBARA.",
+      "camera": "Corte seco. Close-up de ALEJANDRO ajoelhado ao lado do pai, Low Angle, lente 85mm. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente ALEJANDRO movimenta os labios."
+    },
+    {
+      "time": "00:09.58-00:10.28",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "BARBARA: PALIDA, o sorriso some; atras dela, LUPITA olha fixo para BARBARA. Bocas FECHADAS.",
+      "body": "BARBARA: da um passo para tras.",
+      "camera": "Corte seco. Reaction shot: close-up de BARBARA, LUPITA desfocada ao fundo olhando para ela, lente 85mm. Ninguem fala. O video termina neste rosto.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    }
+  ],
+  "dialogue_rules": {
+    "language": "Espanol de Mexico, acento mexicano natural, TODAS as palavras em espanhol.",
+    "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
+    "total_dialogue_lines": 3,
+    "exact_order": [
+      "ALEJANDRO",
+      "BARBARA",
+      "ALEJANDRO"
+    ],
+    "rules": [
+      "So existem 3 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "Depois de 9.6 segundos ninguem fala.",
+      "Cada fala e dirigida a: ALEJANDRO -> BARBARA; BARBARA -> ALEJANDRO; ALEJANDRO -> BARBARA.",
+      "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
+      "Nao repetir, misturar, traduzir ou acrescentar palavras.",
+      "Cada frase e dita INTEIRA, do comeco ao fim."
+    ]
+  },
+  "audio": {
+    "single_voice_at_a_time": true,
+    "sound": "Os passos duros de ALEJANDRO no marmore com eco; um TUM grave de suspense quando a manga sobe e aparecem os roxos; batidas de coracao; silencio total no fim.",
+    "music": "Nenhuma.",
+    "narration": "Nenhuma.",
+    "subtitles": "Nao gerar."
+  },
+  "negative_prompt": [
+    "tigela na mao de alguem",
+    "cracha com nome",
+    "sangue",
+    "segunda cadeira de rodas",
+    "alejandro batendo em alguem",
+    "personagem falando de frente para a camera",
+    "roupa de um personagem em outro",
+    "momento parado sem fala",
+    "texto ou letras em qualquer lugar",
+    "nome ou idade de personagem escrito na tela",
+    "letreiro de apresentacao de personagem (lower third)",
+    "palavra inventada no ultimo plano",
+    "fala repetida",
+    "fala adiantada ou atrasada para outro plano",
+    "personagem falando ou olhando para quem nao e o destinatario da fala",
+    "fala neutra ou monotona",
+    "rosto neutro ou expressao vazia",
+    "voz sem rosto na tela",
+    "tela dividida",
+    "colagem",
+    "formato horizontal",
+    "bordas pretas",
+    "palavras em ingles",
+    "palavras em portugues",
+    "duas vozes simultaneas",
+    "movimento labial do ouvinte",
+    "fala cortada, encurtada ou incompleta",
+    "personagem olhando para a camera",
+    "mudanca de rosto",
+    "mudanca de roupa",
+    "legendas",
+    "logotipo",
+    "marca-d'agua",
+    "trilha sonora"
+  ]
+}

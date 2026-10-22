@@ -3,9 +3,9 @@
   "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao FORTE com contraste: BARBARA cruel, fria, com nojo; LUPITA humilde mas corajosa, os olhos marejados; DON FERMIN fraco, com fome, tremendo, os olhos cheios de lagrimas; ALEJANDRO em choque ao chegar. Rostos muito expressivos. Nenhum momento parado.",
   "consistency": [
     "BARBARA: mulher rica de 45 anos, rosto comum e desconhecido, pele clara, rosto anguloso, labios finos, cabelo LOIRO-PLATINADO curto penteado para tras, TERNINHO PRETO acinturado de grife, brincos de perola.",
-    "LUPITA: empregada de 24 anos, rosto comum e desconhecido, pele clara, sardas leves, olhos castanhos, cabelo CASTANHO preso em coque baixo, UNIFORME BORDO de manga curta com gola e punhos BRANCOS, avental BRANCO, segurando uma tigela branca de sopa e uma colher.",
+    "LUPITA: empregada de 24 anos, rosto comum e desconhecido, pele clara, sardas leves, olhos castanhos, cabelo CASTANHO preso em coque baixo, UNIFORME BORDO de manga curta com gola e punhos BRANCOS, avental BRANCO. Sem cracha e sem nome no uniforme.",
     "FERMIN: senhor de 80 anos, rosto comum e desconhecido, muito magro, pele clara manchada, careca com cabelo branco ralo dos lados, orelhas grandes, sobrancelhas brancas, ROUPAO DE VELUDO BORDO sobre pijama escuro, sentado numa CADEIRA DE RODAS preta, as maos tremulas.",
-    "ALEJANDRO: homem de 38 anos, filho de FERMIN, rosto comum e desconhecido, pele clara, cabelo CASTANHO-ESCURO ondulado ate o colarinho, barba por fazer, CAMISA PRETA e paleto PRETO, uma mala de viagem pequena na mao.",
+    "ALEJANDRO: homem de 38 anos, filho de FERMIN, rosto comum e desconhecido, pele clara, cabelo CASTANHO-ESCURO ondulado ate o colarinho, barba por fazer, CAMISA PRETA e paleto PRETO.",
     "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
     "Depois do plano 1, a colher e a sopa estao CAIDAS no piso de marmore; LUPITA ainda segura a tigela.",
     "Existe UMA UNICA cadeira de rodas: a de DON FERMIN.",
@@ -26,9 +26,9 @@
     ],
     "characters": {
       "BARBARA": "mulher rica de 45 anos, rosto comum e desconhecido, pele clara, rosto anguloso, labios finos, cabelo LOIRO-PLATINADO curto penteado para tras, TERNINHO PRETO acinturado de grife, brincos de perola. Personagem ficticia. Voz feminina fria, autoritaria e cortante de mulher de 45 anos.",
-      "LUPITA": "empregada de 24 anos, rosto comum e desconhecido, pele clara, sardas leves, olhos castanhos, cabelo CASTANHO preso em coque baixo, UNIFORME BORDO de manga curta com gola e punhos BRANCOS, avental BRANCO, segurando uma tigela branca de sopa e uma colher. Personagem ficticia. Voz feminina doce, humilde e firme de mulher de 24 anos.",
+      "LUPITA": "empregada de 24 anos, rosto comum e desconhecido, pele clara, sardas leves, olhos castanhos, cabelo CASTANHO preso em coque baixo, UNIFORME BORDO de manga curta com gola e punhos BRANCOS, avental BRANCO. Sem cracha e sem nome no uniforme. Personagem ficticia. Voz feminina doce, humilde e firme de mulher de 24 anos.",
       "FERMIN": "senhor de 80 anos, rosto comum e desconhecido, muito magro, pele clara manchada, careca com cabelo branco ralo dos lados, orelhas grandes, sobrancelhas brancas, ROUPAO DE VELUDO BORDO sobre pijama escuro, sentado numa CADEIRA DE RODAS preta, as maos tremulas. Personagem ficticio. Voz masculina fraca, rouca e tremula de senhor de 80 anos.",
-      "ALEJANDRO": "homem de 38 anos, filho de FERMIN, rosto comum e desconhecido, pele clara, cabelo CASTANHO-ESCURO ondulado ate o colarinho, barba por fazer, CAMISA PRETA e paleto PRETO, uma mala de viagem pequena na mao. Personagem ficticio. Voz masculina grave e firme de homem de 38 anos."
+      "ALEJANDRO": "homem de 38 anos, filho de FERMIN, rosto comum e desconhecido, pele clara, cabelo CASTANHO-ESCURO ondulado ate o colarinho, barba por fazer, CAMISA PRETA e paleto PRETO. Personagem ficticio. Voz masculina grave e firme de homem de 38 anos."
     }
   },
   "timeline": [
