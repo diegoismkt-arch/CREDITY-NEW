@@ -179,3 +179,9 @@ sem rosto", sem usar a palavra bebê/recém-nascido no prompt.
 O Flow traduziu as falas para português/portunhol ("Pai, chegou a hora") e cortou a última fala (o clipe acabou
 antes). Correções: o script agora põe "IDIOMA_OBRIGATORIO" no topo do JSON; e não colocar fala nos últimos
 ~0,5 s do clipe — terminar num close sem fala nova logo depois de uma fala.
+
+## Referência "Ella sí me cuida" (15 s)
+Salão de mansão. Empregada dá sopa na boca do velho na cadeira de rodas; a nora fria: "Déjalo, vuelve al trabajo."
+→ "Aún no ha comido." → o filho chega; o velho: "Hijo, ella sí me cuida." → o filho para a esposa: "Me dijiste que
+lo tratabas como un rey." Funciona: bondade humilde x crueldade rica; a mentira cai por uma frase da vítima; o
+poderoso muda de lado; corta na acusação.
