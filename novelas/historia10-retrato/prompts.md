@@ -969,7 +969,7 @@ Referências, nesta ordem: 1) FRAME_LUCIA; 2) FRAME_RAMIRO; 3) FRAME_ELENA
 
 ## Clipe 6 — Fui vendida
 
-clipe 6: 10.3s, 7.9s de fala (19 palavras, 5 planos, falantes: LUCIA, ELENA) ❌ 10.3s — passa de 10s, corte palavras
+clipe 6: 9.9s, 7.9s de fala (19 palavras, 5 planos, falantes: LUCIA, ELENA) ✅
 
 Referências, nesta ordem: 1) FRAME_LUCIA; 2) FRAME_RAMIRO; 3) FRAME_ELENA
 
@@ -999,7 +999,7 @@ Referências, nesta ordem: 1) FRAME_LUCIA; 2) FRAME_RAMIRO; 3) FRAME_ELENA
   },
   "scene": {
     "title": "LA NIÑA DEL RETRATO",
-    "duration_seconds": 10.0,
+    "duration_seconds": 9.9,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
     "structure": "5 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
     "style": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Corredor comprido de uma mansao antiga mexicana, de dia: piso de marmore bege, paredes cor creme cheias de quadros antigos em molduras douradas, arandelas acesas, luz quente lateral. Shallow Focus, cortes rapidos.",
@@ -1031,7 +1031,7 @@ Referências, nesta ordem: 1) FRAME_LUCIA; 2) FRAME_RAMIRO; 3) FRAME_ELENA
       "mouths": "Somente LUCIA movimenta os labios."
     },
     {
-      "time": "00:03.16-00:04.56",
+      "time": "00:03.16-00:04.36",
       "speaker": "ELENA",
       "dialogue": "¿Te vendieron?",
       "addressee": "LUCIA",
@@ -1045,7 +1045,7 @@ Referências, nesta ordem: 1) FRAME_LUCIA; 2) FRAME_RAMIRO; 3) FRAME_ELENA
       "mouths": "Somente ELENA movimenta os labios."
     },
     {
-      "time": "00:04.56-00:05.86",
+      "time": "00:04.36-00:05.46",
       "speaker": "NONE",
       "dialogue": null,
       "face": "Sem rosto: so as maos.",
@@ -1054,7 +1054,7 @@ Referências, nesta ordem: 1) FRAME_LUCIA; 2) FRAME_RAMIRO; 3) FRAME_ELENA
       "mouths": "Bocas FECHADAS. Ninguem fala."
     },
     {
-      "time": "00:05.86-00:09.40",
+      "time": "00:05.46-00:09.00",
       "speaker": "ELENA",
       "dialogue": "Yo le puse esa pulsera… el día que naciste.",
       "addressee": "LUCIA",
@@ -1068,7 +1068,7 @@ Referências, nesta ordem: 1) FRAME_LUCIA; 2) FRAME_RAMIRO; 3) FRAME_ELENA
       "mouths": "Somente ELENA movimenta os labios."
     },
     {
-      "time": "00:09.40-00:10.30",
+      "time": "00:09.00-00:09.90",
       "speaker": "NONE",
       "dialogue": null,
       "face": "RAMIRO: a mandibula travada, as narinas abertas, os olhos fixos na pulseira com raiva e medo. Boca FECHADA.",
@@ -1088,7 +1088,7 @@ Referências, nesta ordem: 1) FRAME_LUCIA; 2) FRAME_RAMIRO; 3) FRAME_ELENA
     ],
     "rules": [
       "So existem 3 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
-      "Depois de 9.2 segundos ninguem fala.",
+      "Depois de 9.0 segundos ninguem fala.",
       "Cada fala e dirigida a: LUCIA -> ELENA; ELENA -> LUCIA; ELENA -> LUCIA.",
       "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
       "Nao repetir, misturar, traduzir ou acrescentar palavras.",
