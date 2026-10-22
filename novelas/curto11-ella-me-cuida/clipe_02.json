@@ -80,9 +80,9 @@
       "mouths": "Bocas FECHADAS. Ninguem fala."
     },
     {
-      "time": "00:06.79-00:09.58",
+      "time": "00:06.79-00:09.21",
       "speaker": "ALEJANDRO",
-      "dialogue": "¿Quién le hizo esto a mi padre?",
+      "dialogue": "¿Quién le hizo esto a papá?",
       "addressee": "BARBARA",
       "eyeline": "ALEJANDRO olha do braco do pai para a DIREITA do quadro, para BARBARA. NAO olha para a camera.",
       "emotion_level": 10,
@@ -94,7 +94,7 @@
       "mouths": "Somente ALEJANDRO movimenta os labios."
     },
     {
-      "time": "00:09.58-00:10.28",
+      "time": "00:09.21-00:09.91",
       "speaker": "NONE",
       "dialogue": null,
       "face": "BARBARA: PALIDA, o sorriso some; atras dela, LUPITA olha fixo para BARBARA. Bocas FECHADAS.",
@@ -114,7 +114,7 @@
     ],
     "rules": [
       "So existem 3 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
-      "Depois de 9.6 segundos ninguem fala.",
+      "Depois de 9.2 segundos ninguem fala.",
       "Cada fala e dirigida a: ALEJANDRO -> BARBARA; BARBARA -> ALEJANDRO; ALEJANDRO -> BARBARA.",
       "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
       "Nao repetir, misturar, traduzir ou acrescentar palavras.",

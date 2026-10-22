@@ -200,7 +200,7 @@ Sem imagem de referência (Text to Video).
 
 ## Clipe 2 — Os roxos no braço
 
-clipe 2: 10.3s, 8.4s de fala (21 palavras, 5 planos, falantes: ALEJANDRO, BARBARA) ❌ 10.3s — passa de 10s, corte palavras
+clipe 2: 9.9s, 8.0s de fala (20 palavras, 5 planos, falantes: ALEJANDRO, BARBARA) ✅
 
 Referências, nesta ordem: 1) FRAME_ALEJANDRO; 2) FRAME_BARBARA; 3) FRAME_FERMIN; 4) FRAME_LUPITA
 
@@ -287,9 +287,9 @@ Referências, nesta ordem: 1) FRAME_ALEJANDRO; 2) FRAME_BARBARA; 3) FRAME_FERMIN
       "mouths": "Bocas FECHADAS. Ninguem fala."
     },
     {
-      "time": "00:06.79-00:09.58",
+      "time": "00:06.79-00:09.21",
       "speaker": "ALEJANDRO",
-      "dialogue": "¿Quién le hizo esto a mi padre?",
+      "dialogue": "¿Quién le hizo esto a papá?",
       "addressee": "BARBARA",
       "eyeline": "ALEJANDRO olha do braco do pai para a DIREITA do quadro, para BARBARA. NAO olha para a camera.",
       "emotion_level": 10,
@@ -301,7 +301,7 @@ Referências, nesta ordem: 1) FRAME_ALEJANDRO; 2) FRAME_BARBARA; 3) FRAME_FERMIN
       "mouths": "Somente ALEJANDRO movimenta os labios."
     },
     {
-      "time": "00:09.58-00:10.28",
+      "time": "00:09.21-00:09.91",
       "speaker": "NONE",
       "dialogue": null,
       "face": "BARBARA: PALIDA, o sorriso some; atras dela, LUPITA olha fixo para BARBARA. Bocas FECHADAS.",
@@ -321,7 +321,7 @@ Referências, nesta ordem: 1) FRAME_ALEJANDRO; 2) FRAME_BARBARA; 3) FRAME_FERMIN
     ],
     "rules": [
       "So existem 3 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
-      "Depois de 9.6 segundos ninguem fala.",
+      "Depois de 9.2 segundos ninguem fala.",
       "Cada fala e dirigida a: ALEJANDRO -> BARBARA; BARBARA -> ALEJANDRO; ALEJANDRO -> BARBARA.",
       "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
       "Nao repetir, misturar, traduzir ou acrescentar palavras.",
