@@ -201,3 +201,4 @@ poderoso muda de lado; corta na acusação.
 - Colar de pérolas "pulou" para o pescoço da dona da casa no plano final de reação (mesmo com "sem colar" + negativo). Correção: vestir a personagem com GOLA ALTA até o queixo (não sobra pescoço para colar) e não citar o objeto no plano de reação dela.
 - Tapa em plano aberto de perfil saiu fraco (mão só encosta). Correção: Medium Close-up dos dois, da cintura para cima, "a mão ATINGE o rosto dentro do quadro", cabeça gira ~90°, corpo jogado para trás.
 - "olheiras" virou olho roxo. Evitar essa palavra.
+- Fala da moça saiu com a voz do homem quando o close dela vinha logo depois de um OTS em que ele aparecia (e ele ainda aparecia na borda do close). Correção: close SOLO ("so ela no quadro", "RAMIRO NAO aparece"), voz "FEMININA… NUNCA voz de homem" e regra explícita de quem diz a frase.

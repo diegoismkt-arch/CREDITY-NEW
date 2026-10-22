@@ -5,9 +5,9 @@
   "titulo_interno": "LA NIÑA DEL RETRATO",
   "estilo": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Salao de uma mansao antiga mexicana, de dia: piso de marmore bege, paredes cor creme com molduras douradas, lustre de cristal, sofas de veludo verde-escuro, luz natural quente entrando pelas janelas altas. Shallow Focus, cortes rapidos.",
   "imagens": {
-    "FRAME_LUCIA": "frame do clipe 1, plano 4 (por volta do segundo 4,2): close de LUCIA de uniforme cinza e avental branco, tranca sobre o ombro esquerdo.",
-    "FRAME_RAMIRO": "frame do clipe 1, plano 3 (por volta do segundo 2,7): RAMIRO de terno cinza gritando.",
-    "FRAME_ELENA": "frame do clipe 1, plano 5 (por volta do segundo 5,8): close de DONA ELENA de vestido azul-escuro e coque branco."
+    "FRAME_LUCIA": "frame do clipe 1, plano 3 (por volta do segundo 3,5): close de LUCIA de uniforme cinza e avental branco, tranca sobre o ombro esquerdo.",
+    "FRAME_RAMIRO": "frame do clipe 1, plano 2 (por volta do segundo 1,6): RAMIRO de terno cinza gritando.",
+    "FRAME_ELENA": "frame do clipe 1, plano 4 (por volta do segundo 5,3): close de DONA ELENA de vestido azul-escuro e coque branco."
   },
   "personagens": {
     "LUCIA": {
@@ -74,7 +74,9 @@
         "camera lenta",
         "tapa lento",
         "rosto calmo ou neutro de ramiro no tapa",
-        "insert da mao sozinha"
+        "insert da mao sozinha",
+        "voz masculina na fala de lucia",
+        "ramiro dizendo yo no robe nada"
       ],
       "salvar_frames": [
         "FRAME_LUCIA",
@@ -89,12 +91,6 @@
           "segundos": 1.1
         },
         {
-          "rosto": "LUCIA: o rosto ainda virado pelo tapa, a tranca caida sobre o rosto, os olhos apertados de DOR, a boca aberta num soluço sem ar, lagrimas brotando, a bochecha VERMELHA.",
-          "corpo": "LUCIA: cambaleia, leva a mao a bochecha, o peito arfando, os ombros encolhidos de choque.",
-          "camera": "Corte seco. Close-up de LUCIA logo depois do impacto, head and upper shoulders, lente 85mm, um leve tremor. Ninguem fala: so o zumbido no ouvido e o soluço.",
-          "segundos": 1.0
-        },
-        {
           "quem": "RAMIRO",
           "para": "LUCIA",
           "fala": "¡Ratera!",
@@ -104,7 +100,7 @@
           "voz": "Voz masculina GRITANDO, cortante, cuspindo a palavra.",
           "rosto": "RAMIRO: furia e nojo, labio torcido, olhos injetados.",
           "corpo": "RAMIRO: aponta o dedo para o rosto dela, o corpo inclinado para frente.",
-          "camera": "Corte seco. Over-the-Shoulder: ombro e tranca de LUCIA em primeiro plano a ESQUERDA; RAMIRO nitido a DIREITA gritando, Low Angle, lente 35mm."
+          "camera": "Corte seco. Over-the-Shoulder: ombro e tranca de LUCIA em primeiro plano a ESQUERDA, de costas, boca dela fora do quadro; RAMIRO nitido a DIREITA gritando, Low Angle, lente 35mm."
         },
         {
           "quem": "LUCIA",
@@ -113,10 +109,11 @@
           "emocao": 10,
           "eyeline": "LUCIA olha para a DIREITA do quadro, para RAMIRO. NAO olha para a camera.",
           "intencao": "Implorar, desesperada, que acreditem nela.",
-          "voz": "Voz feminina jovem, chorando, embargada.",
-          "rosto": "LUCIA: a bochecha vermelha do tapa, lagrimas escorrendo, sobrancelhas erguidas de desespero.",
-          "corpo": "LUCIA: a mao na bochecha, a outra mao apertando o avental.",
-          "camera": "Corte seco. Close-up de LUCIA, head and upper shoulders, lustre desfocado atras, lente 85mm."
+          "voz": "Voz FEMININA jovem e aguda de moca de 22 anos, chorando, embargada. NUNCA voz de homem.",
+          "rosto": "LUCIA: o rosto ainda ardendo do tapa, a bochecha VERMELHA, lagrimas escorrendo, os labios tremendo, sobrancelhas erguidas de desespero.",
+          "corpo": "LUCIA: cambaleando, a mao na bochecha, a outra mao apertando o avental, o peito arfando.",
+          "camera": "Corte seco. Close-up SOLO de LUCIA, so ela no quadro, head and upper shoulders, lustre desfocado atras, lente 85mm, leve tremor. RAMIRO NAO aparece neste plano.",
+          "segundos": 2.4
         },
         {
           "quem": "ELENA",
@@ -147,13 +144,14 @@
           "rosto": "DONA ELENA: olhar frio e decepcionado para LUCIA, a boca FECHADA numa linha dura.",
           "corpo": "DONA ELENA: imovel, o queixo erguido, o pescoco coberto pela gola alta do vestido.",
           "camera": "Corte seco. Reaction shot: close-up de DONA ELENA, lente 85mm. Ninguem fala. O clipe termina neste rosto.",
-          "segundos": 0.6
+          "segundos": 1.1
         }
       ],
       "regras_extra": [
         "O primeiro plano e SO o tapa com efeitos sonoros: ninguem fala antes do tapa.",
         "Os efeitos sonoros do tapa precisam ser altos e bem marcados.",
-        "Nenhuma fala no ultimo plano: o clipe termina no rosto mudo de DONA ELENA."
+        "Nenhuma fala no ultimo plano: o clipe termina no rosto mudo de DONA ELENA.",
+        "A fala '¡Yo no robé nada!' e da MOCA LUCIA, com voz FEMININA; neste plano RAMIRO esta fora do quadro e calado."
       ]
     }
   ]

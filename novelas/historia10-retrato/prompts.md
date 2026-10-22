@@ -13,7 +13,7 @@ Pero un cuadro en la pared lo cambió todo.
 
 ## Clipe 1 — O tapa e a acusação
 
-clipe 1: 9.7s, 7.0s de fala (15 palavras, 7 planos, falantes: RAMIRO, LUCIA, ELENA) ✅
+clipe 1: 9.9s, 7.0s de fala (15 palavras, 6 planos, falantes: RAMIRO, LUCIA, ELENA) ✅
 
 Sem imagem de referência (Text to Video).
 
@@ -33,9 +33,9 @@ Sem imagem de referência (Text to Video).
   ],
   "scene": {
     "title": "LA NIÑA DEL RETRATO",
-    "duration_seconds": 9.7,
+    "duration_seconds": 10.0,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
-    "structure": "7 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "structure": "6 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
     "style": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Salao de uma mansao antiga mexicana, de dia: piso de marmore bege, paredes cor creme com molduras douradas, lustre de cristal, sofas de veludo verde-escuro, luz natural quente entrando pelas janelas altas. Shallow Focus, cortes rapidos.",
     "setting": "O salao da mansao de DONA ELENA. RAMIRO, o sobrinho que administra a casa, acusa a empregada nova LUCIA de ter roubado o colar de perolas da tia.",
     "blocking": [
@@ -60,16 +60,7 @@ Sem imagem de referência (Text to Video).
       "mouths": "Bocas FECHADAS. Ninguem fala."
     },
     {
-      "time": "00:01.10-00:02.10",
-      "speaker": "NONE",
-      "dialogue": null,
-      "face": "LUCIA: o rosto ainda virado pelo tapa, a tranca caida sobre o rosto, os olhos apertados de DOR, a boca aberta num soluço sem ar, lagrimas brotando, a bochecha VERMELHA.",
-      "body": "LUCIA: cambaleia, leva a mao a bochecha, o peito arfando, os ombros encolhidos de choque.",
-      "camera": "Corte seco. Close-up de LUCIA logo depois do impacto, head and upper shoulders, lente 85mm, um leve tremor. Ninguem fala: so o zumbido no ouvido e o soluço.",
-      "mouths": "Bocas FECHADAS. Ninguem fala."
-    },
-    {
-      "time": "00:02.10-00:03.30",
+      "time": "00:01.10-00:02.30",
       "speaker": "RAMIRO",
       "dialogue": "¡Ratera!",
       "addressee": "LUCIA",
@@ -79,25 +70,25 @@ Sem imagem de referência (Text to Video).
       "voice": "Voz masculina GRITANDO, cortante, cuspindo a palavra.",
       "face": "RAMIRO: furia e nojo, labio torcido, olhos injetados.",
       "body": "RAMIRO: aponta o dedo para o rosto dela, o corpo inclinado para frente.",
-      "camera": "Corte seco. Over-the-Shoulder: ombro e tranca de LUCIA em primeiro plano a ESQUERDA; RAMIRO nitido a DIREITA gritando, Low Angle, lente 35mm. A fala comeca no primeiro instante do plano.",
+      "camera": "Corte seco. Over-the-Shoulder: ombro e tranca de LUCIA em primeiro plano a ESQUERDA, de costas, boca dela fora do quadro; RAMIRO nitido a DIREITA gritando, Low Angle, lente 35mm. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente RAMIRO movimenta os labios."
     },
     {
-      "time": "00:03.30-00:04.98",
+      "time": "00:02.30-00:04.70",
       "speaker": "LUCIA",
       "dialogue": "¡Yo no robé nada!",
       "addressee": "RAMIRO",
       "eyeline": "LUCIA olha para a DIREITA do quadro, para RAMIRO. NAO olha para a camera.",
       "emotion_level": 10,
       "intention": "Implorar, desesperada, que acreditem nela.",
-      "voice": "Voz feminina jovem, chorando, embargada.",
-      "face": "LUCIA: a bochecha vermelha do tapa, lagrimas escorrendo, sobrancelhas erguidas de desespero.",
-      "body": "LUCIA: a mao na bochecha, a outra mao apertando o avental.",
-      "camera": "Corte seco. Close-up de LUCIA, head and upper shoulders, lustre desfocado atras, lente 85mm. A fala comeca no primeiro instante do plano.",
+      "voice": "Voz FEMININA jovem e aguda de moca de 22 anos, chorando, embargada. NUNCA voz de homem.",
+      "face": "LUCIA: o rosto ainda ardendo do tapa, a bochecha VERMELHA, lagrimas escorrendo, os labios tremendo, sobrancelhas erguidas de desespero.",
+      "body": "LUCIA: cambaleando, a mao na bochecha, a outra mao apertando o avental, o peito arfando.",
+      "camera": "Corte seco. Close-up SOLO de LUCIA, so ela no quadro, head and upper shoulders, lustre desfocado atras, lente 85mm, leve tremor. RAMIRO NAO aparece neste plano. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente LUCIA movimenta os labios."
     },
     {
-      "time": "00:04.98-00:06.66",
+      "time": "00:04.70-00:06.38",
       "speaker": "ELENA",
       "dialogue": "¿Qué está pasando aquí?",
       "addressee": "RAMIRO",
@@ -111,7 +102,7 @@ Sem imagem de referência (Text to Video).
       "mouths": "Somente ELENA movimenta os labios."
     },
     {
-      "time": "00:06.66-00:09.09",
+      "time": "00:06.38-00:08.80",
       "speaker": "RAMIRO",
       "dialogue": "Tu collar, tía. En su delantal.",
       "addressee": "ELENA",
@@ -125,7 +116,7 @@ Sem imagem de referência (Text to Video).
       "mouths": "Somente RAMIRO movimenta os labios."
     },
     {
-      "time": "00:09.09-00:09.69",
+      "time": "00:08.80-00:09.90",
       "speaker": "NONE",
       "dialogue": null,
       "face": "DONA ELENA: olhar frio e decepcionado para LUCIA, a boca FECHADA numa linha dura.",
@@ -146,14 +137,15 @@ Sem imagem de referência (Text to Video).
     ],
     "rules": [
       "So existem 4 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
-      "Depois de 9.1 segundos ninguem fala.",
+      "Depois de 8.1 segundos ninguem fala.",
       "Cada fala e dirigida a: RAMIRO -> LUCIA; LUCIA -> RAMIRO; ELENA -> RAMIRO; RAMIRO -> ELENA.",
       "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
       "Nao repetir, misturar, traduzir ou acrescentar palavras.",
       "Cada frase e dita INTEIRA, do comeco ao fim.",
       "O primeiro plano e SO o tapa com efeitos sonoros: ninguem fala antes do tapa.",
       "Os efeitos sonoros do tapa precisam ser altos e bem marcados.",
-      "Nenhuma fala no ultimo plano: o clipe termina no rosto mudo de DONA ELENA."
+      "Nenhuma fala no ultimo plano: o clipe termina no rosto mudo de DONA ELENA.",
+      "A fala '¡Yo no robé nada!' e da MOCA LUCIA, com voz FEMININA; neste plano RAMIRO esta fora do quadro e calado."
     ]
   },
   "audio": {
@@ -183,6 +175,8 @@ Sem imagem de referência (Text to Video).
     "tapa lento",
     "rosto calmo ou neutro de ramiro no tapa",
     "insert da mao sozinha",
+    "voz masculina na fala de lucia",
+    "ramiro dizendo yo no robe nada",
     "texto ou letras em qualquer lugar",
     "nome ou idade de personagem escrito na tela",
     "letreiro de apresentacao de personagem (lower third)",
@@ -214,6 +208,6 @@ Sem imagem de referência (Text to Video).
 ```
 
 **Depois de gerar este clipe, salve os frames:**
-- **FRAME_LUCIA:** frame do clipe 1, plano 4 (por volta do segundo 4,2): close de LUCIA de uniforme cinza e avental branco, tranca sobre o ombro esquerdo.
-- **FRAME_RAMIRO:** frame do clipe 1, plano 3 (por volta do segundo 2,7): RAMIRO de terno cinza gritando.
-- **FRAME_ELENA:** frame do clipe 1, plano 5 (por volta do segundo 5,8): close de DONA ELENA de vestido azul-escuro e coque branco.
+- **FRAME_LUCIA:** frame do clipe 1, plano 3 (por volta do segundo 3,5): close de LUCIA de uniforme cinza e avental branco, tranca sobre o ombro esquerdo.
+- **FRAME_RAMIRO:** frame do clipe 1, plano 2 (por volta do segundo 1,6): RAMIRO de terno cinza gritando.
+- **FRAME_ELENA:** frame do clipe 1, plano 4 (por volta do segundo 5,3): close de DONA ELENA de vestido azul-escuro e coque branco.
