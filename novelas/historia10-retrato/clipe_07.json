@@ -14,6 +14,7 @@
       "RAMIRO: o MESMO rosto da imagem 1, homem de 45 anos, sobrinho de DONA ELENA, rosto comum e desconhecido, pele clara, rosto magro e limpo, sem nenhum hematoma, bigode fino, cabelo castanho penteado de lado com entradas, TERNO CINZA-CLARO com gravata vinho, uma CICATRIZ grossa e clara nas costas da MAO DIREITA.",
       "CARMEN: o MESMO rosto da imagem 3, governanta de 58 anos, rosto comum e desconhecido, pele morena, rosto largo, rugas, OCULOS de armacao fina dourada, cabelo grisalho curto, UNIFORME PRETO de manga longa com gola branca, sem joias.",
       "ELENA: o MESMO rosto da imagem 2, senhora rica de 62 anos, viuva, dona da mansao, rosto comum e desconhecido, pele clara, rugas fundas, olhos claros e tristes, cabelo BRANCO preso em COQUE alto, VESTIDO AZUL-ESCURO de manga longa com GOLA ALTA fechada ate o queixo, pescoco totalmente coberto pelo tecido, brincos pequenos de ouro, NENHUM colar.",
+      "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
       "O MESMO RAMIRO da imagem 1, a MESMA DONA ELENA da imagem 2 e a MESMA CARMEN da imagem 3, com as mesmas roupas.",
       "A PULSEIRINHA: uma pulseira de bebe de PRATA, velha e escurecida, com um pequeno pingente de MEIA-LUA. SEM nenhuma letra.",
       "RAMIRO esconde a MAO DIREITA (a da cicatriz) e usa so a MAO ESQUERDA neste clipe.",
@@ -120,7 +121,8 @@
       "Cada frase e dita INTEIRA, do comeco ao fim.",
       "Cada fala aparece com SO quem fala no quadro.",
       "A fala de CARMEN e com voz FEMININA de senhora.",
-      "Nenhuma fala no ultimo plano: o clipe termina no olhar mudo de DONA ELENA para RAMIRO."
+      "Nenhuma fala no ultimo plano: o clipe termina no olhar mudo de DONA ELENA para RAMIRO.",
+      "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
     ]
   },
   "audio": {
@@ -138,6 +140,11 @@
     "colar de perolas",
     "personagem falando de frente para a camera",
     "letras na tela",
+    "legendas embutidas",
+    "subtitles",
+    "captions",
+    "texto das falas escrito na tela",
+    "letras brancas na parte de baixo do video",
     "texto ou letras em qualquer lugar",
     "nome ou idade de personagem escrito na tela",
     "letreiro de apresentacao de personagem (lower third)",
