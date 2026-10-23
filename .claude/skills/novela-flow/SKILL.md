@@ -5,7 +5,7 @@ description: Cria mininovelas dramáticas em espanhol (estilo "Relatos que Ense�
 
 # Novela Flow
 
-Produz novelas em espanhol (sotaque mexicano) 100% no **Google Flow**, no formato das páginas de "relatos" que viralizam no Facebook. Por que viralizam e como as referências são feitas: `references/analise-referencias.md`. Identidade da página (nome, bio, CTA, medidas): `references/pagina.md`. **Linguagem de câmera (técnicas cinematográficas por momento da história): `references/cinematografia.md` — usar SEMPRE no campo `camera` de cada plano.**
+Produz novelas em espanhol da ESPANHA (castelhano, sotaque peninsular; público principal: Espanha. Projetos antigos em espanhol do México têm `"idioma": "mexico"` no roteiro.json) 100% no **Google Flow**, no formato das páginas de "relatos" que viralizam no Facebook. Por que viralizam e como as referências são feitas: `references/analise-referencias.md`. Identidade da página (nome, bio, CTA, medidas): `references/pagina.md`. **Linguagem de câmera (técnicas cinematográficas por momento da história): `references/cinematografia.md` — usar SEMPRE no campo `camera` de cada plano.**
 
 ## Regras de ouro (créditos do Flow)
 
@@ -152,3 +152,9 @@ Um longo rende 3 a 5 curtos (cada um com um gancho diferente).
 - Nos textos, citar imagens pelo NOME (`imagem FRAME_DON`); o script troca pelo número certo de cada clipe ("imagem 2").
 - Plano sem `fala` = plano mudo de reação (use pouco, no máximo ~0,8 s, só no fim).
 - O negative prompt padrão (tela dividida, legendas, fala repetida, dois rostos nos planos de fala, etc.) já vem no script.
+
+## Público: ESPANHA (desde a historia11)
+- Campo `"idioma"` no roteiro.json: `"espanha"` (padrão) ou `"mexico"` (projetos antigos).
+- Falas em castelhano: "camarera" (não mesera), "ladrona" (não ratera), "vosotros/os", "coger", "vale", "¿qué coño…?" (evitar palavrões fortes), "mamá" ok.
+- Nomes e cenários espanhóis: Pilar, Carmen, Lucía, Álvaro, Javier, Mercedes; fincas/cortijos andaluzes, pisos em Madrid, cafeterias, chiringuitos, bodas e "pedidas de mano".
+- Rostos: espanhóis comuns (pele clara/morena mediterrânea).

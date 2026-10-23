@@ -58,6 +58,15 @@ def seg(x):
     return f"{int(m):02d}:{s:05.2f}"
 
 
+IDIOMAS = {
+    # padrao: Espanha (publico da pagina). Projetos antigos usam "idioma": "mexico".
+    "espanha": ("ESPANHOL da ESPANHA (castelhano, sotaque espanhol de Madrid)",
+                "Espanol de Espana (castellano), acento espanol peninsular natural, TODAS as palavras em espanhol. NUNCA sotaque latino-americano."),
+    "mexico": ("ESPANHOL do Mexico",
+               "Espanol de Mexico, acento mexicano natural, TODAS as palavras em espanhol."),
+}
+
+
 def montar(rot, n, clip):
     planos = clip["planos"]
     t = 0.0
@@ -148,7 +157,8 @@ def montar(rot, n, clip):
             # primeira aparição: criado só pela descrição
             fichas[k] = f"{d['descricao']} Personagem {fic}. {d['voz']}"
             preservar.append(f"{k}: {d['descricao']}")
-    prompt = {"IDIOMA_OBRIGATORIO": "TODAS as falas em ESPANHOL do Mexico, exatamente como escritas no campo dialogue. NUNCA em portugues, nunca traduzir.", "ATUACAO_PRIORIDADE_MAXIMA": clip["atuacao"]}
+    idioma_curto, idioma_regra = IDIOMAS[rot.get("idioma", "espanha")]
+    prompt = {"IDIOMA_OBRIGATORIO": f"TODAS as falas em {idioma_curto}, exatamente como escritas no campo dialogue. NUNCA em portugues, nunca traduzir.", "ATUACAO_PRIORIDADE_MAXIMA": clip["atuacao"]}
     if imagens:
         prompt["input_image"] = {
             "required": bool(clip.get("primeiro_frame")),
@@ -173,7 +183,7 @@ def montar(rot, n, clip):
         },
         "timeline": timeline,
         "dialogue_rules": {
-            "language": "Espanol de Mexico, acento mexicano natural, TODAS as palavras em espanhol.",
+            "language": idioma_regra,
             "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
             "total_dialogue_lines": len(falantes),
             "exact_order": falantes,
