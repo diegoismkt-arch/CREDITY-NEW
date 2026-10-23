@@ -791,6 +791,118 @@
         "Nenhuma fala no ultimo plano: o clipe termina no olhar mudo de DONA ELENA para RAMIRO.",
         "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
       ]
+    },
+    {
+      "nome": "A cicatriz",
+      "estilo": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Corredor comprido de uma mansao antiga mexicana, de dia: piso de marmore bege, paredes cor creme cheias de quadros antigos em molduras douradas, arandelas acesas, luz quente lateral. Shallow Focus, cortes rapidos.",
+      "atuacao": "Novela dramatica, EMOCAO MAXIMA. DONA ELENA, de joelhos, chama LUCIA de filha pela primeira vez, a voz cheia de dor. LUCIA conta o que sabe com lagrimas e firmeza, e na ultima fala olha DIRETO para RAMIRO. RAMIRO tenta esconder a mao, tremendo. Rostos muito expressivos. Nenhum momento parado.",
+      "imagens": [
+        "FRAME_LUCIA",
+        "FRAME_RAMIRO",
+        "FRAME_ELENA"
+      ],
+      "personagens": [
+        "ELENA",
+        "LUCIA",
+        "RAMIRO"
+      ],
+      "posicoes": {
+        "ELENA": "de joelhos no corredor, sozinha nos planos dela",
+        "LUCIA": "de pe no corredor, sozinha nos planos dela",
+        "RAMIRO": "de pe mais atras; so a mao dele aparece no fim"
+      },
+      "preservar_extra": [
+        "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
+        "A MESMA LUCIA da imagem 1, o MESMO RAMIRO da imagem 2 e a MESMA DONA ELENA da imagem 3, com as mesmas roupas.",
+        "A CICATRIZ grossa e clara fica nas costas da MAO DIREITA de RAMIRO; so ele tem cicatriz na mao.",
+        "DONA ELENA de vestido AZUL-ESCURO de GOLA ALTA, sem colar.",
+        "Ninguem usa colar de perolas.",
+        "Nenhum letreiro, placa ou letra em lugar nenhum."
+      ],
+      "cenario": "Continuacao, no corredor dos quadros. Ja ficou claro que LUCIA e Sofia, a filha que DONA ELENA enterrou num caixao fechado. Agora a mae quer saber quem a levou. LUCIA conta o que a mulher que a criou confessou: um homem com uma cicatriz na mao direita.",
+      "som": "Choro contido de DONA ELENA; a respiracao tremula de LUCIA; um TUM grave e batidas de coracao no close da mao; no fim, silencio total.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida"
+      ],
+      "negativos_extra": [
+        "dois personagens no quadro quando alguem fala",
+        "voz masculina nas falas femininas",
+        "cicatriz na mao de outro personagem",
+        "colar de perolas",
+        "personagem falando de frente para a camera",
+        "lucia com outro rosto",
+        "legendas embutidas",
+        "subtitles",
+        "captions",
+        "texto das falas escrito na tela",
+        "letras brancas na parte de baixo do video",
+        "letras na tela"
+      ],
+      "planos": [
+        {
+          "quem": "ELENA",
+          "para": "LUCIA",
+          "fala": "¿Quién te llevó, hija?",
+          "emocao": 10,
+          "eyeline": "DONA ELENA olha para CIMA, para LUCIA. NAO olha para a camera.",
+          "intencao": "Perguntar com dor, chamando-a de filha pela primeira vez.",
+          "voz": "Voz feminina de senhora, chorando baixinho, cheia de dor.",
+          "rosto": "DONA ELENA: lagrimas, os olhos suplicantes.",
+          "corpo": "DONA ELENA: de joelhos, segura com as duas maos a mao de LUCIA.",
+          "camera": "Close-up SOLO de DONA ELENA de joelhos, so ela no quadro, Low Angle, lente 85mm. Ninguem mais aparece neste plano."
+        },
+        {
+          "quem": "LUCIA",
+          "para": "ELENA",
+          "fala": "Un hombre pagó por mí.",
+          "emocao": 10,
+          "eyeline": "LUCIA olha para BAIXO, para DONA ELENA. NAO olha para a camera.",
+          "intencao": "Contar a verdade dolorosa, segurando o choro.",
+          "voz": "Voz FEMININA jovem de moca de 22 anos, embargada. NUNCA voz de homem.",
+          "rosto": "LUCIA: lagrimas escorrendo, o queixo tremendo.",
+          "corpo": "LUCIA: aperta a mao da senhora.",
+          "camera": "Corte seco. Close-up SOLO de LUCIA, so ela no quadro, High Angle leve, lente 85mm. Ninguem mais aparece neste plano."
+        },
+        {
+          "quem": "ELENA",
+          "para": "LUCIA",
+          "fala": "¿Qué hombre?",
+          "emocao": 10,
+          "eyeline": "DONA ELENA olha para CIMA, para LUCIA. NAO olha para a camera.",
+          "intencao": "Exigir o nome, a dor virando raiva.",
+          "voz": "Voz feminina grave de senhora, dura, entre os dentes.",
+          "rosto": "DONA ELENA: as lagrimas param, os olhos ficam duros.",
+          "corpo": "DONA ELENA: aperta mais forte a mao de LUCIA.",
+          "camera": "Corte seco. Close-up SOLO de DONA ELENA, so ela no quadro, lente 85mm. Ninguem mais aparece neste plano.",
+          "segundos": 1.3
+        },
+        {
+          "quem": "LUCIA",
+          "para": "RAMIRO",
+          "fala": "Tenía una cicatriz… en la mano derecha.",
+          "emocao": 10,
+          "eyeline": "LUCIA vira o rosto devagar e olha para a DIREITA do quadro, DIRETO para RAMIRO. NAO olha para a camera.",
+          "intencao": "Acusar sem dizer o nome, encarando o culpado.",
+          "voz": "Voz FEMININA jovem, baixa, firme e cortante. NUNCA voz de homem.",
+          "rosto": "LUCIA: o choro some; o olhar fica frio e acusador.",
+          "corpo": "LUCIA: endireita o corpo, o queixo erguido.",
+          "camera": "Corte seco. Close-up SOLO de LUCIA, so ela no quadro, lente 85mm, Slow Push In. Ninguem mais aparece neste plano.",
+          "segundos": 3.3
+        },
+        {
+          "rosto": "Sem rosto: so a mao.",
+          "corpo": "A MAO DIREITA de RAMIRO, tremendo, escondida atras das costas do terno cinza, com a CICATRIZ grossa nas costas da mao bem visivel; os dedos se fecham num punho nervoso.",
+          "camera": "Corte seco. Insert: close da mao direita de RAMIRO atras das costas, a cicatriz nitida, Slow Push In. Ninguem fala. O clipe termina nesta mao.",
+          "segundos": 1.6
+        }
+      ],
+      "regras_extra": [
+        "Cada fala aparece com SO quem fala no quadro.",
+        "As falas de LUCIA sao SEMPRE com voz FEMININA jovem.",
+        "Nenhuma fala no ultimo plano: o clipe termina na mao com a cicatriz.",
+        "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+      ]
     }
   ]
 }

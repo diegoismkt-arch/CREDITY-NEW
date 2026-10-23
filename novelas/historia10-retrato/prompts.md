@@ -1328,3 +1328,193 @@ Referências, nesta ordem: 1) FRAME_RAMIRO; 2) FRAME_ELENA; 3) FRAME_CARMEN
   ]
 }
 ```
+
+
+## Clipe 8 — A cicatriz
+
+clipe 8: 9.9s, 7.7s de fala (18 palavras, 5 planos, falantes: ELENA, LUCIA) ✅
+
+Referências, nesta ordem: 1) FRAME_LUCIA; 2) FRAME_RAMIRO; 3) FRAME_ELENA
+
+```json
+{
+  "IDIOMA_OBRIGATORIO": "TODAS as falas em ESPANHOL do Mexico, exatamente como escritas no campo dialogue. NUNCA em portugues, nunca traduzir.",
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica, EMOCAO MAXIMA. DONA ELENA, de joelhos, chama LUCIA de filha pela primeira vez, a voz cheia de dor. LUCIA conta o que sabe com lagrimas e firmeza, e na ultima fala olha DIRETO para RAMIRO. RAMIRO tenta esconder a mao, tremendo. Rostos muito expressivos. Nenhum momento parado.",
+  "input_image": {
+    "required": false,
+    "mode": "Ingredients to Video, sem primeiro frame.",
+    "additional_references": true,
+    "reference_images": [
+      "Imagem 1 — frame do clipe 1, plano 2 (por volta do segundo 2,0): close de LUCIA de uniforme cinza e avental branco, tranca sobre o ombro esquerdo.",
+      "Imagem 2 — frame do clipe 1, plano 3 (por volta do segundo 3,8): RAMIRO de terno cinza gritando.",
+      "Imagem 3 — frame do clipe 1, plano 6 (por volta do segundo 9,4): close de DONA ELENA de vestido azul-escuro e coque branco."
+    ],
+    "preserve_exactly": [
+      "ELENA: o MESMO rosto da imagem 3, senhora rica de 62 anos, viuva, dona da mansao, rosto comum e desconhecido, pele clara, rugas fundas, olhos claros e tristes, cabelo BRANCO preso em COQUE alto, VESTIDO AZUL-ESCURO de manga longa com GOLA ALTA fechada ate o queixo, pescoco totalmente coberto pelo tecido, brincos pequenos de ouro, NENHUM colar.",
+      "LUCIA: o MESMO rosto da imagem 1, jovem empregada de 22 anos, rosto comum e desconhecido, pele morena, rosto redondo, sobrancelhas grossas, nariz largo, sardas leves no nariz, olhos castanhos escuros, cabelo PRETO numa TRANCA longa caida sobre o ombro ESQUERDO cobrindo o lado esquerdo do pescoco, UNIFORME CINZA de manga curta com AVENTAL BRANCO por cima, sem joias.",
+      "RAMIRO: o MESMO rosto da imagem 2, homem de 45 anos, sobrinho de DONA ELENA, rosto comum e desconhecido, pele clara, rosto magro e limpo, sem nenhum hematoma, bigode fino, cabelo castanho penteado de lado com entradas, TERNO CINZA-CLARO com gravata vinho, uma CICATRIZ grossa e clara nas costas da MAO DIREITA.",
+      "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
+      "A MESMA LUCIA da imagem 1, o MESMO RAMIRO da imagem 2 e a MESMA DONA ELENA da imagem 3, com as mesmas roupas.",
+      "A CICATRIZ grossa e clara fica nas costas da MAO DIREITA de RAMIRO; so ele tem cicatriz na mao.",
+      "DONA ELENA de vestido AZUL-ESCURO de GOLA ALTA, sem colar.",
+      "Ninguem usa colar de perolas.",
+      "Nenhum letreiro, placa ou letra em lugar nenhum."
+    ]
+  },
+  "scene": {
+    "title": "LA NIÑA DEL RETRATO",
+    "duration_seconds": 10.0,
+    "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
+    "structure": "5 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "style": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Corredor comprido de uma mansao antiga mexicana, de dia: piso de marmore bege, paredes cor creme cheias de quadros antigos em molduras douradas, arandelas acesas, luz quente lateral. Shallow Focus, cortes rapidos.",
+    "setting": "Continuacao, no corredor dos quadros. Ja ficou claro que LUCIA e Sofia, a filha que DONA ELENA enterrou num caixao fechado. Agora a mae quer saber quem a levou. LUCIA conta o que a mulher que a criou confessou: um homem com uma cicatriz na mao direita.",
+    "blocking": [
+      "ELENA: de joelhos no corredor, sozinha nos planos dela",
+      "LUCIA: de pe no corredor, sozinha nos planos dela",
+      "RAMIRO: de pe mais atras; so a mao dele aparece no fim"
+    ],
+    "characters": {
+      "ELENA": "A MESMA da imagem 3. Personagem ficticia. Voz feminina grave, seca e autoritaria de senhora de 62 anos.",
+      "LUCIA": "A MESMA da imagem 1. Personagem ficticia. Voz feminina jovem, doce e assustada de moca de 22 anos.",
+      "RAMIRO": "O MESMO da imagem 2. Personagem ficticio. Voz masculina arrogante, cortante e cruel de homem de 45 anos."
+    }
+  },
+  "timeline": [
+    {
+      "time": "00:00.00-00:01.68",
+      "speaker": "ELENA",
+      "dialogue": "¿Quién te llevó, hija?",
+      "addressee": "LUCIA",
+      "eyeline": "DONA ELENA olha para CIMA, para LUCIA. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Perguntar com dor, chamando-a de filha pela primeira vez.",
+      "voice": "Voz feminina de senhora, chorando baixinho, cheia de dor.",
+      "face": "DONA ELENA: lagrimas, os olhos suplicantes.",
+      "body": "DONA ELENA: de joelhos, segura com as duas maos a mao de LUCIA.",
+      "camera": "Close-up SOLO de DONA ELENA de joelhos, so ela no quadro, Low Angle, lente 85mm. Ninguem mais aparece neste plano. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente ELENA movimenta os labios."
+    },
+    {
+      "time": "00:01.68-00:03.73",
+      "speaker": "LUCIA",
+      "dialogue": "Un hombre pagó por mí.",
+      "addressee": "ELENA",
+      "eyeline": "LUCIA olha para BAIXO, para DONA ELENA. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Contar a verdade dolorosa, segurando o choro.",
+      "voice": "Voz FEMININA jovem de moca de 22 anos, embargada. NUNCA voz de homem.",
+      "face": "LUCIA: lagrimas escorrendo, o queixo tremendo.",
+      "body": "LUCIA: aperta a mao da senhora.",
+      "camera": "Corte seco. Close-up SOLO de LUCIA, so ela no quadro, High Angle leve, lente 85mm. Ninguem mais aparece neste plano. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente LUCIA movimenta os labios."
+    },
+    {
+      "time": "00:03.73-00:05.03",
+      "speaker": "ELENA",
+      "dialogue": "¿Qué hombre?",
+      "addressee": "LUCIA",
+      "eyeline": "DONA ELENA olha para CIMA, para LUCIA. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Exigir o nome, a dor virando raiva.",
+      "voice": "Voz feminina grave de senhora, dura, entre os dentes.",
+      "face": "DONA ELENA: as lagrimas param, os olhos ficam duros.",
+      "body": "DONA ELENA: aperta mais forte a mao de LUCIA.",
+      "camera": "Corte seco. Close-up SOLO de DONA ELENA, so ela no quadro, lente 85mm. Ninguem mais aparece neste plano. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente ELENA movimenta os labios."
+    },
+    {
+      "time": "00:05.03-00:08.33",
+      "speaker": "LUCIA",
+      "dialogue": "Tenía una cicatriz… en la mano derecha.",
+      "addressee": "RAMIRO",
+      "eyeline": "LUCIA vira o rosto devagar e olha para a DIREITA do quadro, DIRETO para RAMIRO. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Acusar sem dizer o nome, encarando o culpado.",
+      "voice": "Voz FEMININA jovem, baixa, firme e cortante. NUNCA voz de homem.",
+      "face": "LUCIA: o choro some; o olhar fica frio e acusador.",
+      "body": "LUCIA: endireita o corpo, o queixo erguido.",
+      "camera": "Corte seco. Close-up SOLO de LUCIA, so ela no quadro, lente 85mm, Slow Push In. Ninguem mais aparece neste plano. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente LUCIA movimenta os labios."
+    },
+    {
+      "time": "00:08.33-00:09.93",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "Sem rosto: so a mao.",
+      "body": "A MAO DIREITA de RAMIRO, tremendo, escondida atras das costas do terno cinza, com a CICATRIZ grossa nas costas da mao bem visivel; os dedos se fecham num punho nervoso.",
+      "camera": "Corte seco. Insert: close da mao direita de RAMIRO atras das costas, a cicatriz nitida, Slow Push In. Ninguem fala. O clipe termina nesta mao.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    }
+  ],
+  "dialogue_rules": {
+    "language": "Espanol de Mexico, acento mexicano natural, TODAS as palavras em espanhol.",
+    "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
+    "total_dialogue_lines": 4,
+    "exact_order": [
+      "ELENA",
+      "LUCIA",
+      "ELENA",
+      "LUCIA"
+    ],
+    "rules": [
+      "So existem 4 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "Depois de 7.7 segundos ninguem fala.",
+      "Cada fala e dirigida a: ELENA -> LUCIA; LUCIA -> ELENA; ELENA -> LUCIA; LUCIA -> RAMIRO.",
+      "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
+      "Nao repetir, misturar, traduzir ou acrescentar palavras.",
+      "Cada frase e dita INTEIRA, do comeco ao fim.",
+      "Cada fala aparece com SO quem fala no quadro.",
+      "As falas de LUCIA sao SEMPRE com voz FEMININA jovem.",
+      "Nenhuma fala no ultimo plano: o clipe termina na mao com a cicatriz.",
+      "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+    ]
+  },
+  "audio": {
+    "single_voice_at_a_time": true,
+    "sound": "Choro contido de DONA ELENA; a respiracao tremula de LUCIA; um TUM grave e batidas de coracao no close da mao; no fim, silencio total.",
+    "music": "Nenhuma.",
+    "narration": "Nenhuma.",
+    "subtitles": "Nao gerar."
+  },
+  "negative_prompt": [
+    "dois personagens no quadro quando alguem fala",
+    "voz masculina nas falas femininas",
+    "cicatriz na mao de outro personagem",
+    "colar de perolas",
+    "personagem falando de frente para a camera",
+    "lucia com outro rosto",
+    "legendas embutidas",
+    "subtitles",
+    "captions",
+    "texto das falas escrito na tela",
+    "letras brancas na parte de baixo do video",
+    "letras na tela",
+    "texto ou letras em qualquer lugar",
+    "nome ou idade de personagem escrito na tela",
+    "letreiro de apresentacao de personagem (lower third)",
+    "palavra inventada no ultimo plano",
+    "fala repetida",
+    "fala adiantada ou atrasada para outro plano",
+    "personagem falando ou olhando para quem nao e o destinatario da fala",
+    "fala neutra ou monotona",
+    "rosto neutro ou expressao vazia",
+    "voz sem rosto na tela",
+    "tela dividida",
+    "colagem",
+    "formato horizontal",
+    "bordas pretas",
+    "palavras em ingles",
+    "palavras em portugues",
+    "duas vozes simultaneas",
+    "movimento labial do ouvinte",
+    "fala cortada, encurtada ou incompleta",
+    "personagem olhando para a camera",
+    "mudanca de rosto",
+    "mudanca de roupa",
+    "legendas",
+    "logotipo",
+    "marca-d'agua",
+    "trilha sonora"
+  ]
+}
+```
