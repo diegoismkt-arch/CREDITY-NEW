@@ -1,10 +1,12 @@
-# La corrió de su casa… sin saber quién era 😱
+# La echaron como ratera… sin saber que era la hija que enterraron hace 20 años 😱
 
-**Legenda:** La acusaron de ratera y la echaron como a un perro… 💔
+**Legenda:** La abofetearon, la acusaron de robar un collar y la arrastraron fuera de la mansión… 💔
 
-Pero un cuadro en la pared lo cambió todo.
+Pero al caer de rodillas vio un retrato en la pared: una niña con la misma marca de nacimiento que ella.
 
-¿Ramiro va a enseñar la mano? 👇
+Veinte años atrás, alguien pagó para que desapareciera. Y ese alguien tenía una cicatriz en la mano derecha… 👀
+
+¿Ramiro va a enseñar la mano? ¿Qué harías tú en el lugar de Doña Elena? 👇
 
 #historias #novela #drama #justicia #reflexiones #lahistoriaprincipal
 
