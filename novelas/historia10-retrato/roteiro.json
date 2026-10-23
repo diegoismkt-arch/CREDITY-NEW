@@ -903,6 +903,116 @@
         "Nenhuma fala no ultimo plano: o clipe termina na mao com a cicatriz.",
         "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
       ]
+    },
+    {
+      "nome": "Enséñame la mano",
+      "estilo": "Novela dramatica cinematografica. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos com imperfeicoes reais, textura real de pele. Corredor comprido de uma mansao antiga mexicana, de dia: piso de marmore bege, paredes cor creme cheias de quadros antigos em molduras douradas, arandelas acesas, luz quente lateral. Shallow Focus, cortes rapidos.",
+      "atuacao": "Novela dramatica, EMOCAO MAXIMA. DONA ELENA se levanta transformada: as lagrimas secam, a voz fica GELADA, autoridade total. RAMIRO encurralado, palido, suando, recuando. LUCIA firme, olhando o culpado nos olhos. Tensao maxima ate o ultimo segundo. Rostos muito expressivos. Nenhum momento parado.",
+      "imagens": [
+        "FRAME_LUCIA",
+        "FRAME_RAMIRO",
+        "FRAME_ELENA"
+      ],
+      "personagens": [
+        "ELENA",
+        "RAMIRO",
+        "LUCIA"
+      ],
+      "posicoes": {
+        "ELENA": "de pe no corredor, sozinha nos planos dela",
+        "RAMIRO": "de pe no corredor, sozinho nos planos dele",
+        "LUCIA": "de pe no corredor, sozinha no plano dela"
+      },
+      "preservar_extra": [
+        "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
+        "A MESMA LUCIA da imagem 1, o MESMO RAMIRO da imagem 2 e a MESMA DONA ELENA da imagem 3, com as mesmas roupas.",
+        "A CICATRIZ fica nas costas da MAO DIREITA de RAMIRO; neste clipe a mao direita fica ESCONDIDA atras das costas ate o fim e a cicatriz NAO aparece.",
+        "DONA ELENA de vestido AZUL-ESCURO de GOLA ALTA, sem colar.",
+        "Ninguem usa colar de perolas.",
+        "Nenhum letreiro, placa ou letra em lugar nenhum."
+      ],
+      "cenario": "Final, no corredor dos quadros. LUCIA acabou de dizer que o homem que pagou para leva-la tinha uma cicatriz na mao direita. DONA ELENA entende tudo e manda o sobrinho mostrar a mao. LUCIA ainda o acusa de ter colocado o colar no avental dela.",
+      "som": "O farfalhar do vestido de DONA ELENA se levantando; a respiracao pesada de RAMIRO; batidas de coracao cada vez mais rapidas; no ultimo plano, um zumbido crescente que CORTA de repente em silencio absoluto.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida"
+      ],
+      "negativos_extra": [
+        "dois personagens no quadro quando alguem fala",
+        "voz masculina nas falas femininas",
+        "mao direita de ramiro aparecendo",
+        "cicatriz aparecendo",
+        "colar de perolas",
+        "personagem falando de frente para a camera",
+        "lucia com outro rosto",
+        "legendas embutidas",
+        "subtitles",
+        "captions",
+        "texto das falas escrito na tela",
+        "letras brancas na parte de baixo do video",
+        "letras na tela",
+        "ramiro falando"
+      ],
+      "planos": [
+        {
+          "quem": "ELENA",
+          "para": "RAMIRO",
+          "fala": "Ramiro… enséñame la mano.",
+          "emocao": 10,
+          "eyeline": "DONA ELENA olha para a DIREITA do quadro, para RAMIRO. NAO olha para a camera.",
+          "intencao": "Ordenar com frieza absoluta, ja sabendo a verdade.",
+          "voz": "Voz feminina grave de senhora, baixa, GELADA, cada palavra pesada.",
+          "rosto": "DONA ELENA: as lagrimas secam no rosto; o olhar fica duro como pedra.",
+          "corpo": "DONA ELENA: se levanta devagar do chao, endireitando o corpo, o queixo erguido.",
+          "camera": "Medium Close-up SOLO de DONA ELENA se levantando, so ela no quadro, Low Angle, lente 50mm. Ninguem mais aparece neste plano.",
+          "segundos": 2.4
+        },
+        {
+          "rosto": "RAMIRO: palido, olhos arregalados, suor escorrendo. Boca FECHADA.",
+          "corpo": "RAMIRO: da um passo para tras, a mao direita apertada atras das costas.",
+          "camera": "Corte seco. Close-up SOLO de RAMIRO, so ele no quadro, lente 85mm. Ninguem fala.",
+          "segundos": 1.0
+        },
+        {
+          "quem": "LUCIA",
+          "para": "RAMIRO",
+          "fala": "Y ese collar… usted lo puso en mi delantal.",
+          "emocao": 10,
+          "eyeline": "LUCIA olha para a DIREITA do quadro, para RAMIRO. NAO olha para a camera.",
+          "intencao": "Acusar com calma e firmeza, devolvendo a humilhacao.",
+          "voz": "Voz FEMININA jovem de moca de 22 anos, baixa, firme, sem chorar. NUNCA voz de homem.",
+          "rosto": "LUCIA: a bochecha ainda marcada, o olhar firme e frio, sem lagrimas.",
+          "corpo": "LUCIA: de pe, imovel, os bracos ao longo do corpo, o queixo erguido.",
+          "camera": "Corte seco. Close-up SOLO de LUCIA, so ela no quadro, lente 85mm, Slow Push In. Ninguem mais aparece neste plano.",
+          "segundos": 3.3
+        },
+        {
+          "quem": "ELENA",
+          "para": "RAMIRO",
+          "fala": "¡Enséñamela!",
+          "emocao": 10,
+          "eyeline": "DONA ELENA olha para a DIREITA do quadro, para RAMIRO. NAO olha para a camera.",
+          "intencao": "Ordenar gritando, explodindo de raiva.",
+          "voz": "Voz feminina grave de senhora, GRITANDO, ecoando no corredor.",
+          "rosto": "DONA ELENA: furia total, os olhos em chamas.",
+          "corpo": "DONA ELENA: estende o braco com a palma aberta, exigindo.",
+          "camera": "Corte seco. Close-up SOLO de DONA ELENA, so ela no quadro, lente 85mm. Ninguem mais aparece neste plano.",
+          "segundos": 1.3
+        },
+        {
+          "rosto": "RAMIRO: terror absoluto, os labios tremendo, os olhos indo de uma para outra. Boca FECHADA.",
+          "corpo": "RAMIRO: o braco direito comeca a sair devagar de tras das costas, tremendo... mas a mao ainda NAO aparece.",
+          "camera": "Corte seco. Close-up SOLO de RAMIRO, lente 85mm, Slow Push In rapido no rosto. Ninguem fala. CORTE SECO para o fim antes da mao aparecer.",
+          "segundos": 1.6
+        }
+      ],
+      "regras_extra": [
+        "Cada fala aparece com SO quem fala no quadro.",
+        "A fala de LUCIA e com voz FEMININA jovem.",
+        "RAMIRO NAO fala neste clipe.",
+        "A mao direita de RAMIRO NUNCA aparece: o video corta antes.",
+        "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+      ]
     }
   ]
 }
