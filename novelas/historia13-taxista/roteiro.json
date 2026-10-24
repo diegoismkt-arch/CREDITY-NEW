@@ -860,7 +860,7 @@
   },
   {
    "nome": "A confissao",
-   "atuacao": "Drama emocional contido, FALA DO COMECO AO FIM. ANDRES fala da filha com tristeza e saudade, sempre dirigindo. VALERIA, com os olhos marejados, pede desculpas, arrependida. Rostos expressivos, ninguem fica parado.",
+   "atuacao": "Drama emocional contido, FALA DO COMECO AO FIM. ANDRES fala com tristeza e cansaco, sempre dirigindo. VALERIA, adulta, com os olhos marejados, pede desculpas, arrependida. Rostos expressivos, ninguem fica parado.",
    "personagens": [
     "VALERIA",
     "ANDRES"
@@ -875,11 +875,11 @@
     "VALERIA fica o video TODO no banco de TRAS. O banco do passageiro da FRENTE esta SEMPRE VAZIO. Ninguem senta ao lado de ANDRES.",
     "A camera fica SEMPRE DENTRO do taxi. Nunca filmar de fora do carro; o teto e o luminoso do taxi nunca aparecem.",
     "O MESMO ANDRES da imagem 1 e a MESMA VALERIA da imagem 2, com as mesmas roupas, dentro do MESMO taxi, nos mesmos lugares.",
-    "NO PAINEL do taxi, ao lado do volante: uma FOTO pequena de uma MENINA sorrindo (a mesma do clipe 1), com uma FITA PRETA de luto no canto; e uma pequena CAMERA de painel (dashcam) com uma LUZ VERMELHA acesa piscando.",
     "Nenhum letreiro, placa, taximetro com numeros, logotipo ou letra em lugar nenhum.",
-    "O celular de VALERIA fica parado no colo dela, tela apagada."
+    "O celular de VALERIA fica parado no colo dela, tela apagada.",
+    "NO PAINEL do taxi: uma pequena CAMERA de painel (dashcam) com uma LUZ VERMELHA acesa piscando. Nenhuma foto no painel."
    ],
-   "cenario": "Continuacao, dentro do taxi na chuva, de noite numa rua tranquila de Madrid. ANDRES fala da filha; VALERIA, emocionada, pede desculpas.",
+   "cenario": "Continuacao, dentro do taxi na chuva, de noite numa rua tranquila de Madrid. Conversa emocionada entre o taxista e a passageira.",
    "som": "A chuva no teto; os limpadores; o motor baixo; sem musica.",
    "remover_negativos": [
     "dois rostos visiveis nos planos de fala",
@@ -910,7 +910,6 @@
     "motorista olhando para o banco de tras com o corpo virado",
     "nuca do motorista em primeiro plano",
     "celular na orelha",
-    "foto de mulher adulta",
     "valeria no banco da frente",
     "passageira sentada ao lado do motorista",
     "banco do passageiro da frente ocupado",
@@ -922,7 +921,8 @@
     "letreiro com letras",
     "valeria abrindo a porta",
     "maos na macaneta",
-    "porta do carro aberta"
+    "porta do carro aberta",
+    "fotos no painel"
    ],
    "planos": [
     {
@@ -954,12 +954,12 @@
      "para": "VALERIA",
      "fala": "Nadie paró. Nadie llamó.",
      "emocao": 9,
-     "eyeline": "ANDRES olha para a FOTO no painel e depois para o RETROVISOR, para VALERIA. NAO olha para a camera.",
+     "eyeline": "ANDRES olha para a rua a frente e depois para o RETROVISOR, para VALERIA. NAO olha para a camera.",
      "intencao": "Dizer com tristeza serena e firme.",
      "voz": "Voz MASCULINA de senhor de 64 anos, baixa, firme e dolorida, sotaque espanhol.",
      "rosto": "ANDRES: os olhos marejados, o olhar firme.",
      "corpo": "ANDRES: aperta o volante com forca, dirigindo de frente.",
-     "camera": "Corte seco. Close-up de PERFIL de ANDRES ao volante, a FOTO da menina com a FITA PRETA em primeiro plano desfocada, RACK FOCUS da foto para o rosto dele. So ANDRES tem a boca visivel."
+     "camera": "Corte seco. Close-up de PERFIL de ANDRES ao volante, a LUZ VERMELHA da camera de painel em primeiro plano desfocada, RACK FOCUS da luz vermelha para o rosto dele. So ANDRES tem a boca visivel."
     },
     {
      "quem": "VALERIA",
@@ -977,7 +977,6 @@
    "regras_extra": [
     "ANDRES esta DIRIGINDO: fica SEMPRE sentado de frente para o para-brisa, as maos no volante, o corpo e a cabeca virados para a FRENTE. Ele NUNCA se vira para tras; so os OLHOS dele procuram VALERIA pelo RETROVISOR.",
     "FALA DO COMECO AO FIM: o video comeca com ANDRES ja falando e termina na ultima fala de VALERIA, sem plano mudo final.",
-    "A FOTO no painel mostra uma MENINA PEQUENA (uns 6 anos) sorrindo, com a FITA PRETA de luto.",
     "So uma boca visivel por plano: quem fala aparece nitido; o outro fica de costas, desfocado ou so com os olhos no retrovisor.",
     "VALERIA tem voz FEMININA de 35 anos; ANDRES tem voz MASCULINA de 64 anos: nunca trocar as vozes.",
     "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
@@ -987,7 +986,7 @@
     "FRAME_ANDRES",
     "FRAME_VALERIA"
    ],
-   "nota": "v1 e v2 nao passaram (motivo nao informado). v3 sem palavras de morte/acidente."
+   "nota": "v1-v3 recusadas: 'prejudicial a menores' -> a descricao da MENINA de 6 anos na foto + cena de dor. v4 sem menina/foto/filha no prompt."
   }
  ]
 }

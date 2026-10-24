@@ -182,3 +182,4 @@ O fluxo completo, o cardápio de ganchos (VARIAR a cada história; o tapa não �
 - O motorista está DIRIGINDO: sempre de frente para o para-brisa, mãos no volante; NUNCA virado para trás. Só os olhos procuram o passageiro pelo RETROVISOR.
 - NÃO usar Over-the-Shoulder pela nuca do motorista para filmar o banco de trás (o Flow vira o motorista de costas). Para o passageiro: câmera no lugar do passageiro da frente apontada para trás, com só o encosto de cabeça na borda; ou pelo retrovisor. Para o motorista: perfil (do banco do passageiro) ou frontal pelo para-brisa.
 - Nada de travar portas / passageiro preso / medo de ser levado: o Flow recusa como conteúdo prejudicial.
+- NUNCA descrever criança (idade, "menina") em cena de dor, culpa ou crime: o Flow recusa como "prejudicial a menores". Foto de filho(a) falecido(a) = jovem adulto(a) 18+ ou sem foto.

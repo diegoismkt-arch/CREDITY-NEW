@@ -209,3 +209,7 @@ poderoso muda de lado; corta na acusação.
 - La camarera clipe 9 v1: final mudo (Dolly Zoom + taça caindo) saiu bugado e sem emoção para o usuário. Final bom = CONFISSÃO gritada e chorada (frase-bomba) + queda de joelhos + choro; evitar Dolly Zoom e insert de objeto caindo no último clipe.
 - FEEDBACK La camarera (montagem): os closes mudos de reação no fim de TODOS os clipes foram cortados na edição; 9 clipes (90 s) viraram 60 s. Regra nova: fala do início ao fim, sem plano mudo final nem de abertura; reação acontece dentro do plano falado.
 - El taxista clipe 4: Flow RECUSOU ('conteúdo prejudicial') a cena de travar as portas com a passageira presa e com medo (soa sequestro). Evitar: travar portas, 'ela não pode sair', maçaneta que não abre, medo de ser levada. Manter a tensão por diálogo e olhar.
+
+## Recusa "prejudicial a menores" (El taxista, clipe 8)
+- O Flow recusou 3 vezes com "prejudicial a menores" porque o prompt descrevia uma MENINA PEQUENA (6 anos) numa foto, dentro de uma cena de choro/culpa/morte.
+- Regra: NUNCA descrever crianca (idade, "menina", "nina") em prompt de cena tensa, triste ou de crime. Se a historia tem filho(a) morto(a), a foto mostra uma JOVEM ADULTA (18+) ou nao aparece. Nunca colocar "criancas" nem nos negativos.
