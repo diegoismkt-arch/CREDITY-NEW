@@ -164,5 +164,5 @@ Todo clipe usa pelo menos 3 técnicas DIFERENTES de `references/cinematografia.m
 
 ## Continuidade de espaço (pedido do usuário, desde La camarera clipe 4)
 - Os personagens da cena ficam JUNTOS e PERTO (menos de 1 m), sempre nas MESMAS posições e com o MESMO fundo descrito em todos os planos do clipe e dos clipes seguintes.
-- Cada clipe abre com um plano mudo de ~1 s (Two Shot / Three Shot) mostrando todos juntos.
+- Cada clipe abre com um plano mudo de ~1 s (Two Shot / Three Shot) mostrando todos juntos e TERMINA com o close de todos juntos (Three Shot fechado, do peito para cima, bocas fechadas).
 - Nas falas: OVER-THE-SHOULDER fechado — ombro/nuca do ouvinte DESFOCADO em primeiro plano, de COSTAS, sem rosto e sem boca visíveis; quem fala nítido em close. Isso mantém a continuidade sem reabrir o problema de troca de voz (só uma boca visível por plano).

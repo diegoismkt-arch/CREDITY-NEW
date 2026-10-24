@@ -869,9 +869,9 @@ Referências, nesta ordem: 1) FRAME_PAULA; 2) FRAME_CONSUELO; 3) FRAME_ALVARO
       "time": "00:08.77-00:09.87",
       "speaker": "NONE",
       "dialogue": null,
-      "face": "PAULA: os olhos firmes, uma lagrima contida, como quem vai dizer algo terrivel. Boca FECHADA.",
-      "body": "PAULA: respira fundo, o anel apertado no peito.",
-      "camera": "Corte seco. EXTREME CLOSE-UP dos OLHOS de PAULA, camera travada, so um piscar lento. Ninguem fala. O clipe termina neste olhar.",
+      "face": "PAULA: olhar firme, uma lagrima contida. ALVARO: desconfiado, olhando para a mae. CONSUELO: palida, com medo. As TRES bocas FECHADAS.",
+      "body": "Os tres juntos e bem perto, imoveis, nas mesmas posicoes: PAULA na esquerda com o anel no peito, ALVARO no meio, CONSUELO na direita com as maos fora do quadro.",
+      "camera": "Corte seco. THREE SHOT FECHADO: close dos TRES rostos juntos no mesmo quadro, do peito para cima, bem perto um do outro, mesmo fundo do arco ocre e da laranjeira, Slow Dolly In. Ninguem fala. O clipe termina nos tres rostos.",
       "mouths": "Bocas FECHADAS. Ninguem fala."
     }
   ],
@@ -894,7 +894,7 @@ Referências, nesta ordem: 1) FRAME_PAULA; 2) FRAME_CONSUELO; 3) FRAME_ALVARO
       "Os tres ficam JUNTOS, PERTO, no MESMO lugar e no MESMO fundo o clipe inteiro.",
       "Nos planos de fala, so o rosto de quem fala aparece; o ouvinte fica de COSTAS, desfocado, sem rosto e sem boca visiveis.",
       "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
-      "Nenhuma fala no ultimo plano: o clipe termina nos olhos mudos de PAULA.",
+      "Nenhuma fala no ultimo plano: o clipe termina no close dos TRES rostos juntos, todos de boca fechada.",
       "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
     ]
   },
