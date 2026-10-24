@@ -158,3 +158,6 @@ Um longo rende 3 a 5 curtos (cada um com um gancho diferente).
 - Falas em castelhano: "camarera" (não mesera), "ladrona" (não ratera), "vosotros/os", "coger", "vale", "¿qué coño…?" (evitar palavrões fortes), "mamá" ok.
 - Nomes e cenários espanhóis: Pilar, Carmen, Lucía, Álvaro, Javier, Mercedes; fincas/cortijos andaluzes, pisos em Madrid, cafeterias, chiringuitos, bodas e "pedidas de mano".
 - Rostos: espanhóis comuns (pele clara/morena mediterrânea).
+
+## Câmera de cinema SEMPRE (pedido do usuário)
+Todo clipe usa pelo menos 3 técnicas DIFERENTES de `references/cinematografia.md`, escritas pelo nome no campo `camera` (Low Angle no vilão, High Angle na vítima, Insert + Rack Focus no objeto-pista, Crash Zoom In em choque/tapa, Slow Dolly In em tensão, Extreme Close-Up nos olhos em reação, Dutch Angle no segredo, Dolly Zoom 1x por vídeo na revelação máxima). Não repetir "Close-up SOLO" em todos os planos: o "SOLO" (só quem fala no quadro) continua obrigatório, mas o enquadramento e o movimento variam.
