@@ -161,3 +161,8 @@ Um longo rende 3 a 5 curtos (cada um com um gancho diferente).
 
 ## Câmera de cinema SEMPRE (pedido do usuário)
 Todo clipe usa pelo menos 3 técnicas DIFERENTES de `references/cinematografia.md`, escritas pelo nome no campo `camera` (Low Angle no vilão, High Angle na vítima, Insert + Rack Focus no objeto-pista, Crash Zoom In em choque/tapa, Slow Dolly In em tensão, Extreme Close-Up nos olhos em reação, Dutch Angle no segredo, Dolly Zoom 1x por vídeo na revelação máxima). Não repetir "Close-up SOLO" em todos os planos: o "SOLO" (só quem fala no quadro) continua obrigatório, mas o enquadramento e o movimento variam.
+
+## Continuidade de espaço (pedido do usuário, desde La camarera clipe 4)
+- Os personagens da cena ficam JUNTOS e PERTO (menos de 1 m), sempre nas MESMAS posições e com o MESMO fundo descrito em todos os planos do clipe e dos clipes seguintes.
+- Cada clipe abre com um plano mudo de ~1 s (Two Shot / Three Shot) mostrando todos juntos.
+- Nas falas: OVER-THE-SHOULDER fechado — ombro/nuca do ouvinte DESFOCADO em primeiro plano, de COSTAS, sem rosto e sem boca visíveis; quem fala nítido em close. Isso mantém a continuidade sem reabrir o problema de troca de voz (só uma boca visível por plano).
