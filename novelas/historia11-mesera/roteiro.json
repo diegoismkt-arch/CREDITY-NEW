@@ -2,7 +2,7 @@
   "idioma": "espanha",
   "titulo_post": "La humilló delante de todos… sin saber que la camarera guardaba el secreto de la abuela 😱",
   "legenda": "La abofeteó delante de todos por una copa de vino… 💔\n\nPero cuando la camarera se agachó a recoger los cristales, apareció el anillo de la abuela. Y con él, un secreto.\n\n«Dile a mi nieto que no se fíe de su madre.» 😱\n\nSi fueras Álvaro… ¿perdonarías a tu madre o la denunciarías? 👇\n\n#historias #novela #drama #justicia #reflexiones #lahistoriaprincipal",
-  "texto_final": "",
+  "texto_final": "¿Tú la perdonarías? 👇",
   "titulo_interno": "LA CAMARERA",
   "estilo": "Novela dramatica cinematografica espanhola. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos espanhois com imperfeicoes reais, textura real de pele. Patio de uma finca andaluza perto de Sevilha, de NOITE, numa festa de noivado: paredes brancas caiadas, arcos, laranjeiras, varal de luzinhas quentes, mesas com toalhas brancas e velas, convidados elegantes desfocados ao fundo. Luz quente e dourada. Shallow Focus, cortes rapidos.",
   "imagens": {
@@ -964,6 +964,7 @@
       "som": "Silencio absoluto no patio; a voz fria de ALVARO; o grito de ALVARO; o grito e o choro desesperado de CONSUELO ecoando; murmurios chocados dos convidados; no fim, o choro de CONSUELO e um TUM grave.",
       "remover_negativos": [
         "dois rostos visiveis nos planos de fala",
+        "personagem falando de frente para a camera",
         "atuacao contida"
       ],
       "negativos_extra": [
@@ -977,7 +978,6 @@
         "voz feminina na fala de alvaro",
         "sotaque latino-americano",
         "sotaque mexicano",
-        "personagem falando de frente para a camera",
         "legendas embutidas",
         "subtitles",
         "captions",
@@ -993,14 +993,15 @@
         "efeitos de distorcao",
         "taca caindo",
         "atuacao fria",
-        "rostos sem lagrimas"
+        "rostos sem lagrimas",
+        "alguem alem de PAULA olhando para a camera"
       ],
       "planos": [
         {
           "rosto": "ALVARO frio; CONSUELO assustada; PAULA firme. Bocas FECHADAS.",
           "corpo": "O video ABRE na composicao da imagem 1 e a acao continua: ALVARO da mais um passo e fica cara a cara com a mae.",
           "camera": "Plano de abertura: comeca no enquadramento da imagem 1 com um SLOW DOLLY IN. Ninguem fala.",
-          "segundos": 0.6
+          "segundos": 0.4
         },
         {
           "quem": "ALVARO",
@@ -1013,13 +1014,7 @@
           "rosto": "ALVARO: os olhos vermelhos e marejados, a mandibula travada.",
           "corpo": "ALVARO: ergue o anel da avo diante do rosto da mae.",
           "camera": "Corte seco. OVER-THE-SHOULDER: o ombro e a nuca loira de CONSUELO DESFOCADOS em primeiro plano na DIREITA, de costas, sem rosto e sem boca; ALVARO nitido em Close-up, lente 85mm.",
-          "segundos": 2.6
-        },
-        {
-          "rosto": "CONSUELO: os labios tremem, os olhos se enchem de lagrimas, ela nega com a cabeca. Boca FECHADA.",
-          "corpo": "CONSUELO: o queixo tremendo, as maos fora do quadro.",
-          "camera": "Corte seco. Close-up de CONSUELO, camera travada, o ombro de ALVARO desfocado na borda ESQUERDA, de costas. Ninguem fala.",
-          "segundos": 0.8
+          "segundos": 2.0
         },
         {
           "quem": "ALVARO",
@@ -1045,13 +1040,28 @@
           "rosto": "CONSUELO: o rosto se desfaz em choro, vermelho, a maquiagem borrando com as lagrimas, a boca torcida de dor.",
           "corpo": "CONSUELO: o corpo se dobra para frente, soluçando.",
           "camera": "Corte seco. OVER-THE-SHOULDER: o ombro do terno azul de ALVARO DESFOCADO em primeiro plano na ESQUERDA, de costas, sem rosto e sem boca; CONSUELO nitida em Close-up, HANDHELD tremido, lente 85mm. As MAOS de CONSUELO fora do quadro.",
-          "segundos": 3.1
+          "segundos": 2.9
         },
         {
-          "rosto": "ALVARO: destruido, lagrimas escorrendo, a boca aberta sem som. PAULA: as maos cobrindo a boca, chorando. CONSUELO: chorando de joelhos. As TRES bocas sem falar.",
-          "corpo": "CONSUELO cai de JOELHOS no chao de pedra, chorando; ALVARO da um passo para tras, cambaleando, o anel apertado contra o peito; PAULA leva as maos a boca.",
-          "camera": "Corte seco. THREE SHOT de cima, HIGH ANGLE leve, SLOW CRANE UP se afastando dos tres, CONSUELO de joelhos no centro. Ninguem fala: so o choro. O VIDEO TERMINA neste plano.",
-          "segundos": 1.5
+          "quem": "PAULA",
+          "para": "CAMERA",
+          "fala": "¿Tú la perdonarías? Escríbelo en los comentarios.",
+          "emocao": 9,
+          "olha_para_camera": true,
+          "eyeline": "PAULA vira o rosto e olha DIRETO para a LENTE, para o publico.",
+          "intencao": "Fazer ao publico uma pergunta sincera e dolorosa, com lagrimas nos olhos.",
+          "voz": "Voz FEMININA jovem, baixa, emocionada, sotaque espanhol. NUNCA voz de homem.",
+          "rosto": "PAULA: lagrimas escorrendo, um olhar firme e triste direto para a camera.",
+          "corpo": "PAULA: em primeiro plano; atras dela, DESFOCADOS, CONSUELO cai de joelhos chorando e ALVARO recua com o anel no peito.",
+          "camera": "Corte seco. Close-up de PAULA olhando para a lente, SLOW DOLLY IN, CONSUELO de joelhos e ALVARO desfocados ao fundo, de boca fechada. So PAULA tem a boca visivel e nitida.",
+          "segundos": 2.6
+        },
+        {
+          "rosto": "PAULA: segura o olhar para a lente, uma lagrima caindo. Boca FECHADA.",
+          "corpo": "PAULA imovel; ao fundo, desfocados, CONSUELO chora de joelhos.",
+          "camera": "Mesmo close de PAULA, camera travada. Ninguem fala. O VIDEO TERMINA neste olhar.",
+          "olha_para_camera": true,
+          "segundos": 0.5
         }
       ],
       "regras_extra": [
@@ -1060,8 +1070,8 @@
         "Nos planos de fala, so o rosto de quem fala aparece; o ouvinte fica de COSTAS, desfocado, sem rosto e sem boca visiveis.",
         "A fala de CONSUELO e com voz FEMININA de senhora, chorando.",
         "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
-        "Nenhuma fala no ultimo plano: o video termina no choro, de cima.",
-        "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+        "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela.",
+        "So no ULTIMO plano PAULA olha para a camera e faz a pergunta ao publico; em todos os outros planos ninguem olha para a camera."
       ],
       "primeiro_frame": true
     }
