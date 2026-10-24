@@ -860,7 +860,7 @@
   },
   {
    "nome": "A confissao",
-   "atuacao": "Drama emocional no auge, FALA DO COMECO AO FIM. ANDRES lembra os dias no hospital com dor contida e a voz embargada, sempre dirigindo. VALERIA desaba: chora de verdade, a culpa explode e ela confessa. Rostos expressivos, lagrimas reais, ninguem fica parado.",
+   "atuacao": "Drama emocional, FALA DO COMECO AO FIM. ANDRES lembra a espera pela filha com tristeza e a voz embargada, sempre dirigindo. VALERIA se emociona, chora e admite que foi ela, arrependida. Rostos expressivos, olhos marejados, ninguem fica parado.",
    "personagens": [
     "VALERIA",
     "ANDRES"
@@ -879,8 +879,8 @@
     "Nenhum letreiro, placa, taximetro com numeros, logotipo ou letra em lugar nenhum.",
     "O celular de VALERIA fica parado no colo dela, tela apagada."
    ],
-   "cenario": "Continuacao, dentro do taxi na chuva, de noite numa rua tranquila de Madrid. ANDRES conta a espera no hospital; VALERIA desaba e confessa.",
-   "som": "A chuva no teto; os limpadores; o motor baixo; o choro de VALERIA; sem musica.",
+   "cenario": "Continuacao, dentro do taxi na chuva, de noite numa rua tranquila de Madrid. ANDRES lembra a filha; VALERIA, emocionada, admite a verdade.",
+   "som": "A chuva no teto; os limpadores; o motor baixo; sem musica.",
    "remover_negativos": [
     "dois rostos visiveis nos planos de fala",
     "atuacao contida"
@@ -922,21 +922,18 @@
     "letreiro com letras",
     "valeria abrindo a porta",
     "maos na macaneta",
-    "porta do carro aberta",
-    "hospital na tela",
-    "flashback",
-    "cena fora do taxi"
+    "porta do carro aberta"
    ],
    "planos": [
     {
      "quem": "ANDRES",
      "para": "VALERIA",
-     "fala": "Tres días en el hospital esperando a que despertara.",
+     "fala": "La esperé tres días. No volvió a despertar.",
      "emocao": 9,
      "eyeline": "ANDRES olha para a rua a frente e depois para o RETROVISOR, para VALERIA. NAO olha para a camera.",
-     "intencao": "Lembrar a dor, devagar, cada palavra pesando.",
+     "intencao": "Lembrar a perda, devagar e com tristeza.",
      "voz": "Voz MASCULINA de senhor de 64 anos, baixa, rouca e embargada, sotaque espanhol.",
-     "rosto": "ANDRES: lagrimas nos olhos, o queixo tremendo de leve.",
+     "rosto": "ANDRES: olhos marejados, o olhar distante.",
      "corpo": "ANDRES: as duas maos no volante, dirigindo de frente.",
      "camera": "Plano de abertura: Close-up frontal de ANDRES com a camera DENTRO do carro, apoiada no PAINEL, apontada para ele; as luzes da rua passando no rosto dele; SLOW DOLLY IN. So ANDRES tem a boca visivel."
     },
@@ -948,7 +945,7 @@
      "eyeline": "VALERIA olha para baixo e depois para ANDRES, entre os bancos. NAO olha para a camera.",
      "intencao": "Implorar que ele pare de contar, sem aguentar ouvir.",
      "voz": "Voz FEMININA de mulher de 35 anos, baixa e quebrada, chorosa, sotaque espanhol. NUNCA voz de homem.",
-     "rosto": "VALERIA: lagrimas escorrendo, a maquiagem borrada, os olhos fechando de dor.",
+     "rosto": "VALERIA: olhos cheios de lagrimas, o rosto abatido.",
      "corpo": "VALERIA: encolhida no banco de TRAS, balancando a cabeca devagar.",
      "camera": "Corte seco. Close-up de VALERIA no banco de TRAS, filmada de frente por entre os dois bancos da frente, os encostos desfocados nas bordas; SLOW PUSH IN. So VALERIA tem a boca visivel."
     },
@@ -958,23 +955,23 @@
      "fala": "Nadie paró. Nadie llamó.",
      "emocao": 10,
      "eyeline": "ANDRES olha para a FOTO no painel e depois para o RETROVISOR, para VALERIA. NAO olha para a camera.",
-     "intencao": "Dizer a frase mais dolorosa, firme, como uma acusacao serena.",
+     "intencao": "Dizer com tristeza serena e firme.",
      "voz": "Voz MASCULINA de senhor de 64 anos, baixa, firme e dolorida, sotaque espanhol.",
-     "rosto": "ANDRES: uma lagrima desce pelo rosto; a mandibula travada.",
+     "rosto": "ANDRES: uma lagrima desce pelo rosto, o olhar firme.",
      "corpo": "ANDRES: aperta o volante com forca, dirigindo de frente.",
      "camera": "Corte seco. Close-up de PERFIL de ANDRES ao volante, a FOTO da menina com a FITA PRETA em primeiro plano desfocada, RACK FOCUS da foto para o rosto dele. So ANDRES tem a boca visivel."
     },
     {
      "quem": "VALERIA",
      "para": "ANDRES",
-     "fala": "¡Fue un accidente! ¡Yo había bebido!",
-     "emocao": 10,
+     "fala": "Fue un accidente… Tuve tanto miedo.",
+     "emocao": 9,
      "eyeline": "VALERIA olha para a frente, para ANDRES, chorando. NAO olha para a camera.",
-     "intencao": "Confessar de uma vez, chorando, a culpa explodindo.",
-     "voz": "Voz FEMININA de mulher de 35 anos, alta e chorando, sotaque espanhol. NUNCA voz de homem.",
-     "rosto": "VALERIA: rosto banhado em lagrimas, a boca tremendo, os olhos vermelhos.",
-     "corpo": "VALERIA: o corpo se curva para a frente no banco de TRAS, soluçando.",
-     "camera": "Corte seco. Close-up de VALERIA no banco de TRAS, a camera no lugar do PASSAGEIRO DA FRENTE (vazio) apontada para tras; HANDHELD, CRASH ZOOM no rosto dela na palavra bebido. So VALERIA tem a boca visivel."
+     "intencao": "Admitir a verdade, arrependida, chorando baixinho.",
+     "voz": "Voz FEMININA de mulher de 35 anos, embargada e chorosa, sotaque espanhol. NUNCA voz de homem.",
+     "rosto": "VALERIA: lagrimas escorrendo, a boca tremendo, olhar de arrependimento.",
+     "corpo": "VALERIA: abaixa a cabeca no banco de TRAS e depois volta a olhar para a frente.",
+     "camera": "Corte seco. Close-up de VALERIA no banco de TRAS, a camera no lugar do PASSAGEIRO DA FRENTE (vazio) apontada para tras; HANDHELD leve, SLOW PUSH IN ate o rosto dela. So VALERIA tem a boca visivel."
     }
    ],
    "regras_extra": [
@@ -989,7 +986,8 @@
    "imagens": [
     "FRAME_ANDRES",
     "FRAME_VALERIA"
-   ]
+   ],
+   "nota": "v1 nao passou (provavel filtro: bebido/hospital/acusacao). v2 suavizada."
   }
  ]
 }
