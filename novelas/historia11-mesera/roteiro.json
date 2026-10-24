@@ -241,6 +241,117 @@
         "O anel fica SO no cordao de PAULA.",
         "Nenhuma fala no ultimo plano: o clipe termina no rosto mudo e palido de CONSUELO.",
         "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+      ],
+      "nota": "Aproveitado cortando em 8,3 s (o plano final saiu com o anel no dedo de CONSUELO)."
+    },
+    {
+      "nome": "Ladrona",
+      "atuacao": "Novela dramatica, EMOCAO MAXIMA. CONSUELO em panico disfarcado de raiva. ALVARO exigente, em choque. PAULA se levanta do chao pela primeira vez, firme, segurando o anel com forca. Rostos muito expressivos. Nenhum momento parado.",
+      "imagens": [
+        "FRAME_PAULA",
+        "FRAME_CONSUELO",
+        "FRAME_ALVARO"
+      ],
+      "personagens": [
+        "CONSUELO",
+        "ALVARO",
+        "PAULA"
+      ],
+      "posicoes": {
+        "CONSUELO": "de pe, sozinha nos planos dela, as MAOS sempre FORA do quadro",
+        "ALVARO": "de pe, sozinho no plano dele",
+        "PAULA": "se levantando do chao, sozinha nos planos dela"
+      },
+      "preservar_extra": [
+        "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
+        "A MESMA PAULA da imagem 1, a MESMA DONA CONSUELO da imagem 2 (com a mancha de vinho no vestido marfim) e o MESMO ALVARO da imagem 3.",
+        "O ANEL: um anel antigo de OURO com ESMERALDA verde quadrada, pendurado num cordao fino de ouro no pescoco de PAULA. Existe UM UNICO anel e ele fica SO com PAULA.",
+        "CONSUELO NAO usa nenhuma joia: dedos SEM aneis, sem colar. As maos de CONSUELO NAO aparecem neste clipe.",
+        "A bochecha esquerda de PAULA continua VERMELHA do tapa.",
+        "Nenhum letreiro, cartaz ou letra em lugar nenhum."
+      ],
+      "cenario": "Continuacao, no patio da finca em Sevilha, de noite. ALVARO acabou de reconhecer no cordao de PAULA o anel de esmeralda da avo dele. CONSUELO, assustada, tenta virar o jogo acusando a camareira de roubo.",
+      "som": "Os convidados em silencio total; um zumbido baixo de tensao; batidas de coracao; a voz de CONSUELO ecoando no patio; no fim, silencio.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida"
+      ],
+      "negativos_extra": [
+        "anel no dedo de consuelo",
+        "maos de consuelo",
+        "anel em alvaro",
+        "dois aneis",
+        "colar em consuelo",
+        "dois personagens no quadro quando alguem fala",
+        "voz masculina nas falas femininas",
+        "voz feminina na fala de alvaro",
+        "sotaque latino-americano",
+        "sotaque mexicano",
+        "personagem falando de frente para a camera",
+        "legendas embutidas",
+        "subtitles",
+        "captions",
+        "texto das falas escrito na tela",
+        "letras brancas na parte de baixo do video",
+        "letras na tela"
+      ],
+      "planos": [
+        {
+          "rosto": "CONSUELO: os olhos ARREGALADOS de medo, a pupila tremendo, piscando rapido. Boca FECHADA.",
+          "corpo": "CONSUELO: imovel, prende a respiracao.",
+          "camera": "Plano de abertura: EXTREME CLOSE-UP dos OLHOS de CONSUELO, do meio da testa ate o nariz, camera travada, so um piscar nervoso. Ninguem fala.",
+          "segundos": 1.0
+        },
+        {
+          "quem": "ALVARO",
+          "para": "PAULA",
+          "fala": "¿De dónde has sacado ese anillo?",
+          "emocao": 10,
+          "eyeline": "ALVARO olha para BAIXO e para a ESQUERDA do quadro, para PAULA. NAO olha para a camera.",
+          "intencao": "Exigir uma resposta, em choque.",
+          "voz": "Voz masculina grave, firme, tensa, sotaque espanhol.",
+          "rosto": "ALVARO: a testa franzida, os olhos fixos no anel.",
+          "corpo": "ALVARO: deixa a taca numa mesa e da dois passos a frente.",
+          "camera": "Corte seco. Medium Close-up SOLO de ALVARO, so ele no quadro, DOLLY IN acompanhando os passos dele, lente 50mm, luzinhas em bokeh atras."
+        },
+        {
+          "quem": "PAULA",
+          "para": "ALVARO",
+          "fala": "Me lo dio ella.",
+          "emocao": 9,
+          "eyeline": "PAULA olha para CIMA e para a DIREITA do quadro, para ALVARO. NAO olha para a camera.",
+          "intencao": "Responder com calma e verdade, pela primeira vez sem medo.",
+          "voz": "Voz FEMININA jovem, baixa e firme, sotaque espanhol. NUNCA voz de homem.",
+          "rosto": "PAULA: as lagrimas param, o olhar fica firme.",
+          "corpo": "PAULA: se levanta devagar do chao, a mao fechada com forca em volta do anel no cordao.",
+          "camera": "Corte seco. LOW ANGLE de PAULA se levantando, SOLO, so ela no quadro, a camera baixa mostrando ela crescer no quadro, lente 35mm.",
+          "segundos": 1.9
+        },
+        {
+          "quem": "CONSUELO",
+          "para": "PAULA",
+          "fala": "¡Ladrona! Ese anillo desapareció el día que murió.",
+          "emocao": 10,
+          "eyeline": "CONSUELO olha para a ESQUERDA do quadro, para PAULA. NAO olha para a camera.",
+          "intencao": "Acusar aos gritos para esconder o proprio medo.",
+          "voz": "Voz feminina rouca de senhora, GRITANDO, histerica, sotaque espanhol.",
+          "rosto": "CONSUELO: furia nervosa, os olhos brilhando de panico.",
+          "corpo": "CONSUELO: inclina o corpo para frente, o queixo tremendo.",
+          "camera": "Corte seco. DUTCH ANGLE de CONSUELO, camera girada 20 graus, horizonte em diagonal, Close-up SOLO do rosto e ombros, as MAOS FORA do quadro, lente 50mm."
+        },
+        {
+          "rosto": "PAULA: o olhar firme, desafiador, sem lagrimas. Boca FECHADA.",
+          "corpo": "PAULA: o punho fechado em volta do anel junto ao peito.",
+          "camera": "Corte seco. INSERT do punho de PAULA apertando o anel de esmeralda no cordao, nitido; RACK FOCUS para o rosto firme dela atras. Camera travada. Ninguem fala. O clipe termina neste rosto.",
+          "segundos": 1.3
+        }
+      ],
+      "regras_extra": [
+        "Cada fala aparece com SO quem fala no quadro.",
+        "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
+        "O anel fica SO com PAULA; as maos de CONSUELO nao aparecem.",
+        "Nenhuma fala no ultimo plano: o clipe termina no rosto mudo de PAULA.",
+        "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
       ]
     }
   ]

@@ -205,3 +205,4 @@ poderoso muda de lado; corta na acusação.
 - Mesmo com close solo, a fala de defesa da moça saiu com voz do homem 2x quando vinha DEPOIS do grito dele. Correção: a vítima fala PRIMEIRO logo após o tapa ("¡Yo no robé nada, señor!" — o 'señor' marca quem fala), e o vilão responde depois.
 - Plano final aberto/frontal de corpo inteiro (Low Angle de joelhos) trocou o rosto e a roupa da Lucía (outra mulher, coque, manga comprida). Em plano de reação final, usar Medium Close-up e repetir tranca + manga curta.
 - Clipe 7 saiu com legenda embutida (3 falas, uma longa). Correção: 'VIDEO LIMPO, SEM LEGENDAS' no topo do preserve + regra + negativos (subtitles, captions, texto das falas na tela).
+- La camarera clipe 2: plano final 'a mao vai ao pescoco' de CONSUELO fez o ANEL aparecer no dedo dela (mesmo com negativo). Correção: nos planos da vilã, MAOS FORA DO QUADRO quando existe um objeto-pista em cena; usar Extreme Close-Up dos olhos.
