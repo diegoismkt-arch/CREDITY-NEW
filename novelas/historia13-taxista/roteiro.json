@@ -986,7 +986,132 @@
     "FRAME_ANDRES",
     "FRAME_VALERIA"
    ],
-   "nota": "v1-v3 recusadas: 'prejudicial a menores' -> a descricao da MENINA de 6 anos na foto + cena de dor. v4 sem menina/foto/filha no prompt."
+   "nota": "v4 PASSOU (sem crianca no prompt)."
+  },
+  {
+   "nome": "FINAL - A gravacao",
+   "atuacao": "Final de impacto, FALA DO COMECO AO FIM. ANDRES revela, sereno e firme, quem ele e. O taxi PARA devagar; la fora, uma luz AZUL pisca na chuva. VALERIA percebe onde estao e fica sem chao. ANDRES fecha com calma e dignidade, olhando a luz vermelha da camera do painel. Rostos expressivos, ninguem fica parado.",
+   "personagens": [
+    "VALERIA",
+    "ANDRES"
+   ],
+   "posicoes": {
+    "ANDRES": "no banco do MOTORISTA, na frente, a ESQUERDA, as duas maos no volante",
+    "VALERIA": "no banco de TRAS, a DIREITA, encostada no banco de tras, com o celular no colo. O banco do passageiro da FRENTE esta VAZIO."
+   },
+   "preservar_extra": [
+    "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
+    "ANDRES esta DIRIGINDO: fica SEMPRE sentado de frente para o para-brisa, as maos no volante, o corpo e a cabeca virados para a FRENTE. Ele NUNCA se vira para tras; so os OLHOS dele procuram VALERIA pelo RETROVISOR.",
+    "VALERIA fica o video TODO no banco de TRAS. O banco do passageiro da FRENTE esta SEMPRE VAZIO. Ninguem senta ao lado de ANDRES.",
+    "A camera fica SEMPRE DENTRO do taxi. Nunca filmar de fora do carro; o teto e o luminoso do taxi nunca aparecem.",
+    "O MESMO ANDRES da imagem 1 e a MESMA VALERIA da imagem 2, com as mesmas roupas, dentro do MESMO taxi, nos mesmos lugares.",
+    "Nenhum letreiro, placa, taximetro com numeros, logotipo ou letra em lugar nenhum.",
+    "O celular de VALERIA fica parado no colo dela, tela apagada.",
+    "NO PAINEL do taxi: uma pequena CAMERA de painel (dashcam) com uma LUZ VERMELHA acesa piscando. Nenhuma foto no painel."
+   ],
+   "cenario": "Continuacao e FINAL, dentro do taxi na chuva, de noite em Madrid. O taxi para devagar diante de um predio com uma luz AZUL piscando na chuva.",
+   "som": "A chuva no teto; o motor desacelerando ate parar; o freio de mao; o pisca-alerta clicando; sem musica.",
+   "remover_negativos": [
+    "dois rostos visiveis nos planos de fala",
+    "atuacao contida"
+   ],
+   "negativos_extra": [
+    "duas vozes ao mesmo tempo",
+    "voz masculina nas falas de valeria",
+    "voz feminina nas falas de andres",
+    "rosto ou boca do ouvinte visivel nos planos de fala",
+    "personagem falando de frente para a camera",
+    "taximetro com numeros",
+    "letras ou numeros no painel",
+    "sotaque latino-americano",
+    "sotaque mexicano",
+    "legendas embutidas",
+    "subtitles",
+    "captions",
+    "texto das falas escrito na tela",
+    "letras brancas na parte de baixo do video",
+    "letras na tela",
+    "personagens parados como estatuas",
+    "dia claro",
+    "carro diferente de taxi",
+    "garrafa",
+    "motorista virado para tras",
+    "motorista de costas para o para-brisa",
+    "motorista olhando para o banco de tras com o corpo virado",
+    "nuca do motorista em primeiro plano",
+    "celular na orelha",
+    "valeria no banco da frente",
+    "passageira sentada ao lado do motorista",
+    "banco do passageiro da frente ocupado",
+    "maos soltas sem corpo",
+    "bracos saindo de baixo do espelho",
+    "camera fora do carro",
+    "teto do taxi",
+    "luminoso do taxi",
+    "letreiro com letras",
+    "valeria abrindo a porta",
+    "maos na macaneta",
+    "porta do carro aberta",
+    "fotos no painel",
+    "dolly zoom",
+    "objetos caindo",
+    "policiais",
+    "algemas",
+    "placa de delegacia",
+    "letreiro policia",
+    "sirene alta"
+   ],
+   "planos": [
+    {
+     "quem": "ANDRES",
+     "para": "VALERIA",
+     "fala": "La joven de la Castellana era mi hija.",
+     "emocao": 10,
+     "eyeline": "ANDRES olha para o RETROVISOR, fixo em VALERIA. NAO olha para a camera.",
+     "intencao": "Revelar a verdade, devagar, com dor e firmeza.",
+     "voz": "Voz MASCULINA de senhor de 64 anos, baixa, rouca e firme, sotaque espanhol.",
+     "rosto": "ANDRES: os olhos marejados e fixos, a mandibula travada.",
+     "corpo": "ANDRES: reduz a velocidade, as duas maos no volante, dirigindo de frente.",
+     "camera": "Plano de abertura: EXTREME CLOSE-UP dos OLHOS de ANDRES refletidos no RETROVISOR central e, em seguida, PULL BACK para o close frontal dele com a camera DENTRO do carro, apoiada no PAINEL. So ANDRES tem a boca visivel."
+    },
+    {
+     "quem": "VALERIA",
+     "para": "ANDRES",
+     "fala": "¿Dónde estamos? ¿Por qué para?",
+     "emocao": 9,
+     "eyeline": "VALERIA olha pela janela, para a luz azul la fora, e depois para ANDRES. NAO olha para a camera.",
+     "intencao": "Perguntar assustada, percebendo onde estao.",
+     "voz": "Voz FEMININA de mulher de 35 anos, baixa, tremula e assustada, sotaque espanhol. NUNCA voz de homem.",
+     "rosto": "VALERIA: a luz AZUL piscando no rosto palido, olhos arregalados, maquiagem borrada.",
+     "corpo": "VALERIA: vira o rosto para a janela do banco de TRAS e volta para a frente, sem fôlego.",
+     "camera": "Corte seco. Close-up de VALERIA no banco de TRAS, a camera no lugar do PASSAGEIRO DA FRENTE (vazio) apontada para tras; pela janela molhada atras dela a luz AZUL pisca; SLOW PUSH IN. So VALERIA tem a boca visivel."
+    },
+    {
+     "quem": "ANDRES",
+     "para": "VALERIA",
+     "fala": "En la comisaría. Y todo lo que ha dicho… está grabado.",
+     "emocao": 10,
+     "eyeline": "ANDRES olha para a pequena camera de painel e depois para o RETROVISOR, para VALERIA. NAO olha para a camera de filmagem.",
+     "intencao": "Encerrar com calma absoluta, justica feita, dor e alivio.",
+     "voz": "Voz MASCULINA de senhor de 64 anos, baixa, serena e definitiva, sotaque espanhol.",
+     "rosto": "ANDRES: uma lagrima desce, um leve aceno de cabeca, o rosto em paz.",
+     "corpo": "ANDRES: puxa o freio de mao com calma e olha a LUZ VERMELHA da camera do painel; continua sentado de frente.",
+     "camera": "Corte seco. Close-up de PERFIL de ANDRES ao volante; em primeiro plano a pequena camera de painel com a LUZ VERMELHA piscando; RACK FOCUS da luz vermelha para o rosto dele; a luz AZUL de fora pisca no rosto dele. So ANDRES tem a boca visivel."
+    }
+   ],
+   "regras_extra": [
+    "ANDRES esta DIRIGINDO: fica SEMPRE sentado de frente para o para-brisa, as maos no volante, o corpo e a cabeca virados para a FRENTE. Ele NUNCA se vira para tras; so os OLHOS dele procuram VALERIA pelo RETROVISOR.",
+    "FALA DO COMECO AO FIM: o video comeca com ANDRES ja falando e termina na ultima fala de ANDRES, sem plano mudo final.",
+    "O taxi PARA devagar no meio do video. La fora so uma LUZ AZUL piscando na chuva, sem placas e sem letras.",
+    "So uma boca visivel por plano: quem fala aparece nitido; o outro fica de costas, desfocado ou so com os olhos no retrovisor.",
+    "VALERIA tem voz FEMININA de 35 anos; ANDRES tem voz MASCULINA de 64 anos: nunca trocar as vozes.",
+    "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
+    "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+   ],
+   "imagens": [
+    "FRAME_ANDRES",
+    "FRAME_VALERIA"
+   ]
   }
  ]
 }
