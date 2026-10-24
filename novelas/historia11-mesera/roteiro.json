@@ -1,7 +1,7 @@
 {
   "idioma": "espanha",
   "titulo_post": "La humilló delante de todos… sin saber que la camarera guardaba el secreto de la abuela 😱",
-  "legenda": "",
+  "legenda": "La abofeteó delante de todos por una copa de vino… 💔\n\nPero cuando la camarera se agachó a recoger los cristales, apareció el anillo de la abuela. Y con él, un secreto.\n\n«Dile a mi nieto que no se fíe de su madre.» 👀\n\n¿Dónde estaba Doña Consuelo aquella noche? ¿Qué harías tú si fueras Álvaro? 👇\n\n#historias #novela #drama #justicia #reflexiones #lahistoriaprincipal",
   "texto_final": "",
   "titulo_interno": "LA CAMARERA",
   "estilo": "Novela dramatica cinematografica espanhola. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos espanhois com imperfeicoes reais, textura real de pele. Patio de uma finca andaluza perto de Sevilha, de NOITE, numa festa de noivado: paredes brancas caiadas, arcos, laranjeiras, varal de luzinhas quentes, mesas com toalhas brancas e velas, convidados elegantes desfocados ao fundo. Luz quente e dourada. Shallow Focus, cortes rapidos.",
@@ -11,7 +11,8 @@
     "FRAME_ALVARO": "frame do clipe 1, plano 5 (por volta do segundo 9,5): close de ALVARO de terno azul-marinho e camisa branca.",
     "FRAME_FIM5": "ULTIMO frame do clipe 5: close dos TRES juntos (PAULA esquerda, ALVARO meio, CONSUELO direita) diante do arco ocre e da laranjeira.",
     "FRAME_FIM6": "ULTIMO frame do clipe 6: os TRES juntos (PAULA esquerda, ALVARO meio, CONSUELO direita) diante do arco ocre e da laranjeira.",
-    "FRAME_FIM7": "ULTIMO frame do clipe 7: PAULA na esquerda, ALVARO no meio segurando o anel, CONSUELO na direita, no patio com arco ocre, laranjeira e lampiao."
+    "FRAME_FIM7": "ULTIMO frame do clipe 7: PAULA na esquerda, ALVARO no meio segurando o anel, CONSUELO na direita, no patio com arco ocre, laranjeira e lampiao.",
+    "FRAME_FIM8": "ULTIMO frame do clipe 8: ALVARO de frente para CONSUELO diante do arco ocre, PAULA atras na esquerda, de corpo inteiro no chao de pedra do patio."
   },
   "personagens": {
     "PAULA": {
@@ -930,6 +931,126 @@
         "Nos planos de fala, so o rosto de quem fala aparece; o ouvinte fica de COSTAS, desfocado, sem rosto e sem boca visiveis.",
         "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
         "Nenhuma fala no ultimo plano: o clipe termina nos TRES juntos, numa composicao e angulo DIFERENTES do primeiro frame, com movimento.",
+        "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+      ],
+      "primeiro_frame": true
+    },
+    {
+      "nome": "¿Dónde estabas aquella noche?",
+      "atuacao": "Novela dramatica, EMOCAO MAXIMA, FINAL. ALVARO frio e devastado, encarando a mae. CONSUELO abre a boca para se defender e NAO consegue dizer nada: o rosto desmorona de medo e culpa. PAULA observa firme. Tensao maxima ate o ultimo segundo. Rostos muito expressivos.",
+      "imagens": [
+        "FRAME_FIM8"
+      ],
+      "personagens": [
+        "PAULA",
+        "ALVARO",
+        "CONSUELO"
+      ],
+      "posicoes": {
+        "ALVARO": "no MEIO, de frente para CONSUELO, bem perto dela",
+        "CONSUELO": "na DIREITA, de costas para o arco",
+        "PAULA": "na ESQUERDA, um passo atras de ALVARO"
+      },
+      "preservar_extra": [
+        "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
+        "A imagem 1 e o PRIMEIRO FRAME do video: os MESMOS tres rostos, roupas e fundo dessa imagem do comeco ao fim; as posicoes mudam so com os movimentos descritos.",
+        "OS TRES ESTAO JUNTOS, PERTO UM DO OUTRO, no MESMO canto do patio, e se MOVEM durante o clipe como descrito nos planos. Fundo SEMPRE o mesmo: o arco de parede branca caiada com moldura amarelo-ocre e uma laranjeira ao lado, luzinhas quentes penduradas, convidados desfocados.",
+        "O ANEL: anel antigo de OURO com ESMERALDA verde num cordao de ouro, na MAO de ALVARO (nao no dedo). Existe UM UNICO anel. CONSUELO nunca toca no anel.",
+        "CONSUELO NAO usa nenhuma joia: dedos SEM aneis. As maos dela ficam FORA do quadro.",
+        "A bochecha esquerda de PAULA continua VERMELHA do tapa.",
+        "Nenhum letreiro, cartaz ou letra em lugar nenhum."
+      ],
+      "cenario": "Final, continuacao EXATA do ultimo frame do clipe anterior, diante do arco do patio da finca em Sevilha, de noite. ALVARO, com o anel da avo na mao, pergunta a mae onde ela estava na noite em que a avo caiu da escada.",
+      "som": "Silencio absoluto no patio; a voz fria de ALVARO; um zumbido agudo crescendo; o ESTALO de uma taca de cristal se espatifando no chao de pedra, com eco; no fim, silencio total e um TUM grave.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida"
+      ],
+      "negativos_extra": [
+        "personagens em lugares diferentes",
+        "fundo diferente entre os planos",
+        "personagens longe um do outro",
+        "rosto ou boca do ouvinte visivel nos planos de fala",
+        "anel no dedo de consuelo",
+        "dois aneis",
+        "voz masculina nas falas femininas",
+        "voz feminina na fala de alvaro",
+        "sotaque latino-americano",
+        "sotaque mexicano",
+        "personagem falando de frente para a camera",
+        "legendas embutidas",
+        "subtitles",
+        "captions",
+        "texto das falas escrito na tela",
+        "letras brancas na parte de baixo do video",
+        "letras na tela",
+        "personagens parados como estatuas",
+        "mesmo enquadramento do primeiro frame no fim",
+        "segurancas falando",
+        "segurancas com rosto nitido",
+        "consuelo falando",
+        "maos de consuelo",
+        "taca na mao de alguem visivel"
+      ],
+      "planos": [
+        {
+          "rosto": "ALVARO frio; CONSUELO assustada; PAULA firme. Bocas FECHADAS.",
+          "corpo": "O video ABRE na composicao da imagem 1 e a acao continua: ALVARO da mais um passo e fica cara a cara com a mae.",
+          "camera": "Plano de abertura: comeca no enquadramento da imagem 1 com um SLOW DOLLY IN em direcao aos dois. Ninguem fala.",
+          "segundos": 0.8
+        },
+        {
+          "quem": "ALVARO",
+          "para": "CONSUELO",
+          "fala": "Mamá… ¿dónde estabas aquella noche?",
+          "emocao": 10,
+          "eyeline": "ALVARO olha para a DIREITA do quadro, para CONSUELO, bem perto. NAO olha para a camera.",
+          "intencao": "Perguntar com frieza, ja sabendo a resposta, com o coracao partido.",
+          "voz": "Voz masculina grave, baixa, fria, cada palavra pesada, sotaque espanhol.",
+          "rosto": "ALVARO: os olhos vermelhos e duros, a mandibula travada.",
+          "corpo": "ALVARO: ergue o anel da avo na altura do rosto da mae.",
+          "camera": "Corte seco. OVER-THE-SHOULDER: o ombro e a nuca loira de CONSUELO DESFOCADOS em primeiro plano na DIREITA, de costas, sem rosto e sem boca; ALVARO nitido em Close-up, SLOW DOLLY IN, lente 85mm.",
+          "segundos": 2.8
+        },
+        {
+          "rosto": "CONSUELO: abre a boca para responder... e NAO sai nenhuma palavra; os labios tremem, os olhos se enchem de lagrimas de medo. NENHUM som sai da boca dela.",
+          "corpo": "CONSUELO: imovel, o queixo tremendo, as maos fora do quadro.",
+          "camera": "Corte seco. EXTREME CLOSE-UP do rosto de CONSUELO, olhos e boca, camera travada. Ninguem fala: so o zumbido.",
+          "segundos": 1.4
+        },
+        {
+          "quem": "PAULA",
+          "para": "CONSUELO",
+          "fala": "Dígaselo, señora. Yo ya lo sé.",
+          "emocao": 10,
+          "eyeline": "PAULA olha para a DIREITA do quadro, para CONSUELO, por cima do ombro de ALVARO. NAO olha para a camera.",
+          "intencao": "Encurralar a culpada com calma: ela sabe a verdade.",
+          "voz": "Voz FEMININA jovem, baixa, firme e cortante, sotaque espanhol. NUNCA voz de homem.",
+          "rosto": "PAULA: olhar frio e firme, uma lagrima seca no rosto.",
+          "corpo": "PAULA: da um passo a frente, ao lado de ALVARO.",
+          "camera": "Corte seco. OVER-THE-SHOULDER: o ombro do terno azul de ALVARO DESFOCADO em primeiro plano na DIREITA, de costas, sem rosto e sem boca; PAULA nitida em Close-up, LOW ANGLE leve, lente 85mm.",
+          "segundos": 2.4
+        },
+        {
+          "rosto": "Sem rosto: so o chao.",
+          "corpo": "Uma taca de cristal com vinho tinto cai de cima, de fora do quadro, e se ESPATIFA no chao de pedra do patio, o vinho se espalhando como sangue.",
+          "camera": "Corte seco. INSERT no chao de pedra, GROUND LEVEL, a taca caindo e se espatifando, camera travada. Ninguem fala.",
+          "segundos": 1.1
+        },
+        {
+          "rosto": "CONSUELO: palida, o rosto desmoronando, a culpa estampada; ALVARO a encara, devastado; PAULA atras, firme, uma lagrima. As TRES bocas FECHADAS.",
+          "corpo": "CONSUELO da um passo para tras ate encostar no arco; ALVARO e PAULA imoveis diante dela.",
+          "camera": "Corte seco. DOLLY ZOOM no rosto de CONSUELO com ALVARO e PAULA em primeiro plano, desfocados, de perfil e de boca fechada: o rosto dela mantem o tamanho e o arco atras se estica. Ninguem fala. O VIDEO TERMINA neste plano.",
+          "segundos": 1.4
+        }
+      ],
+      "regras_extra": [
+        "Ninguem fica parado: os personagens se movem em todos os planos.",
+        "Os tres ficam JUNTOS e PERTO, no MESMO canto e no MESMO fundo.",
+        "Nos planos de fala, so o rosto de quem fala aparece; o ouvinte fica de COSTAS, desfocado, sem rosto e sem boca visiveis. A fala de PAULA e com voz FEMININA.",
+        "CONSUELO NAO fala neste clipe: ela abre a boca e nenhum som sai.",
+        "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
+        "Nenhuma fala no ultimo plano: o video termina no rosto mudo de CONSUELO com o Dolly Zoom.",
         "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
       ],
       "primeiro_frame": true
