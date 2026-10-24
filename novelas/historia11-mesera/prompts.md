@@ -1351,3 +1351,191 @@ Referências, nesta ordem: 1) FRAME_FIM6
   ]
 }
 ```
+
+
+## Clipe 8 — El mensaje
+
+clipe 8: 9.6s, 6.3s de fala (16 palavras, 5 planos, falantes: PAULA, CONSUELO) ❌ só 6.3s de fala em 10s — clipe vazio, gaste o crédito com mais fala
+
+Referências, nesta ordem: 1) FRAME_FIM7
+
+```json
+{
+  "IDIOMA_OBRIGATORIO": "TODAS as falas em ESPANHOL da ESPANHA (castelhano, sotaque espanhol de Madrid), exatamente como escritas no campo dialogue. NUNCA em portugues, nunca traduzir.",
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica, EMOCAO MAXIMA, com MOVIMENTO. PAULA repete o recado da avo com a voz quebrada. ALVARO se vira DEVAGAR para a mae, o rosto mudando de dor para desconfianca. CONSUELO tenta sorrir, nervosa, e recua. Rostos muito expressivos.",
+  "input_image": {
+    "required": true,
+    "mode": "Frames to Video: a imagem 1 e o PRIMEIRO FRAME exato do video.",
+    "additional_references": true,
+    "reference_images": [
+      "Imagem 1 — ULTIMO frame do clipe 7: PAULA na esquerda, ALVARO no meio segurando o anel, CONSUELO na direita, no patio com arco ocre, laranjeira e lampiao."
+    ],
+    "preserve_exactly": [
+      "PAULA: camareira de 26 anos, espanhola, rosto comum e desconhecido, pele clara mediterranea, rosto fino, nariz levemente aquilino, sobrancelhas escuras, olhos castanhos, pinta pequena na bochecha esquerda, cabelo CASTANHO-ESCURO preso num RABO DE CAVALO alto, CAMISA PRETA de manga comprida, COLETE VINHO por cima, sem joias a vista.",
+      "ALVARO: homem de 32 anos, espanhol, filho de CONSUELO e noivo da festa, rosto comum e desconhecido, pele clara, barba curta escura bem aparada, cabelo castanho curto penteado para tras, TERNO AZUL-MARINHO com camisa branca, sem gravata.",
+      "CONSUELO: senhora rica de 60 anos, espanhola, mae do noivo, rosto comum e desconhecido, pele clara bronzeada, rugas, labios finos com batom vermelho, cabelo LOIRO curto e armado, VESTIDO de cetim cor MARFIM de manga longa e GOLA ALTA fechada ate o queixo, NENHUMA joia: sem colar, sem aneis, sem brincos.",
+      "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
+      "A imagem 1 e o PRIMEIRO FRAME do video: os MESMOS tres rostos, roupas e fundo dessa imagem do comeco ao fim; as posicoes mudam so com os movimentos descritos.",
+      "OS TRES ESTAO JUNTOS, PERTO UM DO OUTRO, no MESMO canto do patio, e se MOVEM durante o clipe como descrito nos planos. Fundo SEMPRE o mesmo: o arco de parede branca caiada com moldura amarelo-ocre e uma laranjeira ao lado, luzinhas quentes penduradas, convidados desfocados.",
+      "O ANEL: anel antigo de OURO com ESMERALDA verde num cordao de ouro, na MAO de ALVARO (nao no dedo). Existe UM UNICO anel. CONSUELO nunca toca no anel.",
+      "CONSUELO NAO usa nenhuma joia: dedos SEM aneis. As maos dela ficam FORA do quadro.",
+      "A bochecha esquerda de PAULA continua VERMELHA do tapa.",
+      "Nenhum letreiro, cartaz ou letra em lugar nenhum."
+    ]
+  },
+  "scene": {
+    "title": "LA CAMARERA",
+    "duration_seconds": 9.6,
+    "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
+    "structure": "5 planos de cinema em tela cheia, ligados por cortes secos. 2 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "style": "Novela dramatica cinematografica espanhola. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos espanhois com imperfeicoes reais, textura real de pele. Patio de uma finca andaluza perto de Sevilha, de NOITE, numa festa de noivado: paredes brancas caiadas, arcos, laranjeiras, varal de luzinhas quentes, mesas com toalhas brancas e velas, convidados elegantes desfocados ao fundo. Luz quente e dourada. Shallow Focus, cortes rapidos.",
+    "setting": "Continuacao EXATA do ultimo frame do clipe anterior, no mesmo canto do patio da finca em Sevilha, de noite. ALVARO segura o anel da avo e acabou de perguntar qual era o recado. PAULA repete as palavras da avo.",
+    "blocking": [
+      "PAULA: na ESQUERDA, perto de ALVARO",
+      "ALVARO: no MEIO, segurando o anel; vira o corpo para CONSUELO",
+      "CONSUELO: na DIREITA, recua meio passo"
+    ],
+    "characters": {
+      "PAULA": "camareira de 26 anos, espanhola, rosto comum e desconhecido, pele clara mediterranea, rosto fino, nariz levemente aquilino, sobrancelhas escuras, olhos castanhos, pinta pequena na bochecha esquerda, cabelo CASTANHO-ESCURO preso num RABO DE CAVALO alto, CAMISA PRETA de manga comprida, COLETE VINHO por cima, sem joias a vista. Personagem ficticia. Voz feminina jovem, suave e humilde de mulher espanhola de 26 anos, sotaque de Madrid.",
+      "ALVARO": "homem de 32 anos, espanhol, filho de CONSUELO e noivo da festa, rosto comum e desconhecido, pele clara, barba curta escura bem aparada, cabelo castanho curto penteado para tras, TERNO AZUL-MARINHO com camisa branca, sem gravata. Personagem ficticio. Voz masculina grave e educada de homem espanhol de 32 anos.",
+      "CONSUELO": "senhora rica de 60 anos, espanhola, mae do noivo, rosto comum e desconhecido, pele clara bronzeada, rugas, labios finos com batom vermelho, cabelo LOIRO curto e armado, VESTIDO de cetim cor MARFIM de manga longa e GOLA ALTA fechada ate o queixo, NENHUMA joia: sem colar, sem aneis, sem brincos. Personagem ficticia. Voz feminina rouca, altiva e cortante de senhora espanhola de 60 anos, sotaque de Sevilha."
+    }
+  },
+  "timeline": [
+    {
+      "time": "00:00.00-00:00.60",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "PAULA emocionada; ALVARO esperando; CONSUELO tensa. Bocas FECHADAS.",
+      "body": "O video ABRE na composicao da imagem 1 e a acao continua: PAULA da um passo para perto de ALVARO e respira fundo.",
+      "camera": "Plano de abertura: comeca no mesmo enquadramento da imagem 1 com um SLOW DOLLY IN. Ninguem fala.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    },
+    {
+      "time": "00:00.60-00:04.87",
+      "speaker": "PAULA",
+      "dialogue": "«Dile a mi nieto que no se fíe de su madre.»",
+      "addressee": "ALVARO",
+      "eyeline": "PAULA olha para a DIREITA do quadro, para ALVARO, bem perto. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Repetir, com dor, as ultimas palavras da avo.",
+      "voice": "Voz FEMININA jovem, quebrada, quase um sussurro, sotaque espanhol. NUNCA voz de homem.",
+      "face": "PAULA: lagrimas escorrendo, os labios tremendo.",
+      "body": "PAULA: toca de leve a mao de ALVARO que segura o anel.",
+      "camera": "Corte seco. OVER-THE-SHOULDER: o ombro do terno azul de ALVARO DESFOCADO em primeiro plano na DIREITA, de costas, sem rosto e sem boca; PAULA nitida em Close-up, lente 85mm, mesmo fundo. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente PAULA movimenta os labios."
+    },
+    {
+      "time": "00:04.87-00:05.87",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "ALVARO: o rosto muda de dor para desconfianca; os olhos se estreitam. Boca FECHADA.",
+      "body": "ALVARO: vira o corpo DEVAGAR da PAULA para a mae, o anel apertado na mao.",
+      "camera": "Corte seco. Medium Close-up de ALVARO acompanhando a virada com um SLOW ARC, CONSUELO desfocada ao fundo na DIREITA. Ninguem fala.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    },
+    {
+      "time": "00:05.87-00:08.27",
+      "speaker": "CONSUELO",
+      "dialogue": "Hijo… esta chica está loca.",
+      "addressee": "ALVARO",
+      "eyeline": "CONSUELO olha para a ESQUERDA do quadro, para ALVARO, o filho. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Disfarcar o panico com um sorriso falso.",
+      "voice": "Voz feminina rouca de senhora, tremula, com um riso nervoso, sotaque espanhol.",
+      "face": "CONSUELO: um sorriso FORCADO que treme, os olhos cheios de medo.",
+      "body": "CONSUELO: recua meio passo, as maos fora do quadro.",
+      "camera": "Corte seco. OVER-THE-SHOULDER: o ombro do terno azul de ALVARO DESFOCADO em primeiro plano na ESQUERDA, de costas, sem rosto e sem boca; CONSUELO nitida em Close-up, DUTCH ANGLE leve, lente 85mm. As MAOS de CONSUELO fora do quadro. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente CONSUELO movimenta os labios."
+    },
+    {
+      "time": "00:08.27-00:09.57",
+      "speaker": "NONE",
+      "dialogue": null,
+      "face": "ALVARO frio, encarando a mae; PAULA atras dele, firme; CONSUELO sem sorriso, palida. As TRES bocas FECHADAS.",
+      "body": "NOVA composicao com movimento: ALVARO da um passo na direcao da mae; PAULA fica um pouco atras dele, na ESQUERDA; CONSUELO recua ate encostar no batente do arco.",
+      "camera": "Corte seco. THREE SHOT em LOW ANGLE, de um angulo DIFERENTE do primeiro frame, SLOW DOLLY IN enquanto ALVARO avanca; os tres no quadro, as maos de CONSUELO fora do quadro. Ninguem fala. O clipe termina neste movimento.",
+      "mouths": "Bocas FECHADAS. Ninguem fala."
+    }
+  ],
+  "dialogue_rules": {
+    "language": "Espanol de Espana (castellano), acento espanol peninsular natural, TODAS as palavras em espanhol. NUNCA sotaque latino-americano.",
+    "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
+    "total_dialogue_lines": 2,
+    "exact_order": [
+      "PAULA",
+      "CONSUELO"
+    ],
+    "rules": [
+      "So existem 2 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "Depois de 8.3 segundos ninguem fala.",
+      "Cada fala e dirigida a: PAULA -> ALVARO; CONSUELO -> ALVARO.",
+      "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
+      "Nao repetir, misturar, traduzir ou acrescentar palavras.",
+      "Cada frase e dita INTEIRA, do comeco ao fim.",
+      "Ninguem fica parado: os personagens se movem em todos os planos.",
+      "Os tres ficam JUNTOS e PERTO, no MESMO canto e no MESMO fundo, mas se MOVENDO.",
+      "Nos planos de fala, so o rosto de quem fala aparece; o ouvinte fica de COSTAS, desfocado, sem rosto e sem boca visiveis.",
+      "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
+      "Nenhuma fala no ultimo plano: o clipe termina nos TRES juntos, numa composicao e angulo DIFERENTES do primeiro frame, com movimento.",
+      "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+    ]
+  },
+  "audio": {
+    "single_voice_at_a_time": true,
+    "sound": "Silencio total no patio; a voz quebrada de PAULA; um violino baixo; um TUM grave quando ALVARO se vira; o riso nervoso de CONSUELO; no fim, batidas de coracao.",
+    "music": "Nenhuma.",
+    "narration": "Nenhuma.",
+    "subtitles": "Nao gerar."
+  },
+  "negative_prompt": [
+    "personagens em lugares diferentes",
+    "fundo diferente entre os planos",
+    "personagens longe um do outro",
+    "rosto ou boca do ouvinte visivel nos planos de fala",
+    "anel no dedo de consuelo",
+    "dois aneis",
+    "voz masculina nas falas femininas",
+    "voz feminina na fala de alvaro",
+    "sotaque latino-americano",
+    "sotaque mexicano",
+    "personagem falando de frente para a camera",
+    "legendas embutidas",
+    "subtitles",
+    "captions",
+    "texto das falas escrito na tela",
+    "letras brancas na parte de baixo do video",
+    "letras na tela",
+    "personagens parados como estatuas",
+    "mesmo enquadramento do primeiro frame no fim",
+    "segurancas falando",
+    "segurancas com rosto nitido",
+    "texto ou letras em qualquer lugar",
+    "nome ou idade de personagem escrito na tela",
+    "letreiro de apresentacao de personagem (lower third)",
+    "palavra inventada no ultimo plano",
+    "fala repetida",
+    "fala adiantada ou atrasada para outro plano",
+    "personagem falando ou olhando para quem nao e o destinatario da fala",
+    "fala neutra ou monotona",
+    "rosto neutro ou expressao vazia",
+    "voz sem rosto na tela",
+    "tela dividida",
+    "colagem",
+    "formato horizontal",
+    "bordas pretas",
+    "palavras em ingles",
+    "palavras em portugues",
+    "duas vozes simultaneas",
+    "movimento labial do ouvinte",
+    "fala cortada, encurtada ou incompleta",
+    "personagem olhando para a camera",
+    "mudanca de rosto",
+    "mudanca de roupa",
+    "legendas",
+    "logotipo",
+    "marca-d'agua",
+    "trilha sonora"
+  ]
+}
+```

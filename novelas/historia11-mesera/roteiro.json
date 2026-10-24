@@ -10,7 +10,8 @@
     "FRAME_CONSUELO": "frame do clipe 1, plano 2 (por volta do segundo 2,6): DONA CONSUELO de vestido marfim de gola alta manchado de vinho, cabelo loiro curto.",
     "FRAME_ALVARO": "frame do clipe 1, plano 5 (por volta do segundo 9,5): close de ALVARO de terno azul-marinho e camisa branca.",
     "FRAME_FIM5": "ULTIMO frame do clipe 5: close dos TRES juntos (PAULA esquerda, ALVARO meio, CONSUELO direita) diante do arco ocre e da laranjeira.",
-    "FRAME_FIM6": "ULTIMO frame do clipe 6: os TRES juntos (PAULA esquerda, ALVARO meio, CONSUELO direita) diante do arco ocre e da laranjeira."
+    "FRAME_FIM6": "ULTIMO frame do clipe 6: os TRES juntos (PAULA esquerda, ALVARO meio, CONSUELO direita) diante do arco ocre e da laranjeira.",
+    "FRAME_FIM7": "ULTIMO frame do clipe 7: PAULA na esquerda, ALVARO no meio segurando o anel, CONSUELO na direita, no patio com arco ocre, laranjeira e lampiao."
   },
   "personagens": {
     "PAULA": {
@@ -812,6 +813,115 @@
           "corpo": "NOVA composicao com movimento: PAULA e ALVARO lado a lado na ESQUERDA e no MEIO, ele segurando o anel; CONSUELO na DIREITA da meio passo para TRAS, as maos fora do quadro.",
           "camera": "Corte seco. THREE SHOT por um ANGULO DIFERENTE do primeiro frame: de lado, na altura do ombro, com SLOW ARC para a direita enquanto CONSUELO recua; termina com os tres no quadro. Ninguem fala. O clipe termina neste movimento.",
           "segundos": 1.4
+        }
+      ],
+      "regras_extra": [
+        "Ninguem fica parado: os personagens se movem em todos os planos.",
+        "Os tres ficam JUNTOS e PERTO, no MESMO canto e no MESMO fundo, mas se MOVENDO.",
+        "Nos planos de fala, so o rosto de quem fala aparece; o ouvinte fica de COSTAS, desfocado, sem rosto e sem boca visiveis.",
+        "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
+        "Nenhuma fala no ultimo plano: o clipe termina nos TRES juntos, numa composicao e angulo DIFERENTES do primeiro frame, com movimento.",
+        "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+      ],
+      "primeiro_frame": true
+    },
+    {
+      "nome": "El mensaje",
+      "atuacao": "Novela dramatica, EMOCAO MAXIMA, com MOVIMENTO. PAULA repete o recado da avo com a voz quebrada. ALVARO se vira DEVAGAR para a mae, o rosto mudando de dor para desconfianca. CONSUELO tenta sorrir, nervosa, e recua. Rostos muito expressivos.",
+      "imagens": [
+        "FRAME_FIM7"
+      ],
+      "personagens": [
+        "PAULA",
+        "ALVARO",
+        "CONSUELO"
+      ],
+      "posicoes": {
+        "PAULA": "na ESQUERDA, perto de ALVARO",
+        "ALVARO": "no MEIO, segurando o anel; vira o corpo para CONSUELO",
+        "CONSUELO": "na DIREITA, recua meio passo"
+      },
+      "preservar_extra": [
+        "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
+        "A imagem 1 e o PRIMEIRO FRAME do video: os MESMOS tres rostos, roupas e fundo dessa imagem do comeco ao fim; as posicoes mudam so com os movimentos descritos.",
+        "OS TRES ESTAO JUNTOS, PERTO UM DO OUTRO, no MESMO canto do patio, e se MOVEM durante o clipe como descrito nos planos. Fundo SEMPRE o mesmo: o arco de parede branca caiada com moldura amarelo-ocre e uma laranjeira ao lado, luzinhas quentes penduradas, convidados desfocados.",
+        "O ANEL: anel antigo de OURO com ESMERALDA verde num cordao de ouro, na MAO de ALVARO (nao no dedo). Existe UM UNICO anel. CONSUELO nunca toca no anel.",
+        "CONSUELO NAO usa nenhuma joia: dedos SEM aneis. As maos dela ficam FORA do quadro.",
+        "A bochecha esquerda de PAULA continua VERMELHA do tapa.",
+        "Nenhum letreiro, cartaz ou letra em lugar nenhum."
+      ],
+      "cenario": "Continuacao EXATA do ultimo frame do clipe anterior, no mesmo canto do patio da finca em Sevilha, de noite. ALVARO segura o anel da avo e acabou de perguntar qual era o recado. PAULA repete as palavras da avo.",
+      "som": "Silencio total no patio; a voz quebrada de PAULA; um violino baixo; um TUM grave quando ALVARO se vira; o riso nervoso de CONSUELO; no fim, batidas de coracao.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida"
+      ],
+      "negativos_extra": [
+        "personagens em lugares diferentes",
+        "fundo diferente entre os planos",
+        "personagens longe um do outro",
+        "rosto ou boca do ouvinte visivel nos planos de fala",
+        "anel no dedo de consuelo",
+        "dois aneis",
+        "voz masculina nas falas femininas",
+        "voz feminina na fala de alvaro",
+        "sotaque latino-americano",
+        "sotaque mexicano",
+        "personagem falando de frente para a camera",
+        "legendas embutidas",
+        "subtitles",
+        "captions",
+        "texto das falas escrito na tela",
+        "letras brancas na parte de baixo do video",
+        "letras na tela",
+        "personagens parados como estatuas",
+        "mesmo enquadramento do primeiro frame no fim",
+        "segurancas falando",
+        "segurancas com rosto nitido"
+      ],
+      "planos": [
+        {
+          "rosto": "PAULA emocionada; ALVARO esperando; CONSUELO tensa. Bocas FECHADAS.",
+          "corpo": "O video ABRE na composicao da imagem 1 e a acao continua: PAULA da um passo para perto de ALVARO e respira fundo.",
+          "camera": "Plano de abertura: comeca no mesmo enquadramento da imagem 1 com um SLOW DOLLY IN. Ninguem fala.",
+          "segundos": 0.6
+        },
+        {
+          "quem": "PAULA",
+          "para": "ALVARO",
+          "fala": "«Dile a mi nieto que no se fíe de su madre.»",
+          "emocao": 10,
+          "eyeline": "PAULA olha para a DIREITA do quadro, para ALVARO, bem perto. NAO olha para a camera.",
+          "intencao": "Repetir, com dor, as ultimas palavras da avo.",
+          "voz": "Voz FEMININA jovem, quebrada, quase um sussurro, sotaque espanhol. NUNCA voz de homem.",
+          "rosto": "PAULA: lagrimas escorrendo, os labios tremendo.",
+          "corpo": "PAULA: toca de leve a mao de ALVARO que segura o anel.",
+          "camera": "Corte seco. OVER-THE-SHOULDER: o ombro do terno azul de ALVARO DESFOCADO em primeiro plano na DIREITA, de costas, sem rosto e sem boca; PAULA nitida em Close-up, lente 85mm, mesmo fundo."
+        },
+        {
+          "rosto": "ALVARO: o rosto muda de dor para desconfianca; os olhos se estreitam. Boca FECHADA.",
+          "corpo": "ALVARO: vira o corpo DEVAGAR da PAULA para a mae, o anel apertado na mao.",
+          "camera": "Corte seco. Medium Close-up de ALVARO acompanhando a virada com um SLOW ARC, CONSUELO desfocada ao fundo na DIREITA. Ninguem fala.",
+          "segundos": 1.0
+        },
+        {
+          "quem": "CONSUELO",
+          "para": "ALVARO",
+          "fala": "Hijo… esta chica está loca.",
+          "emocao": 10,
+          "eyeline": "CONSUELO olha para a ESQUERDA do quadro, para ALVARO, o filho. NAO olha para a camera.",
+          "intencao": "Disfarcar o panico com um sorriso falso.",
+          "voz": "Voz feminina rouca de senhora, tremula, com um riso nervoso, sotaque espanhol.",
+          "rosto": "CONSUELO: um sorriso FORCADO que treme, os olhos cheios de medo.",
+          "corpo": "CONSUELO: recua meio passo, as maos fora do quadro.",
+          "camera": "Corte seco. OVER-THE-SHOULDER: o ombro do terno azul de ALVARO DESFOCADO em primeiro plano na ESQUERDA, de costas, sem rosto e sem boca; CONSUELO nitida em Close-up, DUTCH ANGLE leve, lente 85mm. As MAOS de CONSUELO fora do quadro.",
+          "segundos": 2.4
+        },
+        {
+          "rosto": "ALVARO frio, encarando a mae; PAULA atras dele, firme; CONSUELO sem sorriso, palida. As TRES bocas FECHADAS.",
+          "corpo": "NOVA composicao com movimento: ALVARO da um passo na direcao da mae; PAULA fica um pouco atras dele, na ESQUERDA; CONSUELO recua ate encostar no batente do arco.",
+          "camera": "Corte seco. THREE SHOT em LOW ANGLE, de um angulo DIFERENTE do primeiro frame, SLOW DOLLY IN enquanto ALVARO avanca; os tres no quadro, as maos de CONSUELO fora do quadro. Ninguem fala. O clipe termina neste movimento.",
+          "segundos": 1.3
         }
       ],
       "regras_extra": [
