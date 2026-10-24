@@ -123,7 +123,7 @@
     ],
     "rules": [
       "So existem 3 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
-      "Depois de 8.4 segundos ninguem fala.",
+      "Depois de 8.8 segundos ninguem fala.",
       "Cada fala e dirigida a: CONSUELO -> PAULA; PAULA -> CONSUELO; ALVARO -> CONSUELO.",
       "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
       "Nao repetir, misturar, traduzir ou acrescentar palavras.",
