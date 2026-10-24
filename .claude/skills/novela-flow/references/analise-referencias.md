@@ -206,3 +206,4 @@ poderoso muda de lado; corta na acusação.
 - Plano final aberto/frontal de corpo inteiro (Low Angle de joelhos) trocou o rosto e a roupa da Lucía (outra mulher, coque, manga comprida). Em plano de reação final, usar Medium Close-up e repetir tranca + manga curta.
 - Clipe 7 saiu com legenda embutida (3 falas, uma longa). Correção: 'VIDEO LIMPO, SEM LEGENDAS' no topo do preserve + regra + negativos (subtitles, captions, texto das falas na tela).
 - La camarera clipe 2: plano final 'a mao vai ao pescoco' de CONSUELO fez o ANEL aparecer no dedo dela (mesmo com negativo). Correção: nos planos da vilã, MAOS FORA DO QUADRO quando existe um objeto-pista em cena; usar Extreme Close-Up dos olhos.
+- La camarera clipe 9 v1: final mudo (Dolly Zoom + taça caindo) saiu bugado e sem emoção para o usuário. Final bom = CONFISSÃO gritada e chorada (frase-bomba) + queda de joelhos + choro; evitar Dolly Zoom e insert de objeto caindo no último clipe.

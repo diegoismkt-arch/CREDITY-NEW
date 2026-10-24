@@ -4,9 +4,9 @@
 
 Pero cuando la camarera se agachó a recoger los cristales, apareció el anillo de la abuela. Y con él, un secreto.
 
-«Dile a mi nieto que no se fíe de su madre.» 👀
+«Dile a mi nieto que no se fíe de su madre.» 😱
 
-¿Dónde estaba Doña Consuelo aquella noche? ¿Qué harías tú si fueras Álvaro? 👇
+Si fueras Álvaro… ¿perdonarías a tu madre o la denunciarías? 👇
 
 #historias #novela #drama #justicia #reflexiones #lahistoriaprincipal
 
@@ -1549,16 +1549,16 @@ Referências, nesta ordem: 1) FRAME_FIM7
 ```
 
 
-## Clipe 9 — ¿Dónde estabas aquella noche?
+## Clipe 9 — Fue un accidente
 
-clipe 9: 9.9s, 4.5s de fala (11 palavras, 6 planos, falantes: ALVARO, PAULA) ❌ só 4.5s de fala em 10s — clipe vazio, gaste o crédito com mais fala
+clipe 9: 9.8s, 6.0s de fala (13 palavras, 6 planos, falantes: ALVARO, CONSUELO) ❌ só 6.0s de fala em 10s — clipe vazio, gaste o crédito com mais fala
 
 Referências, nesta ordem: 1) FRAME_FIM8
 
 ```json
 {
   "IDIOMA_OBRIGATORIO": "TODAS as falas em ESPANHOL da ESPANHA (castelhano, sotaque espanhol de Madrid), exatamente como escritas no campo dialogue. NUNCA em portugues, nunca traduzir.",
-  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica, EMOCAO MAXIMA, FINAL. ALVARO frio e devastado, encarando a mae. CONSUELO abre a boca para se defender e NAO consegue dizer nada: o rosto desmorona de medo e culpa. PAULA observa firme. Tensao maxima ate o ultimo segundo. Rostos muito expressivos.",
+  "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica, EMOCAO MAXIMA, FINAL EXPLOSIVO. ALVARO pergunta com frieza e depois explode em dor. CONSUELO tenta segurar, treme, e DESMORONA: grita a confissao chorando descontrolada e cai de joelhos. ALVARO fica destruido, lagrimas escorrendo. PAULA cobre a boca, chorando. Choro REAL, rostos vermelhos, lagrimas, respiracao entrecortada.",
   "input_image": {
     "required": true,
     "mode": "Frames to Video: a imagem 1 e o PRIMEIRO FRAME exato do video.",
@@ -1581,9 +1581,9 @@ Referências, nesta ordem: 1) FRAME_FIM8
   },
   "scene": {
     "title": "LA CAMARERA",
-    "duration_seconds": 10.0,
+    "duration_seconds": 9.9,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
-    "structure": "6 planos de cinema em tela cheia, ligados por cortes secos. 2 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "structure": "6 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
     "style": "Novela dramatica cinematografica espanhola. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos espanhois com imperfeicoes reais, textura real de pele. Patio de uma finca andaluza perto de Sevilha, de NOITE, numa festa de noivado: paredes brancas caiadas, arcos, laranjeiras, varal de luzinhas quentes, mesas com toalhas brancas e velas, convidados elegantes desfocados ao fundo. Luz quente e dourada. Shallow Focus, cortes rapidos.",
     "setting": "Final, continuacao EXATA do ultimo frame do clipe anterior, diante do arco do patio da finca em Sevilha, de noite. ALVARO, com o anel da avo na mao, pergunta a mae onde ela estava na noite em que a avo caiu da escada.",
     "blocking": [
@@ -1599,97 +1599,103 @@ Referências, nesta ordem: 1) FRAME_FIM8
   },
   "timeline": [
     {
-      "time": "00:00.00-00:00.80",
+      "time": "00:00.00-00:00.60",
       "speaker": "NONE",
       "dialogue": null,
       "face": "ALVARO frio; CONSUELO assustada; PAULA firme. Bocas FECHADAS.",
       "body": "O video ABRE na composicao da imagem 1 e a acao continua: ALVARO da mais um passo e fica cara a cara com a mae.",
-      "camera": "Plano de abertura: comeca no enquadramento da imagem 1 com um SLOW DOLLY IN em direcao aos dois. Ninguem fala.",
+      "camera": "Plano de abertura: comeca no enquadramento da imagem 1 com um SLOW DOLLY IN. Ninguem fala.",
       "mouths": "Bocas FECHADAS. Ninguem fala."
     },
     {
-      "time": "00:00.80-00:03.60",
+      "time": "00:00.60-00:03.20",
       "speaker": "ALVARO",
       "dialogue": "Mamá… ¿dónde estabas aquella noche?",
       "addressee": "CONSUELO",
       "eyeline": "ALVARO olha para a DIREITA do quadro, para CONSUELO, bem perto. NAO olha para a camera.",
       "emotion_level": 10,
-      "intention": "Perguntar com frieza, ja sabendo a resposta, com o coracao partido.",
-      "voice": "Voz masculina grave, baixa, fria, cada palavra pesada, sotaque espanhol.",
-      "face": "ALVARO: os olhos vermelhos e duros, a mandibula travada.",
-      "body": "ALVARO: ergue o anel da avo na altura do rosto da mae.",
-      "camera": "Corte seco. OVER-THE-SHOULDER: o ombro e a nuca loira de CONSUELO DESFOCADOS em primeiro plano na DIREITA, de costas, sem rosto e sem boca; ALVARO nitido em Close-up, SLOW DOLLY IN, lente 85mm. A fala comeca no primeiro instante do plano.",
+      "intention": "Perguntar com frieza, com o coracao partido.",
+      "voice": "Voz masculina grave, baixa, fria, tremendo no fim, sotaque espanhol.",
+      "face": "ALVARO: os olhos vermelhos e marejados, a mandibula travada.",
+      "body": "ALVARO: ergue o anel da avo diante do rosto da mae.",
+      "camera": "Corte seco. OVER-THE-SHOULDER: o ombro e a nuca loira de CONSUELO DESFOCADOS em primeiro plano na DIREITA, de costas, sem rosto e sem boca; ALVARO nitido em Close-up, lente 85mm. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente ALVARO movimenta os labios."
     },
     {
-      "time": "00:03.60-00:05.00",
+      "time": "00:03.20-00:04.00",
       "speaker": "NONE",
       "dialogue": null,
-      "face": "CONSUELO: abre a boca para responder... e NAO sai nenhuma palavra; os labios tremem, os olhos se enchem de lagrimas de medo. NENHUM som sai da boca dela.",
-      "body": "CONSUELO: imovel, o queixo tremendo, as maos fora do quadro.",
-      "camera": "Corte seco. EXTREME CLOSE-UP do rosto de CONSUELO, olhos e boca, camera travada. Ninguem fala: so o zumbido.",
+      "face": "CONSUELO: os labios tremem, os olhos se enchem de lagrimas, ela nega com a cabeca. Boca FECHADA.",
+      "body": "CONSUELO: o queixo tremendo, as maos fora do quadro.",
+      "camera": "Corte seco. Close-up de CONSUELO, camera travada, o ombro de ALVARO desfocado na borda ESQUERDA, de costas. Ninguem fala.",
       "mouths": "Bocas FECHADAS. Ninguem fala."
     },
     {
-      "time": "00:05.00-00:07.42",
-      "speaker": "PAULA",
-      "dialogue": "Dígaselo, señora. Yo ya lo sé.",
+      "time": "00:04.00-00:05.20",
+      "speaker": "ALVARO",
+      "dialogue": "¡Contéstame!",
       "addressee": "CONSUELO",
-      "eyeline": "PAULA olha para a DIREITA do quadro, para CONSUELO, por cima do ombro de ALVARO. NAO olha para a camera.",
+      "eyeline": "ALVARO olha para a DIREITA do quadro, para CONSUELO. NAO olha para a camera.",
       "emotion_level": 10,
-      "intention": "Encurralar a culpada com calma: ela sabe a verdade.",
-      "voice": "Voz FEMININA jovem, baixa, firme e cortante, sotaque espanhol. NUNCA voz de homem.",
-      "face": "PAULA: olhar frio e firme, uma lagrima seca no rosto.",
-      "body": "PAULA: da um passo a frente, ao lado de ALVARO.",
-      "camera": "Corte seco. OVER-THE-SHOULDER: o ombro do terno azul de ALVARO DESFOCADO em primeiro plano na DIREITA, de costas, sem rosto e sem boca; PAULA nitida em Close-up, LOW ANGLE leve, lente 85mm. A fala comeca no primeiro instante do plano.",
-      "mouths": "Somente PAULA movimenta os labios."
+      "intention": "Explodir de dor e raiva.",
+      "voice": "Voz masculina grave GRITANDO, quebrada de dor, sotaque espanhol.",
+      "face": "ALVARO: lagrimas e furia, as veias do pescoco saltando.",
+      "body": "ALVARO: grita a centimetros do rosto da mae.",
+      "camera": "Corte seco. CRASH ZOOM IN no rosto de ALVARO, o ombro de CONSUELO desfocado na borda DIREITA, de costas. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente ALVARO movimenta os labios."
     },
     {
-      "time": "00:07.42-00:08.52",
-      "speaker": "NONE",
-      "dialogue": null,
-      "face": "Sem rosto: so o chao.",
-      "body": "Uma taca de cristal com vinho tinto cai de cima, de fora do quadro, e se ESPATIFA no chao de pedra do patio, o vinho se espalhando como sangue.",
-      "camera": "Corte seco. INSERT no chao de pedra, GROUND LEVEL, a taca caindo e se espatifando, camera travada. Ninguem fala.",
-      "mouths": "Bocas FECHADAS. Ninguem fala."
+      "time": "00:05.20-00:08.30",
+      "speaker": "CONSUELO",
+      "dialogue": "¡Fue un accidente! ¡Yo no quería empujarla!",
+      "addressee": "ALVARO",
+      "eyeline": "CONSUELO olha para a ESQUERDA do quadro, para ALVARO, o filho. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Confessar, desabando, o segredo que escondeu por anos.",
+      "voice": "Voz feminina rouca de senhora, GRITANDO e CHORANDO descontrolada, a voz quebrando, sotaque espanhol. NUNCA voz de homem.",
+      "face": "CONSUELO: o rosto se desfaz em choro, vermelho, a maquiagem borrando com as lagrimas, a boca torcida de dor.",
+      "body": "CONSUELO: o corpo se dobra para frente, soluçando.",
+      "camera": "Corte seco. OVER-THE-SHOULDER: o ombro do terno azul de ALVARO DESFOCADO em primeiro plano na ESQUERDA, de costas, sem rosto e sem boca; CONSUELO nitida em Close-up, HANDHELD tremido, lente 85mm. As MAOS de CONSUELO fora do quadro. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente CONSUELO movimenta os labios."
     },
     {
-      "time": "00:08.52-00:09.92",
+      "time": "00:08.30-00:09.80",
       "speaker": "NONE",
       "dialogue": null,
-      "face": "CONSUELO: palida, o rosto desmoronando, a culpa estampada; ALVARO a encara, devastado; PAULA atras, firme, uma lagrima. As TRES bocas FECHADAS.",
-      "body": "CONSUELO da um passo para tras ate encostar no arco; ALVARO e PAULA imoveis diante dela.",
-      "camera": "Corte seco. DOLLY ZOOM no rosto de CONSUELO com ALVARO e PAULA em primeiro plano, desfocados, de perfil e de boca fechada: o rosto dela mantem o tamanho e o arco atras se estica. Ninguem fala. O VIDEO TERMINA neste plano.",
+      "face": "ALVARO: destruido, lagrimas escorrendo, a boca aberta sem som. PAULA: as maos cobrindo a boca, chorando. CONSUELO: chorando de joelhos. As TRES bocas sem falar.",
+      "body": "CONSUELO cai de JOELHOS no chao de pedra, chorando; ALVARO da um passo para tras, cambaleando, o anel apertado contra o peito; PAULA leva as maos a boca.",
+      "camera": "Corte seco. THREE SHOT de cima, HIGH ANGLE leve, SLOW CRANE UP se afastando dos tres, CONSUELO de joelhos no centro. Ninguem fala: so o choro. O VIDEO TERMINA neste plano.",
       "mouths": "Bocas FECHADAS. Ninguem fala."
     }
   ],
   "dialogue_rules": {
     "language": "Espanol de Espana (castellano), acento espanol peninsular natural, TODAS as palavras em espanhol. NUNCA sotaque latino-americano.",
     "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
-    "total_dialogue_lines": 2,
+    "total_dialogue_lines": 3,
     "exact_order": [
       "ALVARO",
-      "PAULA"
+      "ALVARO",
+      "CONSUELO"
     ],
     "rules": [
-      "So existem 2 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
-      "Depois de 7.4 segundos ninguem fala.",
-      "Cada fala e dirigida a: ALVARO -> CONSUELO; PAULA -> CONSUELO.",
+      "So existem 3 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "Depois de 8.3 segundos ninguem fala.",
+      "Cada fala e dirigida a: ALVARO -> CONSUELO; ALVARO -> CONSUELO; CONSUELO -> ALVARO.",
       "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
       "Nao repetir, misturar, traduzir ou acrescentar palavras.",
       "Cada frase e dita INTEIRA, do comeco ao fim.",
       "Ninguem fica parado: os personagens se movem em todos os planos.",
       "Os tres ficam JUNTOS e PERTO, no MESMO canto e no MESMO fundo.",
-      "Nos planos de fala, so o rosto de quem fala aparece; o ouvinte fica de COSTAS, desfocado, sem rosto e sem boca visiveis. A fala de PAULA e com voz FEMININA.",
-      "CONSUELO NAO fala neste clipe: ela abre a boca e nenhum som sai.",
+      "Nos planos de fala, so o rosto de quem fala aparece; o ouvinte fica de COSTAS, desfocado, sem rosto e sem boca visiveis.",
+      "A fala de CONSUELO e com voz FEMININA de senhora, chorando.",
       "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
-      "Nenhuma fala no ultimo plano: o video termina no rosto mudo de CONSUELO com o Dolly Zoom.",
+      "Nenhuma fala no ultimo plano: o video termina no choro, de cima.",
       "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
     ]
   },
   "audio": {
     "single_voice_at_a_time": true,
-    "sound": "Silencio absoluto no patio; a voz fria de ALVARO; um zumbido agudo crescendo; o ESTALO de uma taca de cristal se espatifando no chao de pedra, com eco; no fim, silencio total e um TUM grave.",
+    "sound": "Silencio absoluto no patio; a voz fria de ALVARO; o grito de ALVARO; o grito e o choro desesperado de CONSUELO ecoando; murmurios chocados dos convidados; no fim, o choro de CONSUELO e um TUM grave.",
     "music": "Nenhuma.",
     "narration": "Nenhuma.",
     "subtitles": "Nao gerar."
@@ -1716,9 +1722,12 @@ Referências, nesta ordem: 1) FRAME_FIM8
     "mesmo enquadramento do primeiro frame no fim",
     "segurancas falando",
     "segurancas com rosto nitido",
-    "consuelo falando",
     "maos de consuelo",
-    "taca na mao de alguem visivel",
+    "dolly zoom",
+    "efeitos de distorcao",
+    "taca caindo",
+    "atuacao fria",
+    "rostos sem lagrimas",
     "texto ou letras em qualquer lugar",
     "nome ou idade de personagem escrito na tela",
     "letreiro de apresentacao de personagem (lower third)",
