@@ -729,7 +729,7 @@
   },
   {
    "nome": "O suborno",
-   "atuacao": "Tensao maxima, FALA DO COMECO AO FIM. VALERIA, em panico e desesperada, tenta comprar o silencio de ANDRES oferecendo dinheiro, a voz quebrando entre arrogancia e medo. ANDRES responde calmo, frio e digno, sem levantar a voz, sempre dirigindo. Rostos expressivos, ninguem fica parado.",
+   "atuacao": "Drama emocional intenso, FALA DO COMECO AO FIM. VALERIA, nervosa e com os olhos marejados, propoe um acordo a ANDRES, entre orgulho e culpa. ANDRES responde calmo, triste e digno, sempre dirigindo. Rostos expressivos, ninguem fica parado.",
    "personagens": [
     "VALERIA",
     "ANDRES"
@@ -748,8 +748,8 @@
     "Nenhum letreiro, placa, taximetro com numeros, logotipo ou letra em lugar nenhum.",
     "O celular de VALERIA fica parado no colo dela, tela apagada."
    ],
-   "cenario": "Continuacao, dentro do taxi na chuva, de noite numa rua tranquila de Madrid. VALERIA, apavorada, oferece dinheiro a ANDRES; ele responde com calma.",
-   "som": "A chuva no teto; os limpadores; o motor baixo; a respiracao nervosa de VALERIA; sem musica.",
+   "cenario": "Continuacao, dentro do taxi na chuva, de noite numa rua tranquila de Madrid. VALERIA, abalada, propoe um acordo a ANDRES; ele responde com calma e tristeza.",
+   "som": "A chuva no teto; os limpadores; o motor baixo; sem musica.",
    "remover_negativos": [
     "dois rostos visiveis nos planos de fala",
     "atuacao contida"
@@ -791,23 +791,19 @@
     "letreiro com letras",
     "valeria abrindo a porta",
     "maos na macaneta",
-    "porta do carro aberta",
-    "dinheiro na tela",
-    "notas de dinheiro",
-    "maleta",
-    "talao de cheques"
+    "porta do carro aberta"
    ],
    "planos": [
     {
      "quem": "VALERIA",
      "para": "ANDRES",
-     "fala": "Le doy cien mil euros. Olvídelo todo.",
-     "emocao": 9,
+     "fala": "Puedo pagarle lo que quiera. Olvídelo, por favor.",
+     "emocao": 8,
      "eyeline": "VALERIA olha para a frente, entre os bancos, para ANDRES. NAO olha para a camera.",
-     "intencao": "Oferecer dinheiro em desespero, tentando soar no controle.",
-     "voz": "Voz FEMININA de mulher de 35 anos, rapida, nervosa e falsamente firme, sotaque espanhol. NUNCA voz de homem.",
-     "rosto": "VALERIA: olhos arregalados e molhados, um sorriso forcado e tremulo.",
-     "corpo": "VALERIA: senta na beirada do banco de TRAS, o corpo projetado para a frente, o celular apertado no colo.",
+     "intencao": "Propor um acordo, nervosa, tentando soar segura.",
+     "voz": "Voz FEMININA de mulher de 35 anos, rapida e nervosa, sotaque espanhol. NUNCA voz de homem.",
+     "rosto": "VALERIA: olhos marejados, um sorriso forcado.",
+     "corpo": "VALERIA: senta na beirada do banco de TRAS, o corpo inclinado para a frente.",
      "camera": "Plano de abertura: Close-up de VALERIA no banco de TRAS, filmada de frente por entre os dois bancos da frente, os encostos desfocados nas bordas; SLOW PUSH IN; a luz vermelha da rua passa no rosto dela. So VALERIA tem a boca visivel."
     },
     {
@@ -816,8 +812,8 @@
      "fala": "¿Cuánto vale una hija, señorita?",
      "emocao": 9,
      "eyeline": "ANDRES olha para o RETROVISOR, para VALERIA, e volta os olhos para a rua. NAO olha para a camera.",
-     "intencao": "Perguntar com calma gelada, cheia de dor e dignidade.",
-     "voz": "Voz MASCULINA de senhor de 64 anos, baixa, rouca, lenta e fria, sotaque espanhol.",
+     "intencao": "Perguntar com calma, cheio de dor e dignidade.",
+     "voz": "Voz MASCULINA de senhor de 64 anos, baixa, rouca, lenta e triste, sotaque espanhol.",
      "rosto": "ANDRES: olhar firme e marejado, sem piscar.",
      "corpo": "ANDRES: as duas maos no volante, dirigindo de frente.",
      "camera": "Corte seco. Close-up frontal de ANDRES com a camera DENTRO do carro, apoiada no PAINEL, apontada para ele; LOW ANGLE leve; SLOW DOLLY IN. So ANDRES tem a boca visivel."
@@ -825,14 +821,14 @@
     {
      "quem": "VALERIA",
      "para": "ANDRES",
-     "fala": "¡Le estoy hablando en serio!",
-     "emocao": 10,
+     "fala": "Hablo en serio, se lo prometo.",
+     "emocao": 9,
      "eyeline": "VALERIA olha para a frente, para ANDRES. NAO olha para a camera.",
-     "intencao": "Gritar, perdendo o controle, entre raiva e medo.",
-     "voz": "Voz FEMININA de mulher de 35 anos, alta e desesperada, quase chorando, sotaque espanhol. NUNCA voz de homem.",
-     "rosto": "VALERIA: o rosto se contorce, lagrimas nos olhos, a maquiagem comecando a borrar.",
-     "corpo": "VALERIA: bate as costas no banco de TRAS, sem fôlego.",
-     "camera": "Corte seco. Close-up de VALERIA no banco de TRAS, a camera no lugar do PASSAGEIRO DA FRENTE (vazio) apontada para tras; HANDHELD nervoso, DUTCH ANGLE. So VALERIA tem a boca visivel."
+     "intencao": "Insistir, a voz quebrando, quase chorando.",
+     "voz": "Voz FEMININA de mulher de 35 anos, embargada e suplicante, sotaque espanhol. NUNCA voz de homem.",
+     "rosto": "VALERIA: lagrimas nos olhos, os labios tremendo.",
+     "corpo": "VALERIA: encosta devagar no banco de TRAS, abatida.",
+     "camera": "Corte seco. Close-up de VALERIA no banco de TRAS, a camera no lugar do PASSAGEIRO DA FRENTE (vazio) apontada para tras; HANDHELD leve, DUTCH ANGLE suave. So VALERIA tem a boca visivel."
     },
     {
      "quem": "ANDRES",
@@ -840,9 +836,9 @@
      "fala": "Yo también, señorita.",
      "emocao": 9,
      "eyeline": "ANDRES olha para o RETROVISOR, para VALERIA. NAO olha para a camera.",
-     "intencao": "Responder com calma absoluta e decisao, como uma sentenca.",
+     "intencao": "Responder com calma e firmeza serena.",
      "voz": "Voz MASCULINA de senhor de 64 anos, baixa, serena e firme, sotaque espanhol.",
-     "rosto": "ANDRES: rosto sereno e duro, um leve aceno de cabeca.",
+     "rosto": "ANDRES: rosto sereno e triste, um leve aceno de cabeca.",
      "corpo": "ANDRES: dirige de frente, as maos firmes no volante.",
      "camera": "Corte seco. Close-up de PERFIL de ANDRES ao volante; em primeiro plano a pequena camera de painel com a LUZ VERMELHA piscando, RACK FOCUS da luz vermelha para o rosto dele. So ANDRES tem a boca visivel."
     }
@@ -859,7 +855,8 @@
    "imagens": [
     "FRAME_ANDRES",
     "FRAME_VALERIA"
-   ]
+   ],
+   "nota": "v1 nao passou (provavel recusa do filtro: suborno/grito/panico). v2 suavizada."
   }
  ]
 }

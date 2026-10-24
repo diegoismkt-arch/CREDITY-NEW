@@ -1161,14 +1161,14 @@ Referências, nesta ordem: 1) FRAME_ANDRES; 2) FRAME_VALERIA
 
 ## Clipe 7 — O suborno
 
-clipe 7: 8.6s, 8.2s de fala (20 palavras, 4 planos, falantes: VALERIA, ANDRES) ✅
+clipe 7: 9.3s, 8.9s de fala (22 palavras, 4 planos, falantes: VALERIA, ANDRES) ✅
 
 Referências, nesta ordem: 1) FRAME_ANDRES; 2) FRAME_VALERIA
 
 ```json
 {
   "IDIOMA_OBRIGATORIO": "TODAS as falas em ESPANHOL da ESPANHA (castelhano, sotaque espanhol de Madrid), exatamente como escritas no campo dialogue. NUNCA em portugues, nunca traduzir.",
-  "ATUACAO_PRIORIDADE_MAXIMA": "Tensao maxima, FALA DO COMECO AO FIM. VALERIA, em panico e desesperada, tenta comprar o silencio de ANDRES oferecendo dinheiro, a voz quebrando entre arrogancia e medo. ANDRES responde calmo, frio e digno, sem levantar a voz, sempre dirigindo. Rostos expressivos, ninguem fica parado.",
+  "ATUACAO_PRIORIDADE_MAXIMA": "Drama emocional intenso, FALA DO COMECO AO FIM. VALERIA, nervosa e com os olhos marejados, propoe um acordo a ANDRES, entre orgulho e culpa. ANDRES responde calmo, triste e digno, sempre dirigindo. Rostos expressivos, ninguem fica parado.",
   "input_image": {
     "required": false,
     "mode": "Ingredients to Video, sem primeiro frame.",
@@ -1192,11 +1192,11 @@ Referências, nesta ordem: 1) FRAME_ANDRES; 2) FRAME_VALERIA
   },
   "scene": {
     "title": "EL TAXISTA",
-    "duration_seconds": 8.7,
+    "duration_seconds": 9.4,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
     "structure": "4 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
     "style": "Thriller dramatico cinematografico espanhol. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos espanhois com imperfeicoes reais, textura real de pele. DENTRO de um taxi branco de Madrid, de NOITE, com CHUVA escorrendo nos vidros, luzes da cidade e neons passando borradas pelas janelas, interior escuro iluminado pelas luzes da rua e pelo brilho azulado do painel. Shallow Focus, cortes rapidos.",
-    "setting": "Continuacao, dentro do taxi na chuva, de noite numa rua tranquila de Madrid. VALERIA, apavorada, oferece dinheiro a ANDRES; ele responde com calma.",
+    "setting": "Continuacao, dentro do taxi na chuva, de noite numa rua tranquila de Madrid. VALERIA, abalada, propoe um acordo a ANDRES; ele responde com calma e tristeza.",
     "blocking": [
       "ANDRES: no banco do MOTORISTA, na frente, a ESQUERDA, as duas maos no volante",
       "VALERIA: no banco de TRAS, a DIREITA, encostada no banco de tras, com o celular no colo. O banco do passageiro da FRENTE esta VAZIO."
@@ -1208,57 +1208,57 @@ Referências, nesta ordem: 1) FRAME_ANDRES; 2) FRAME_VALERIA
   },
   "timeline": [
     {
-      "time": "00:00.00-00:02.79",
+      "time": "00:00.00-00:03.16",
       "speaker": "VALERIA",
-      "dialogue": "Le doy cien mil euros. Olvídelo todo.",
+      "dialogue": "Puedo pagarle lo que quiera. Olvídelo, por favor.",
       "addressee": "ANDRES",
       "eyeline": "VALERIA olha para a frente, entre os bancos, para ANDRES. NAO olha para a camera.",
-      "emotion_level": 9,
-      "intention": "Oferecer dinheiro em desespero, tentando soar no controle.",
-      "voice": "Voz FEMININA de mulher de 35 anos, rapida, nervosa e falsamente firme, sotaque espanhol. NUNCA voz de homem.",
-      "face": "VALERIA: olhos arregalados e molhados, um sorriso forcado e tremulo.",
-      "body": "VALERIA: senta na beirada do banco de TRAS, o corpo projetado para a frente, o celular apertado no colo.",
+      "emotion_level": 8,
+      "intention": "Propor um acordo, nervosa, tentando soar segura.",
+      "voice": "Voz FEMININA de mulher de 35 anos, rapida e nervosa, sotaque espanhol. NUNCA voz de homem.",
+      "face": "VALERIA: olhos marejados, um sorriso forcado.",
+      "body": "VALERIA: senta na beirada do banco de TRAS, o corpo inclinado para a frente.",
       "camera": "Plano de abertura: Close-up de VALERIA no banco de TRAS, filmada de frente por entre os dois bancos da frente, os encostos desfocados nas bordas; SLOW PUSH IN; a luz vermelha da rua passa no rosto dela. So VALERIA tem a boca visivel. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente VALERIA movimenta os labios."
     },
     {
-      "time": "00:02.79-00:04.84",
+      "time": "00:03.16-00:05.21",
       "speaker": "ANDRES",
       "dialogue": "¿Cuánto vale una hija, señorita?",
       "addressee": "VALERIA",
       "eyeline": "ANDRES olha para o RETROVISOR, para VALERIA, e volta os olhos para a rua. NAO olha para a camera.",
       "emotion_level": 9,
-      "intention": "Perguntar com calma gelada, cheia de dor e dignidade.",
-      "voice": "Voz MASCULINA de senhor de 64 anos, baixa, rouca, lenta e fria, sotaque espanhol.",
+      "intention": "Perguntar com calma, cheio de dor e dignidade.",
+      "voice": "Voz MASCULINA de senhor de 64 anos, baixa, rouca, lenta e triste, sotaque espanhol.",
       "face": "ANDRES: olhar firme e marejado, sem piscar.",
       "body": "ANDRES: as duas maos no volante, dirigindo de frente.",
       "camera": "Corte seco. Close-up frontal de ANDRES com a camera DENTRO do carro, apoiada no PAINEL, apontada para ele; LOW ANGLE leve; SLOW DOLLY IN. So ANDRES tem a boca visivel. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente ANDRES movimenta os labios."
     },
     {
-      "time": "00:04.84-00:06.90",
+      "time": "00:05.21-00:07.64",
       "speaker": "VALERIA",
-      "dialogue": "¡Le estoy hablando en serio!",
+      "dialogue": "Hablo en serio, se lo prometo.",
       "addressee": "ANDRES",
       "eyeline": "VALERIA olha para a frente, para ANDRES. NAO olha para a camera.",
-      "emotion_level": 10,
-      "intention": "Gritar, perdendo o controle, entre raiva e medo.",
-      "voice": "Voz FEMININA de mulher de 35 anos, alta e desesperada, quase chorando, sotaque espanhol. NUNCA voz de homem.",
-      "face": "VALERIA: o rosto se contorce, lagrimas nos olhos, a maquiagem comecando a borrar.",
-      "body": "VALERIA: bate as costas no banco de TRAS, sem fôlego.",
-      "camera": "Corte seco. Close-up de VALERIA no banco de TRAS, a camera no lugar do PASSAGEIRO DA FRENTE (vazio) apontada para tras; HANDHELD nervoso, DUTCH ANGLE. So VALERIA tem a boca visivel. A fala comeca no primeiro instante do plano.",
+      "emotion_level": 9,
+      "intention": "Insistir, a voz quebrando, quase chorando.",
+      "voice": "Voz FEMININA de mulher de 35 anos, embargada e suplicante, sotaque espanhol. NUNCA voz de homem.",
+      "face": "VALERIA: lagrimas nos olhos, os labios tremendo.",
+      "body": "VALERIA: encosta devagar no banco de TRAS, abatida.",
+      "camera": "Corte seco. Close-up de VALERIA no banco de TRAS, a camera no lugar do PASSAGEIRO DA FRENTE (vazio) apontada para tras; HANDHELD leve, DUTCH ANGLE suave. So VALERIA tem a boca visivel. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente VALERIA movimenta os labios."
     },
     {
-      "time": "00:06.90-00:08.61",
+      "time": "00:07.64-00:09.35",
       "speaker": "ANDRES",
       "dialogue": "Yo también, señorita.",
       "addressee": "VALERIA",
       "eyeline": "ANDRES olha para o RETROVISOR, para VALERIA. NAO olha para a camera.",
       "emotion_level": 9,
-      "intention": "Responder com calma absoluta e decisao, como uma sentenca.",
+      "intention": "Responder com calma e firmeza serena.",
       "voice": "Voz MASCULINA de senhor de 64 anos, baixa, serena e firme, sotaque espanhol.",
-      "face": "ANDRES: rosto sereno e duro, um leve aceno de cabeca.",
+      "face": "ANDRES: rosto sereno e triste, um leve aceno de cabeca.",
       "body": "ANDRES: dirige de frente, as maos firmes no volante.",
       "camera": "Corte seco. Close-up de PERFIL de ANDRES ao volante; em primeiro plano a pequena camera de painel com a LUZ VERMELHA piscando, RACK FOCUS da luz vermelha para o rosto dele. So ANDRES tem a boca visivel. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente ANDRES movimenta os labios."
@@ -1292,7 +1292,7 @@ Referências, nesta ordem: 1) FRAME_ANDRES; 2) FRAME_VALERIA
   },
   "audio": {
     "single_voice_at_a_time": true,
-    "sound": "A chuva no teto; os limpadores; o motor baixo; a respiracao nervosa de VALERIA; sem musica.",
+    "sound": "A chuva no teto; os limpadores; o motor baixo; sem musica.",
     "music": "Nenhuma.",
     "narration": "Nenhuma.",
     "subtitles": "Nao gerar."
@@ -1335,10 +1335,6 @@ Referências, nesta ordem: 1) FRAME_ANDRES; 2) FRAME_VALERIA
     "valeria abrindo a porta",
     "maos na macaneta",
     "porta do carro aberta",
-    "dinheiro na tela",
-    "notas de dinheiro",
-    "maleta",
-    "talao de cheques",
     "texto ou letras em qualquer lugar",
     "nome ou idade de personagem escrito na tela",
     "letreiro de apresentacao de personagem (lower third)",
