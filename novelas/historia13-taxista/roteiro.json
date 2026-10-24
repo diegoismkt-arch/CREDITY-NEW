@@ -860,7 +860,7 @@
   },
   {
    "nome": "A confissao",
-   "atuacao": "Drama emocional, FALA DO COMECO AO FIM. ANDRES lembra a espera pela filha com tristeza e a voz embargada, sempre dirigindo. VALERIA se emociona, chora e admite que foi ela, arrependida. Rostos expressivos, olhos marejados, ninguem fica parado.",
+   "atuacao": "Drama emocional contido, FALA DO COMECO AO FIM. ANDRES fala da filha com tristeza e saudade, sempre dirigindo. VALERIA, com os olhos marejados, pede desculpas, arrependida. Rostos expressivos, ninguem fica parado.",
    "personagens": [
     "VALERIA",
     "ANDRES"
@@ -879,7 +879,7 @@
     "Nenhum letreiro, placa, taximetro com numeros, logotipo ou letra em lugar nenhum.",
     "O celular de VALERIA fica parado no colo dela, tela apagada."
    ],
-   "cenario": "Continuacao, dentro do taxi na chuva, de noite numa rua tranquila de Madrid. ANDRES lembra a filha; VALERIA, emocionada, admite a verdade.",
+   "cenario": "Continuacao, dentro do taxi na chuva, de noite numa rua tranquila de Madrid. ANDRES fala da filha; VALERIA, emocionada, pede desculpas.",
    "som": "A chuva no teto; os limpadores; o motor baixo; sem musica.",
    "remover_negativos": [
     "dois rostos visiveis nos planos de fala",
@@ -928,10 +928,10 @@
     {
      "quem": "ANDRES",
      "para": "VALERIA",
-     "fala": "La esperé tres días. No volvió a despertar.",
-     "emocao": 9,
+     "fala": "Un año entero buscando ese coche, señorita.",
+     "emocao": 8,
      "eyeline": "ANDRES olha para a rua a frente e depois para o RETROVISOR, para VALERIA. NAO olha para a camera.",
-     "intencao": "Lembrar a perda, devagar e com tristeza.",
+     "intencao": "Contar com tristeza e cansaco.",
      "voz": "Voz MASCULINA de senhor de 64 anos, baixa, rouca e embargada, sotaque espanhol.",
      "rosto": "ANDRES: olhos marejados, o olhar distante.",
      "corpo": "ANDRES: as duas maos no volante, dirigindo de frente.",
@@ -943,8 +943,8 @@
      "fala": "No siga, por favor.",
      "emocao": 9,
      "eyeline": "VALERIA olha para baixo e depois para ANDRES, entre os bancos. NAO olha para a camera.",
-     "intencao": "Implorar que ele pare de contar, sem aguentar ouvir.",
-     "voz": "Voz FEMININA de mulher de 35 anos, baixa e quebrada, chorosa, sotaque espanhol. NUNCA voz de homem.",
+     "intencao": "Pedir, emocionada, que ele nao continue.",
+     "voz": "Voz FEMININA de mulher de 35 anos, baixa e emocionada, sotaque espanhol. NUNCA voz de homem.",
      "rosto": "VALERIA: olhos cheios de lagrimas, o rosto abatido.",
      "corpo": "VALERIA: encolhida no banco de TRAS, balancando a cabeca devagar.",
      "camera": "Corte seco. Close-up de VALERIA no banco de TRAS, filmada de frente por entre os dois bancos da frente, os encostos desfocados nas bordas; SLOW PUSH IN. So VALERIA tem a boca visivel."
@@ -953,23 +953,23 @@
      "quem": "ANDRES",
      "para": "VALERIA",
      "fala": "Nadie paró. Nadie llamó.",
-     "emocao": 10,
+     "emocao": 9,
      "eyeline": "ANDRES olha para a FOTO no painel e depois para o RETROVISOR, para VALERIA. NAO olha para a camera.",
      "intencao": "Dizer com tristeza serena e firme.",
      "voz": "Voz MASCULINA de senhor de 64 anos, baixa, firme e dolorida, sotaque espanhol.",
-     "rosto": "ANDRES: uma lagrima desce pelo rosto, o olhar firme.",
+     "rosto": "ANDRES: os olhos marejados, o olhar firme.",
      "corpo": "ANDRES: aperta o volante com forca, dirigindo de frente.",
      "camera": "Corte seco. Close-up de PERFIL de ANDRES ao volante, a FOTO da menina com a FITA PRETA em primeiro plano desfocada, RACK FOCUS da foto para o rosto dele. So ANDRES tem a boca visivel."
     },
     {
      "quem": "VALERIA",
      "para": "ANDRES",
-     "fala": "Fue un accidente… Tuve tanto miedo.",
+     "fala": "Lo siento… Lo siento muchísimo.",
      "emocao": 9,
      "eyeline": "VALERIA olha para a frente, para ANDRES, chorando. NAO olha para a camera.",
-     "intencao": "Admitir a verdade, arrependida, chorando baixinho.",
-     "voz": "Voz FEMININA de mulher de 35 anos, embargada e chorosa, sotaque espanhol. NUNCA voz de homem.",
-     "rosto": "VALERIA: lagrimas escorrendo, a boca tremendo, olhar de arrependimento.",
+     "intencao": "Pedir desculpas, arrependida, a voz quebrando.",
+     "voz": "Voz FEMININA de mulher de 35 anos, baixa, emocionada e sincera, sotaque espanhol. NUNCA voz de homem.",
+     "rosto": "VALERIA: os olhos marejados, uma lagrima, olhar de arrependimento.",
      "corpo": "VALERIA: abaixa a cabeca no banco de TRAS e depois volta a olhar para a frente.",
      "camera": "Corte seco. Close-up de VALERIA no banco de TRAS, a camera no lugar do PASSAGEIRO DA FRENTE (vazio) apontada para tras; HANDHELD leve, SLOW PUSH IN ate o rosto dela. So VALERIA tem a boca visivel."
     }
@@ -987,7 +987,7 @@
     "FRAME_ANDRES",
     "FRAME_VALERIA"
    ],
-   "nota": "v1 nao passou (provavel filtro: bebido/hospital/acusacao). v2 suavizada."
+   "nota": "v1 e v2 nao passaram (motivo nao informado). v3 sem palavras de morte/acidente."
   }
  ]
 }
