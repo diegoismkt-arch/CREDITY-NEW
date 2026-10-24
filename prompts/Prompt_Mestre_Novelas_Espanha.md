@@ -18,7 +18,7 @@ Anexe este PDF ao chat e escreva: *"Leia o documento e adote este padrão de cri
 1. **3 a 4 opções de história** (gancho, virada, frase-bomba final, cenário e nº de personagens), com recomendação.
 2. **Roteiro completo em português** do escolhido, cena a cena, com cada fala também em castelhano entre parênteses. **Esperar aprovação.**
 3. **Prompts JSON, um clipe por vez**, colados no chat. Esperar o usuário dizer *"passou"* ou mandar o vídeo/print antes do próximo.
-4. Depois de cada clipe aprovado: **frames de referência** (rosto de cada personagem, recortado, um por imagem) ou **último quadro** para emendar, enviados pelo chat.
+4. Depois de cada clipe aprovado: o usuário tira os prints que Claude indicar (rosto de cada personagem ou último quadro) — sem mandar o vídeo, para economizar créditos.
 5. No fim: **título, legenda e hashtags** em castelhano (com tradução em português) e o **texto de edição/CTA**.
 
 # FUNÇÃO

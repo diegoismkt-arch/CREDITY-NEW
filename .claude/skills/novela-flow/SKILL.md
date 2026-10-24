@@ -171,3 +171,9 @@ Todo clipe usa pelo menos 3 técnicas DIFERENTES de `references/cinematografia.m
 
 ## Prompt Mestre (padrão consolidado)
 O fluxo completo, o cardápio de ganchos (VARIAR a cada história; o tapa não é padrão), as regras de fala até o fim e o checklist de entrega estão em `references/prompt-mestre.md` (cópia em PDF para o usuário em `prompts/Prompt_Mestre_Novelas_Espanha.pdf`). Seguir esse documento em toda nova história.
+
+## Fluxo sem mandar vídeo (pedido do usuário: mandar vídeo gasta muitos créditos)
+- O usuário NÃO manda mais o vídeo. Ele responde "passou" ou descreve o erro em texto; quando precisar, manda só um PRINT (frame) tirado por ele.
+- Continuidade: o usuário usa o próprio Flow — "Estender/Extend" no Scenebuilder (continua do último frame) ou print do último quadro em Frames to Video.
+- Referência de rosto: o usuário tira print do rosto de cada personagem no player do Flow e sobe em Ingredients. Claude diz NO TEXTO qual print tirar (personagem, plano, segundo aproximado) e em que ordem subir.
+- Claude só analisa vídeo se o usuário pedir explicitamente.
