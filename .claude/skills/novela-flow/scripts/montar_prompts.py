@@ -129,7 +129,7 @@ def montar(rot, n, clip):
         erro = True
 
     ultima_fala = max((i for i, p in enumerate(planos) if p.get("fala")), default=-1)
-    fim_fala = sum(max(MIN_PLANO_FALA, contar(p["fala"]) / PALAVRAS_POR_SEG + FOLGA_POR_FALA) if p.get("fala")
+    fim_fala = sum(max(MIN_PLANO_FALA, contar(p["fala"]) / PALAVRAS_POR_SEG + FOLGA_POR_FALA, p.get("segundos", 0)) if p.get("fala")
                    else p.get("segundos", 0.8) for p in planos[:ultima_fala + 1])
 
     usados = clip["personagens"]

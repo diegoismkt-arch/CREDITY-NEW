@@ -139,7 +139,7 @@ Sem imagem de referência (Text to Video).
     ],
     "rules": [
       "So existem 4 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
-      "Depois de 8.5 segundos ninguem fala.",
+      "Depois de 8.6 segundos ninguem fala.",
       "Cada fala e dirigida a: LUCIA -> RAMIRO; RAMIRO -> LUCIA; ELENA -> RAMIRO; RAMIRO -> ELENA.",
       "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
       "Nao repetir, misturar, traduzir ou acrescentar palavras.",
@@ -733,7 +733,7 @@ Referências, nesta ordem: 1) FRAME_LUCIA; 2) FRAME_RAMIRO; 3) FRAME_ELENA
     ],
     "rules": [
       "So existem 4 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
-      "Depois de 8.4 segundos ninguem fala.",
+      "Depois de 8.6 segundos ninguem fala.",
       "Cada fala e dirigida a: CARMEN -> LUCIA; ELENA -> LUCIA; ELENA -> LUCIA; RAMIRO -> ELENA.",
       "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
       "Nao repetir, misturar, traduzir ou acrescentar palavras.",
@@ -912,7 +912,7 @@ Referências, nesta ordem: 1) FRAME_LUCIA; 2) FRAME_RAMIRO; 3) FRAME_ELENA
     ],
     "rules": [
       "So existem 3 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
-      "Depois de 8.5 segundos ninguem fala.",
+      "Depois de 8.8 segundos ninguem fala.",
       "Cada fala e dirigida a: ELENA -> LUCIA; LUCIA -> ELENA; ELENA -> LUCIA.",
       "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
       "Nao repetir, misturar, traduzir ou acrescentar palavras.",
@@ -1460,7 +1460,7 @@ Referências, nesta ordem: 1) FRAME_LUCIA; 2) FRAME_RAMIRO; 3) FRAME_ELENA
     ],
     "rules": [
       "So existem 4 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
-      "Depois de 7.7 segundos ninguem fala.",
+      "Depois de 8.3 segundos ninguem fala.",
       "Cada fala e dirigida a: ELENA -> LUCIA; LUCIA -> ELENA; ELENA -> LUCIA; LUCIA -> RAMIRO.",
       "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
       "Nao repetir, misturar, traduzir ou acrescentar palavras.",
@@ -1644,7 +1644,7 @@ Referências, nesta ordem: 1) FRAME_LUCIA; 2) FRAME_RAMIRO; 3) FRAME_ELENA
     ],
     "rules": [
       "So existem 3 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
-      "Depois de 7.4 segundos ninguem fala.",
+      "Depois de 8.2 segundos ninguem fala.",
       "Cada fala e dirigida a: ELENA -> RAMIRO; LUCIA -> RAMIRO; ELENA -> RAMIRO.",
       "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
       "Nao repetir, misturar, traduzir ou acrescentar palavras.",

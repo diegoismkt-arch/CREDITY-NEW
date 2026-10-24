@@ -8,7 +8,8 @@
   "imagens": {
     "FRAME_PAULA": "frame do clipe 1, plano 3 (por volta do segundo 4,6): close de PAULA chorando, camisa preta e colete vinho, rabo de cavalo castanho.",
     "FRAME_CONSUELO": "frame do clipe 1, plano 2 (por volta do segundo 2,6): DONA CONSUELO de vestido marfim de gola alta manchado de vinho, cabelo loiro curto.",
-    "FRAME_ALVARO": "frame do clipe 1, plano 5 (por volta do segundo 9,5): close de ALVARO de terno azul-marinho e camisa branca."
+    "FRAME_ALVARO": "frame do clipe 1, plano 5 (por volta do segundo 9,5): close de ALVARO de terno azul-marinho e camisa branca.",
+    "FRAME_FIM5": "ULTIMO frame do clipe 5: close dos TRES juntos (PAULA esquerda, ALVARO meio, CONSUELO direita) diante do arco ocre e da laranjeira."
   },
   "personagens": {
     "PAULA": {
@@ -580,6 +581,130 @@
         "Nenhuma fala no ultimo plano: o clipe termina no close dos TRES rostos juntos, todos de boca fechada.",
         "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
       ]
+    },
+    {
+      "nome": "La empujaron",
+      "atuacao": "Novela dramatica, EMOCAO MAXIMA. PAULA revela o segredo com voz baixa e firme. ALVARO explode em choque. CONSUELO entra em PANICO e grita pela seguranca. Rostos muito expressivos. Nenhum momento parado.",
+      "imagens": [
+        "FRAME_FIM5"
+      ],
+      "personagens": [
+        "PAULA",
+        "ALVARO",
+        "CONSUELO"
+      ],
+      "posicoes": {
+        "PAULA": "de pe na ESQUERDA, a menos de um metro dos outros dois",
+        "CONSUELO": "de pe na DIREITA, de frente para PAULA, a menos de um metro",
+        "ALVARO": "de pe no MEIO, um passo atras, entre as duas, formando um triangulo apertado"
+      },
+      "preservar_extra": [
+        "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
+        "A imagem 1 e o PRIMEIRO FRAME do video: os MESMOS tres rostos, roupas, posicoes e fundo dessa imagem do comeco ao fim.",
+        "OS TRES ESTAO JUNTOS, PERTO UM DO OUTRO, no MESMO lugar do patio, nas mesmas posicoes o clipe inteiro (PAULA esquerda, ALVARO meio atras, CONSUELO direita). Fundo SEMPRE o mesmo: o arco de parede branca caiada com moldura amarelo-ocre e uma laranjeira ao lado, luzinhas quentes penduradas, convidados desfocados.",
+        "O ANEL: anel antigo de OURO com ESMERALDA verde, pendurado no cordao de ouro no pescoco de PAULA, preso na mao fechada dela. Existe UM UNICO anel e ele fica SO com PAULA.",
+        "CONSUELO NAO usa nenhuma joia; as maos dela ficam FORA do quadro ou caidas ao lado do corpo, sem aneis.",
+        "A bochecha esquerda de PAULA continua VERMELHA do tapa.",
+        "Nenhum letreiro, cartaz ou letra em lugar nenhum."
+      ],
+      "cenario": "Continuacao EXATA do ultimo frame do clipe anterior, no mesmo canto do patio da finca em Sevilha, de noite. ALVARO acabou de dizer que a mae contou que a avo morreu dormindo. PAULA revela que a avo disse que alguem a empurrou da escada.",
+      "som": "Silencio pesado; a voz baixa de PAULA; um TUM grave e um violino agudo quando ela fala da escada; o grito de ALVARO; o grito histerico de CONSUELO ecoando; no fim, silencio.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida"
+      ],
+      "negativos_extra": [
+        "personagens em lugares diferentes",
+        "fundo diferente entre os planos",
+        "personagens longe um do outro",
+        "rosto ou boca do ouvinte visivel nos planos de fala",
+        "anel no dedo de consuelo",
+        "dois aneis",
+        "voz masculina nas falas femininas",
+        "voz feminina na fala de alvaro",
+        "sotaque latino-americano",
+        "sotaque mexicano",
+        "personagem falando de frente para a camera",
+        "legendas embutidas",
+        "subtitles",
+        "captions",
+        "texto das falas escrito na tela",
+        "letras brancas na parte de baixo do video",
+        "letras na tela"
+      ],
+      "planos": [
+        {
+          "rosto": "Os tres exatamente como na imagem 1. Bocas FECHADAS.",
+          "corpo": "O video ABRE na mesma composicao da imagem 1 e a acao continua dali: PAULA respira fundo.",
+          "camera": "Plano de abertura: o mesmo THREE SHOT fechado da imagem 1, camera travada. Ninguem fala.",
+          "segundos": 0.5
+        },
+        {
+          "quem": "PAULA",
+          "para": "ALVARO",
+          "fala": "No murió dormida.",
+          "emocao": 10,
+          "eyeline": "PAULA olha para a DIREITA do quadro, para ALVARO. NAO olha para a camera.",
+          "intencao": "Desmentir a mae dele, baixo e firme.",
+          "voz": "Voz FEMININA jovem, baixa, firme, sotaque espanhol. NUNCA voz de homem.",
+          "rosto": "PAULA: olhar firme, os olhos marejados.",
+          "corpo": "PAULA: aperta o anel no peito.",
+          "camera": "Corte seco. OVER-THE-SHOULDER: o ombro do terno azul de ALVARO DESFOCADO em primeiro plano na DIREITA, de costas, sem rosto e sem boca; PAULA nitida em Close-up, lente 85mm, mesmo fundo."
+        },
+        {
+          "quem": "PAULA",
+          "para": "ALVARO",
+          "fala": "Me dijo que alguien la empujó por la escalera.",
+          "emocao": 10,
+          "eyeline": "PAULA olha para a DIREITA do quadro, para ALVARO. NAO olha para a camera.",
+          "intencao": "Revelar o segredo terrivel que a avo contou antes de morrer.",
+          "voz": "Voz FEMININA jovem, quase um sussurro, tremendo, sotaque espanhol. NUNCA voz de homem.",
+          "rosto": "PAULA: uma lagrima escorre; o olhar nao se desvia.",
+          "corpo": "PAULA: imovel, a respiracao presa.",
+          "camera": "Corte seco. Close-up de PAULA, SLOW DOLLY IN ate quase os olhos, o ombro de ALVARO desfocado na borda DIREITA, de costas. So PAULA tem a boca visivel.",
+          "segundos": 3.7
+        },
+        {
+          "quem": "ALVARO",
+          "para": "PAULA",
+          "fala": "¿Quién?",
+          "emocao": 10,
+          "eyeline": "ALVARO olha para a ESQUERDA do quadro, para PAULA. NAO olha para a camera.",
+          "intencao": "Exigir o nome, desesperado.",
+          "voz": "Voz masculina grave GRITANDO, desesperada, sotaque espanhol.",
+          "rosto": "ALVARO: os olhos arregalados, as veias do pescoco saltando.",
+          "corpo": "ALVARO: avanca meio passo.",
+          "camera": "Corte seco. CRASH ZOOM IN no rosto de ALVARO, por cima do ombro desfocado de PAULA na ESQUERDA, de costas, sem rosto e sem boca.",
+          "segundos": 1.2
+        },
+        {
+          "quem": "CONSUELO",
+          "para": "SEGURANCA",
+          "fala": "¡Seguridad! ¡Sacadla de aquí!",
+          "emocao": 10,
+          "eyeline": "CONSUELO olha para o FUNDO do patio, para os seguranças fora do quadro. NAO olha para a camera.",
+          "intencao": "Calar a camareira a qualquer custo, em panico.",
+          "voz": "Voz feminina rouca de senhora, GRITANDO histerica, sotaque espanhol.",
+          "rosto": "CONSUELO: panico total, os olhos esbugalhados, a boca tremendo.",
+          "corpo": "CONSUELO: vira o corpo para o fundo do patio, as maos fora do quadro.",
+          "camera": "Corte seco. DUTCH ANGLE de CONSUELO, camera girada 20 graus, Close-up do rosto e ombros, o ombro de PAULA desfocado na borda ESQUERDA, de costas. As MAOS de CONSUELO fora do quadro.",
+          "segundos": 1.8
+        },
+        {
+          "rosto": "PAULA firme; ALVARO em choque olhando para a mae; CONSUELO desesperada. As TRES bocas FECHADAS.",
+          "corpo": "Os tres juntos e bem perto, nas mesmas posicoes, imoveis.",
+          "camera": "Corte seco. THREE SHOT FECHADO: close dos TRES rostos juntos, do peito para cima, mesmo fundo do arco ocre e da laranjeira, camera travada. Ninguem fala. O clipe termina nos tres rostos.",
+          "segundos": 0.9
+        }
+      ],
+      "regras_extra": [
+        "Os tres ficam JUNTOS, PERTO, no MESMO lugar e no MESMO fundo o clipe inteiro.",
+        "Nos planos de fala, so o rosto de quem fala aparece; o ouvinte fica de COSTAS, desfocado, sem rosto e sem boca visiveis.",
+        "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
+        "Nenhuma fala no ultimo plano: o clipe termina no close dos TRES rostos juntos, todos de boca fechada.",
+        "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+      ],
+      "primeiro_frame": true
     }
   ]
 }

@@ -131,7 +131,7 @@
     ],
     "rules": [
       "So existem 4 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
-      "Depois de 8.4 segundos ninguem fala.",
+      "Depois de 8.6 segundos ninguem fala.",
       "Cada fala e dirigida a: CARMEN -> LUCIA; ELENA -> LUCIA; ELENA -> LUCIA; RAMIRO -> ELENA.",
       "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
       "Nao repetir, misturar, traduzir ou acrescentar palavras.",
