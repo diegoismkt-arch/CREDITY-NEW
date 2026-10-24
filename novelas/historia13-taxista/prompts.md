@@ -558,7 +558,7 @@ Referências, nesta ordem: 1) FRAME_ANDRES; 2) FRAME_VALERIA
 
 ## Clipe 4 — O atalho
 
-clipe 4: 10.5s, 10.1s de fala (25 palavras, 4 planos, falantes: VALERIA, ANDRES) ❌ 10.5s — passa de 10s, corte palavras
+clipe 4: 9.0s, 8.6s de fala (21 palavras, 4 planos, falantes: VALERIA, ANDRES) ✅
 
 Referências, nesta ordem: 1) FRAME_ANDRES; 2) FRAME_VALERIA
 
@@ -586,7 +586,7 @@ Referências, nesta ordem: 1) FRAME_ANDRES; 2) FRAME_VALERIA
   },
   "scene": {
     "title": "EL TAXISTA",
-    "duration_seconds": 10.0,
+    "duration_seconds": 9.0,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
     "structure": "4 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
     "style": "Thriller dramatico cinematografico espanhol. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos espanhois com imperfeicoes reais, textura real de pele. DENTRO de um taxi branco de Madrid, de NOITE, com CHUVA escorrendo nos vidros, luzes da cidade e neons passando borradas pelas janelas, interior escuro iluminado pelas luzes da rua e pelo brilho azulado do painel. Shallow Focus, cortes rapidos.",
@@ -616,9 +616,9 @@ Referências, nesta ordem: 1) FRAME_ANDRES; 2) FRAME_VALERIA
       "mouths": "Somente VALERIA movimenta os labios."
     },
     {
-      "time": "00:02.79-00:06.33",
+      "time": "00:02.79-00:04.84",
       "speaker": "ANDRES",
-      "dialogue": "Es un atajo. Hay obras en la Gran Vía.",
+      "dialogue": "Es un atajo. Hay obras.",
       "addressee": "VALERIA",
       "eyeline": "ANDRES olha para o RETROVISOR, para VALERIA. NAO olha para a camera.",
       "emotion_level": 7,
@@ -630,7 +630,7 @@ Referências, nesta ordem: 1) FRAME_ANDRES; 2) FRAME_VALERIA
       "mouths": "Somente ANDRES movimenta os labios."
     },
     {
-      "time": "00:06.33-00:08.75",
+      "time": "00:04.84-00:07.27",
       "speaker": "VALERIA",
       "dialogue": "Pues dese prisa. Tengo una cena.",
       "addressee": "ANDRES",
@@ -644,7 +644,7 @@ Referências, nesta ordem: 1) FRAME_ANDRES; 2) FRAME_VALERIA
       "mouths": "Somente VALERIA movimenta os labios."
     },
     {
-      "time": "00:08.75-00:10.46",
+      "time": "00:07.27-00:08.98",
       "speaker": "ANDRES",
       "dialogue": "Llegaremos pronto, señorita.",
       "addressee": "VALERIA",
