@@ -349,7 +349,126 @@
       "imagens": [
         "FRAME_ANDRES",
         "FRAME_VALERIA"
-      ]
+      ],
+      "nota": "Gerado: o taxi NAO virou a rua no fim; a virada foi passada para o comeco do clipe 4."
+    },
+    {
+      "nome": "As portas",
+      "atuacao": "Thriller, FALA DO COMECO AO FIM. O taxi VIRA de repente para uma rua escura e vazia. VALERIA passa da arrogancia para a desconfianca e depois para o MEDO. ANDRES fica calmo demais, educado, os olhos duros no retrovisor. Tensao crescente. Rostos muito expressivos. Ninguem fica parado.",
+      "personagens": [
+        "VALERIA",
+        "ANDRES"
+      ],
+      "posicoes": {
+        "ANDRES": "no banco do MOTORISTA, na frente, a ESQUERDA, as duas maos no volante",
+        "VALERIA": "no banco de TRAS, a DIREITA, atras do banco do passageiro, com o celular na orelha"
+      },
+      "preservar_extra": [
+        "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
+        "O MESMO ANDRES da imagem 1 e a MESMA VALERIA da imagem 2, com as mesmas roupas, dentro do MESMO taxi, nos mesmos lugares.",
+        "NO PAINEL do taxi, ao lado do volante: uma FOTO pequena de uma MENINA sorrindo (a mesma do clipe 1), com uma FITA PRETA de luto no canto; e uma pequena CAMERA de painel (dashcam) com uma LUZ VERMELHA acesa piscando.",
+        "Nenhum letreiro, placa, taximetro com numeros, logotipo ou letra em lugar nenhum.",
+        "O celular de VALERIA fica no colo dela, sem ninguem falando nele."
+      ],
+      "cenario": "Continuacao, dentro do taxi na chuva, de noite em Madrid. ANDRES sai da avenida iluminada e entra numa rua escura e vazia, longe do hotel, e trava as portas.",
+      "som": "O pneu chiando na curva molhada; a seta clicando; a chuva; o CLIQUE alto e seco das travas das portas; o motor acelerando; sem musica.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida"
+      ],
+      "negativos_extra": [
+        "duas vozes ao mesmo tempo",
+        "voz masculina nas falas de valeria",
+        "voz feminina nas falas de andres",
+        "rosto ou boca do ouvinte visivel nos planos de fala",
+        "personagem falando de frente para a camera",
+        "taximetro com numeros",
+        "letras ou numeros no painel",
+        "sotaque latino-americano",
+        "sotaque mexicano",
+        "legendas embutidas",
+        "subtitles",
+        "captions",
+        "texto das falas escrito na tela",
+        "letras brancas na parte de baixo do video",
+        "letras na tela",
+        "personagens parados como estatuas",
+        "dia claro",
+        "carro diferente de taxi",
+        "voz do outro lado do telefone",
+        "garrafa",
+        "taxi parado",
+        "rua iluminada no fim"
+      ],
+      "planos": [
+        {
+          "quem": "VALERIA",
+          "para": "ANDRES",
+          "fala": "Esta no es la calle del hotel.",
+          "emocao": 8,
+          "eyeline": "VALERIA olha pela janela e depois para a frente, para ANDRES. NAO olha para a camera.",
+          "intencao": "Reclamar, desconfiada, ao perceber o caminho errado.",
+          "voz": "Voz FEMININA de mulher de 35 anos, irritada e desconfiada, sotaque espanhol. NUNCA voz de homem.",
+          "rosto": "VALERIA: testa franzida, olhando para tras pela janela.",
+          "corpo": "VALERIA: o corpo dela e jogado de leve para o lado quando o taxi VIRA de repente; ela se segura no banco.",
+          "camera": "Plano de abertura: Close-up de VALERIA no banco de tras; pela janela atras dela, as luzes da avenida GIRAM e somem enquanto o taxi faz a CURVA para uma rua escura; handheld leve. So VALERIA tem a boca visivel."
+        },
+        {
+          "quem": "ANDRES",
+          "para": "VALERIA",
+          "fala": "Es un atajo. Confíe en mí.",
+          "emocao": 8,
+          "eyeline": "ANDRES olha para o RETROVISOR, para VALERIA. NAO olha para a camera.",
+          "intencao": "Tranquilizar com uma calma assustadora.",
+          "voz": "Voz MASCULINA de senhor de 64 anos, baixa, calma, educada demais, sotaque espanhol.",
+          "rosto": "ANDRES: rosto sereno, os olhos frios fixos no espelho.",
+          "corpo": "ANDRES: termina a curva com as duas maos firmes no volante.",
+          "camera": "Corte seco. Plano frontal de ANDRES pelo para-brisa molhado, os limpadores cruzando, a rua escura e vazia a frente, SLOW DOLLY IN. So ANDRES tem a boca visivel."
+        },
+        {
+          "rosto": "Sem rosto: so o detalhe.",
+          "corpo": "O dedo de ANDRES aperta o botao das travas no painel da porta do motorista; os pinos das quatro portas descem de uma vez.",
+          "camera": "Corte seco. INSERT do dedo apertando o botao da trava, depois do pino da porta de tras descendo, CRASH ZOOM curto. Ninguem fala: so o CLIQUE alto.",
+          "segundos": 0.6
+        },
+        {
+          "quem": "VALERIA",
+          "para": "ANDRES",
+          "fala": "¿Por qué ha cerrado?",
+          "emocao": 9,
+          "eyeline": "VALERIA olha para a frente, para ANDRES, assustada. NAO olha para a camera.",
+          "intencao": "Exigir uma explicacao, com o primeiro medo na voz.",
+          "voz": "Voz FEMININA de mulher de 35 anos, alta, nervosa, sotaque espanhol. NUNCA voz de homem.",
+          "rosto": "VALERIA: os olhos arregalados, a respiracao acelerada.",
+          "corpo": "VALERIA: puxa a macaneta da porta, que nao abre.",
+          "camera": "Corte seco. OVER-THE-SHOULDER: a nuca grisalha e o ombro do cardiga de ANDRES DESFOCADOS em primeiro plano, de costas, sem rosto e sem boca; VALERIA nitida no banco de tras puxando a macaneta, HIGH ANGLE leve."
+        },
+        {
+          "quem": "ANDRES",
+          "para": "VALERIA",
+          "fala": "Por su seguridad.",
+          "emocao": 9,
+          "eyeline": "ANDRES olha para o RETROVISOR, para VALERIA. NAO olha para a camera.",
+          "intencao": "Responder friamente, deixando claro que ela nao vai sair.",
+          "voz": "Voz MASCULINA de senhor de 64 anos, baixa e gelada, sotaque espanhol.",
+          "rosto": "ANDRES: so os olhos dele no retrovisor, duros; depois um corte para a boca dele falando.",
+          "corpo": "ANDRES: acelera o taxi pela rua escura.",
+          "camera": "Corte seco. Close-up de PERFIL de ANDRES ao volante, a FOTO da menina e a LUZ VERMELHA da camera do painel ao lado, DUTCH ANGLE leve. So ANDRES tem a boca visivel."
+        }
+      ],
+      "regras_extra": [
+        "O taxi VIRA de verdade no primeiro plano: a curva aparece na tela.",
+        "FALA DO COMECO AO FIM: o video comeca com VALERIA ja falando e termina na ultima fala de ANDRES, sem plano mudo final.",
+        "So uma boca visivel por plano: quem fala aparece nitido; o outro fica de costas, desfocado ou so com os olhos no retrovisor.",
+        "VALERIA tem voz FEMININA de 35 anos; ANDRES tem voz MASCULINA de 64 anos: nunca trocar as vozes.",
+        "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
+        "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+      ],
+      "imagens": [
+        "FRAME_ANDRES",
+        "FRAME_VALERIA"
+      ],
+      "nota": "Gerado: o taxi NAO virou a rua no fim; a virada foi passada para o comeco do clipe 4."
     }
   ]
 }
