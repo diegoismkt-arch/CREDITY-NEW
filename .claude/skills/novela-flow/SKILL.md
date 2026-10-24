@@ -177,3 +177,8 @@ O fluxo completo, o cardápio de ganchos (VARIAR a cada história; o tapa não �
 - Continuidade: o usuário usa o próprio Flow — "Estender/Extend" no Scenebuilder (continua do último frame) ou print do último quadro em Frames to Video.
 - Referência de rosto: o usuário tira print do rosto de cada personagem no player do Flow e sobe em Ingredients. Claude diz NO TEXTO qual print tirar (personagem, plano, segundo aproximado) e em que ordem subir.
 - Claude só analisa vídeo se o usuário pedir explicitamente.
+
+## Cenas dentro de CARRO (lição de El taxista)
+- O motorista está DIRIGINDO: sempre de frente para o para-brisa, mãos no volante; NUNCA virado para trás. Só os olhos procuram o passageiro pelo RETROVISOR.
+- NÃO usar Over-the-Shoulder pela nuca do motorista para filmar o banco de trás (o Flow vira o motorista de costas). Para o passageiro: câmera no lugar do passageiro da frente apontada para trás, com só o encosto de cabeça na borda; ou pelo retrovisor. Para o motorista: perfil (do banco do passageiro) ou frontal pelo para-brisa.
+- Nada de travar portas / passageiro preso / medo de ser levado: o Flow recusa como conteúdo prejudicial.

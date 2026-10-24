@@ -365,6 +365,7 @@
       },
       "preservar_extra": [
         "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
+        "ANDRES esta DIRIGINDO: fica SEMPRE sentado de frente para o para-brisa, as maos no volante, o corpo e a cabeca virados para a FRENTE. Ele NUNCA se vira para tras; so os OLHOS dele procuram VALERIA pelo RETROVISOR.",
         "O MESMO ANDRES da imagem 1 e a MESMA VALERIA da imagem 2, com as mesmas roupas, dentro do MESMO taxi, nos mesmos lugares.",
         "NO PAINEL do taxi, ao lado do volante: uma FOTO pequena de uma MENINA sorrindo (a mesma do clipe 1), com uma FITA PRETA de luto no canto; e uma pequena CAMERA de painel (dashcam) com uma LUZ VERMELHA acesa piscando.",
         "Nenhum letreiro, placa, taximetro com numeros, logotipo ou letra em lugar nenhum.",
@@ -396,7 +397,11 @@
         "dia claro",
         "carro diferente de taxi",
         "voz do outro lado do telefone",
-        "garrafa"
+        "garrafa",
+        "motorista virado para tras",
+        "motorista de costas para o para-brisa",
+        "motorista olhando para o banco de tras com o corpo virado",
+        "nuca do motorista em primeiro plano"
       ],
       "planos": [
         {
@@ -433,7 +438,7 @@
           "voz": "Voz FEMININA de mulher de 35 anos, seca e mandona, sotaque espanhol. NUNCA voz de homem.",
           "rosto": "VALERIA: revira os olhos, impaciente.",
           "corpo": "VALERIA: olha o relogio no celular e bufa.",
-          "camera": "Corte seco. OVER-THE-SHOULDER: a nuca grisalha e o ombro do cardiga de ANDRES DESFOCADOS em primeiro plano, de costas, sem rosto e sem boca; VALERIA nitida no banco de tras, HIGH ANGLE leve."
+          "camera": "Corte seco. Close-up de VALERIA no banco de tras, a camera no lugar do PASSAGEIRO DA FRENTE apontada para tras; na borda do quadro so o ENCOSTO de cabeca do banco do motorista (ANDRES fora do quadro, olhando para a frente); HIGH ANGLE leve."
         },
         {
           "quem": "ANDRES",
@@ -449,6 +454,7 @@
         }
       ],
       "regras_extra": [
+        "ANDRES esta DIRIGINDO: fica SEMPRE sentado de frente para o para-brisa, as maos no volante, o corpo e a cabeca virados para a FRENTE. Ele NUNCA se vira para tras; so os OLHOS dele procuram VALERIA pelo RETROVISOR.",
         "O taxi faz uma CURVA no primeiro plano: a curva aparece na tela.",
         "FALA DO COMECO AO FIM: o video comeca com VALERIA ja falando e termina na ultima fala de ANDRES, sem plano mudo final.",
         "So uma boca visivel por plano: quem fala aparece nitido; o outro fica de costas, desfocado ou so com os olhos no retrovisor.",
