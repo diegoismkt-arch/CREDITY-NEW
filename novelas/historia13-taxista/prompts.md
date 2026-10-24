@@ -771,6 +771,8 @@ Referências, nesta ordem: 1) FRAME_ANDRES; 2) FRAME_VALERIA
       "ANDRES: o MESMO rosto da imagem 1, taxista de 64 anos, espanhol, viuvo, rosto comum e desconhecido, pele clara cansada, OLHEIRAS fundas, BIGODE GRISALHO, cabelo grisalho ralo penteado para tras, CARDIGA MARROM sobre camisa xadrez azul, alianca de casamento no dedo, sem outras joias.",
       "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
       "ANDRES esta DIRIGINDO: fica SEMPRE sentado de frente para o para-brisa, as maos no volante, o corpo e a cabeca virados para a FRENTE. Ele NUNCA se vira para tras; so os OLHOS dele procuram VALERIA pelo RETROVISOR.",
+      "VALERIA fica o video TODO no banco de TRAS. O banco do passageiro da FRENTE esta SEMPRE VAZIO. Ninguem senta ao lado de ANDRES.",
+      "A camera fica SEMPRE DENTRO do taxi. Nunca filmar de fora do carro; o teto e o luminoso do taxi nunca aparecem.",
       "O MESMO ANDRES da imagem 1 e a MESMA VALERIA da imagem 2, com as mesmas roupas, dentro do MESMO taxi, nos mesmos lugares.",
       "NO PAINEL do taxi, ao lado do volante: uma FOTO pequena de uma MENINA sorrindo (a mesma do clipe 1), com uma FITA PRETA de luto no canto; e uma pequena CAMERA de painel (dashcam) com uma LUZ VERMELHA acesa piscando.",
       "Nenhum letreiro, placa, taximetro com numeros, logotipo ou letra em lugar nenhum.",
@@ -786,7 +788,7 @@ Referências, nesta ordem: 1) FRAME_ANDRES; 2) FRAME_VALERIA
     "setting": "Continuacao, dentro do taxi na chuva, de noite numa rua tranquila de Madrid. VALERIA repara na foto da menina no painel e pergunta quem e.",
     "blocking": [
       "ANDRES: no banco do MOTORISTA, na frente, a ESQUERDA, as duas maos no volante",
-      "VALERIA: no banco de TRAS, a DIREITA, atras do banco do passageiro, inclinada um pouco para a frente, olhando o painel"
+      "VALERIA: no banco de TRAS, a DIREITA, encostada no banco de tras, com o celular no colo. O banco do passageiro da FRENTE esta VAZIO."
     ],
     "characters": {
       "VALERIA": "A MESMA da imagem 2. Personagem ficticia. Voz feminina fria, rapida e arrogante de mulher espanhola de 35 anos, sotaque de Madrid.",
@@ -799,13 +801,13 @@ Referências, nesta ordem: 1) FRAME_ANDRES; 2) FRAME_VALERIA
       "speaker": "VALERIA",
       "dialogue": "¿Quién es la niña de la foto?",
       "addressee": "ANDRES",
-      "eyeline": "VALERIA olha para a FOTO no painel e depois para o retrovisor, para ANDRES. NAO olha para a camera.",
+      "eyeline": "VALERIA, sentada no banco de TRAS, olha para a frente, entre os bancos, para a FOTO no painel e depois para ANDRES. NAO olha para a camera.",
       "emotion_level": 7,
       "intention": "Perguntar por curiosidade, ainda com ar superior.",
       "voice": "Voz FEMININA de mulher de 35 anos, curiosa e um pouco arrogante, sotaque espanhol. NUNCA voz de homem.",
       "face": "VALERIA: sobrancelha erguida, olhar curioso para o painel.",
-      "body": "VALERIA: se inclina para a frente no banco, esticando o pescoco para ver a foto.",
-      "camera": "Plano de abertura: Close-up de VALERIA no banco de tras, a camera no lugar do PASSAGEIRO DA FRENTE apontada para tras; na borda do quadro so o ENCOSTO de cabeca do banco do motorista (ANDRES fora do quadro, olhando para a frente); SLOW PUSH IN enquanto ela se inclina. So VALERIA tem a boca visivel. A fala comeca no primeiro instante do plano.",
+      "body": "VALERIA: continua sentada no banco de TRAS; so estica o pescoco e aponta o queixo para o painel.",
+      "camera": "Plano de abertura: Close-up de VALERIA no banco de TRAS, a camera no lugar do PASSAGEIRO DA FRENTE (vazio) apontada para tras; atras dela o vidro TRASEIRO com a chuva; na borda do quadro so o ENCOSTO de cabeca do banco do motorista; SLOW PUSH IN. So VALERIA tem a boca visivel. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente VALERIA movimenta os labios."
     },
     {
@@ -832,8 +834,8 @@ Referências, nesta ordem: 1) FRAME_ANDRES; 2) FRAME_VALERIA
       "intention": "Perguntar, ja desconfortavel, sentindo que algo esta errado.",
       "voice": "Voz FEMININA de mulher de 35 anos, hesitante, sotaque espanhol. NUNCA voz de homem.",
       "face": "VALERIA: o ar superior some; testa franzida, labios entreabertos.",
-      "body": "VALERIA: volta a encostar devagar no banco, segurando a gola do casaco.",
-      "camera": "Corte seco. Plano de VALERIA REFLETIDA no RETROVISOR central, o espelho nitido e o resto desfocado; DUTCH ANGLE leve. So VALERIA tem a boca visivel. A fala comeca no primeiro instante do plano.",
+      "body": "VALERIA: encosta devagar no banco de tras, os bracos parados no colo.",
+      "camera": "Corte seco. Close-up de VALERIA no banco de TRAS, filmada de frente por entre os dois bancos da frente, os encostos desfocados nas bordas do quadro; DUTCH ANGLE leve, a luz vermelha da rua passando no rosto dela. So VALERIA tem a boca visivel. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente VALERIA movimenta os labios."
     },
     {
@@ -847,7 +849,7 @@ Referências, nesta ordem: 1) FRAME_ANDRES; 2) FRAME_VALERIA
       "voice": "Voz MASCULINA de senhor de 64 anos, baixa, embargada, sotaque espanhol.",
       "face": "ANDRES: uma lagrima desce; a mandibula travada.",
       "body": "ANDRES: aperta o volante com forca, dirigindo de frente.",
-      "camera": "Corte seco. Plano frontal de ANDRES visto pelo para-brisa molhado, os limpadores cruzando, a LUZ VERMELHA da camera de painel piscando no canto, SLOW DOLLY IN ate close. So ANDRES tem a boca visivel. A fala comeca no primeiro instante do plano.",
+      "camera": "Corte seco. Close-up frontal de ANDRES com a camera DENTRO do carro, apoiada no PAINEL, apontada para ele; atras dele o banco e a escuridao do taxi; a LUZ VERMELHA da camera de painel pisca na borda do quadro; SLOW DOLLY IN. So ANDRES tem a boca visivel. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente ANDRES movimenta os labios."
     }
   ],
@@ -910,6 +912,15 @@ Referências, nesta ordem: 1) FRAME_ANDRES; 2) FRAME_VALERIA
     "nuca do motorista em primeiro plano",
     "celular na orelha",
     "foto de mulher adulta",
+    "valeria no banco da frente",
+    "passageira sentada ao lado do motorista",
+    "banco do passageiro da frente ocupado",
+    "maos soltas sem corpo",
+    "bracos saindo de baixo do espelho",
+    "camera fora do carro",
+    "teto do taxi",
+    "luminoso do taxi",
+    "letreiro com letras",
     "texto ou letras em qualquer lugar",
     "nome ou idade de personagem escrito na tela",
     "letreiro de apresentacao de personagem (lower third)",
