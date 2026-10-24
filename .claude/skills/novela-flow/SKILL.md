@@ -168,3 +168,6 @@ Todo clipe usa pelo menos 3 técnicas DIFERENTES de `references/cinematografia.m
 - Nas falas: OVER-THE-SHOULDER fechado — ombro/nuca do ouvinte DESFOCADO em primeiro plano, de COSTAS, sem rosto e sem boca visíveis; quem fala nítido em close. Isso mantém a continuidade sem reabrir o problema de troca de voz (só uma boca visível por plano).
 - (pedido do usuário) O clipe SEGUINTE pode usar o ÚLTIMO FRAME do anterior como primeiro frame (`primeiro_frame: true`, imagem `FRAME_FIM<n>`, Frames to Video) — esse frame agora é o fim de uma fala, não um close mudo. Só usar Ingredients se entrar personagem que não está nesse frame.
 - (pedido do usuário) Os personagens se mexem em todos os planos (avançam, recuam, viram, gesticulam enquanto falam); nada de estátua. O último plano (falado) muda de ângulo em relação ao primeiro frame.
+
+## Prompt Mestre (padrão consolidado)
+O fluxo completo, o cardápio de ganchos (VARIAR a cada história; o tapa não é padrão), as regras de fala até o fim e o checklist de entrega estão em `references/prompt-mestre.md` (cópia em PDF para o usuário em `prompts/Prompt_Mestre_Novelas_Espanha.pdf`). Seguir esse documento em toda nova história.
