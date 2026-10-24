@@ -463,6 +463,123 @@
         "Nenhuma fala no ultimo plano: o clipe termina no rosto mudo de CONSUELO.",
         "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
       ]
+    },
+    {
+      "nome": "Usted pagó",
+      "atuacao": "Novela dramatica, EMOCAO MAXIMA. CONSUELO ataca aos gritos, desesperada. PAULA responde baixo e cortante, sem medo. Os convidados param de rir e cochicham. ALVARO comeca a desconfiar da propria mae. Rostos muito expressivos. Nenhum momento parado.",
+      "imagens": [
+        "FRAME_PAULA",
+        "FRAME_CONSUELO",
+        "FRAME_ALVARO"
+      ],
+      "personagens": [
+        "PAULA",
+        "ALVARO",
+        "CONSUELO"
+      ],
+      "posicoes": {
+        "PAULA": "de pe na ESQUERDA, a menos de um metro dos outros dois",
+        "CONSUELO": "de pe na DIREITA, de frente para PAULA, a menos de um metro",
+        "ALVARO": "de pe no MEIO, um passo atras, entre as duas, formando um triangulo apertado"
+      },
+      "preservar_extra": [
+        "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
+        "A MESMA PAULA da imagem 1, a MESMA DONA CONSUELO da imagem 2 (com a mancha de vinho no vestido marfim) e o MESMO ALVARO da imagem 3.",
+        "OS TRES ESTAO JUNTOS, PERTO UM DO OUTRO, no MESMO lugar do patio, nas mesmas posicoes o clipe inteiro (PAULA esquerda, ALVARO meio atras, CONSUELO direita). Fundo SEMPRE o mesmo: o arco de parede branca caiada com moldura amarelo-ocre e uma laranjeira ao lado, luzinhas quentes penduradas, convidados desfocados.",
+        "O ANEL: anel antigo de OURO com ESMERALDA verde, pendurado no cordao de ouro no pescoco de PAULA, preso na mao fechada dela. Existe UM UNICO anel e ele fica SO com PAULA.",
+        "CONSUELO NAO usa nenhuma joia; as maos dela ficam FORA do quadro ou caidas ao lado do corpo, sem aneis.",
+        "A bochecha esquerda de PAULA continua VERMELHA do tapa.",
+        "Nenhum letreiro, cartaz ou letra em lugar nenhum."
+      ],
+      "cenario": "Continuacao, no mesmo canto do patio da finca em Sevilha, de noite. PAULA acabou de contar que era a enfermeira da avo. CONSUELO tenta desacredita-la; PAULA revela que foi demitida porque CONSUELO pagou. ALVARO lembra o que a mae contou sobre a morte da avo.",
+      "som": "O grito de CONSUELO ecoando; depois um silencio pesado; cochichos dos convidados; um violino agudo; no fim, batidas de coracao e silencio.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida"
+      ],
+      "negativos_extra": [
+        "personagens em lugares diferentes",
+        "fundo diferente entre os planos",
+        "personagens longe um do outro",
+        "rosto ou boca do ouvinte visivel nos planos de fala",
+        "anel no dedo de consuelo",
+        "dois aneis",
+        "voz masculina nas falas femininas",
+        "voz feminina na fala de alvaro",
+        "sotaque latino-americano",
+        "sotaque mexicano",
+        "personagem falando de frente para a camera",
+        "legendas embutidas",
+        "subtitles",
+        "captions",
+        "texto das falas escrito na tela",
+        "letras brancas na parte de baixo do video",
+        "letras na tela"
+      ],
+      "planos": [
+        {
+          "rosto": "Os tres tensos. Bocas FECHADAS.",
+          "corpo": "Os tres juntos e perto, nas mesmas posicoes: PAULA na esquerda com o anel no peito, ALVARO no meio atras, CONSUELO na direita.",
+          "camera": "Plano de abertura: THREE SHOT na altura dos olhos, os tres no mesmo quadro, o arco branco com moldura ocre e a laranjeira atras, camera travada. Ninguem fala.",
+          "segundos": 0.8
+        },
+        {
+          "quem": "CONSUELO",
+          "para": "PAULA",
+          "fala": "¡Te echaron por ladrona!",
+          "emocao": 10,
+          "eyeline": "CONSUELO olha para a ESQUERDA do quadro, para PAULA, bem perto. NAO olha para a camera.",
+          "intencao": "Desacreditar a camareira aos gritos.",
+          "voz": "Voz feminina rouca de senhora, GRITANDO, sotaque espanhol.",
+          "rosto": "CONSUELO: furia nervosa, os olhos esbugalhados.",
+          "corpo": "CONSUELO: inclina o corpo para frente, as maos fora do quadro.",
+          "camera": "Corte seco. OVER-THE-SHOULDER: o ombro e o rabo de cavalo de PAULA DESFOCADOS em primeiro plano na ESQUERDA, de costas, sem rosto e sem boca; CONSUELO nitida em Close-up, LOW ANGLE leve, lente 50mm, mesmo fundo."
+        },
+        {
+          "quem": "PAULA",
+          "para": "CONSUELO",
+          "fala": "Me echaron porque usted pagó.",
+          "emocao": 10,
+          "eyeline": "PAULA olha para a DIREITA do quadro, para CONSUELO. NAO olha para a camera.",
+          "intencao": "Revelar a verdade baixo e cortante, encarando a culpada.",
+          "voz": "Voz FEMININA jovem, baixa, firme e cortante, sotaque espanhol. NUNCA voz de homem.",
+          "rosto": "PAULA: olhar frio, sem lagrimas, o queixo erguido.",
+          "corpo": "PAULA: da um passo curto na direcao de CONSUELO.",
+          "camera": "Corte seco. OVER-THE-SHOULDER: o ombro e a nuca loira de CONSUELO DESFOCADOS em primeiro plano na DIREITA, de costas, sem rosto e sem boca; PAULA nitida em Close-up, SLOW DOLLY IN, lente 85mm, mesmo fundo.",
+          "segundos": 2.4
+        },
+        {
+          "rosto": "Convidados: bocas abertas, cochichando entre si. Os tres em silencio.",
+          "corpo": "Os convidados ao fundo param de rir, se entreolham e cochicham; uma mulher cobre a boca.",
+          "camera": "Corte seco. Plano dos convidados ao fundo, depois RACK FOCUS para o perfil de CONSUELO em primeiro plano, petrificada, as maos fora do quadro. Ninguem fala alto: so cochichos.",
+          "segundos": 1.1
+        },
+        {
+          "quem": "ALVARO",
+          "para": "CONSUELO",
+          "fala": "Mamá dijo que la abuela murió dormida.",
+          "emocao": 9,
+          "eyeline": "ALVARO olha para a DIREITA do quadro, para CONSUELO, a mae dele. NAO olha para a camera.",
+          "intencao": "Lembrar, em voz alta, a versao da mae, ja desconfiando dela.",
+          "voz": "Voz masculina grave, lenta, desconfiada, sotaque espanhol.",
+          "rosto": "ALVARO: a testa franzida, os olhos estreitos fixos na mae.",
+          "corpo": "ALVARO: vira o corpo devagar para a mae.",
+          "camera": "Corte seco. OVER-THE-SHOULDER: o ombro e a nuca loira de CONSUELO DESFOCADOS em primeiro plano na DIREITA, de costas, sem rosto e sem boca; ALVARO nitido em Close-up, lente 85mm, mesmo fundo."
+        },
+        {
+          "rosto": "PAULA: os olhos firmes, uma lagrima contida, como quem vai dizer algo terrivel. Boca FECHADA.",
+          "corpo": "PAULA: respira fundo, o anel apertado no peito.",
+          "camera": "Corte seco. EXTREME CLOSE-UP dos OLHOS de PAULA, camera travada, so um piscar lento. Ninguem fala. O clipe termina neste olhar.",
+          "segundos": 1.1
+        }
+      ],
+      "regras_extra": [
+        "Os tres ficam JUNTOS, PERTO, no MESMO lugar e no MESMO fundo o clipe inteiro.",
+        "Nos planos de fala, so o rosto de quem fala aparece; o ouvinte fica de COSTAS, desfocado, sem rosto e sem boca visiveis.",
+        "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
+        "Nenhuma fala no ultimo plano: o clipe termina nos olhos mudos de PAULA.",
+        "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+      ]
     }
   ]
 }
