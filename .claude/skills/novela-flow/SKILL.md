@@ -9,7 +9,7 @@ Produz novelas em espanhol da ESPANHA (castelhano, sotaque peninsular; público 
 
 ## Regras de ouro (créditos do Flow)
 
-1. **Clipe de até 10 s com fala do primeiro ao último segundo.** Clipe vazio = crédito jogado fora. O script recusa clipe com menos de 65% de fala (o resto pode ser insert mudo de objeto ou reação, ~1 s cada).
+1. **Clipe de até 10 s com fala do primeiro ao último segundo.** Clipe vazio = crédito jogado fora. O script recusa clipe com menos de 80% de fala, com mais de 1,6 s de planos mudos ou que TERMINE num plano mudo. (Feedback do usuário em La camarera: os closes mudos de reação/"susto" no fim de cada clipe foram todos cortados na edição e 9 clipes de 90 s viraram 60 s.) O último plano é SEMPRE uma fala; o script segura 0,4 s depois dela dentro do mesmo plano para a palavra não ser cortada. Reação vai DENTRO do plano falado (o ouvinte reage enquanto o outro fala, ou o falante reage antes de falar), nunca num plano mudo separado.
 2. **Um falante por plano, cortes secos dentro do clipe.** Cada clipe tem 2 a 4 planos; em cada plano só o rosto de quem fala aparece e só ele mexe a boca. A fala começa no primeiro instante do plano.
 3. **Tempo da fala = palavras ÷ 2,7 s** (medido nas referências). O script calcula a timeline sozinho; nunca escrever os tempos à mão.
 4. **Imagem de referência só quando precisa.** O **clipe 1 é Text to Video, sem imagem**: cria os personagens pela descrição (vai no campo `consistency`). Depois de gerar, **salvar os frames** dos personagens e do cenário (`salvar_frames`). Os clipes seguintes usam esses frames como referência (Ingredients to Video, `input_image`). Personagem que ainda não apareceu entra descrito por texto e tem o frame salvo no clipe em que aparece. Roupa e rosto FIXOS sempre. **Até 5 imagens de referência por clipe, UMA por personagem** (nunca duas imagens do mesmo personagem — escolher o frame mais recente e limpo) (personagens que aparecem + cenário + objeto-pista que está em cena).
@@ -56,7 +56,7 @@ Erro do clipe 4 de El Anillo: closes "sozinhos no quadro" em todo plano deixam c
 - **Cadeia de revelações:** cada resposta abre nova pergunta; nunca resolver. Terminar numa frase-bomba curta ou numa revelação sem explicação. Final mais forte: uma VOZ fora do quadro grita "¡Fui yo!", todos se viram para a porta e NINGUÉM aparece (no plano: `"quem": "VOZ (fora do quadro)"`, `"bocas"`, e tirar "voz sem rosto na tela" dos negativos). **A voz fora do quadro toca sobre um plano SEM NENHUM ROSTO (porta escura, corredor vazio)** — no teste, com o grupo na tela durante o grito, o Flow pôs a boca da Victoria gritando; e com a porta abrindo, apareceu um vulto. Porta IMÓVEL, corredor preto; versão preferida do usuário: os personagens num ÚNICO plano de grupo SEM CORTE, de perfil; a pergunta, o grito fora do quadro (vindo de onde está a câmera) e todos VIRAM O ROSTO para a lente, bocas fechadas. **A frase-bomba tem que RESPONDER a uma pergunta feita logo antes** (ex.: "¿Quién mató a mi Rafael?" → "¡Fui yo!").
 - **Plateia:** testemunhas reagindo; humilhação pública. 4–5 personagens ativos.
 - **Trocar de cenário** no meio de um vídeo longo para dar sensação de investigação.
-- **CTA falado é opcional:** se o gancho final for forte, terminar seco no rosto em choque e pôr "Comenta PARTE 2 👇" só como texto na edição.
+- **CTA falado é opcional:** se o gancho final for forte, terminar na última FALA-bomba (não num rosto mudo) e pôr o CTA só como texto na edição.
 - A regra de ocupação de fala continua: falas curtas, mas MUITAS, mais inserts de ~1 s — o clipe nunca fica parado.
 
 ## Formatos
@@ -150,7 +150,7 @@ Um longo rende 3 a 5 curtos (cada um com um gancho diferente).
 - `estrutura` (por clipe): troca o texto do campo `structure` (ex.: plano único contínuo sem corte).
 - `bocas` (por plano, opcional): troca o texto padrão do campo `mouths` (ex.: voz fora do quadro).
 - Nos textos, citar imagens pelo NOME (`imagem FRAME_DON`); o script troca pelo número certo de cada clipe ("imagem 2").
-- Plano sem `fala` = plano mudo de reação (use pouco, no máximo ~0,8 s, só no fim).
+- Plano sem `fala` = plano mudo: só insert de objeto-pista (~1 s) ou o tapa/ação de abertura (marcar `"acao_abertura": true`). NUNCA no fim do clipe.
 - O negative prompt padrão (tela dividida, legendas, fala repetida, dois rostos nos planos de fala, etc.) já vem no script.
 
 ## Público: ESPANHA (desde a historia11)
@@ -164,7 +164,7 @@ Todo clipe usa pelo menos 3 técnicas DIFERENTES de `references/cinematografia.m
 
 ## Continuidade de espaço (pedido do usuário, desde La camarera clipe 4)
 - Os personagens da cena ficam JUNTOS e PERTO (menos de 1 m), sempre nas MESMAS posições e com o MESMO fundo descrito em todos os planos do clipe e dos clipes seguintes.
-- Cada clipe abre com um plano mudo de ~1 s (Two Shot / Three Shot) mostrando todos juntos e TERMINA com o close de todos juntos (Three Shot fechado, do peito para cima, bocas fechadas).
+- (ATUALIZADO) Nada de plano mudo de abertura nem de close mudo final: o clipe já ABRE com fala (num Two/Three Shot ou OTS que mostre todos juntos) e TERMINA com fala. A continuidade vem das posições fixas e do mesmo fundo.
 - Nas falas: OVER-THE-SHOULDER fechado — ombro/nuca do ouvinte DESFOCADO em primeiro plano, de COSTAS, sem rosto e sem boca visíveis; quem fala nítido em close. Isso mantém a continuidade sem reabrir o problema de troca de voz (só uma boca visível por plano).
-- (pedido do usuário) Como todo clipe termina no close de todos juntos, o clipe SEGUINTE usa esse ÚLTIMO FRAME como primeiro frame (`primeiro_frame: true`, imagem `FRAME_FIM<n>`, Frames to Video). Claude extrai o último frame do vídeo que o usuário mandar e envia pelo chat. Só usar Ingredients se entrar personagem que não está nesse frame.
-- (pedido do usuário) O plano final com todos juntos NUNCA repete o enquadramento do primeiro frame: muda o ângulo (de lado, Low Angle, por trás de alguém) e tem MOVIMENTO (alguém avança/recua/vira, Slow Arc, Dolly). Os personagens se mexem em todos os planos; nada de estátua. O plano de abertura continua a ação a partir do primeiro frame (passo, virada, gesto), em vez de ficar parado.
+- (pedido do usuário) O clipe SEGUINTE pode usar o ÚLTIMO FRAME do anterior como primeiro frame (`primeiro_frame: true`, imagem `FRAME_FIM<n>`, Frames to Video) — esse frame agora é o fim de uma fala, não um close mudo. Só usar Ingredients se entrar personagem que não está nesse frame.
+- (pedido do usuário) Os personagens se mexem em todos os planos (avançam, recuam, viram, gesticulam enquanto falam); nada de estátua. O último plano (falado) muda de ângulo em relação ao primeiro frame.

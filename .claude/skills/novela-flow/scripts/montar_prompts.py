@@ -15,7 +15,9 @@ PALAVRAS_POR_SEG = 2.7   # medido nas referências: "Esse anel era da minha filh
 FOLGA_POR_FALA = 0.2     # respiro antes do corte seco
 MIN_PLANO_FALA = 1.2
 DURACAO_MAX = 10.0
-OCUPACAO_MIN = 0.65      # pelo menos 65% do clipe com fala (estilo viral usa inserts mudos de ~1 s)
+OCUPACAO_MIN = 0.80      # pelo menos 80% do clipe com fala (feedback: finais mudos nao sao aproveitados na edicao)
+MUDO_MAX = 1.6           # soma maxima de planos mudos por clipe (fora o plano de acao/tapa de abertura)
+FOLGA_FINAL = 0.4        # a ultima fala termina 0,4 s antes do fim, dentro do proprio plano (nada de plano mudo final)
 
 NEGATIVO_BASE = [
     "texto ou letras em qualquer lugar",
@@ -117,6 +119,11 @@ def montar(rot, n, clip):
             item["mouths"] = "Bocas FECHADAS. Ninguem fala."
         timeline.append(item)
 
+    # ultimo plano falado segura FOLGA_FINAL depois da fala (evita corte da ultima palavra sem gastar plano mudo)
+    if planos and planos[-1].get("fala"):
+        t += FOLGA_FINAL
+        ini_ult = timeline[-1]["time"].split("-")[0]
+        timeline[-1]["time"] = f"{ini_ult}-{seg(t)}"
     total = t
     fala_seg = sum(max(MIN_PLANO_FALA, contar(p["fala"]) / PALAVRAS_POR_SEG + FOLGA_POR_FALA)
                    for p in planos if p.get("fala"))
@@ -126,6 +133,13 @@ def montar(rot, n, clip):
         erro = True
     if fala_seg / DURACAO_MAX < OCUPACAO_MIN and not clip.get("sem_fala"):
         avisos.append(f"❌ só {fala_seg:.1f}s de fala em {DURACAO_MAX:.0f}s — clipe vazio, gaste o crédito com mais fala")
+        erro = True
+    if not clip.get("sem_fala") and planos and not planos[-1].get("fala") and not clip.get("final_mudo"):
+        avisos.append("❌ o clipe termina num plano mudo — a edição joga fora; termine com fala")
+        erro = True
+    mudo = sum(p.get("segundos", 0.8) for i, p in enumerate(planos) if not p.get("fala") and not p.get("acao_abertura"))
+    if mudo > MUDO_MAX and not clip.get("sem_fala"):
+        avisos.append(f"❌ {mudo:.1f}s de planos mudos (máx {MUDO_MAX}s) — troque por fala")
         erro = True
 
     ultima_fala = max((i for i, p in enumerate(planos) if p.get("fala")), default=-1)
@@ -191,7 +205,7 @@ def montar(rot, n, clip):
             + clip.get("regras_extra", []) if not falantes else [
                 f"So existem {len(falantes)} falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
                 f"Depois de {fim_fala:.1f} segundos ninguem fala." if ultima_fala < len(planos) - 1
-                else "A ultima fala termina junto com o video.",
+                else f"A ultima fala termina {FOLGA_FINAL:.1f} s antes do fim do video, inteira, sem cortar nenhuma palavra.",
                 "Cada fala e dirigida a: " + "; ".join(
                     f"{p['quem']} -> {p.get('para')}" for p in planos if p.get("fala")) + ".",
                 "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
