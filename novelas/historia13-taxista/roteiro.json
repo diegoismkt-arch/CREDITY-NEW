@@ -6,8 +6,8 @@
   "titulo_interno": "EL TAXISTA",
   "estilo": "Thriller dramatico cinematografico espanhol. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos espanhois com imperfeicoes reais, textura real de pele. DENTRO de um taxi branco de Madrid, de NOITE, com CHUVA escorrendo nos vidros, luzes da cidade e neons passando borradas pelas janelas, interior escuro iluminado pelas luzes da rua e pelo brilho azulado do painel. Shallow Focus, cortes rapidos.",
   "imagens": {
-    "FRAME_ANDRES": "frame do clipe 1 (close de ANDRES ao volante, cardiga marrom, bigode grisalho).",
-    "FRAME_VALERIA": "frame do clipe 1 (close de VALERIA no banco de tras, casaco bege, cabelo loiro liso)."
+    "FRAME_ANDRES": "frame do clipe 1, plano 2 (por volta do segundo 4,0): ANDRES de perfil ao volante, cardiga marrom, bigode grisalho.",
+    "FRAME_VALERIA": "frame do clipe 1, plano 1 (por volta do segundo 2,3): VALERIA no banco de tras ao celular, casaco bege, cabelo loiro liso."
   },
   "personagens": {
     "ANDRES": {
@@ -130,6 +130,115 @@
         "VALERIA tem voz FEMININA de 35 anos; ANDRES tem voz MASCULINA de 64 anos: nunca trocar as vozes.",
         "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
         "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+      ]
+    },
+    {
+      "nome": "A gentileza",
+      "atuacao": "Drama contido, FALA DO COMECO AO FIM. ANDRES, com dor escondida, tenta ser gentil: oferece agua com um sorriso cansado. VALERIA o despreza, fria e grosseira. Quando ele fala da filha, a voz dele treme e os olhos marejam. Rostos muito expressivos. Ninguem fica parado.",
+      "personagens": [
+        "VALERIA",
+        "ANDRES"
+      ],
+      "posicoes": {
+        "ANDRES": "no banco do MOTORISTA, na frente, a ESQUERDA, as duas maos no volante",
+        "VALERIA": "no banco de TRAS, a DIREITA, atras do banco do passageiro, com o celular na orelha"
+      },
+      "preservar_extra": [
+        "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
+        "O MESMO ANDRES da imagem 1 e a MESMA VALERIA da imagem 2, com as mesmas roupas, dentro do MESMO taxi, nos mesmos lugares.",
+        "NO PAINEL do taxi, ao lado do volante: uma FOTO pequena de uma MENINA sorrindo (a mesma do clipe 1), com uma FITA PRETA de luto no canto; e uma pequena CAMERA de painel (dashcam) com uma LUZ VERMELHA acesa piscando.",
+        "Nenhum letreiro, placa, taximetro com numeros, logotipo ou letra em lugar nenhum.",
+        "Uma GARRAFINHA de agua de plastico transparente, SEM rotulo: comeca na mao de ANDRES; VALERIA NAO pega a garrafa."
+      ],
+      "cenario": "Continuacao, dentro do taxi na chuva, de noite em Madrid. ANDRES acabou de ouvir VALERIA confessar ao celular e, mesmo assim, oferece agua a ela com educacao.",
+      "som": "Chuva no teto; o limpador de para-brisa; o motor baixo; o plastico da garrafinha estalando; sem musica.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida"
+      ],
+      "negativos_extra": [
+        "duas vozes ao mesmo tempo",
+        "voz masculina nas falas de valeria",
+        "voz feminina nas falas de andres",
+        "rosto ou boca do ouvinte visivel nos planos de fala",
+        "personagem falando de frente para a camera",
+        "taximetro com numeros",
+        "letras ou numeros no painel",
+        "sotaque latino-americano",
+        "sotaque mexicano",
+        "legendas embutidas",
+        "subtitles",
+        "captions",
+        "texto das falas escrito na tela",
+        "letras brancas na parte de baixo do video",
+        "letras na tela",
+        "personagens parados como estatuas",
+        "dia claro",
+        "carro diferente de taxi",
+        "rotulo ou letras na garrafa",
+        "valeria pegando a garrafa",
+        "celular falando"
+      ],
+      "planos": [
+        {
+          "quem": "ANDRES",
+          "para": "VALERIA",
+          "fala": "Tome, agua. Hace frío esta noche.",
+          "emocao": 8,
+          "eyeline": "ANDRES vira o rosto de lado, para tras, para VALERIA. NAO olha para a camera.",
+          "intencao": "Ser gentil, escondendo a dor do que ouviu.",
+          "voz": "Voz MASCULINA de senhor de 64 anos, baixa, rouca, gentil, sotaque espanhol.",
+          "rosto": "ANDRES: um sorriso cansado e educado, os olhos tristes.",
+          "corpo": "ANDRES: parado no sinal vermelho, estica o braco para tras oferecendo a garrafinha de agua.",
+          "camera": "Plano de abertura: Medium Close-up de ANDRES virado de lado no banco do motorista, o encosto de VALERIA desfocado ao fundo, a luz vermelha do semaforo molhada no para-brisa, SLOW DOLLY IN. So ANDRES tem a boca visivel."
+        },
+        {
+          "quem": "VALERIA",
+          "para": "ANDRES",
+          "fala": "No bebo nada de desconocidos.",
+          "emocao": 8,
+          "eyeline": "VALERIA olha para a frente, para ANDRES, com nojo. NAO olha para a camera.",
+          "intencao": "Recusar com desprezo.",
+          "voz": "Voz FEMININA de mulher de 35 anos, seca e fria, sotaque espanhol. NUNCA voz de homem.",
+          "rosto": "VALERIA: nariz torcido, olhar de nojo para a garrafa.",
+          "corpo": "VALERIA: afasta a garrafa com a ponta dos dedos de unhas vermelhas, sem pegar.",
+          "camera": "Corte seco. OVER-THE-SHOULDER: o ombro do cardiga marrom e a nuca grisalha de ANDRES DESFOCADOS em primeiro plano, de costas, sem rosto e sem boca; VALERIA nitida em Close-up no banco de tras, HIGH ANGLE leve."
+        },
+        {
+          "quem": "ANDRES",
+          "para": "VALERIA",
+          "fala": "Mi hija decía lo mismo.",
+          "emocao": 9,
+          "eyeline": "ANDRES olha para a FOTO no painel, depois para o retrovisor. NAO olha para a camera.",
+          "intencao": "Lembrar da filha com saudade e dor contida.",
+          "voz": "Voz MASCULINA de senhor de 64 anos, baixa, a voz tremendo de emocao, sotaque espanhol.",
+          "rosto": "ANDRES: um sorriso triste, os olhos se enchem de lagrimas.",
+          "corpo": "ANDRES: recolhe a garrafa e toca de leve a foto da menina no painel com dois dedos.",
+          "camera": "Corte seco. INSERT dos dedos de ANDRES tocando a FOTO da menina com a fita preta, RACK FOCUS para o rosto dele de perfil, que fala. So ANDRES tem a boca visivel."
+        },
+        {
+          "quem": "VALERIA",
+          "para": "ANDRES",
+          "fala": "Me da igual su hija. Conduzca.",
+          "emocao": 9,
+          "eyeline": "VALERIA olha para a frente, para ANDRES, sem nenhuma empatia. NAO olha para a camera.",
+          "intencao": "Humilhar e encerrar a conversa.",
+          "voz": "Voz FEMININA de mulher de 35 anos, cortante e arrogante, sotaque espanhol. NUNCA voz de homem.",
+          "rosto": "VALERIA: olhar gelado, sobrancelha erguida.",
+          "corpo": "VALERIA: volta a mexer no celular, sem olhar para ele, enquanto o sinal fica verde.",
+          "camera": "Corte seco. Close-up de VALERIA no banco de tras, LOW ANGLE leve, a luz do semaforo mudando de vermelho para verde no rosto dela, os olhos de ANDRES no retrovisor desfocados em primeiro plano (sem boca)."
+        }
+      ],
+      "regras_extra": [
+        "FALA DO COMECO AO FIM: o video comeca com ANDRES ja falando e termina na ultima fala de VALERIA, sem plano mudo.",
+        "So uma boca visivel por plano: quem fala aparece nitido; o outro fica de costas, desfocado ou so com os olhos no retrovisor.",
+        "VALERIA tem voz FEMININA de 35 anos; ANDRES tem voz MASCULINA de 64 anos: nunca trocar as vozes.",
+        "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
+        "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+      ],
+      "imagens": [
+        "FRAME_ANDRES",
+        "FRAME_VALERIA"
       ]
     }
   ]
