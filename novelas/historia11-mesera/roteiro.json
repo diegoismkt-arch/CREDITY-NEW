@@ -1,0 +1,145 @@
+{
+  "idioma": "espanha",
+  "titulo_post": "La humilló delante de todos… sin saber que la camarera guardaba el secreto de la abuela 😱",
+  "legenda": "",
+  "texto_final": "",
+  "titulo_interno": "LA CAMARERA",
+  "estilo": "Novela dramatica cinematografica espanhola. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos espanhois com imperfeicoes reais, textura real de pele. Patio de uma finca andaluza perto de Sevilha, de NOITE, numa festa de noivado: paredes brancas caiadas, arcos, laranjeiras, varal de luzinhas quentes, mesas com toalhas brancas e velas, convidados elegantes desfocados ao fundo. Luz quente e dourada. Shallow Focus, cortes rapidos.",
+  "imagens": {
+    "FRAME_PAULA": "frame do clipe 1, plano 3 (close de PAULA de camisa preta e colete vinho, rabo de cavalo castanho).",
+    "FRAME_CONSUELO": "frame do clipe 1, plano 2 (close de DONA CONSUELO de vestido marfim de gola alta e cabelo loiro curto).",
+    "FRAME_ALVARO": "frame do clipe 1, plano 5 (close de ALVARO de terno azul-marinho)."
+  },
+  "personagens": {
+    "PAULA": {
+      "descricao": "camareira de 26 anos, espanhola, rosto comum e desconhecido, pele clara mediterranea, rosto fino, nariz levemente aquilino, sobrancelhas escuras, olhos castanhos, pinta pequena na bochecha esquerda, cabelo CASTANHO-ESCURO preso num RABO DE CAVALO alto, CAMISA PRETA de manga comprida, COLETE VINHO por cima, sem joias a vista.",
+      "voz": "Voz feminina jovem, suave e humilde de mulher espanhola de 26 anos, sotaque de Madrid.",
+      "frame": "FRAME_PAULA",
+      "feminino": true
+    },
+    "CONSUELO": {
+      "descricao": "senhora rica de 60 anos, espanhola, mae do noivo, rosto comum e desconhecido, pele clara bronzeada, rugas, labios finos com batom vermelho, cabelo LOIRO curto e armado, VESTIDO de cetim cor MARFIM de manga longa e GOLA ALTA fechada ate o queixo, NENHUMA joia: sem colar, sem aneis, sem brincos.",
+      "voz": "Voz feminina rouca, altiva e cortante de senhora espanhola de 60 anos, sotaque de Sevilha.",
+      "frame": "FRAME_CONSUELO",
+      "feminino": true
+    },
+    "ALVARO": {
+      "descricao": "homem de 32 anos, espanhol, filho de CONSUELO e noivo da festa, rosto comum e desconhecido, pele clara, barba curta escura bem aparada, cabelo castanho curto penteado para tras, TERNO AZUL-MARINHO com camisa branca, sem gravata.",
+      "voz": "Voz masculina grave e educada de homem espanhol de 32 anos.",
+      "frame": "FRAME_ALVARO"
+    }
+  },
+  "clips": [
+    {
+      "nome": "O tapa na camareira",
+      "atuacao": "Novela dramatica, EMOCAO MAXIMA. O video COMECA com o TAPA, antes de qualquer fala, RAPIDO e em velocidade real. CONSUELO tomada de FURIA e desprezo: rosto vermelho, dentes a mostra, olhos injetados. PAULA leva o tapa com DOR e CHOQUE reais: a cabeca vira com violencia, os olhos se fecham com forca, a mao vai a bochecha, lagrimas; depois pede desculpas, humilhada. ALVARO assiste, desconfortavel. Rostos muito expressivos. Nenhum momento parado.",
+      "personagens": [
+        "CONSUELO",
+        "PAULA",
+        "ALVARO"
+      ],
+      "posicoes": {
+        "PAULA": "de pe, SEMPRE na ESQUERDA do quadro quando aparece com CONSUELO",
+        "CONSUELO": "de pe diante dela, SEMPRE na DIREITA do quadro",
+        "ALVARO": "um pouco atras, sozinho no plano dele"
+      },
+      "preservar_extra": [
+        "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
+        "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
+        "Uma MANCHA de vinho tinto escorre na frente do vestido marfim de CONSUELO desde o primeiro plano.",
+        "Depois do tapa, a bochecha esquerda de PAULA fica VERMELHA, sem sangue e sem ferimento.",
+        "CONSUELO NAO usa nenhuma joia em nenhum plano.",
+        "Nenhum letreiro, cartaz ou letra em lugar nenhum."
+      ],
+      "cenario": "A festa de noivado de ALVARO numa finca perto de Sevilha. A camareira PAULA acabou de derramar uma taca de vinho tinto no vestido marfim de DONA CONSUELO, a mae do noivo, que reage com um tapa na frente dos convidados.",
+      "som": "EFEITOS SONOROS FORTES: o WHOOSH do braco; um ESTALO seco e ALTISSIMO do tapa com eco; um IMPACTO grave de cinema (boom); a bandeja de metal caindo e as tacas de cristal se ESPATIFANDO no chao de pedra; um ZUMBIDO agudo de ouvido; o burburinho da festa para de repente; murmurios e risinhos dos convidados; no fim, silencio.",
+      "remover_negativos": [
+        "dois rostos visiveis nos planos de fala",
+        "atuacao contida"
+      ],
+      "negativos_extra": [
+        "personagem falando de frente para a camera",
+        "roupa de um personagem em outro",
+        "joias em consuelo",
+        "colar",
+        "anel",
+        "tapa fraco ou de mentira",
+        "camera lenta",
+        "reacao fria ao tapa",
+        "fala antes do tapa",
+        "dois personagens no quadro quando alguem fala",
+        "voz masculina nas falas femininas",
+        "sotaque latino-americano",
+        "sotaque mexicano",
+        "legendas embutidas",
+        "subtitles",
+        "captions",
+        "texto das falas escrito na tela",
+        "letras brancas na parte de baixo do video",
+        "letras na tela"
+      ],
+      "salvar_frames": [
+        "FRAME_PAULA",
+        "FRAME_CONSUELO",
+        "FRAME_ALVARO"
+      ],
+      "planos": [
+        {
+          "rosto": "CONSUELO: furia total, dentes a mostra, rosto vermelho. PAULA: no impacto os olhos se FECHAM com forca, a boca abre num grito abafado.",
+          "corpo": "No PRIMEIRO instante do video CONSUELO, com o vestido manchado de vinho, desce a mao aberta num TAPA RAPIDO, SECO e VIOLENTO, em velocidade real, que ACERTA EM CHEIO a bochecha de PAULA; a cabeca dela e JOGADA para o lado, a bandeja voa da mao dela e as tacas caem.",
+          "camera": "Plano de abertura: Over-the-Shoulder por tras do ombro de PAULA a ESQUERDA, mostrando de frente o ROSTO FURIOSO de CONSUELO a DIREITA no golpe, lente 35mm; velocidade NORMAL, sem camera lenta, um tranco de camera no impacto. Ninguem fala: so os efeitos sonoros.",
+          "segundos": 1.1
+        },
+        {
+          "quem": "CONSUELO",
+          "para": "PAULA",
+          "fala": "¡Mira lo que has hecho, imbécil!",
+          "emocao": 10,
+          "eyeline": "CONSUELO olha para a ESQUERDA do quadro, para PAULA. NAO olha para a camera.",
+          "intencao": "Humilhar a camareira na frente de todos.",
+          "voz": "Voz feminina rouca de senhora, GRITANDO com desprezo, sotaque espanhol.",
+          "rosto": "CONSUELO: nojo e furia, labios torcidos.",
+          "corpo": "CONSUELO: aponta a mancha de vinho no proprio vestido com as duas maos abertas.",
+          "camera": "Corte seco. Medium Close-up SOLO de CONSUELO, so ela no quadro, a mancha de vinho visivel no vestido, lente 50mm. Ninguem mais aparece neste plano."
+        },
+        {
+          "quem": "PAULA",
+          "para": "CONSUELO",
+          "fala": "Perdón, señora… ha sido sin querer.",
+          "emocao": 9,
+          "eyeline": "PAULA olha para a DIREITA do quadro, para CONSUELO, de olhos baixos. NAO olha para a camera.",
+          "intencao": "Pedir desculpas, humilhada, segurando o choro.",
+          "voz": "Voz FEMININA jovem, tremula, embargada, sotaque espanhol. NUNCA voz de homem.",
+          "rosto": "PAULA: a bochecha VERMELHA do tapa, lagrimas nos olhos, os labios tremendo.",
+          "corpo": "PAULA: a mao na bochecha, os ombros encolhidos.",
+          "camera": "Corte seco. Close-up SOLO de PAULA, so ela no quadro, luzinhas desfocadas atras, lente 85mm. Ninguem mais aparece neste plano."
+        },
+        {
+          "quem": "CONSUELO",
+          "para": "PAULA",
+          "fala": "¡Una camarera no me fastidia la noche!",
+          "emocao": 10,
+          "eyeline": "CONSUELO olha para a ESQUERDA do quadro, para PAULA. NAO olha para a camera.",
+          "intencao": "Humilhar e mostrar quem manda, para os convidados ouvirem.",
+          "voz": "Voz feminina rouca de senhora, alta, arrogante, sotaque espanhol.",
+          "rosto": "CONSUELO: o queixo erguido, um sorriso cruel de superioridade.",
+          "corpo": "CONSUELO: abre os bracos para os convidados, como num espetaculo.",
+          "camera": "Corte seco. Medium Close-up SOLO de CONSUELO, so ela no quadro, Low Angle, lente 50mm. Ninguem mais aparece neste plano."
+        },
+        {
+          "rosto": "ALVARO: incomodado, a mandibula travada, os olhos indo da mae para a camareira. Boca FECHADA.",
+          "corpo": "ALVARO: com uma taca na mao, imovel, um passo a frente como quem quer intervir.",
+          "camera": "Corte seco. Reaction shot: close-up SOLO de ALVARO, lente 85mm. Ninguem fala. O clipe termina neste rosto.",
+          "segundos": 1.2
+        }
+      ],
+      "regras_extra": [
+        "O primeiro plano e SO o tapa com efeitos sonoros: ninguem fala antes do tapa.",
+        "Cada fala aparece com SO quem fala no quadro.",
+        "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
+        "Nenhuma fala no ultimo plano: o clipe termina no rosto mudo de ALVARO.",
+        "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+      ]
+    }
+  ]
+}
