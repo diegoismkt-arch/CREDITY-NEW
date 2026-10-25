@@ -68,7 +68,7 @@ Sem imagem de referência (Text to Video).
       "intention": "Revelar, seria e firme, o motivo da melhora.",
       "voice": "Voz FEMININA de mulher de 28 anos, firme, baixa e seria, sotaque espanhol. NUNCA voz de homem.",
       "face": "ROCIO: olhar serio e decidido, sobrancelhas tensas.",
-      "body": "ROCIO: vira o rosto do rapaz para o patrao, ainda segurando o braco de DANIEL.",
+      "body": "ROCIO: tira os olhos de DANIEL e olha para o patrao, ainda segurando o braco de DANIEL.",
       "camera": "Corte seco. Medium Close-up de ROCIO em primeiro plano a direita, ALEJANDRO atras dela a esquerda, DESFOCADO e calado, ouvindo; SLOW PUSH IN. So ROCIO tem a boca visivel. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente ROCIO movimenta os labios."
     },
