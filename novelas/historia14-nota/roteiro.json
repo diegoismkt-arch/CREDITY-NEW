@@ -1,8 +1,8 @@
 {
  "idioma": "espanha",
  "titulo_interno": "LA NOTA",
- "titulo_post": "",
- "legenda": "",
+ "titulo_post": "Su hija interrumpió la cena con un secreto… y nadie en esa mesa volvió a respirar 😱",
+ "legenda": "Nadie se atrevía a interrumpir las cenas de Don Mateo… hasta que entró su hija pequeña corriendo. 🍽️\n\n«Papá, tengo algo para ti.»\n\nUn papel doblado. La criada, pálida. Y uno de sus hombres de confianza… sin levantar la vista del plato. 😱\n\nLo que decía esa nota lo cambió todo.\n\n¿Qué crees que decía? 👇\n\n#historias #novela #drama #traicion #familia #secretos #lahistoriaprincipal",
  "texto_final": "¿Qué crees que decía la nota? 👇",
  "estilo": "Drama cinematografico de luxo, estilo novela turca. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos espanhois com imperfeicoes reais, textura real de pele. SALA DE JANTAR de uma mansao em Madrid, de NOITE: lustres de cristal acesos, arandelas douradas nas paredes escuras, piso de MARMORE xadrez preto e branco brilhando, mesa redonda de madeira escura com pratos e tacas, cadeiras estofadas claras de encosto alto. Luz quente e dourada, sombras profundas. Shallow Focus, cortes rapidos.",
  "imagens": {
@@ -246,7 +246,8 @@
     "FRAME_LUCIA",
     "FRAME_MATEO",
     "FRAME_CARMEN"
-   ]
+   ],
+   "nota": "usuario pediu legenda (considerado passou)."
   }
  ]
 }
