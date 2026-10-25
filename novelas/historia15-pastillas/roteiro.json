@@ -141,7 +141,7 @@
   },
   {
    "nome": "O celular",
-   "atuacao": "Suspense, FALA DO COMECO AO FIM. ALEJANDRO, em choque, exige explicacao. ROCIO, seria e corajosa, tira o celular do bolso do avental e mostra a foto dos frascos de remedio. ALEJANDRO passa do choque para a raiva fria. Rostos expressivos, ninguem fica parado.",
+   "atuacao": "Suspense, FALA DO COMECO AO FIM. ROCIO, seria e corajosa, responde ao patrao: tira o celular do bolso do avental e mostra a foto dos frascos de remedio. ALEJANDRO passa do choque para a raiva fria. Rostos expressivos, ninguem fica parado.",
    "personagens": [
     "ROCIO",
     "ALEJANDRO"
@@ -157,7 +157,7 @@
     "ROCIO usa SEMPRE o uniforme preto com gola branca e avental branco; sem colar, sem brincos.",
     "So ROCIO segura o celular, do comeco ao fim."
    ],
-   "cenario": "Continuacao, mesmo hall da mansao. ALEJANDRO pede explicacao; ROCIO mostra no celular a foto das pastilhas que a madrasta dava ao rapaz.",
+   "cenario": "Continuacao, mesmo hall da mansao. ROCIO responde ao patrao e mostra no celular a foto das pastilhas que a madrasta dava ao rapaz.",
    "som": "O silencio do hall; o tecido do avental quando ela tira o celular; um TUM grave quando a tela aparece; sem musica.",
    "remover_negativos": [
     "dois rostos visiveis nos planos de fala",
@@ -185,33 +185,21 @@
    ],
    "planos": [
     {
-     "quem": "ALEJANDRO",
-     "para": "ROCIO",
-     "fala": "¿Qué pastillas, Rocío? ¿De qué hablas?",
-     "emocao": 9,
-     "eyeline": "ALEJANDRO olha para ROCIO, a frente dele. NAO olha para a camera.",
-     "intencao": "Exigir explicacao, abalado e confuso.",
-     "voz": "Voz MASCULINA grave de homem de 45 anos, tensa e urgente, sotaque espanhol.",
-     "rosto": "ALEJANDRO: testa franzida, olhos arregalados, a respiracao pesada.",
-     "corpo": "ALEJANDRO: da um passo na direcao de ROCIO.",
-     "camera": "Plano de abertura: Close-up frontal de ALEJANDRO, o lustre e a escada desfocados atras; HANDHELD leve. So ALEJANDRO tem a boca visivel."
-    },
-    {
      "quem": "ROCIO",
      "para": "ALEJANDRO",
-     "fala": "Las que le daba la señora Verónica.",
+     "fala": "Los médicos nunca vieron estas pastillas, señor.",
      "emocao": 8,
      "eyeline": "ROCIO olha firme para ALEJANDRO. NAO olha para a camera.",
-     "intencao": "Revelar com coragem, sem baixar os olhos.",
+     "intencao": "Responder ao patrao com coragem, sem baixar os olhos.",
      "voz": "Voz FEMININA de mulher de 28 anos, firme, baixa e seria, sotaque espanhol. NUNCA voz de homem.",
      "rosto": "ROCIO: olhar serio e corajoso, a mandibula firme.",
      "corpo": "ROCIO: tira devagar um CELULAR preto do bolso do avental.",
-     "camera": "Corte seco. Medium Shot de ROCIO de frente, de pe no hall, TILT DOWN rapido acompanhando a mao dela tirando o celular do avental e voltando ao rosto. So ROCIO tem a boca visivel."
+     "camera": "Plano de abertura: Medium Shot de ROCIO de frente, de pe no hall, ALEJANDRO desfocado na borda do quadro; TILT DOWN rapido acompanhando a mao dela tirando o celular do avental e voltando ao rosto. So ROCIO tem a boca visivel."
     },
     {
      "quem": "ROCIO",
      "para": "ALEJANDRO",
-     "fala": "No eran vitaminas, señor.",
+     "fala": "Se las daba la señora Verónica. No eran vitaminas.",
      "emocao": 9,
      "eyeline": "ROCIO olha para ALEJANDRO por cima do celular. NAO olha para a camera.",
      "intencao": "Dar o golpe final da verdade, com calma.",
@@ -234,7 +222,7 @@
     }
    ],
    "regras_extra": [
-    "FALA DO COMECO AO FIM: o video comeca com ALEJANDRO ja falando e termina na ultima fala de ALEJANDRO, sem plano mudo final.",
+    "FALA DO COMECO AO FIM: o video comeca com ROCIO ja falando e termina na ultima fala de ALEJANDRO, sem plano mudo final.",
     "So uma boca visivel por plano: quem fala aparece nitido; o outro fica desfocado e calado.",
     "ROCIO tem voz FEMININA; ALEJANDRO tem voz MASCULINA grave: nunca trocar as vozes.",
     "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
@@ -243,7 +231,8 @@
    "imagens": [
     "FRAME_ROCIO",
     "FRAME_ALEJANDRO"
-   ]
+   ],
+   "nota": "v1 comecava com Alejandro perguntando de novo das pastilhas (repetia o fim do clipe 1). v2 comeca com Rocio respondendo."
   }
  ]
 }

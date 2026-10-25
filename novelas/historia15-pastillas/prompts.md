@@ -188,14 +188,14 @@ Sem imagem de referência (Text to Video).
 
 ## Clipe 2 — O celular
 
-clipe 2: 9.3s, 8.9s de fala (22 palavras, 4 planos, falantes: ALEJANDRO, ROCIO) ✅
+clipe 2: 8.8s, 8.4s de fala (21 palavras, 3 planos, falantes: ROCIO, ALEJANDRO) ✅
 
 Referências, nesta ordem: 1) FRAME_ROCIO; 2) FRAME_ALEJANDRO
 
 ```json
 {
   "IDIOMA_OBRIGATORIO": "TODAS as falas em ESPANHOL da ESPANHA (castelhano, sotaque espanhol de Madrid), exatamente como escritas no campo dialogue. NUNCA em portugues, nunca traduzir.",
-  "ATUACAO_PRIORIDADE_MAXIMA": "Suspense, FALA DO COMECO AO FIM. ALEJANDRO, em choque, exige explicacao. ROCIO, seria e corajosa, tira o celular do bolso do avental e mostra a foto dos frascos de remedio. ALEJANDRO passa do choque para a raiva fria. Rostos expressivos, ninguem fica parado.",
+  "ATUACAO_PRIORIDADE_MAXIMA": "Suspense, FALA DO COMECO AO FIM. ROCIO, seria e corajosa, responde ao patrao: tira o celular do bolso do avental e mostra a foto dos frascos de remedio. ALEJANDRO passa do choque para a raiva fria. Rostos expressivos, ninguem fica parado.",
   "input_image": {
     "required": false,
     "mode": "Ingredients to Video, sem primeiro frame.",
@@ -216,11 +216,11 @@ Referências, nesta ordem: 1) FRAME_ROCIO; 2) FRAME_ALEJANDRO
   },
   "scene": {
     "title": "LAS PASTILLAS",
-    "duration_seconds": 9.4,
+    "duration_seconds": 8.8,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
-    "structure": "4 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "structure": "3 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
     "style": "Drama cinematografico de luxo, estilo novela turca. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos espanhois com imperfeicoes reais, textura real de pele. HALL DE ENTRADA de uma mansao em Madrid: LUSTRE de cristal enorme, ESCADA EM CARACOL com corrimao de ferro trabalhado, paredes AZUL-MARINHO com molduras brancas, piso de MARMORE xadrez bege e preto brilhando, janelas altas. Luz suave de fim de tarde, quente. Shallow Focus, cortes rapidos.",
-    "setting": "Continuacao, mesmo hall da mansao. ALEJANDRO pede explicacao; ROCIO mostra no celular a foto das pastilhas que a madrasta dava ao rapaz.",
+    "setting": "Continuacao, mesmo hall da mansao. ROCIO responde ao patrao e mostra no celular a foto das pastilhas que a madrasta dava ao rapaz.",
     "blocking": [
       "ROCIO: de pe no hall, de frente para ALEJANDRO, perto dele",
       "ALEJANDRO: de pe no hall, de frente para ROCIO"
@@ -232,37 +232,23 @@ Referências, nesta ordem: 1) FRAME_ROCIO; 2) FRAME_ALEJANDRO
   },
   "timeline": [
     {
-      "time": "00:00.00-00:02.42",
-      "speaker": "ALEJANDRO",
-      "dialogue": "¿Qué pastillas, Rocío? ¿De qué hablas?",
-      "addressee": "ROCIO",
-      "eyeline": "ALEJANDRO olha para ROCIO, a frente dele. NAO olha para a camera.",
-      "emotion_level": 9,
-      "intention": "Exigir explicacao, abalado e confuso.",
-      "voice": "Voz MASCULINA grave de homem de 45 anos, tensa e urgente, sotaque espanhol.",
-      "face": "ALEJANDRO: testa franzida, olhos arregalados, a respiracao pesada.",
-      "body": "ALEJANDRO: da um passo na direcao de ROCIO.",
-      "camera": "Plano de abertura: Close-up frontal de ALEJANDRO, o lustre e a escada desfocados atras; HANDHELD leve. So ALEJANDRO tem a boca visivel. A fala comeca no primeiro instante do plano.",
-      "mouths": "Somente ALEJANDRO movimenta os labios."
-    },
-    {
-      "time": "00:02.42-00:05.21",
+      "time": "00:00.00-00:02.79",
       "speaker": "ROCIO",
-      "dialogue": "Las que le daba la señora Verónica.",
+      "dialogue": "Los médicos nunca vieron estas pastillas, señor.",
       "addressee": "ALEJANDRO",
       "eyeline": "ROCIO olha firme para ALEJANDRO. NAO olha para a camera.",
       "emotion_level": 8,
-      "intention": "Revelar com coragem, sem baixar os olhos.",
+      "intention": "Responder ao patrao com coragem, sem baixar os olhos.",
       "voice": "Voz FEMININA de mulher de 28 anos, firme, baixa e seria, sotaque espanhol. NUNCA voz de homem.",
       "face": "ROCIO: olhar serio e corajoso, a mandibula firme.",
       "body": "ROCIO: tira devagar um CELULAR preto do bolso do avental.",
-      "camera": "Corte seco. Medium Shot de ROCIO de frente, de pe no hall, TILT DOWN rapido acompanhando a mao dela tirando o celular do avental e voltando ao rosto. So ROCIO tem a boca visivel. A fala comeca no primeiro instante do plano.",
+      "camera": "Plano de abertura: Medium Shot de ROCIO de frente, de pe no hall, ALEJANDRO desfocado na borda do quadro; TILT DOWN rapido acompanhando a mao dela tirando o celular do avental e voltando ao rosto. So ROCIO tem a boca visivel. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente ROCIO movimenta os labios."
     },
     {
-      "time": "00:05.21-00:06.90",
+      "time": "00:02.79-00:06.33",
       "speaker": "ROCIO",
-      "dialogue": "No eran vitaminas, señor.",
+      "dialogue": "Se las daba la señora Verónica. No eran vitaminas.",
       "addressee": "ALEJANDRO",
       "eyeline": "ROCIO olha para ALEJANDRO por cima do celular. NAO olha para a camera.",
       "emotion_level": 9,
@@ -274,7 +260,7 @@ Referências, nesta ordem: 1) FRAME_ROCIO; 2) FRAME_ALEJANDRO
       "mouths": "Somente ROCIO movimenta os labios."
     },
     {
-      "time": "00:06.90-00:09.35",
+      "time": "00:06.33-00:08.78",
       "speaker": "ALEJANDRO",
       "dialogue": "¿Verónica…? ¿Dónde está mi mujer?",
       "addressee": "ROCIO",
@@ -291,21 +277,20 @@ Referências, nesta ordem: 1) FRAME_ROCIO; 2) FRAME_ALEJANDRO
   "dialogue_rules": {
     "language": "Espanol de Espana (castellano), acento espanol peninsular natural, TODAS as palavras em espanhol. NUNCA sotaque latino-americano.",
     "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
-    "total_dialogue_lines": 4,
+    "total_dialogue_lines": 3,
     "exact_order": [
-      "ALEJANDRO",
       "ROCIO",
       "ROCIO",
       "ALEJANDRO"
     ],
     "rules": [
-      "So existem 4 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "So existem 3 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
       "A ultima fala termina 0.4 s antes do fim do video, inteira, sem cortar nenhuma palavra.",
-      "Cada fala e dirigida a: ALEJANDRO -> ROCIO; ROCIO -> ALEJANDRO; ROCIO -> ALEJANDRO; ALEJANDRO -> ROCIO.",
+      "Cada fala e dirigida a: ROCIO -> ALEJANDRO; ROCIO -> ALEJANDRO; ALEJANDRO -> ROCIO.",
       "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
       "Nao repetir, misturar, traduzir ou acrescentar palavras.",
       "Cada frase e dita INTEIRA, do comeco ao fim.",
-      "FALA DO COMECO AO FIM: o video comeca com ALEJANDRO ja falando e termina na ultima fala de ALEJANDRO, sem plano mudo final.",
+      "FALA DO COMECO AO FIM: o video comeca com ROCIO ja falando e termina na ultima fala de ALEJANDRO, sem plano mudo final.",
       "So uma boca visivel por plano: quem fala aparece nitido; o outro fica desfocado e calado.",
       "ROCIO tem voz FEMININA; ALEJANDRO tem voz MASCULINA grave: nunca trocar as vozes.",
       "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
