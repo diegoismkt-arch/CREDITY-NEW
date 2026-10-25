@@ -6,24 +6,27 @@
  "texto_final": "¿Qué crees que decía la nota? 👇",
  "estilo": "Drama cinematografico de luxo, estilo novela turca. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos espanhois com imperfeicoes reais, textura real de pele. SALA DE JANTAR de uma mansao em Madrid, de NOITE: lustres de cristal acesos, arandelas douradas nas paredes escuras, piso de MARMORE xadrez preto e branco brilhando, mesa redonda de madeira escura com pratos e tacas, cadeiras estofadas claras de encosto alto. Luz quente e dourada, sombras profundas. Shallow Focus, cortes rapidos.",
  "imagens": {
-  "FRAME_LUCIA": "frame do clipe 1, plano 1 ou 4: LUCIA de laco rosa e cardiga rosa.",
-  "FRAME_MATEO": "frame do clipe 1, plano 2: MATEO de terno preto, tatuagens, corrente com cruz.",
-  "FRAME_CARMEN": "frame do clipe 1, plano 3: CARMEN de uniforme preto e avental branco."
+  "FRAME_LUCIA": "frame do clipe 1, plano 4 (por volta do segundo 8,3): LUCIA na cadeira, laco rosa, cardiga rosa, sorrindo.",
+  "FRAME_MATEO": "frame do clipe 1, plano 2 (por volta do segundo 4,0): MATEO a mesa, terno preto, tatuagens, corrente com cruz.",
+  "FRAME_CARMEN": "frame do clipe 1, plano 3 (por volta do segundo 6,3): CARMEN de pe, uniforme preto com avental branco."
  },
  "personagens": {
   "MATEO": {
    "descricao": "homem poderoso de 40 anos, espanhol, rosto comum e desconhecido, cabelo PRETO ondulado comprido penteado para tras, barba por fazer, sobrancelhas grossas, TATUAGENS no pescoco, no peito e nas maos, TERNO PRETO com camisa PRETA aberta no peito, corrente de ouro com uma CRUZ, RELOGIO de ouro no pulso.",
-   "voz": "Voz masculina grave, baixa e fria de homem espanhol de 40 anos, sotaque de Madrid."
+   "voz": "Voz masculina grave, baixa e fria de homem espanhol de 40 anos, sotaque de Madrid.",
+   "frame": "FRAME_MATEO"
   },
   "LUCIA": {
    "descricao": "menina pequena, filha de MATEO, feliz e sorridente, cabelo castanho ondulado comprido com um LACO ROSA, CARDIGA ROSA sobre vestido branco florido, meias brancas e sapatinhos rosa.",
    "voz": "Voz de MENINA pequena, doce, alegre e animada, sotaque espanhol.",
-   "feminino": true
+   "feminino": true,
+   "frame": "FRAME_LUCIA"
   },
   "CARMEN": {
    "descricao": "empregada da casa de 30 anos, espanhola, rosto comum e desconhecido, cabelo castanho escuro preso em COQUE com mechas soltas no rosto, UNIFORME PRETO com AVENTAL BRANCO rendado e GOLA BRANCA, sem joias.",
    "voz": "Voz feminina de mulher espanhola de 30 anos, aflita e respeitosa, sotaque de Madrid.",
-   "feminino": true
+   "feminino": true,
+   "frame": "FRAME_CARMEN"
   }
  },
  "clips": [
@@ -137,6 +140,112 @@
     "LUCIA tem voz de MENINA pequena; CARMEN tem voz FEMININA adulta; MATEO tem voz MASCULINA grave: nunca trocar as vozes.",
     "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
     "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+   ],
+   "nota": "PASSOU. Ultimo quadro nao mostra os 3: clipe 2 so com ingredients."
+  },
+  {
+   "nome": "O bilhete",
+   "atuacao": "Suspense, FALA DO COMECO AO FIM. LUCIA, feliz e inocente, entrega ao pai um papel dobrado. CARMEN fica palida, apavorada, quase chorando. MATEO pega o papel com a mao tatuada, le em silencio, e a raiva sobe no rosto dele; ele levanta os olhos devagar e encara um dos homens de terno do outro lado da mesa. Rostos expressivos, ninguem fica parado.",
+   "personagens": [
+    "LUCIA",
+    "MATEO",
+    "CARMEN"
+   ],
+   "posicoes": {
+    "MATEO": "sentado a mesa redonda, na cadeira principal",
+    "LUCIA": "ajoelhada na cadeira ao LADO de MATEO",
+    "CARMEN": "de pe atras de LUCIA, perto da mesa, as maos juntas no avental"
+   },
+   "preservar_extra": [
+    "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
+    "A MESMA LUCIA da imagem 1, o MESMO MATEO da imagem 2 e a MESMA CARMEN da imagem 3, com as mesmas roupas, na MESMA sala de jantar.",
+    "A mesa: MATEO e mais TRES homens fortes de barba e TERNO PRETO, sentados. Os tres homens NUNCA falam.",
+    "O PAPEL: uma folha BRANCA pequena dobrada; o que esta escrito NUNCA aparece legivel.",
+    "LUCIA esta SEMPRE feliz, segura e sorridente; ninguem toca nela nem grita com ela.",
+    "CARMEN usa SEMPRE o uniforme preto com avental branco; sem colar, sem brincos."
+   ],
+   "cenario": "Continuacao, mesma sala de jantar, noite. LUCIA entrega o papel ao pai; CARMEN se desespera; MATEO le e encara um dos homens a mesa.",
+   "som": "O papel sendo desdobrado; o silencio pesado da sala; uma cadeira rangendo; um TUM grave quando MATEO levanta os olhos; sem musica.",
+   "remover_negativos": [
+    "dois rostos visiveis nos planos de fala",
+    "atuacao contida"
+   ],
+   "negativos_extra": [
+    "duas vozes ao mesmo tempo",
+    "voz masculina nas falas de lucia",
+    "voz masculina nas falas de carmen",
+    "voz feminina nas falas de mateo",
+    "voz de mulher adulta nas falas de lucia",
+    "rosto ou boca do ouvinte visivel nos planos de fala",
+    "personagem falando de frente para a camera",
+    "sotaque latino-americano",
+    "sotaque mexicano",
+    "legendas embutidas",
+    "subtitles",
+    "captions",
+    "texto das falas escrito na tela",
+    "letras brancas na parte de baixo do video",
+    "letras na tela",
+    "personagens parados como estatuas",
+    "dia claro",
+    "os homens de terno falando",
+    "lucia chorando",
+    "lucia triste",
+    "texto legivel no papel",
+    "letras no papel",
+    "papel mudando de mao",
+    "lucia no plano final"
+   ],
+   "planos": [
+    {
+     "quem": "LUCIA",
+     "para": "MATEO",
+     "fala": "Carmen lo encontró en la chaqueta del tío Julián.",
+     "emocao": 8,
+     "eyeline": "LUCIA olha para o rosto de MATEO, sorrindo. NAO olha para a camera.",
+     "intencao": "Contar o segredo com inocencia e orgulho.",
+     "voz": "Voz de MENINA pequena, doce e animada, sotaque espanhol. NUNCA voz de homem nem de mulher adulta.",
+     "rosto": "LUCIA: sorriso inocente, olhos brilhando.",
+     "corpo": "LUCIA: tira do bolso do cardiga um PAPEL BRANCO dobrado e coloca na mesa na frente do pai.",
+     "camera": "Plano de abertura: Close-up de LUCIA na cadeira, OVER THE SHOULDER pelo ombro de MATEO desfocado na borda; no fim TILT DOWN para o papel branco pousando na mesa. So LUCIA tem a boca visivel."
+    },
+    {
+     "quem": "CARMEN",
+     "para": "MATEO",
+     "fala": "Señor… no quería que se enterara así.",
+     "emocao": 9,
+     "eyeline": "CARMEN olha para MATEO, com medo, e depois para o papel na mesa. NAO olha para a camera.",
+     "intencao": "Pedir perdao, apavorada, quase chorando.",
+     "voz": "Voz FEMININA de mulher de 30 anos, tremula, baixa e chorosa, sotaque espanhol. NUNCA voz de homem.",
+     "rosto": "CARMEN: palida, olhos arregalados e marejados, sobrancelhas erguidas, a boca tremendo.",
+     "corpo": "CARMEN: aperta as maos no avental e da meio passo para tras.",
+     "camera": "Corte seco. Close-up de CARMEN de pe, DUTCH ANGLE leve, SLOW PUSH IN ate os olhos dela; o lustre desfocado atras. So CARMEN tem a boca visivel."
+    },
+    {
+     "quem": "MATEO",
+     "para": "JULIAN",
+     "fala": "Julián… mírame a los ojos. ¿Desde cuándo?",
+     "emocao": 10,
+     "eyeline": "MATEO le o papel e levanta os olhos devagar para um dos homens de terno do outro lado da mesa (JULIAN). NAO olha para a camera.",
+     "intencao": "Chamar o traidor com raiva fria e contida.",
+     "voz": "Voz MASCULINA de homem de 40 anos, muito grave, baixa e fria, sotaque espanhol.",
+     "rosto": "MATEO: os olhos se estreitam, a mandibula trava, a raiva sobe no rosto.",
+     "corpo": "MATEO: a mao tatuada cobre o papel na mesa; ele levanta a cabeca devagar.",
+     "camera": "Corte seco. INSERT rapido da MAO TATUADA de MATEO cobrindo o papel na mesa, TILT UP ate o close do rosto dele levantando os olhos; LOW ANGLE; em primeiro plano o ombro desfocado de um homem de terno preto (de costas). So MATEO tem a boca visivel."
+    }
+   ],
+   "regras_extra": [
+    "FALA DO COMECO AO FIM: o video comeca com LUCIA ja falando e termina na ultima fala de MATEO, sem plano mudo final.",
+    "So uma boca visivel por plano: quem fala aparece nitido; os outros ficam de costas, desfocados ou sem falar.",
+    "Os tres homens de terno preto a mesa NUNCA falam; JULIAN e um deles e aparece so de costas, desfocado.",
+    "LUCIA tem voz de MENINA pequena; CARMEN tem voz FEMININA adulta; MATEO tem voz MASCULINA grave: nunca trocar as vozes.",
+    "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
+    "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+   ],
+   "imagens": [
+    "FRAME_LUCIA",
+    "FRAME_MATEO",
+    "FRAME_CARMEN"
    ]
   }
  ]
