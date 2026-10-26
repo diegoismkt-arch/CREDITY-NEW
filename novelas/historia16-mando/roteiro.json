@@ -6,9 +6,9 @@
  "texto_final": "¿Tú la perdonarías? 👇",
  "estilo": "Drama cinematografico de suspense, estilo novela turca. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos espanhois com imperfeicoes reais, textura real de pele. FRENTE de uma mansao espanhola de DIA: casa BRANCA com telhado de TELHA laranja e colunas, uma SUV PRETA grande estacionada no calcamento de pedrinhas, um MURO alto de PEDRA bege porosa, palmeiras e folhagem verde em cima do muro. Luz natural de dia nublado claro. Shallow Focus, cortes rapidos.",
  "imagens": {
-  "FRAME_DIEGO": "frame do clipe 1, plano 2: DIEGO de camisa branca.",
-  "FRAME_ISABEL": "frame do clipe 1, plano 4: ISABEL de vestido vinho.",
-  "FRAME_RAMON": "frame do clipe 1, plano 3: RAMON grisalho de camisa azul-acinzentada."
+  "FRAME_RAMON": "frame do clipe 1 (por volta do segundo 1,5): RAMON grisalho de bigode, camisa azul-acinzentada.",
+  "FRAME_DIEGO": "frame do clipe 1 (por volta do segundo 4,0): DIEGO de camisa branca, barba.",
+  "FRAME_ISABEL": "frame do clipe 1 (por volta do segundo 8,8): ISABEL loira de vestido vinho."
  },
  "personagens": {
   "DIEGO": {
@@ -138,6 +138,125 @@
     "RAMON tem voz MASCULINA rouca de idoso; DIEGO tem voz MASCULINA firme; ISABEL tem voz FEMININA: nunca trocar as vozes.",
     "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
     "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+   ],
+   "nota": "PASSOU."
+  },
+  {
+   "nome": "O controle",
+   "atuacao": "Suspense maximo, FALA DO COMECO AO FIM. Atras do muro de pedra, RAMON manda DIEGO apertar o controle do carro. ISABEL entra em panico e tenta impedir. DIEGO aperta: ao longe, a SUV preta explode. DIEGO, em choque, vira devagar para a esposa e entende. Rostos expressivos, ninguem fica parado.",
+   "personagens": [
+    "RAMON",
+    "DIEGO",
+    "ISABEL"
+   ],
+   "posicoes": {
+    "RAMON": "atras do muro de pedra, ao lado de DIEGO",
+    "DIEGO": "atras do muro de pedra, no meio, com o controle do carro na mao",
+    "ISABEL": "atras do muro de pedra, ao lado de DIEGO, apertando a bolsa preta"
+   },
+   "preservar_extra": [
+    "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
+    "O MESMO RAMON da imagem 1, o MESMO DIEGO da imagem 2 e a MESMA ISABEL da imagem 3, com as mesmas roupas, atras do MESMO muro de pedra bege.",
+    "O CONTROLE: uma chave de carro PRETA pequena com botao, SEMPRE na mao direita de DIEGO.",
+    "ISABEL segura SEMPRE a mesma BOLSA PRETA matelasse.",
+    "A explosao acontece LONGE, so com a SUV vazia; ninguem perto do carro, ninguem ferido."
+   ],
+   "cenario": "Continuacao, atras do muro de pedra da mansao, de dia. DIEGO aperta o controle do carro e a SUV vazia explode ao longe. ISABEL sabia.",
+   "som": "Respiracoes ofegantes; o clique do controle; um ESTRONDO grave de explosao ao longe; alarmes de carro e passaros fugindo; sem musica.",
+   "remover_negativos": [
+    "dois rostos visiveis nos planos de fala",
+    "atuacao contida"
+   ],
+   "negativos_extra": [
+    "duas vozes ao mesmo tempo",
+    "voz feminina nas falas de diego",
+    "voz feminina nas falas de ramon",
+    "voz masculina nas falas de isabel",
+    "rosto ou boca do ouvinte visivel nos planos de fala",
+    "personagem falando de frente para a camera",
+    "sotaque latino-americano",
+    "sotaque mexicano",
+    "legendas embutidas",
+    "subtitles",
+    "captions",
+    "texto das falas escrito na tela",
+    "letras brancas na parte de baixo do video",
+    "letras na tela",
+    "personagens parados como estatuas",
+    "noite",
+    "chuva",
+    "placa do carro com letras",
+    "logotipo no carro",
+    "ramon empurrando ou batendo",
+    "pessoas caindo",
+    "pessoas perto do carro",
+    "pessoas feridas",
+    "chave mudando de mao"
+   ],
+   "planos": [
+    {
+     "quem": "RAMON",
+     "para": "DIEGO",
+     "fala": "Pulse el mando, señor. Ya verá.",
+     "emocao": 9,
+     "eyeline": "RAMON olha para DIEGO, serio e ofegante. NAO olha para a camera.",
+     "intencao": "Provar ao patrao, com seguranca, que esta dizendo a verdade.",
+     "voz": "Voz MASCULINA rouca de senhor de 70 anos, ofegante e firme, sotaque espanhol. NUNCA voz feminina.",
+     "rosto": "RAMON: suor na testa, olhar firme e serio.",
+     "corpo": "RAMON: encostado no muro, aponta com a cabeca para a mao de DIEGO.",
+     "camera": "Plano de abertura: Close-up de RAMON encostado no muro de pedra, o ombro branco de DIEGO desfocado na borda; HANDHELD. So RAMON tem a boca visivel."
+    },
+    {
+     "quem": "ISABEL",
+     "para": "DIEGO",
+     "fala": "¡Diego, no! ¡No lo pulses!",
+     "emocao": 10,
+     "eyeline": "ISABEL olha para DIEGO e para o controle na mao dele, apavorada. NAO olha para a camera.",
+     "intencao": "Impedir o marido em panico, se entregando sem querer.",
+     "voz": "Voz FEMININA de mulher de 35 anos, alta, aguda e desesperada, sotaque espanhol. NUNCA voz de homem.",
+     "rosto": "ISABEL: palida, olhos arregalados, a boca tremendo.",
+     "corpo": "ISABEL: aperta a BOLSA PRETA com as duas maos contra o corpo.",
+     "camera": "Corte seco. INSERT rapido das maos de ISABEL apertando a BOLSA PRETA, TILT UP ate o close do rosto dela em panico; o muro desfocado atras. So ISABEL tem a boca visivel."
+    },
+    {
+     "quem": "DIEGO",
+     "rosto": "DIEGO: fora do quadro, so a mao.",
+     "corpo": "O POLEGAR de DIEGO aperta o botao da chave preta do carro.",
+     "segundos": 0.7,
+     "camera": "Corte seco. EXTREME CLOSE-UP do polegar apertando o botao da chave preta. Sem fala."
+    },
+    {
+     "quem": "DIEGO",
+     "rosto": "Ninguem no quadro.",
+     "corpo": "Ao LONGE, a SUV preta VAZIA explode numa bola de fogo laranja e fumaca escura.",
+     "segundos": 0.9,
+     "camera": "Corte seco. WIDE SHOT da SUV preta vazia ao longe explodindo em fogo e fumaca, a camera treme com o estrondo. Sem fala."
+    },
+    {
+     "quem": "DIEGO",
+     "para": "ISABEL",
+     "fala": "Isabel… ¿por qué no querías que lo pulsara?",
+     "emocao": 10,
+     "eyeline": "DIEGO olha para o fogo e depois vira devagar para ISABEL, ao lado dele. NAO olha para a camera.",
+     "intencao": "Entender a traicao, em choque, a voz baixa e quebrada.",
+     "voz": "Voz MASCULINA de homem de 38 anos, baixa, rouca e em choque, sotaque espanhol. NUNCA voz feminina.",
+     "rosto": "DIEGO: olhos arregalados, a boca entreaberta, a respiracao parada; o choque vira desconfianca.",
+     "corpo": "DIEGO: ainda com a chave na mao, vira a cabeca devagar para ISABEL.",
+     "camera": "Corte seco. Close-up frontal de DIEGO, o reflexo laranja do fogo no rosto dele, ISABEL desfocada na borda do quadro, chorando; SLOW PUSH IN. So DIEGO tem a boca visivel."
+    }
+   ],
+   "regras_extra": [
+    "FALA DO COMECO AO FIM: o video comeca com RAMON ja falando e termina na ultima fala de DIEGO, sem plano mudo final.",
+    "So uma boca visivel por plano: quem fala aparece nitido; os outros ficam desfocados ou calados.",
+    "A explosao e LONGE, so com a SUV vazia; ninguem se machuca.",
+    "RAMON tem voz MASCULINA rouca de idoso; DIEGO tem voz MASCULINA firme; ISABEL tem voz FEMININA: nunca trocar as vozes.",
+    "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
+    "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+   ],
+   "imagens": [
+    "FRAME_RAMON",
+    "FRAME_DIEGO",
+    "FRAME_ISABEL"
    ]
   }
  ]
