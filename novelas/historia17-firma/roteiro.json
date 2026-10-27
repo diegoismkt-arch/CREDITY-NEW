@@ -1,0 +1,144 @@
+{
+ "idioma": "espanha",
+ "titulo_interno": "LA FIRMA",
+ "titulo_post": "",
+ "legenda": "",
+ "texto_final": "¿Quieres saber qué hará Ernesto? 👇",
+ "estilo": "Drama cinematografico de luxo, estilo novela turca. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos espanhois com imperfeicoes reais, textura real de pele. ESCRITORIO classico de uma mansao em Madrid, de DIA: estantes de madeira escura cheias de livros, escrivaninha grande de madeira escura, ABAJUR VERDE de banqueiro aceso, poltrona de couro marrom, tapete persa, luz dourada entrando pela janela alta. Shallow Focus, cortes rapidos.",
+ "imagens": {
+  "FRAME_ERNESTO": "frame do clipe 1, plano 2: ERNESTO na poltrona, cardiga vinho.",
+  "FRAME_JAVIER": "frame do clipe 1, plano 1 ou 4: JAVIER de terno cinza.",
+  "FRAME_LUCIA": "frame do clipe 1, plano 3: LUCIA de uniforme azul-claro."
+ },
+ "personagens": {
+  "ERNESTO": {
+   "descricao": "patriarca de 78 anos, espanhol, rosto comum e desconhecido, pele clara enrugada, cabelo BRANCO ralo penteado para tras, BARBA branca curta, CARDIGA VINHO sobre camisa branca, sem joias, sem oculos.",
+   "voz": "Voz masculina fraca, lenta e rouca de senhor espanhol de 78 anos, sotaque de Madrid.",
+   "frame": "FRAME_ERNESTO"
+  },
+  "JAVIER": {
+   "descricao": "filho de 45 anos, espanhol, rosto comum e desconhecido, cabelo PRETO com gel penteado para tras, barba feita, TERNO CINZA sem gravata, camisa BRANCA, sem joias, sem relogio.",
+   "voz": "Voz masculina suave e falsamente gentil de homem espanhol de 45 anos, sotaque de Madrid.",
+   "frame": "FRAME_JAVIER"
+  },
+  "LUCIA": {
+   "descricao": "cuidadora de 40 anos, espanhola, rosto comum e desconhecido, cabelo CASTANHO preso em RABO DE CAVALO, UNIFORME de enfermagem AZUL-CLARO de manga curta, sem joias.",
+   "voz": "Voz feminina firme e decidida de mulher espanhola de 40 anos, sotaque de Madrid.",
+   "frame": "FRAME_LUCIA",
+   "feminino": true
+  }
+ },
+ "clips": [
+  {
+   "nome": "O papel",
+   "atuacao": "Drama de tensao, FALA DO COMECO AO FIM. JAVIER, com um sorriso falso, empurra um contrato para o pai assinar. ERNESTO, confuso e fragil, pega a caneta com a mao tremula. LUCIA, a cuidadora, entra rapido e segura a mao dele. JAVIER perde a mascara e explode de raiva. Rostos expressivos, ninguem fica parado.",
+   "personagens": [
+    "JAVIER",
+    "ERNESTO",
+    "LUCIA"
+   ],
+   "posicoes": {
+    "ERNESTO": "sentado na poltrona de couro, atras da escrivaninha",
+    "JAVIER": "de pe do outro lado da escrivaninha, inclinado sobre ela",
+    "LUCIA": "entra pela porta e para ao lado da poltrona de ERNESTO"
+   },
+   "preservar_extra": [
+    "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
+    "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
+    "O CONTRATO: duas folhas brancas sobre a escrivaninha; o texto NUNCA aparece legivel. A CANETA-TINTEIRO e preta.",
+    "Os tres ficam PERTO uns dos outros, em volta da MESMA escrivaninha, o mesmo fundo de estantes."
+   ],
+   "cenario": "Dia, escritorio da mansao. JAVIER tenta fazer o pai, que tem Alzheimer, assinar um contrato. A cuidadora LUCIA entra e impede.",
+   "som": "O papel deslizando na madeira; o relogio de parede batendo; passos rapidos de LUCIA no tapete; sem musica.",
+   "remover_negativos": [
+    "dois rostos visiveis nos planos de fala",
+    "atuacao contida"
+   ],
+   "negativos_extra": [
+    "duas vozes ao mesmo tempo",
+    "voz feminina nas falas de javier",
+    "voz feminina nas falas de ernesto",
+    "voz masculina nas falas de lucia",
+    "rosto ou boca do ouvinte visivel nos planos de fala",
+    "personagem falando de frente para a camera",
+    "sotaque latino-americano",
+    "sotaque mexicano",
+    "legendas embutidas",
+    "subtitles",
+    "captions",
+    "texto das falas escrito na tela",
+    "letras brancas na parte de baixo do video",
+    "letras na tela",
+    "personagens parados como estatuas",
+    "texto legivel no papel",
+    "oculos",
+    "joias",
+    "noite",
+    "cadeira de rodas",
+    "javier empurrando ou batendo"
+   ],
+   "salvar_frames": [
+    "FRAME_ERNESTO",
+    "FRAME_JAVIER",
+    "FRAME_LUCIA"
+   ],
+   "planos": [
+    {
+     "quem": "JAVIER",
+     "para": "ERNESTO",
+     "fala": "Firme aquí, papá. Es solo para la casa.",
+     "emocao": 7,
+     "eyeline": "JAVIER olha para o pai, sentado a frente dele. NAO olha para a camera.",
+     "intencao": "Convencer o pai com doçura falsa, escondendo a pressa.",
+     "voz": "Voz MASCULINA de homem de 45 anos, suave, carinhosa e falsa, sotaque espanhol. NUNCA voz feminina.",
+     "rosto": "JAVIER: sorriso gentil e falso, os olhos frios.",
+     "corpo": "JAVIER: desliza as folhas sobre a mesa ate o pai e estende a caneta preta.",
+     "camera": "Plano de abertura: TOP SHOT das folhas deslizando na escrivaninha, TILT UP rapido ate JAVIER inclinado sobre a mesa, por cima do ombro de ERNESTO (de costas, desfocado na borda). So JAVIER tem a boca visivel."
+    },
+    {
+     "quem": "ERNESTO",
+     "para": "JAVIER",
+     "fala": "¿Qué casa, hijo?",
+     "emocao": 7,
+     "eyeline": "ERNESTO olha para o filho com os olhos perdidos. NAO olha para a camera.",
+     "intencao": "Perguntar confuso, como quem nao entende nada.",
+     "voz": "Voz MASCULINA de senhor de 78 anos, fraca, lenta e confusa, sotaque espanhol. NUNCA voz feminina.",
+     "rosto": "ERNESTO: olhar vago e perdido, sobrancelhas erguidas.",
+     "corpo": "ERNESTO: pega a caneta com a mao tremula.",
+     "camera": "Corte seco. Close-up de ERNESTO na poltrona, o abajur verde desfocado ao lado; SLOW PUSH IN. So ERNESTO tem a boca visivel."
+    },
+    {
+     "quem": "LUCIA",
+     "para": "ERNESTO",
+     "fala": "¡Don Ernesto, no firme! Lea la segunda página.",
+     "emocao": 9,
+     "eyeline": "LUCIA olha para ERNESTO, urgente. NAO olha para a camera.",
+     "intencao": "Impedir a assinatura com urgencia e coragem.",
+     "voz": "Voz FEMININA de mulher de 40 anos, firme, rapida e urgente, sotaque espanhol. NUNCA voz de homem.",
+     "rosto": "LUCIA: olhar decidido, a respiracao acelerada.",
+     "corpo": "LUCIA: entra rapido e pousa a mao sobre a mao de ERNESTO que segura a caneta.",
+     "camera": "Corte seco. Medium Shot de LUCIA entrando pela porta, WHIP PAN acompanhando ate ela parar ao lado da poltrona; JAVIER desfocado do outro lado da mesa. So LUCIA tem a boca visivel."
+    },
+    {
+     "quem": "JAVIER",
+     "para": "LUCIA",
+     "fala": "¡Fuera de aquí, Lucía!",
+     "emocao": 10,
+     "eyeline": "JAVIER olha para LUCIA, furioso. NAO olha para a camera.",
+     "intencao": "Expulsar a cuidadora com raiva, a mascara caindo.",
+     "voz": "Voz MASCULINA de homem de 45 anos, alta, dura e furiosa, sotaque espanhol. NUNCA voz feminina.",
+     "rosto": "JAVIER: o sorriso some, a mandibula trava, os olhos faiscando.",
+     "corpo": "JAVIER: bate a palma na mesa e aponta a porta.",
+     "camera": "Corte seco. Close-up de JAVIER em LOW ANGLE, as estantes desfocadas atras; CRASH ZOOM curto. So JAVIER tem a boca visivel."
+    }
+   ],
+   "regras_extra": [
+    "FALA DO COMECO AO FIM: o video comeca com JAVIER ja falando e termina na ultima fala de JAVIER, sem plano mudo final.",
+    "So uma boca visivel por plano: quem fala aparece nitido; os outros ficam de costas, desfocados ou calados.",
+    "ERNESTO tem voz MASCULINA fraca de idoso; JAVIER tem voz MASCULINA de 45 anos; LUCIA tem voz FEMININA: nunca trocar as vozes.",
+    "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
+    "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+   ]
+  }
+ ]
+}
