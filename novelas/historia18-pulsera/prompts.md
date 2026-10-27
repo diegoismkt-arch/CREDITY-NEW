@@ -183,7 +183,7 @@ Sem imagem de referência (Text to Video).
 
 ## Clipe 2 — A pergunta
 
-clipe 2: 10.1s, 9.7s de fala (24 palavras, 4 planos, falantes: MARCOS, DOLORES) ❌ 10.1s — passa de 10s, corte palavras
+clipe 2: 9.7s, 9.3s de fala (23 palavras, 4 planos, falantes: MARCOS, DOLORES) ✅
 
 Referências, nesta ordem: 1) FRAME_MARCOS; 2) FRAME_SOFIA; 3) FRAME_QUADRO
 
@@ -213,7 +213,7 @@ Referências, nesta ordem: 1) FRAME_MARCOS; 2) FRAME_SOFIA; 3) FRAME_QUADRO
   },
   "scene": {
     "title": "LA PULSERA",
-    "duration_seconds": 10.0,
+    "duration_seconds": 9.8,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
     "structure": "4 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
     "style": "Drama cinematografico de luxo, estilo novela turca. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos ESPANHOIS mediterraneos com imperfeicoes reais, textura real de pele. HALL BRANCO de uma mansao em Madrid, de DIA: ESCADA EM CARACOL branca com corrimao de ferro preto trabalhado, LUSTRE de cristal, janelas altas, piso de MARMORE branco brilhante refletindo a luz, na parede um grande QUADRO a oleo com moldura DOURADA iluminado por uma arandela; ao fundo uma cozinha branca. Luz natural clara. Shallow Focus, cortes rapidos.",
@@ -245,9 +245,9 @@ Referências, nesta ordem: 1) FRAME_MARCOS; 2) FRAME_SOFIA; 3) FRAME_QUADRO
       "mouths": "Somente MARCOS movimenta os labios."
     },
     {
-      "time": "00:02.05-00:04.10",
+      "time": "00:02.05-00:03.73",
       "speaker": "DOLORES",
-      "dialogue": "¡Sofía! ¡Ven aquí ahora mismo!",
+      "dialogue": "¡Sofía! ¡Ven aquí ahora!",
       "addressee": "SOFIA",
       "eyeline": "DOLORES olha para SOFIA e de relance para MARCOS, apavorada. NAO olha para a camera.",
       "emotion_level": 9,
@@ -259,7 +259,7 @@ Referências, nesta ordem: 1) FRAME_MARCOS; 2) FRAME_SOFIA; 3) FRAME_QUADRO
       "mouths": "Somente DOLORES movimenta os labios."
     },
     {
-      "time": "00:04.10-00:06.90",
+      "time": "00:03.73-00:06.53",
       "speaker": "DOLORES",
       "dialogue": "Perdone, señor… no sabe lo que dice.",
       "addressee": "MARCOS",
@@ -273,7 +273,7 @@ Referências, nesta ordem: 1) FRAME_MARCOS; 2) FRAME_SOFIA; 3) FRAME_QUADRO
       "mouths": "Somente DOLORES movimenta os labios."
     },
     {
-      "time": "00:06.90-00:10.09",
+      "time": "00:06.53-00:09.72",
       "speaker": "MARCOS",
       "dialogue": "Esa pulsera era de mi padre, Dolores.",
       "addressee": "DOLORES",
