@@ -152,7 +152,7 @@ Sem imagem de referência (Text to Video).
     "joias",
     "noite",
     "cadeira de rodas",
-    "javier empurrando ou batendo",
+    "javier encostando em alguem",
     "texto ou letras em qualquer lugar",
     "nome ou idade de personagem escrito na tela",
     "letreiro de apresentacao de personagem (lower third)",
