@@ -6,9 +6,9 @@
  "texto_final": "¿Quieres saber qué hará Ernesto? 👇",
  "estilo": "Drama cinematografico de luxo, estilo novela turca. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos espanhois com imperfeicoes reais, textura real de pele. ESCRITORIO classico de uma mansao em Madrid, de DIA: estantes de madeira escura cheias de livros, escrivaninha grande de madeira escura, ABAJUR VERDE de banqueiro aceso, poltrona de couro marrom, tapete persa, luz dourada entrando pela janela alta. Shallow Focus, cortes rapidos.",
  "imagens": {
-  "FRAME_ERNESTO": "frame do clipe 1, plano 2: ERNESTO na poltrona, cardiga vinho.",
-  "FRAME_JAVIER": "frame do clipe 1, plano 1 ou 4: JAVIER de terno cinza.",
-  "FRAME_LUCIA": "frame do clipe 1, plano 3: LUCIA de uniforme azul-claro."
+  "FRAME_JAVIER": "frame do clipe 1 (por volta do segundo 2,5): JAVIER de terno cinza.",
+  "FRAME_ERNESTO": "frame do clipe 1 (por volta do segundo 4,0): ERNESTO na poltrona, cardiga vinho.",
+  "FRAME_LUCIA": "frame do clipe 1 (por volta do segundo 6,8): LUCIA de uniforme azul-claro."
  },
  "personagens": {
   "ERNESTO": {
@@ -138,6 +138,108 @@
     "ERNESTO tem voz MASCULINA fraca de idoso; JAVIER tem voz MASCULINA de 45 anos; LUCIA tem voz FEMININA: nunca trocar as vozes.",
     "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
     "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+   ],
+   "nota": "Usuario pediu o clipe 2 (considerado passou)."
+  },
+  {
+   "nome": "A virada",
+   "atuacao": "Virada final, FALA DO COMECO AO FIM. LUCIA mostra a segunda pagina: o contrato da TUDO ao filho. JAVIER, nervoso, tenta desacreditar a cuidadora. ERNESTO, que parecia confuso e fragil, se TRANSFORMA: larga a caneta, endireita as costas, o olhar fica lucido, frio e firme, e a voz fica forte. Rostos expressivos, ninguem fica parado.",
+   "personagens": [
+    "JAVIER",
+    "ERNESTO",
+    "LUCIA"
+   ],
+   "posicoes": {
+    "ERNESTO": "sentado na poltrona de couro, atras da escrivaninha",
+    "JAVIER": "de pe do outro lado da escrivaninha",
+    "LUCIA": "de pe ao lado da poltrona de ERNESTO"
+   },
+   "preservar_extra": [
+    "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
+    "O MESMO JAVIER da imagem 1, o MESMO ERNESTO da imagem 2 e a MESMA LUCIA da imagem 3, com as mesmas roupas, no MESMO escritorio.",
+    "O CONTRATO: duas folhas brancas sobre a escrivaninha; o texto NUNCA aparece legivel. A CANETA-TINTEIRO e preta.",
+    "Os tres ficam PERTO uns dos outros, em volta da MESMA escrivaninha, o mesmo fundo de estantes."
+   ],
+   "cenario": "Continuacao, mesmo escritorio, de dia. LUCIA revela o que diz o contrato; JAVIER se desespera; ERNESTO revela que finge a doenca ha um ano.",
+   "som": "A folha virando; o relogio de parede batendo; a caneta pousando na mesa; um TUM grave quando ERNESTO muda o olhar; sem musica.",
+   "remover_negativos": [
+    "dois rostos visiveis nos planos de fala",
+    "atuacao contida"
+   ],
+   "negativos_extra": [
+    "duas vozes ao mesmo tempo",
+    "voz feminina nas falas de javier",
+    "voz feminina nas falas de ernesto",
+    "voz masculina nas falas de lucia",
+    "rosto ou boca do ouvinte visivel nos planos de fala",
+    "personagem falando de frente para a camera",
+    "sotaque latino-americano",
+    "sotaque mexicano",
+    "legendas embutidas",
+    "subtitles",
+    "captions",
+    "texto das falas escrito na tela",
+    "letras brancas na parte de baixo do video",
+    "letras na tela",
+    "personagens parados como estatuas",
+    "texto legivel no papel",
+    "oculos",
+    "joias",
+    "noite",
+    "cadeira de rodas",
+    "javier encostando em alguem",
+    "caneta mudando de mao",
+    "ernesto confuso no plano final"
+   ],
+   "planos": [
+    {
+     "quem": "LUCIA",
+     "para": "ERNESTO",
+     "fala": "Se lo queda todo. La empresa, la casa… todo.",
+     "emocao": 9,
+     "eyeline": "LUCIA olha para a folha e depois para ERNESTO. NAO olha para a camera.",
+     "intencao": "Revelar a armadilha com indignacao contida.",
+     "voz": "Voz FEMININA de mulher de 40 anos, firme e indignada, sotaque espanhol. NUNCA voz de homem.",
+     "rosto": "LUCIA: testa franzida, olhar indignado.",
+     "corpo": "LUCIA: vira a primeira folha e aponta a segunda com o dedo.",
+     "camera": "Plano de abertura: INSERT da folha sendo virada na escrivaninha (texto ilegivel e desfocado), TILT UP ate o close de LUCIA ao lado da poltrona. So LUCIA tem a boca visivel."
+    },
+    {
+     "quem": "JAVIER",
+     "para": "ERNESTO",
+     "fala": "Papá, ella no sabe lo que dice.",
+     "emocao": 9,
+     "eyeline": "JAVIER olha para o pai, nervoso. NAO olha para a camera.",
+     "intencao": "Desacreditar a cuidadora, nervoso, forcando calma.",
+     "voz": "Voz MASCULINA de homem de 45 anos, rapida, nervosa e falsamente calma, sotaque espanhol. NUNCA voz feminina.",
+     "rosto": "JAVIER: sorriso forcado e tremulo, suor na testa.",
+     "corpo": "JAVIER: ajeita o paleto e se inclina sobre a mesa.",
+     "camera": "Corte seco. Close-up de JAVIER por cima do ombro de ERNESTO (de costas, desfocado na borda); HANDHELD leve. So JAVIER tem a boca visivel."
+    },
+    {
+     "quem": "ERNESTO",
+     "para": "LUCIA",
+     "fala": "Lo sé, Lucía. Llevo un año fingiendo.",
+     "emocao": 10,
+     "eyeline": "ERNESTO olha fixo para o filho, JAVIER, enquanto responde a LUCIA. NAO olha para a camera.",
+     "intencao": "Revelar a verdade com calma fria e autoridade total.",
+     "voz": "Voz MASCULINA de senhor de 78 anos, agora FIRME, grave, lenta e lucida, sotaque espanhol. NUNCA voz feminina.",
+     "rosto": "ERNESTO: o olhar perdido some; os olhos ficam lucidos, duros e frios; um meio sorriso.",
+     "corpo": "ERNESTO: larga a caneta na mesa, endireita as costas devagar e se apoia na poltrona.",
+     "camera": "Corte seco. Close-up frontal de ERNESTO, LOW ANGLE, o abajur verde ao lado; SLOW DOLLY IN ate os olhos. So ERNESTO tem a boca visivel."
+    }
+   ],
+   "regras_extra": [
+    "FALA DO COMECO AO FIM: o video comeca com LUCIA ja falando e termina na ultima fala de ERNESTO, sem plano mudo final.",
+    "So uma boca visivel por plano: quem fala aparece nitido; os outros ficam de costas, desfocados ou calados.",
+    "ERNESTO tem voz MASCULINA de idoso (no fim, firme); JAVIER tem voz MASCULINA de 45 anos; LUCIA tem voz FEMININA: nunca trocar as vozes.",
+    "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
+    "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+   ],
+   "imagens": [
+    "FRAME_JAVIER",
+    "FRAME_ERNESTO",
+    "FRAME_LUCIA"
    ]
   }
  ]
