@@ -6,7 +6,7 @@
  "texto_final": "¿Qué harías tú si fueras Rafael? 👇",
  "estilo": "Drama cinematografico de luxo, estilo novela turca. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos ESPANHOIS mediterraneos com imperfeicoes reais, textura real de pele. HALL de uma mansao em Madrid ao ENTARDECER: ESCADA de marmore bege com corrimao de madeira escura, LUSTRE de cristal aceso, piso de MARMORE bege brilhante, porta de entrada alta de madeira, luz alaranjada do por do sol entrando pelas janelas. Silencio pesado. Shallow Focus, cortes rapidos.",
  "imagens": {
-  "FRAME_RAFAEL": "frame do clipe 1 (por volta do segundo 5,0): RAFAEL de terno azul-marinho.",
+  "FRAME_RAFAEL": "frame do clipe 1 (por volta do segundo 5,5): RAFAEL de terno azul-marinho.",
   "FRAME_PACO": "frame do clipe 1 (por volta do segundo 3,0): PACO de uniforme de motorista cinza.",
   "FRAME_BLAZER": "frame do clipe 1 (por volta do segundo 8,5): PACO segurando o blazer cinza."
  },
@@ -136,6 +136,113 @@
     "RAFAEL tem voz MASCULINA grave de 60 anos; PACO tem voz MASCULINA rouca de 68 anos: nunca trocar as vozes.",
     "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
     "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+   ],
+   "nota": "Usuario pediu o clipe 2 (considerado passou)."
+  },
+  {
+   "nome": "O isqueiro",
+   "atuacao": "Revelacao, FALA DO COMECO AO FIM. RAFAEL tira do bolso do blazer um isqueiro dourado e reconhece: e do irmao. ELENA aparece no alto da escada, de robe, e congela ao ver o marido. Atras dela surge JULIAN, o irmao, de camisa branca. RAFAEL, frio e contido, encara os dois. PACO, ao lado, abaixa a cabeca. Rostos expressivos, ninguem fica parado.",
+   "personagens": [
+    "RAFAEL",
+    "ELENA",
+    "JULIAN",
+    "PACO"
+   ],
+   "posicoes": {
+    "RAFAEL": "ao pe da escada, com o blazer cinza na mao",
+    "PACO": "ao lado de RAFAEL, ao pe da escada, de cabeca baixa",
+    "ELENA": "no ALTO da escada, parada no ultimo degrau",
+    "JULIAN": "no alto da escada, ATRAS de ELENA"
+   },
+   "preservar_extra": [
+    "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
+    "O MESMO RAFAEL da imagem 1, o MESMO PACO da imagem 2 e o MESMO BLAZER CINZA da imagem 3, no MESMO hall com a escada de marmore.",
+    "O ISQUEIRO: um isqueiro DOURADO pequeno e liso, sem letras, que RAFAEL tira do bolso do blazer cinza e segura SEMPRE na mao direita.",
+    "ELENA usa SEMPRE o robe de seda champanhe FECHADO; JULIAN usa SEMPRE a camisa branca abotoada.",
+    "ELENA e JULIAN ficam SEMPRE no alto da escada; RAFAEL e PACO SEMPRE embaixo."
+   ],
+   "cenario": "Continuacao, mesmo hall ao entardecer. RAFAEL acha o isqueiro do irmao no blazer; a esposa ELENA aparece no alto da escada e, atras dela, o irmao JULIAN.",
+   "som": "O tecido do blazer; o clique metalico do isqueiro; passos descalcos no alto da escada; o relogio de parede; sem musica.",
+   "remover_negativos": [
+    "dois rostos visiveis nos planos de fala",
+    "atuacao contida"
+   ],
+   "negativos_extra": [
+    "duas vozes ao mesmo tempo",
+    "voz feminina nas falas de rafael",
+    "voz feminina nas falas de paco",
+    "rosto ou boca do ouvinte visivel nos planos de fala",
+    "personagem falando de frente para a camera",
+    "sotaque latino-americano",
+    "sotaque mexicano",
+    "legendas embutidas",
+    "subtitles",
+    "captions",
+    "texto das falas escrito na tela",
+    "letras brancas na parte de baixo do video",
+    "letras na tela",
+    "personagens parados como estatuas",
+    "aparencia americana",
+    "rafael vestindo o blazer cinza",
+    "blazer mudando de cor",
+    "voz masculina nas falas de elena",
+    "julian falando",
+    "paco falando",
+    "robe aberto",
+    "nudez",
+    "letras no isqueiro",
+    "isqueiro aceso"
+   ],
+   "planos": [
+    {
+     "quem": "RAFAEL",
+     "para": "PACO",
+     "fala": "Este mechero… se lo regalé yo a mi hermano.",
+     "emocao": 9,
+     "eyeline": "RAFAEL olha para o isqueiro na mao dele, incredulo. NAO olha para a camera.",
+     "intencao": "Reconhecer a prova, a voz baixando de choque.",
+     "voz": "Voz MASCULINA grave de homem de 60 anos, baixa, lenta e incredula, sotaque espanhol. NUNCA voz feminina.",
+     "rosto": "RAFAEL: olhos fixos no isqueiro, a mandibula travando.",
+     "corpo": "RAFAEL: tira do bolso do blazer um ISQUEIRO DOURADO e o vira na mao.",
+     "camera": "Plano de abertura: INSERT da mao de RAFAEL tirando o ISQUEIRO DOURADO do bolso do blazer cinza, TILT UP ate o close do rosto dele; PACO desfocado ao lado. So RAFAEL tem a boca visivel."
+    },
+    {
+     "quem": "ELENA",
+     "para": "RAFAEL",
+     "fala": "Rafael… has vuelto antes. Puedo explicártelo.",
+     "emocao": 9,
+     "eyeline": "ELENA olha para baixo, para RAFAEL, apavorada. NAO olha para a camera.",
+     "intencao": "Tentar se justificar, em panico, sem saber o que dizer.",
+     "voz": "Voz FEMININA de mulher de 50 anos, tremula, rapida e nervosa, sotaque espanhol. NUNCA voz de homem.",
+     "rosto": "ELENA: palida, olhos arregalados, a boca tremendo.",
+     "corpo": "ELENA: para no alto da escada e segura a faixa do robe; atras dela, JULIAN aparece de camisa branca, desfocado e calado.",
+     "camera": "Corte seco. LOW ANGLE de baixo da escada: ELENA no alto, nitida, e JULIAN surgindo atras dela, DESFOCADO; SLOW PUSH IN. So ELENA tem a boca visivel."
+    },
+    {
+     "quem": "RAFAEL",
+     "para": "JULIAN",
+     "fala": "Julián… baja. Tenemos que hablar.",
+     "emocao": 10,
+     "eyeline": "RAFAEL olha para cima, para JULIAN no alto da escada. NAO olha para a camera.",
+     "intencao": "Chamar o irmao com raiva fria, contida e perigosa.",
+     "voz": "Voz MASCULINA grave de homem de 60 anos, muito baixa, fria e firme, sotaque espanhol. NUNCA voz feminina.",
+     "rosto": "RAFAEL: olhar gelado, os olhos marejados de raiva, a mandibula travada.",
+     "corpo": "RAFAEL: fecha a mao sobre o isqueiro com forca e solta o blazer no chao.",
+     "camera": "Corte seco. HIGH ANGLE de cima da escada sobre RAFAEL, que olha para cima; PACO de cabeca baixa ao lado, desfocado; SLOW DOLLY IN ate os olhos dele. So RAFAEL tem a boca visivel."
+    }
+   ],
+   "regras_extra": [
+    "FALA DO COMECO AO FIM: o video comeca com RAFAEL ja falando e termina na ultima fala de RAFAEL, sem plano mudo final.",
+    "So uma boca visivel por plano: quem fala aparece nitido; os outros ficam desfocados ou calados.",
+    "JULIAN e PACO NAO falam neste clipe.",
+    "RAFAEL tem voz MASCULINA grave; ELENA tem voz FEMININA: nunca trocar as vozes.",
+    "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
+    "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+   ],
+   "imagens": [
+    "FRAME_RAFAEL",
+    "FRAME_PACO",
+    "FRAME_BLAZER"
    ]
   }
  ]
