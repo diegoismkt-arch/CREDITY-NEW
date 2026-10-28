@@ -152,14 +152,15 @@
     "RAFAEL": "ao pe da escada, com o blazer cinza na mao",
     "PACO": "ao lado de RAFAEL, ao pe da escada, de cabeca baixa",
     "ELENA": "no ALTO da escada, parada no ultimo degrau",
-    "JULIAN": "no alto da escada, ATRAS de ELENA"
+    "JULIAN": "no ALTO da escada, ATRAS de ELENA; comeca a DESCER devagar os primeiros degraus; NUNCA chega embaixo"
    },
    "preservar_extra": [
     "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
     "O MESMO RAFAEL da imagem 1, o MESMO PACO da imagem 2 e o MESMO BLAZER CINZA da imagem 3, no MESMO hall com a escada de marmore.",
     "O ISQUEIRO: um isqueiro DOURADO pequeno e liso, sem letras, que RAFAEL tira do bolso do blazer cinza e segura SEMPRE na mao direita.",
     "ELENA usa SEMPRE o robe de seda champanhe FECHADO; JULIAN usa SEMPRE a camisa branca abotoada.",
-    "ELENA e JULIAN ficam SEMPRE no alto da escada; RAFAEL e PACO SEMPRE embaixo."
+    "ELENA e JULIAN ficam SEMPRE no ALTO da escada, la em cima; RAFAEL e PACO ficam SEMPRE embaixo, no pe da escada. JULIAN NUNCA desce ate o hall e NUNCA fica ao lado de RAFAEL ou de PACO.",
+    "Embaixo, no pe da escada, existem SO DUAS pessoas: RAFAEL e PACO."
    ],
    "cenario": "Continuacao, mesmo hall ao entardecer. RAFAEL acha o isqueiro do irmao no blazer; a esposa ELENA aparece no alto da escada e, atras dela, o irmao JULIAN.",
    "som": "O tecido do blazer; o clique metalico do isqueiro; passos descalcos no alto da escada; o relogio de parede; sem musica.",
@@ -191,7 +192,13 @@
     "robe aberto",
     "nudez",
     "letras no isqueiro",
-    "isqueiro aceso"
+    "isqueiro aceso",
+    "julian ao pe da escada",
+    "julian ao lado de rafael",
+    "julian ao lado de paco",
+    "tres homens embaixo da escada",
+    "julian no hall",
+    "julian nos planos 1 e 3"
    ],
    "planos": [
     {
@@ -215,8 +222,8 @@
      "intencao": "Tentar se justificar, em panico, sem saber o que dizer.",
      "voz": "Voz FEMININA de mulher de 50 anos, tremula, rapida e nervosa, sotaque espanhol. NUNCA voz de homem.",
      "rosto": "ELENA: palida, olhos arregalados, a boca tremendo.",
-     "corpo": "ELENA: para no alto da escada e segura a faixa do robe; atras dela, JULIAN aparece de camisa branca, desfocado e calado.",
-     "camera": "Corte seco. LOW ANGLE de baixo da escada: ELENA no alto, nitida, e JULIAN surgindo atras dela, DESFOCADO; SLOW PUSH IN. So ELENA tem a boca visivel."
+     "corpo": "ELENA: para no alto da escada e segura a faixa do robe; atras dela, la em cima, JULIAN aparece de camisa branca e desce DEVAGAR um degrau, calado.",
+     "camera": "Corte seco. LOW ANGLE do pe da escada olhando para CIMA: a escada de marmore subindo; la no ALTO, ELENA nitida no ultimo degrau e JULIAN atras dela, DESFOCADO, descendo devagar um degrau; SLOW PUSH IN. So ELENA tem a boca visivel."
     },
     {
      "quem": "RAFAEL",
@@ -228,12 +235,13 @@
      "voz": "Voz MASCULINA grave de homem de 60 anos, muito baixa, fria e firme, sotaque espanhol. NUNCA voz feminina.",
      "rosto": "RAFAEL: olhar gelado, os olhos marejados de raiva, a mandibula travada.",
      "corpo": "RAFAEL: fecha a mao sobre o isqueiro com forca e solta o blazer no chao.",
-     "camera": "Corte seco. HIGH ANGLE de cima da escada sobre RAFAEL, que olha para cima; PACO de cabeca baixa ao lado, desfocado; SLOW DOLLY IN ate os olhos dele. So RAFAEL tem a boca visivel."
+     "camera": "Corte seco. HIGH ANGLE de cima da escada olhando para BAIXO: no pe da escada so RAFAEL, olhando para cima, e PACO de cabeca baixa ao lado, desfocado; a escada VAZIA entre eles e o alto; SLOW DOLLY IN ate os olhos de RAFAEL. So RAFAEL e PACO no quadro. So RAFAEL tem a boca visivel."
     }
    ],
    "regras_extra": [
     "FALA DO COMECO AO FIM: o video comeca com RAFAEL ja falando e termina na ultima fala de RAFAEL, sem plano mudo final.",
     "So uma boca visivel por plano: quem fala aparece nitido; os outros ficam desfocados ou calados.",
+    "JULIAN aparece SO no plano 2, no ALTO da escada, atras de ELENA. Nos planos 1 e 3 JULIAN NAO aparece. Embaixo ficam SO RAFAEL e PACO.",
     "JULIAN e PACO NAO falam neste clipe.",
     "RAFAEL tem voz MASCULINA grave; ELENA tem voz FEMININA: nunca trocar as vozes.",
     "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
@@ -243,7 +251,8 @@
     "FRAME_RAFAEL",
     "FRAME_PACO",
     "FRAME_BLAZER"
-   ]
+   ],
+   "nota": "v1: JULIAN apareceu embaixo ao lado de RAFAEL e PACO. v2: JULIAN so no ALTO da escada, descendo devagar, nunca embaixo."
   }
  ]
 }
