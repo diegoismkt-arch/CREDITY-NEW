@@ -82,8 +82,8 @@
       "intention": "Chamar o irmao com raiva fria, contida e perigosa.",
       "voice": "Voz MASCULINA grave de homem de 60 anos, muito baixa, fria e firme, sotaque espanhol. NUNCA voz feminina.",
       "face": "RAFAEL: olhar gelado, os olhos marejados de raiva, a mandibula travada.",
-      "body": "RAFAEL: fecha a mao sobre o isqueiro com forca e solta o blazer no chao.",
-      "camera": "Corte seco. HIGH ANGLE de cima da escada olhando para BAIXO: no pe da escada so RAFAEL, olhando para cima, e PACO de cabeca baixa ao lado, desfocado; a escada VAZIA entre eles e o alto; SLOW DOLLY IN ate os olhos de RAFAEL. So RAFAEL e PACO no quadro. So RAFAEL tem a boca visivel. A fala comeca no primeiro instante do plano.",
+      "body": "RAFAEL: aperta o isqueiro na mao com forca, a respiracao pesada.",
+      "camera": "Corte seco. CLOSE-UP frontal SO de RAFAEL, ele olha para CIMA (para a escada, fora do quadro); atras dele o hall desfocado e a luz alaranjada do entardecer; NINGUEM mais no quadro; SLOW PUSH IN ate os olhos. So RAFAEL tem a boca visivel. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente RAFAEL movimenta os labios."
     }
   ],
@@ -105,7 +105,7 @@
       "Cada frase e dita INTEIRA, do comeco ao fim.",
       "FALA DO COMECO AO FIM: o video comeca com RAFAEL ja falando e termina na ultima fala de RAFAEL, sem plano mudo final.",
       "So uma boca visivel por plano: quem fala aparece nitido; os outros ficam desfocados ou calados.",
-      "JULIAN aparece SO no plano 2, no ALTO da escada, atras de ELENA. Nos planos 1 e 3 JULIAN NAO aparece. Embaixo ficam SO RAFAEL e PACO.",
+      "JULIAN aparece SO no plano 2, no ALTO da escada, atras de ELENA. O plano 3 e um CLOSE SO de RAFAEL, sem mais ninguem no quadro.",
       "JULIAN e PACO NAO falam neste clipe.",
       "RAFAEL tem voz MASCULINA grave; ELENA tem voz FEMININA: nunca trocar as vozes.",
       "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
@@ -150,6 +150,7 @@
     "tres homens embaixo da escada",
     "julian no hall",
     "julian nos planos 1 e 3",
+    "outra pessoa no close final de rafael",
     "texto ou letras em qualquer lugar",
     "nome ou idade de personagem escrito na tela",
     "letreiro de apresentacao de personagem (lower third)",
