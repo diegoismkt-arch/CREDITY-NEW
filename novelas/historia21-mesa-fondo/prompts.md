@@ -1,0 +1,168 @@
+# 
+
+**Legenda:** 
+
+**Texto na edição (final):** ¿Qué harías tú si tu hijo se avergonzara de ti? 👇
+
+
+## Clipe 1 — A humilhacao
+
+clipe 1: 9.9s, 9.5s de fala (24 palavras, 3 planos, falantes: ANDRES, CARMEN) ✅
+
+Sem imagem de referência (Text to Video).
+
+```json
+{
+  "IDIOMA_OBRIGATORIO": "TODAS as falas em ESPANHOL LATINO NEUTRO (sotaque latino-americano suave, sem regionalismos), exatamente como escritas no campo dialogue. NUNCA em portugues, nunca traduzir.",
+  "ATUACAO_PRIORIDADE_MAXIMA": "Drama emocional, FALA DO COMECO AO FIM. ANDRES, envergonhado da propria mae, a afasta da mesa principal e a leva para o fundo do salao, falando baixo para ninguem ouvir. CARMEN nao entende, fica magoada, os olhos se enchem de lagrimas. ANDRES e frio e olha nervoso para os convidados ricos. Rostos muito expressivos, ninguem fica parado.",
+  "consistency": [
+    "ANDRES: noivo de 35 anos, latino, filho de CARMEN, rosto comum e desconhecido, pele morena-clara, cabelo PRETO com gel penteado para tras, barba feita, SMOKING PRETO com camisa branca e GRAVATA-BORBOLETA preta, uma flor branca na lapela.",
+    "CARMEN: mae humilde de 68 anos, latina, rosto comum e desconhecido, pele morena com rugas, cabelo GRISALHO preso em COQUE simples, olhos castanhos, VESTIDO AZUL-MARINHO simples com CARDIGA BEGE, maos calejadas de quem trabalhou a vida toda, sapatos simples, sem joias, sem maquiagem.",
+    "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
+    "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
+    "CARMEN usa SEMPRE o vestido azul-marinho simples e o cardiga bege, sem joias: e a pessoa mais simples da festa.",
+    "ANDRES e CARMEN ficam SEMPRE juntos, lado a lado, no MESMO salao."
+  ],
+  "scene": {
+    "title": "LA MESA DEL FONDO",
+    "duration_seconds": 9.9,
+    "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
+    "structure": "3 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "style": "Drama cinematografico emocional, estilo novela. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos LATINO-AMERICANOS com imperfeicoes reais, textura real de pele. SALAO DE FESTA DE CASAMENTO numa fazenda elegante, de NOITE: lustres de cristal, luzinhas, arranjos de flores BRANCAS, mesas redondas com toalhas brancas e velas, convidados elegantes, uma mesa principal na frente e um pequeno palco com microfone. Luz quente e dourada. Shallow Focus, cortes rapidos.",
+    "setting": "Noite, festa de casamento. O noivo ANDRES afasta a mae humilde da mesa principal e a manda para a mesa do fundo, perto da cozinha.",
+    "blocking": [
+      "ANDRES: caminhando pelo salao entre as mesas, segurando o braco da mae",
+      "CARMEN: ao lado de ANDRES, sendo levada por ele para o fundo do salao"
+    ],
+    "characters": {
+      "ANDRES": "noivo de 35 anos, latino, filho de CARMEN, rosto comum e desconhecido, pele morena-clara, cabelo PRETO com gel penteado para tras, barba feita, SMOKING PRETO com camisa branca e GRAVATA-BORBOLETA preta, uma flor branca na lapela. Personagem ficticio. Voz masculina de homem latino de 35 anos.",
+      "CARMEN": "mae humilde de 68 anos, latina, rosto comum e desconhecido, pele morena com rugas, cabelo GRISALHO preso em COQUE simples, olhos castanhos, VESTIDO AZUL-MARINHO simples com CARDIGA BEGE, maos calejadas de quem trabalhou a vida toda, sapatos simples, sem joias, sem maquiagem. Personagem ficticia. Voz feminina doce, simples e emocionada de senhora latina de 68 anos."
+    }
+  },
+  "timeline": [
+    {
+      "time": "00:00.00-00:04.27",
+      "speaker": "ANDRES",
+      "dialogue": "Mamá, tu mesa es la del fondo. Junto a la cocina.",
+      "addressee": "CARMEN",
+      "eyeline": "ANDRES olha para CARMEN de lado, rapido, e depois para frente. NAO olha para a camera.",
+      "emotion_level": 8,
+      "intention": "Afastar a mae com pressa e frieza, sem chamar atencao.",
+      "voice": "Voz MASCULINA de homem de 35 anos, baixa, seca e apressada, espanhol latino neutro. NUNCA voz feminina.",
+      "face": "ANDRES: sorriso falso para os convidados, olhar duro para a mae.",
+      "body": "ANDRES: segura o braco da mae e caminha com ela entre as mesas, para longe da mesa principal.",
+      "camera": "Plano de abertura: MEDIUM SHOT em TRACKING de frente: ANDRES caminhando entre as mesas segurando o braco de CARMEN, ela um passo atras dele, DESFOCADA e calada; lustres e convidados ao fundo. So ANDRES tem a boca visivel. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente ANDRES movimenta os labios."
+    },
+    {
+      "time": "00:04.27-00:06.33",
+      "speaker": "CARMEN",
+      "dialogue": "Pero hijo… soy tu madre.",
+      "addressee": "ANDRES",
+      "eyeline": "CARMEN olha para o rosto do filho, sem entender. NAO olha para a camera.",
+      "emotion_level": 9,
+      "intention": "Perguntar magoada, com o coracao partido.",
+      "voice": "Voz FEMININA de senhora de 68 anos, baixa, tremula e magoada, espanhol latino neutro. NUNCA voz de homem.",
+      "face": "CARMEN: olhos marejados, sobrancelhas erguidas, a boca tremendo.",
+      "body": "CARMEN: para de andar e aperta a alca da bolsinha simples.",
+      "camera": "Corte seco. Close-up de CARMEN por cima do ombro de ANDRES (de costas, desfocado na borda), as luzinhas da festa em bokeh atras; SLOW PUSH IN. So CARMEN tem a boca visivel. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente CARMEN movimenta os labios."
+    },
+    {
+      "time": "00:06.33-00:09.89",
+      "speaker": "ANDRES",
+      "dialogue": "Precisamente. No quiero que mis suegros te vean.",
+      "addressee": "CARMEN",
+      "eyeline": "ANDRES olha de relance para a mesa principal e depois para CARMEN. NAO olha para a camera.",
+      "emotion_level": 9,
+      "intention": "Dizer a crueldade baixinho, envergonhado da mae.",
+      "voice": "Voz MASCULINA de homem de 35 anos, baixa, fria e envergonhada, espanhol latino neutro. NUNCA voz feminina.",
+      "face": "ANDRES: mandibula tensa, olhar de vergonha e desprezo.",
+      "body": "ANDRES: se inclina para falar perto do ouvido dela e ajeita a gravata-borboleta.",
+      "camera": "Corte seco. Close-up de ANDRES em LOW ANGLE, a mesa principal com convidados elegantes desfocada atras; RACK FOCUS dos convidados para o rosto dele. So ANDRES tem a boca visivel. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente ANDRES movimenta os labios."
+    }
+  ],
+  "dialogue_rules": {
+    "language": "Espanol latinoamericano neutro, claro y pausado, sin regionalismos y sin acento de Espana, TODAS as palavras em espanhol.",
+    "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
+    "total_dialogue_lines": 3,
+    "exact_order": [
+      "ANDRES",
+      "CARMEN",
+      "ANDRES"
+    ],
+    "rules": [
+      "So existem 3 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "A ultima fala termina 0.4 s antes do fim do video, inteira, sem cortar nenhuma palavra.",
+      "Cada fala e dirigida a: ANDRES -> CARMEN; CARMEN -> ANDRES; ANDRES -> CARMEN.",
+      "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
+      "Nao repetir, misturar, traduzir ou acrescentar palavras.",
+      "Cada frase e dita INTEIRA, do comeco ao fim.",
+      "FALA DO COMECO AO FIM: o video comeca com ANDRES ja falando e termina na ultima fala de ANDRES, sem plano mudo final.",
+      "So uma boca visivel por plano: quem fala aparece nitido; o outro fica de costas, desfocado ou calado.",
+      "Os convidados NUNCA falam.",
+      "CARMEN tem voz FEMININA de senhora; ANDRES tem voz MASCULINA: nunca trocar as vozes.",
+      "Espanhol latino NEUTRO, nunca sotaque da Espanha.",
+      "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+    ]
+  },
+  "audio": {
+    "single_voice_at_a_time": true,
+    "sound": "Murmurio de convidados; tacas tilintando; musica de festa baixa ao fundo, quase inaudivel; sem trilha dramatica.",
+    "music": "Nenhuma.",
+    "narration": "Nenhuma.",
+    "subtitles": "Nao gerar."
+  },
+  "negative_prompt": [
+    "duas vozes ao mesmo tempo",
+    "voz feminina nas falas de andres",
+    "voz masculina nas falas de carmen",
+    "rosto ou boca do ouvinte visivel nos planos de fala",
+    "personagem falando de frente para a camera",
+    "sotaque da espanha",
+    "legendas embutidas",
+    "subtitles",
+    "captions",
+    "texto das falas escrito na tela",
+    "letras brancas na parte de baixo do video",
+    "letras na tela",
+    "personagens parados como estatuas",
+    "carmen com joias",
+    "carmen com roupa elegante",
+    "convidados falando",
+    "andres empurrando ou machucando a mae",
+    "dia claro",
+    "texto ou letras em qualquer lugar",
+    "nome ou idade de personagem escrito na tela",
+    "letreiro de apresentacao de personagem (lower third)",
+    "palavra inventada no ultimo plano",
+    "fala repetida",
+    "fala adiantada ou atrasada para outro plano",
+    "personagem falando ou olhando para quem nao e o destinatario da fala",
+    "fala neutra ou monotona",
+    "rosto neutro ou expressao vazia",
+    "voz sem rosto na tela",
+    "tela dividida",
+    "colagem",
+    "formato horizontal",
+    "bordas pretas",
+    "palavras em ingles",
+    "palavras em portugues",
+    "duas vozes simultaneas",
+    "movimento labial do ouvinte",
+    "fala cortada, encurtada ou incompleta",
+    "personagem olhando para a camera",
+    "mudanca de rosto",
+    "mudanca de roupa",
+    "legendas",
+    "logotipo",
+    "marca-d'agua",
+    "trilha sonora"
+  ]
+}
+```
+
+**Depois de gerar este clipe, salve os frames:**
+- **FRAME_CARMEN:** frame do clipe 1, plano 2 (por volta do segundo 5,3): CARMEN de vestido azul-marinho e cardiga bege.
+- **FRAME_ANDRES:** frame do clipe 1, plano 3 (por volta do segundo 8,0): ANDRES de smoking preto.
