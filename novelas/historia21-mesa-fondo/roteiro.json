@@ -1,8 +1,8 @@
 {
  "idioma": "neutro",
  "titulo_interno": "LA MESA DEL FONDO",
- "titulo_post": "",
- "legenda": "",
+ "titulo_post": "La sentó en la mesa del fondo para que nadie la viera… y ella tomó el micrófono 😱",
+ "legenda": "En su propia boda, la sentó en la mesa del fondo, junto a la cocina… porque le daba vergüenza su madre. 💔\n\nPero ella subió al escenario y tomó el micrófono.\n\n«Esta boda la pagué yo… limpiando casas.» 😢\n\n¿Qué harías tú si tu hijo se avergonzara de ti? 👇\n\nComenta PARTE 2 y te la traigo mañana.\n\n#historias #reflexiones #madre #familia #hijos #lahistoriaprincipal",
  "texto_final": "¿Qué harías tú si tu hijo se avergonzara de ti? 👇",
  "estilo": "Drama cinematografico emocional, estilo novela. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos LATINO-AMERICANOS com imperfeicoes reais, textura real de pele. SALAO DE FESTA DE CASAMENTO numa fazenda elegante, de NOITE: lustres de cristal, luzinhas, arranjos de flores BRANCAS, mesas redondas com toalhas brancas e velas, convidados elegantes, uma mesa principal na frente e um pequeno palco com microfone. Luz quente e dourada. Shallow Focus, cortes rapidos.",
  "imagens": {
@@ -115,6 +115,103 @@
     "CARMEN tem voz FEMININA de senhora; ANDRES tem voz MASCULINA: nunca trocar as vozes.",
     "Espanhol latino NEUTRO, nunca sotaque da Espanha.",
     "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+   ],
+   "nota": "PASSOU."
+  },
+  {
+   "nome": "O microfone",
+   "atuacao": "Virada emocional, FALA DO COMECO AO FIM. CARMEN, humilde mas digna, sobe ao pequeno palco e pega o microfone; o salao inteiro fica em silencio e se vira para ela. ANDRES se levanta da mesa principal, palido de vergonha e medo. CARMEN, com lagrimas nos olhos e a voz firme, revela que foi ela quem pagou o casamento. Rostos muito expressivos, ninguem fica parado.",
+   "personagens": [
+    "ANDRES",
+    "CARMEN"
+   ],
+   "posicoes": {
+    "CARMEN": "de pe no pequeno PALCO do salao, segurando o MICROFONE",
+    "ANDRES": "na MESA PRINCIPAL, de frente para o palco, ao lado da noiva"
+   },
+   "preservar_extra": [
+    "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
+    "A MESMA CARMEN da imagem 1 e o MESMO ANDRES da imagem 2, com as mesmas roupas, no MESMO salao de festa.",
+    "CARMEN usa SEMPRE o vestido azul-marinho simples e o cardiga bege, sem joias, e segura SEMPRE o MICROFONE preto na mao direita.",
+    "A NOIVA de vestido branco fica sentada ao lado de ANDRES, calada; os convidados ficam em silencio, olhando para o palco."
+   ],
+   "cenario": "Continuacao, mesma festa de casamento, de noite. CARMEN sobe ao palco, pega o microfone e fala para todos os convidados.",
+   "som": "O microfone dando um leve chiado; o murmurio que se apaga; silencio total no salao; uma taca pousando na mesa; sem musica.",
+   "remover_negativos": [
+    "dois rostos visiveis nos planos de fala",
+    "atuacao contida"
+   ],
+   "negativos_extra": [
+    "duas vozes ao mesmo tempo",
+    "voz feminina nas falas de andres",
+    "voz masculina nas falas de carmen",
+    "rosto ou boca do ouvinte visivel nos planos de fala",
+    "personagem falando de frente para a camera",
+    "sotaque da espanha",
+    "legendas embutidas",
+    "subtitles",
+    "captions",
+    "texto das falas escrito na tela",
+    "letras brancas na parte de baixo do video",
+    "letras na tela",
+    "personagens parados como estatuas",
+    "carmen com joias",
+    "carmen com roupa elegante",
+    "convidados falando",
+    "dia claro",
+    "noiva falando",
+    "microfone mudando de mao",
+    "carmen gritando"
+   ],
+   "planos": [
+    {
+     "quem": "CARMEN",
+     "para": "CONVIDADOS",
+     "fala": "Soy la madre del novio… la de la mesa del fondo.",
+     "emocao": 9,
+     "eyeline": "CARMEN olha para os convidados no salao e depois para a mesa principal. NAO olha para a camera.",
+     "intencao": "Se apresentar com dignidade, a voz tremendo no comeco.",
+     "voz": "Voz FEMININA de senhora de 68 anos, amplificada pelo microfone, tremula no inicio e cada vez mais firme, espanhol latino neutro. NUNCA voz de homem.",
+     "rosto": "CARMEN: olhos marejados, queixo erguido, dignidade.",
+     "corpo": "CARMEN: segura o microfone com as duas maos, de pe no palco.",
+     "camera": "Plano de abertura: WIDE SHOT do salao a partir do fundo: os convidados de costas se virando para o palco, CARMEN pequena no palco com o microfone; DOLLY IN rapido ate um Medium Shot dela. So CARMEN tem a boca visivel."
+    },
+    {
+     "quem": "ANDRES",
+     "para": "CARMEN",
+     "fala": "Mamá, bájate de ahí. Por favor.",
+     "emocao": 9,
+     "eyeline": "ANDRES olha para o palco, para a mae, desesperado. NAO olha para a camera.",
+     "intencao": "Implorar baixinho, em panico, que ela pare.",
+     "voz": "Voz MASCULINA de homem de 35 anos, baixa, nervosa e envergonhada, espanhol latino neutro. NUNCA voz feminina.",
+     "rosto": "ANDRES: palido, suor na testa, olhos arregalados.",
+     "corpo": "ANDRES: se levanta devagar da mesa principal, as maos apoiadas na toalha.",
+     "camera": "Corte seco. Close-up de ANDRES na mesa principal, a noiva de branco desfocada ao lado, os convidados desfocados atras; HANDHELD leve. So ANDRES tem a boca visivel."
+    },
+    {
+     "quem": "CARMEN",
+     "para": "ANDRES",
+     "fala": "Esta boda la pagué yo… limpiando casas.",
+     "emocao": 10,
+     "eyeline": "CARMEN olha fixo para ANDRES, na mesa principal. NAO olha para a camera.",
+     "intencao": "Revelar a verdade com dor e orgulho, sem gritar.",
+     "voz": "Voz FEMININA de senhora de 68 anos, amplificada pelo microfone, firme, embargada e cheia de dignidade, espanhol latino neutro. NUNCA voz de homem.",
+     "rosto": "CARMEN: uma lagrima desce, mas o olhar e firme e orgulhoso.",
+     "corpo": "CARMEN: abaixa um pouco o microfone e mostra a palma da mao calejada.",
+     "camera": "Corte seco. Close-up frontal de CARMEN no palco, as luzinhas da festa em bokeh atras; SLOW PUSH IN ate os olhos. So CARMEN tem a boca visivel."
+    }
+   ],
+   "regras_extra": [
+    "FALA DO COMECO AO FIM: o video comeca com CARMEN ja falando e termina na ultima fala de CARMEN, sem plano mudo final.",
+    "So uma boca visivel por plano: quem fala aparece nitido; os outros ficam desfocados e calados.",
+    "Os convidados e a noiva NUNCA falam.",
+    "CARMEN tem voz FEMININA de senhora; ANDRES tem voz MASCULINA: nunca trocar as vozes.",
+    "Espanhol latino NEUTRO, nunca sotaque da Espanha.",
+    "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+   ],
+   "imagens": [
+    "FRAME_CARMEN",
+    "FRAME_ANDRES"
    ]
   }
  ]
