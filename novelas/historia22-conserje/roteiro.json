@@ -1,8 +1,8 @@
 {
  "idioma": "neutro",
  "titulo_interno": "EL CONSERJE",
- "titulo_post": "",
- "legenda": "",
+ "titulo_post": "Humilló al viejo conserje delante de todos… sin saber que era el dueño de la empresa 😱",
+ "legenda": "Lo trató como basura delante de todos por un balde de agua… 💔\n\n«¡Viejo inútil! Limpia eso de rodillas.»\n\nSolo una recepcionista se atrevió a ayudarlo. Lo que nadie sabía… es que ese conserje era el presidente de la empresa. 😱\n\n¿Qué harías tú con ese gerente? 👇\n\nComenta PARTE 2 y te la traigo mañana.\n\n#historias #reflexiones #humildad #karma #respeto #lahistoriaprincipal",
  "texto_final": "¿Qué harías tú con ese gerente? 👇",
  "estilo": "Drama cinematografico emocional, estilo novela. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos LATINO-AMERICANOS com imperfeicoes reais, textura real de pele. SAGUAO de um predio corporativo moderno, de DIA: piso de MARMORE claro brilhante refletindo a luz, paredes de VIDRO, balcao de recepcao branco, ELEVADORES de aco escovado, plantas, funcionarios de terno passando. Luz fria e clara de escritorio. Shallow Focus, cortes rapidos.",
  "imagens": {
@@ -144,6 +144,112 @@
     "RICARDO e TOMAS tem voz MASCULINA; LUCIA tem voz FEMININA: nunca trocar as vozes.",
     "Espanhol latino NEUTRO, nunca sotaque da Espanha.",
     "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+   ],
+   "nota": "PASSOU."
+  },
+  {
+   "nome": "O elevador",
+   "atuacao": "Virada de poder, FALA DO COMECO AO FIM. As portas do elevador se abrem e sai a diretoria; a diretora HERRERA para diante do faxineiro ajoelhado e o cumprimenta com respeito: ele e o PRESIDENTE. RICARDO fica palido, em choque. TOMAS se levanta devagar, tira o bone e encara RICARDO com calma e autoridade. LUCIA, ainda ajoelhada, olha surpresa. Rostos muito expressivos, ninguem fica parado.",
+   "personagens": [
+    "HERRERA",
+    "RICARDO",
+    "TOMAS",
+    "LUCIA"
+   ],
+   "posicoes": {
+    "TOMAS": "ajoelhado no marmore ao lado do balde; depois se levanta",
+    "LUCIA": "ajoelhada ao lado de TOMAS",
+    "RICARDO": "de pe na frente de TOMAS",
+    "HERRERA": "sai do ELEVADOR com tres executivos de terno e para diante de TOMAS"
+   },
+   "preservar_extra": [
+    "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
+    "O MESMO TOMAS da imagem 1, o MESMO RICARDO da imagem 2 e a MESMA LUCIA da imagem 3, com as mesmas roupas, no MESMO saguao com o balde virado.",
+    "TOMAS continua com o MACACAO CINZA de faxineiro; so tira o bone no ultimo plano.",
+    "Os tres executivos que saem do elevador com HERRERA NUNCA falam."
+   ],
+   "cenario": "Continuacao, mesmo saguao, de dia. As portas do elevador se abrem: a diretoria chega e revela que o faxineiro e o presidente da empresa.",
+   "som": "O DING do elevador; as portas de aco se abrindo; passos firmes no marmore; o silencio repentino do saguao; sem musica.",
+   "remover_negativos": [
+    "dois rostos visiveis nos planos de fala",
+    "atuacao contida"
+   ],
+   "negativos_extra": [
+    "duas vozes ao mesmo tempo",
+    "voz feminina nas falas de ricardo",
+    "voz feminina nas falas de tomas",
+    "voz masculina nas falas de lucia",
+    "voz masculina nas falas de herrera",
+    "rosto ou boca do ouvinte visivel nos planos de fala",
+    "personagem falando de frente para a camera",
+    "sotaque da espanha",
+    "legendas embutidas",
+    "subtitles",
+    "captions",
+    "texto das falas escrito na tela",
+    "letras brancas na parte de baixo do video",
+    "letras na tela",
+    "personagens parados como estatuas",
+    "logotipo da empresa",
+    "letras no cracha",
+    "funcionarios falando",
+    "ricardo chutando ou batendo",
+    "noite",
+    "lucia falando",
+    "executivos falando",
+    "letras no elevador",
+    "numeros no elevador"
+   ],
+   "planos": [
+    {
+     "quem": "HERRERA",
+     "para": "TOMAS",
+     "fala": "Buenos días, señor presidente. Lo estábamos esperando.",
+     "emocao": 8,
+     "eyeline": "HERRERA olha para TOMAS, ajoelhado no chao, com respeito. NAO olha para a camera.",
+     "intencao": "Cumprimentar o presidente com respeito, estranhando a cena.",
+     "voz": "Voz FEMININA de mulher de 55 anos, firme, educada e respeitosa, espanhol latino neutro. NUNCA voz de homem.",
+     "rosto": "HERRERA: sobrancelhas erguidas de surpresa, depois um respeito serio.",
+     "corpo": "HERRERA: sai do elevador com tres executivos e para diante de TOMAS, inclinando levemente a cabeca.",
+     "camera": "Plano de abertura: as portas de aco do ELEVADOR se abrindo, HERRERA e tres executivos de terno saindo; TRACKING ate ela parar diante de TOMAS (de costas, desfocado em primeiro plano). So HERRERA tem a boca visivel."
+    },
+    {
+     "quem": "RICARDO",
+     "para": "HERRERA",
+     "fala": "¿Presidente…? Pero si es el conserje…",
+     "emocao": 10,
+     "eyeline": "RICARDO olha para HERRERA e depois para TOMAS, sem acreditar. NAO olha para a camera.",
+     "intencao": "Gaguejar em choque, entendendo o erro.",
+     "voz": "Voz MASCULINA de homem de 40 anos, baixa, tremula e em choque, espanhol latino neutro. NUNCA voz feminina.",
+     "rosto": "RICARDO: palido, olhos arregalados, a boca aberta, suor na testa.",
+     "corpo": "RICARDO: descruza os bracos e da um passo para tras.",
+     "camera": "Corte seco. Close-up de RICARDO, CRASH ZOOM rapido no rosto dele; as paredes de vidro desfocadas atras. So RICARDO tem a boca visivel."
+    },
+    {
+     "quem": "TOMAS",
+     "para": "RICARDO",
+     "fala": "Vine a ver cómo tratan a los humildes en mi empresa.",
+     "emocao": 10,
+     "eyeline": "TOMAS olha fixo nos olhos de RICARDO. NAO olha para a camera.",
+     "intencao": "Revelar quem ele e com calma, autoridade e decepcao.",
+     "voz": "Voz MASCULINA de senhor de 65 anos, grave, calma, firme e cheia de autoridade, espanhol latino neutro. NUNCA voz feminina.",
+     "rosto": "TOMAS: olhar firme e sereno, sem raiva, so decepcao.",
+     "corpo": "TOMAS: se levanta devagar, tira o BONE cinza e o segura na mao.",
+     "camera": "Corte seco. Close-up de TOMAS em LOW ANGLE se levantando, o saguao e o elevador desfocados atras; SLOW DOLLY IN ate os olhos. So TOMAS tem a boca visivel."
+    }
+   ],
+   "regras_extra": [
+    "FALA DO COMECO AO FIM: o video comeca com HERRERA ja falando e termina na ultima fala de TOMAS, sem plano mudo final.",
+    "So uma boca visivel por plano: quem fala aparece nitido; os outros ficam de costas, desfocados ou calados.",
+    "LUCIA e os executivos NAO falam neste clipe.",
+    "HERRERA tem voz FEMININA; RICARDO e TOMAS tem voz MASCULINA: nunca trocar as vozes.",
+    "Espanhol latino NEUTRO, nunca sotaque da Espanha.",
+    "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+   ],
+   "imagens": [
+    "FRAME_TOMAS",
+    "FRAME_RICARDO",
+    "FRAME_LUCIA"
    ]
   }
  ]
