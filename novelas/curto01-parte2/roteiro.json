@@ -56,10 +56,10 @@
     "ENFERMERA": "em pe aos pes da cama, junto ao monitor"
    },
    "preservar_extra": [
-    "O mesmo quarto de hospital da imagem FRAME_QUARTO, agora de manha, luz do dia entrando pela janela.",
+    "O mesmo quarto de hospital da imagem FRAME_DON (quarto de hospital particular de luxo, monitor cardiaco, abajur, janela com a cidade), agora de manha, luz do dia entrando pela janela.",
     "DON AURELIO SEMPRE de olhos fechados e imovel neste clipe."
    ],
-   "cenario": "O MESMO quarto de hospital da imagem FRAME_QUARTO, na manha seguinte. JULIAN esta no quarto mas NAO aparece neste clipe. DON AURELIO deitado, imovel, de olhos fechados.",
+   "cenario": "O MESMO quarto de hospital da imagem FRAME_DON (quarto de hospital particular de luxo, monitor cardiaco, abajur, janela com a cidade), na manha seguinte. JULIAN esta no quarto mas NAO aparece neste clipe. DON AURELIO deitado, imovel, de olhos fechados.",
    "som": "O bip lento do monitor cardiaco, o papel do documento sendo amassado.",
    "negativos_extra": [
     "don aurelio abrindo os olhos",

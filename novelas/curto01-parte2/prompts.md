@@ -15,7 +15,7 @@ Comenta PARTE 3 y te la traigo mañana.
 
 ## Clipe 1 — Mandam desligar a máquina
 
-clipe 1: 9.5s, 9.1s de fala (23 palavras, 3 planos, falantes: VALERIA, ENFERMERA) ❌ cita imagem que não está em 'imagens' do clipe: FRAME_QUARTO
+clipe 1: 9.5s, 9.1s de fala (23 palavras, 3 planos, falantes: VALERIA, ENFERMERA) ✅
 
 Referências, nesta ordem: 1) FRAME_DON; 2) FRAME_VALERIA; 3) FRAME_ENFERMERA
 
@@ -36,7 +36,7 @@ Referências, nesta ordem: 1) FRAME_DON; 2) FRAME_VALERIA; 3) FRAME_ENFERMERA
       "DON: o MESMO rosto da imagem 1, senhor de 75 anos, pele palida, cabelo grisalho penteado para tras, barba grisalha curta, camisola hospitalar AZUL-CLARA, cateter de oxigenio no nariz e soro no braco.",
       "VALERIA: o MESMO rosto da imagem 2, mulher de 40 anos, cabelo preto liso e brilhante, maquiagem forte, batom VERMELHO, vestido PRETO de grife, joias de ouro, bolsa de luxo na mao.",
       "ENFERMERA: o MESMO rosto da imagem 3, enfermeira de 28 anos, rosto gentil, pele morena clara, cabelo escuro preso em coque, uniforme hospitalar AZUL-CLARO, estetoscopio no pescoco.",
-      "O mesmo quarto de hospital da imagem FRAME_QUARTO, agora de manha, luz do dia entrando pela janela.",
+      "O mesmo quarto de hospital da imagem 1 (quarto de hospital particular de luxo, monitor cardiaco, abajur, janela com a cidade), agora de manha, luz do dia entrando pela janela.",
       "DON AURELIO SEMPRE de olhos fechados e imovel neste clipe."
     ]
   },
@@ -46,7 +46,7 @@ Referências, nesta ordem: 1) FRAME_DON; 2) FRAME_VALERIA; 3) FRAME_ENFERMERA
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
     "structure": "3 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
     "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Quarto de hospital particular de manha: luz natural suave entrando pela janela, misturada com a luz fria do monitor, Shallow Focus nos closes.",
-    "setting": "O MESMO quarto de hospital da imagem FRAME_QUARTO, na manha seguinte. JULIAN esta no quarto mas NAO aparece neste clipe. DON AURELIO deitado, imovel, de olhos fechados.",
+    "setting": "O MESMO quarto de hospital da imagem 1 (quarto de hospital particular de luxo, monitor cardiaco, abajur, janela com a cidade), na manha seguinte. JULIAN esta no quarto mas NAO aparece neste clipe. DON AURELIO deitado, imovel, de olhos fechados.",
     "blocking": [
       "DON: na cama, no centro do quarto",
       "VALERIA: em pe do lado ESQUERDO da cama",
