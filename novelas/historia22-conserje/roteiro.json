@@ -1,0 +1,150 @@
+{
+ "idioma": "neutro",
+ "titulo_interno": "EL CONSERJE",
+ "titulo_post": "",
+ "legenda": "",
+ "texto_final": "¿Qué harías tú con ese gerente? 👇",
+ "estilo": "Drama cinematografico emocional, estilo novela. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos LATINO-AMERICANOS com imperfeicoes reais, textura real de pele. SAGUAO de um predio corporativo moderno, de DIA: piso de MARMORE claro brilhante refletindo a luz, paredes de VIDRO, balcao de recepcao branco, ELEVADORES de aco escovado, plantas, funcionarios de terno passando. Luz fria e clara de escritorio. Shallow Focus, cortes rapidos.",
+ "imagens": {
+  "FRAME_TOMAS": "frame do clipe 1 (por volta do segundo 3,6): TOMAS de macacao cinza, ajoelhado.",
+  "FRAME_RICARDO": "frame do clipe 1 (por volta do segundo 8,3): RICARDO de terno azul-marinho e gravata vermelha.",
+  "FRAME_LUCIA": "frame do clipe 1 (por volta do segundo 5,8): LUCIA de blusa branca e blazer preto."
+ },
+ "personagens": {
+  "TOMAS": {
+   "descricao": "faxineiro de 65 anos, latino, rosto comum e desconhecido, pele morena com rugas, cabelo GRISALHO curto, BIGODE grisalho, olhos castanhos bondosos, MACACAO de limpeza CINZA com BONE cinza, luvas amarelas, um BALDE azul e um ESFREGAO, sem joias.",
+   "voz": "Voz masculina calma, grave e humilde de senhor latino de 65 anos.",
+   "frame": "FRAME_TOMAS"
+  },
+  "RICARDO": {
+   "descricao": "gerente de 40 anos, latino, rosto comum e desconhecido, pele clara, cabelo PRETO com gel penteado para tras, barba feita, TERNO AZUL-MARINHO, camisa branca, GRAVATA VERMELHA, cracha sem letras pendurado no pescoco, sem joias.",
+   "voz": "Voz masculina alta, arrogante e debochada de homem latino de 40 anos.",
+   "frame": "FRAME_RICARDO"
+  },
+  "LUCIA": {
+   "descricao": "recepcionista de 30 anos, latina, rosto comum e desconhecido, pele morena-clara, cabelo CASTANHO preso em RABO DE CAVALO, BLUSA BRANCA e BLAZER PRETO, sem joias.",
+   "voz": "Voz feminina doce e corajosa de mulher latina de 30 anos.",
+   "frame": "FRAME_LUCIA",
+   "feminino": true
+  },
+  "HERRERA": {
+   "descricao": "diretora de 55 anos, latina, rosto comum e desconhecido, cabelo GRISALHO curto, TERNINHO CINZA elegante, camisa branca, sem joias.",
+   "voz": "Voz feminina firme e respeitosa de mulher latina de 55 anos.",
+   "feminino": true
+  }
+ },
+ "clips": [
+  {
+   "nome": "O balde",
+   "atuacao": "Drama de humilhacao, FALA DO COMECO AO FIM. RICARDO, o gerente arrogante, humilha o velho faxineiro TOMAS na frente de todos porque o balde virou no marmore. TOMAS, ajoelhado, responde com calma e humildade, sem se defender. LUCIA, a recepcionista, corre para ajuda-lo. RICARDO a ameaca com desprezo. Rostos muito expressivos, ninguem fica parado.",
+   "personagens": [
+    "RICARDO",
+    "TOMAS",
+    "LUCIA"
+   ],
+   "posicoes": {
+    "TOMAS": "ajoelhado no chao de marmore, ao lado do balde virado e da agua espalhada",
+    "RICARDO": "de pe na frente de TOMAS, apontando o chao",
+    "LUCIA": "vem correndo do balcao da recepcao e se ajoelha ao lado de TOMAS"
+   },
+   "preservar_extra": [
+    "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
+    "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
+    "TOMAS usa SEMPRE o macacao cinza e o bone cinza: parece so um faxineiro humilde.",
+    "O BALDE azul esta virado e a agua espalhada no marmore desde o primeiro instante.",
+    "Os tres ficam JUNTOS no MESMO ponto do saguao."
+   ],
+   "cenario": "Dia, saguao da empresa. O balde do faxineiro TOMAS virou no marmore. O gerente RICARDO o humilha na frente dos funcionarios; a recepcionista LUCIA vai ajuda-lo.",
+   "som": "Agua escorrendo no marmore; o eco do saguao; passos de salto da LUCIA correndo; murmurio dos funcionarios; sem musica.",
+   "remover_negativos": [
+    "dois rostos visiveis nos planos de fala",
+    "atuacao contida"
+   ],
+   "negativos_extra": [
+    "duas vozes ao mesmo tempo",
+    "voz feminina nas falas de ricardo",
+    "voz feminina nas falas de tomas",
+    "voz masculina nas falas de lucia",
+    "voz masculina nas falas de herrera",
+    "rosto ou boca do ouvinte visivel nos planos de fala",
+    "personagem falando de frente para a camera",
+    "sotaque da espanha",
+    "legendas embutidas",
+    "subtitles",
+    "captions",
+    "texto das falas escrito na tela",
+    "letras brancas na parte de baixo do video",
+    "letras na tela",
+    "personagens parados como estatuas",
+    "logotipo da empresa",
+    "letras no cracha",
+    "funcionarios falando",
+    "ricardo chutando ou batendo",
+    "noite"
+   ],
+   "salvar_frames": [
+    "FRAME_TOMAS",
+    "FRAME_RICARDO",
+    "FRAME_LUCIA"
+   ],
+   "planos": [
+    {
+     "quem": "RICARDO",
+     "para": "TOMAS",
+     "fala": "¡Viejo inútil! Limpia eso de rodillas.",
+     "emocao": 10,
+     "eyeline": "RICARDO olha para baixo, para TOMAS ajoelhado. NAO olha para a camera.",
+     "intencao": "Humilhar o faxineiro em publico, com desprezo.",
+     "voz": "Voz MASCULINA de homem de 40 anos, alta, arrogante e cruel, espanhol latino neutro. NUNCA voz feminina.",
+     "rosto": "RICARDO: rosto de nojo e superioridade, sobrancelhas franzidas.",
+     "corpo": "RICARDO: aponta o chao molhado com o dedo, a outra mao no bolso.",
+     "camera": "Plano de abertura: WIDE SHOT do saguao: o BALDE virado e a agua no marmore, TOMAS ajoelhado de costas em primeiro plano desfocado, RICARDO de pe apontando; PUSH IN rapido ate o rosto de RICARDO em LOW ANGLE. So RICARDO tem a boca visivel."
+    },
+    {
+     "quem": "TOMAS",
+     "para": "RICARDO",
+     "fala": "Sí, señor. Perdone, ya lo limpio.",
+     "emocao": 8,
+     "eyeline": "TOMAS olha para cima, para RICARDO, sereno. NAO olha para a camera.",
+     "intencao": "Responder com calma e humildade, sem raiva.",
+     "voz": "Voz MASCULINA de senhor de 65 anos, calma, baixa e humilde, espanhol latino neutro. NUNCA voz feminina.",
+     "rosto": "TOMAS: olhar sereno e paciente, um leve sorriso triste.",
+     "corpo": "TOMAS: de joelhos, passa o pano no marmore molhado.",
+     "camera": "Corte seco. Close-up de TOMAS em HIGH ANGLE (do ponto de vista de RICARDO), o reflexo do saguao na agua do chao; SLOW PUSH IN. So TOMAS tem a boca visivel."
+    },
+    {
+     "quem": "LUCIA",
+     "para": "TOMAS",
+     "fala": "Don Tomás, déjeme ayudarlo.",
+     "emocao": 8,
+     "eyeline": "LUCIA olha para TOMAS com carinho. NAO olha para a camera.",
+     "intencao": "Ajudar com carinho, enfrentando o medo.",
+     "voz": "Voz FEMININA de mulher de 30 anos, doce e decidida, espanhol latino neutro. NUNCA voz de homem.",
+     "rosto": "LUCIA: olhar carinhoso e indignado ao mesmo tempo.",
+     "corpo": "LUCIA: chega correndo do balcao e se ajoelha ao lado de TOMAS, pegando o balde.",
+     "camera": "Corte seco. Medium Shot em TRACKING de LUCIA correndo do balcao e se ajoelhando ao lado de TOMAS (de perfil, desfocado). So LUCIA tem a boca visivel."
+    },
+    {
+     "quem": "RICARDO",
+     "para": "LUCIA",
+     "fala": "Lucía, si lo ayudas, estás despedida.",
+     "emocao": 9,
+     "eyeline": "RICARDO olha para LUCIA, ajoelhada no chao. NAO olha para a camera.",
+     "intencao": "Ameacar a recepcionista com frieza e prazer.",
+     "voz": "Voz MASCULINA de homem de 40 anos, fria, debochada e ameacadora, espanhol latino neutro. NUNCA voz feminina.",
+     "rosto": "RICARDO: um sorriso cruel de canto de boca.",
+     "corpo": "RICARDO: cruza os bracos e ajeita a gravata vermelha.",
+     "camera": "Corte seco. Close-up de RICARDO em LOW ANGLE, as paredes de vidro desfocadas atras; RACK FOCUS. So RICARDO tem a boca visivel."
+    }
+   ],
+   "regras_extra": [
+    "FALA DO COMECO AO FIM: o video comeca com RICARDO ja falando e termina na ultima fala de RICARDO, sem plano mudo final.",
+    "So uma boca visivel por plano: quem fala aparece nitido; os outros ficam de costas, desfocados ou calados.",
+    "Os funcionarios ao fundo NUNCA falam.",
+    "RICARDO e TOMAS tem voz MASCULINA; LUCIA tem voz FEMININA: nunca trocar as vozes.",
+    "Espanhol latino NEUTRO, nunca sotaque da Espanha.",
+    "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+   ]
+  }
+ ]
+}
