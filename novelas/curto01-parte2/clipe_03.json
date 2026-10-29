@@ -13,6 +13,7 @@
     "preserve_exactly": [
       "DON: o MESMO rosto da imagem 2, senhor de 75 anos, pele palida, cabelo grisalho penteado para tras, barba grisalha curta, camisola hospitalar AZUL-CLARA, cateter de oxigenio no nariz e soro no braco.",
       "JULIAN: o MESMO rosto da imagem 3, homem de 45 anos, cabelo escuro penteado para tras com gel, bigode fino, terno CINZA com camisa branca aberta, relogio de ouro.",
+      "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
       "O mesmo quarto de hospital da imagem 1, de manha, luz do dia."
     ]
   },
@@ -41,7 +42,7 @@
       "eyeline": "JULIAN fala PARA DON e olha para DON (na cama, no centro do quarto), fora do quadro.",
       "emotion_level": 10,
       "intention": "Tentar se salvar com uma desculpa desesperada.",
-      "voice": "Voz masculina DESESPERADA, rapida, falhando.",
+      "voice": "Voz masculina DESESPERADA, rapida, falhando. NUNCA voz feminina.",
       "face": "JULIAN: suando, olhos arregalados para o pai, sorriso nervoso forcado.",
       "body": "JULIAN: maos abertas para frente, se aproximando da cama.",
       "camera": "Medium Close-Up de JULIAN SOZINHO no quadro, Eye Level, lente 85mm, Shallow Focus. A fala comeca no primeiro instante do plano.",
@@ -55,7 +56,7 @@
       "eyeline": "DON fala PARA JULIAN e olha para JULIAN (em pe do lado DIREITO da cama), fora do quadro.",
       "emotion_level": 10,
       "intention": "Revelar que sabe que um dos filhos o envenenou.",
-      "voice": "Voz grave e rouca, baixa e AMEACADORA.",
+      "voice": "Voz grave e rouca, baixa e AMEACADORA. NUNCA voz feminina.",
       "face": "DON AURELIO: olhar gelado e furioso para JULIAN, mandibula travada.",
       "body": "DON AURELIO: sentado na cama, ergue a mao para JULIAN parar.",
       "camera": "Corte seco. Close-Up de DON AURELIO SOZINHO no quadro, lente 85mm, Slow Push In. A fala comeca no primeiro instante do plano.",
@@ -69,7 +70,7 @@
       "eyeline": "DON olha DIRETO para a lente.",
       "emotion_level": 9,
       "intention": "Quebrar a quarta parede e chamar para a Parte 3.",
-      "voice": "Voz grave e rouca, calma e misteriosa.",
+      "voice": "Voz grave e rouca, calma e misteriosa. NUNCA voz feminina.",
       "face": "DON AURELIO: vira o rosto devagar e olha DIRETO para a lente, olhar serio, sobrancelha erguida.",
       "body": "DON AURELIO: sentado na cama, imovel.",
       "camera": "Corte seco. Extreme Close-Up de DON AURELIO SOZINHO no quadro, lente 85mm, Slow Push In. O video termina neste rosto olhando para a lente. A fala comeca no primeiro instante do plano.",
@@ -92,7 +93,10 @@
       "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
       "Nao repetir, misturar, traduzir ou acrescentar palavras.",
       "Cada frase e dita INTEIRA, do comeco ao fim.",
-      "No ultimo plano, e SOMENTE nele, DON AURELIO olha direto para a lente."
+      "No ultimo plano, e SOMENTE nele, DON AURELIO olha direto para a lente.",
+      "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela.",
+      "DON tem voz MASCULINA grave de idoso; VALERIA e a ENFERMERA tem voz FEMININA; JULIAN tem voz MASCULINA: nunca trocar as vozes.",
+      "Espanhol latino com sotaque mexicano suave, NUNCA sotaque da Espanha."
     ]
   },
   "audio": {
@@ -107,6 +111,15 @@
     "enfermeira aparecendo",
     "don aurelio deitado",
     "mudanca de penteado ou maquiagem",
+    "legendas embutidas",
+    "subtitles",
+    "captions",
+    "texto das falas escrito na tela",
+    "letras brancas na parte de baixo do video",
+    "voz masculina nas falas de valeria",
+    "voz masculina nas falas da enfermera",
+    "voz feminina nas falas de don",
+    "sotaque da espanha",
     "texto ou letras em qualquer lugar",
     "nome ou idade de personagem escrito na tela",
     "letreiro de apresentacao de personagem (lower third)",

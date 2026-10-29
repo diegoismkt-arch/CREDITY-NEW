@@ -13,6 +13,7 @@
     "preserve_exactly": [
       "DON: o MESMO rosto da imagem 2, senhor de 75 anos, pele palida, cabelo grisalho penteado para tras, barba grisalha curta, camisola hospitalar AZUL-CLARA, cateter de oxigenio no nariz e soro no braco.",
       "VALERIA: o MESMO rosto da imagem 3, mulher de 40 anos, cabelo preto liso e brilhante, maquiagem forte, batom VERMELHO, vestido PRETO de grife, joias de ouro, bolsa de luxo na mao.",
+      "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
       "O mesmo quarto de hospital da imagem 1, de manha, luz do dia."
     ]
   },
@@ -41,7 +42,7 @@
       "eyeline": "DON fala PARA VALERIA e olha para VALERIA (em pe do lado ESQUERDO da cama), fora do quadro.",
       "emotion_level": 10,
       "intention": "Revelar que esta acordado, com ironia fria.",
-      "voice": "Voz grave e rouca, calma, IRONICA, lenta.",
+      "voice": "Voz grave e rouca, calma, IRONICA, lenta. NUNCA voz feminina.",
       "face": "DON AURELIO: abre os olhos devagar e encara VALERIA, meio sorriso ironico.",
       "body": "DON AURELIO: senta-se lentamente na cama, o cateter de oxigenio ainda no nariz.",
       "camera": "Close-Up de DON AURELIO SOZINHO no quadro, Eye Level, lente 85mm, Shallow Focus, Slow Push In. A fala comeca no primeiro instante do plano.",
@@ -55,7 +56,7 @@
       "eyeline": "VALERIA fala PARA DON e olha para DON (na cama, no centro do quarto), fora do quadro.",
       "emotion_level": 10,
       "intention": "Reagir em panico ao ver o pai acordado.",
-      "voice": "Voz feminina em PANICO, sem ar, gaguejando.",
+      "voice": "Voz feminina em PANICO, sem ar, gaguejando. NUNCA voz de homem.",
       "face": "VALERIA: palida, olhos arregalados para o pai, a mao cobrindo a boca.",
       "body": "VALERIA: da um passo para tras, a bolsa escorrega do braco.",
       "camera": "Corte seco. Medium Close-Up de VALERIA SOZINHA no quadro, Eye Level, lente 85mm. A fala comeca no primeiro instante do plano.",
@@ -69,7 +70,7 @@
       "eyeline": "DON fala PARA VALERIA e olha para VALERIA (em pe do lado ESQUERDO da cama), fora do quadro.",
       "emotion_level": 10,
       "intention": "Mostrar que tem provas contra os filhos.",
-      "voice": "Voz grave e rouca, firme, cada palavra pesada.",
+      "voice": "Voz grave e rouca, firme, cada palavra pesada. NUNCA voz feminina.",
       "face": "DON AURELIO: olhar duro e decepcionado para VALERIA.",
       "body": "DON AURELIO: sentado na cama, aponta para a enfermeira fora do quadro, sem desviar o olhar de VALERIA.",
       "camera": "Corte seco. Medium Close-Up de DON AURELIO SOZINHO no quadro, sentado na cama, lente 85mm, Low Angle leve. A fala comeca no primeiro instante do plano.",
@@ -91,7 +92,10 @@
       "Cada fala e dirigida a: DON -> VALERIA; VALERIA -> DON; DON -> VALERIA.",
       "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
       "Nao repetir, misturar, traduzir ou acrescentar palavras.",
-      "Cada frase e dita INTEIRA, do comeco ao fim."
+      "Cada frase e dita INTEIRA, do comeco ao fim.",
+      "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela.",
+      "DON tem voz MASCULINA grave de idoso; VALERIA e a ENFERMERA tem voz FEMININA; JULIAN tem voz MASCULINA: nunca trocar as vozes.",
+      "Espanhol latino com sotaque mexicano suave, NUNCA sotaque da Espanha."
     ]
   },
   "audio": {
@@ -106,6 +110,15 @@
     "enfermeira aparecendo",
     "don aurelio de pe",
     "mudanca de penteado ou maquiagem",
+    "legendas embutidas",
+    "subtitles",
+    "captions",
+    "texto das falas escrito na tela",
+    "letras brancas na parte de baixo do video",
+    "voz masculina nas falas de valeria",
+    "voz masculina nas falas da enfermera",
+    "voz feminina nas falas de don",
+    "sotaque da espanha",
     "texto ou letras em qualquer lugar",
     "nome ou idade de personagem escrito na tela",
     "letreiro de apresentacao de personagem (lower third)",

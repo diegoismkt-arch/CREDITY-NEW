@@ -14,6 +14,7 @@
       "DON: o MESMO rosto da imagem 1, senhor de 75 anos, pele palida, cabelo grisalho penteado para tras, barba grisalha curta, camisola hospitalar AZUL-CLARA, cateter de oxigenio no nariz e soro no braco.",
       "VALERIA: o MESMO rosto da imagem 2, mulher de 40 anos, cabelo preto liso e brilhante, maquiagem forte, batom VERMELHO, vestido PRETO de grife, joias de ouro, bolsa de luxo na mao.",
       "ENFERMERA: o MESMO rosto da imagem 3, enfermeira de 28 anos, rosto gentil, pele morena clara, cabelo escuro preso em coque, uniforme hospitalar AZUL-CLARO, estetoscopio no pescoco.",
+      "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
       "O mesmo quarto de hospital da imagem 1 (quarto de hospital particular de luxo, monitor cardiaco, abajur, janela com a cidade), agora de manha, luz do dia entrando pela janela.",
       "DON AURELIO SEMPRE de olhos fechados e imovel neste clipe."
     ]
@@ -45,7 +46,7 @@
       "eyeline": "VALERIA fala PARA ENFERMERA e olha para ENFERMERA (em pe aos pes da cama, junto ao monitor), fora do quadro. NAO olha para DON.",
       "emotion_level": 9,
       "intention": "Ordenar, com frieza, que desliguem o pai.",
-      "voice": "Voz feminina FRIA, autoritaria e seca.",
+      "voice": "Voz feminina FRIA, autoritaria e seca. NUNCA voz de homem.",
       "face": "VALERIA: olhar duro para a ENFERMERA, queixo erguido, batom vermelho.",
       "body": "VALERIA: estende um documento assinado na direcao da ENFERMERA.",
       "camera": "Medium Close-Up de VALERIA SOZINHA no quadro, Eye Level, lente 85mm, Shallow Focus, janela clara em Bokeh. A fala comeca no primeiro instante do plano.",
@@ -59,7 +60,7 @@
       "eyeline": "ENFERMERA fala PARA VALERIA e olha para VALERIA (em pe do lado ESQUERDO da cama), fora do quadro. NAO olha para DON.",
       "emotion_level": 9,
       "intention": "Tentar impedir, com medo, enquanto grava tudo escondida.",
-      "voice": "Voz feminina tremula, nervosa, mas firme no final.",
+      "voice": "Voz feminina tremula, nervosa, mas firme no final. NUNCA voz de homem.",
       "face": "ENFERMERA: olhos assustados olhando para VALERIA, labio tremendo.",
       "body": "ENFERMERA: segura uma prancheta contra o peito; atras dela, um celular escondido com a tela gravando.",
       "camera": "Corte seco. Medium Close-Up da ENFERMERA SOZINHA no quadro, Eye Level, lente 85mm, Shallow Focus. A fala comeca no primeiro instante do plano.",
@@ -73,7 +74,7 @@
       "eyeline": "VALERIA fala PARA ENFERMERA e olha para ENFERMERA (em pe aos pes da cama, junto ao monitor), fora do quadro. NAO olha para DON.",
       "emotion_level": 10,
       "intention": "Humilhar a enfermeira e encerrar a conversa.",
-      "voice": "Voz feminina cortante, desprezo total.",
+      "voice": "Voz feminina cortante, desprezo total. NUNCA voz de homem.",
       "face": "VALERIA: um sorriso cruel e frio olhando para a ENFERMERA.",
       "body": "VALERIA: da um passo a frente, apontando para o monitor cardiaco.",
       "camera": "Corte seco. Close-Up de VALERIA SOZINHA no quadro, lente 85mm, Slow Push In. A fala comeca no primeiro instante do plano.",
@@ -95,7 +96,10 @@
       "Cada fala e dirigida a: VALERIA -> ENFERMERA; ENFERMERA -> VALERIA; VALERIA -> ENFERMERA.",
       "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
       "Nao repetir, misturar, traduzir ou acrescentar palavras.",
-      "Cada frase e dita INTEIRA, do comeco ao fim."
+      "Cada frase e dita INTEIRA, do comeco ao fim.",
+      "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela.",
+      "DON tem voz MASCULINA grave de idoso; VALERIA e a ENFERMERA tem voz FEMININA; JULIAN tem voz MASCULINA: nunca trocar as vozes.",
+      "Espanhol latino com sotaque mexicano suave, NUNCA sotaque da Espanha."
     ]
   },
   "audio": {
@@ -111,6 +115,15 @@
     "julian aparecendo",
     "celular aparecendo na mao de valeria",
     "mudanca de penteado ou maquiagem",
+    "legendas embutidas",
+    "subtitles",
+    "captions",
+    "texto das falas escrito na tela",
+    "letras brancas na parte de baixo do video",
+    "voz masculina nas falas de valeria",
+    "voz masculina nas falas da enfermera",
+    "voz feminina nas falas de don",
+    "sotaque da espanha",
     "texto ou letras em qualquer lugar",
     "nome ou idade de personagem escrito na tela",
     "letreiro de apresentacao de personagem (lower third)",

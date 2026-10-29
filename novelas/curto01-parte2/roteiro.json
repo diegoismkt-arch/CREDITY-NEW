@@ -56,6 +56,7 @@
     "ENFERMERA": "em pe aos pes da cama, junto ao monitor"
    },
    "preservar_extra": [
+    "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
     "O mesmo quarto de hospital da imagem FRAME_DON (quarto de hospital particular de luxo, monitor cardiaco, abajur, janela com a cidade), agora de manha, luz do dia entrando pela janela.",
     "DON AURELIO SEMPRE de olhos fechados e imovel neste clipe."
    ],
@@ -66,7 +67,16 @@
     "don aurelio se mexendo",
     "julian aparecendo",
     "celular aparecendo na mao de valeria",
-    "mudanca de penteado ou maquiagem"
+    "mudanca de penteado ou maquiagem",
+    "legendas embutidas",
+    "subtitles",
+    "captions",
+    "texto das falas escrito na tela",
+    "letras brancas na parte de baixo do video",
+    "voz masculina nas falas de valeria",
+    "voz masculina nas falas da enfermera",
+    "voz feminina nas falas de don",
+    "sotaque da espanha"
    ],
    "planos": [
     {
@@ -75,7 +85,7 @@
      "fala": "Ya firmamos. Desconecte esa máquina ahora mismo.",
      "emocao": 9,
      "intencao": "Ordenar, com frieza, que desliguem o pai.",
-     "voz": "Voz feminina FRIA, autoritaria e seca.",
+     "voz": "Voz feminina FRIA, autoritaria e seca. NUNCA voz de homem.",
      "rosto": "VALERIA: olhar duro para a ENFERMERA, queixo erguido, batom vermelho.",
      "corpo": "VALERIA: estende um documento assinado na direcao da ENFERMERA.",
      "camera": "Medium Close-Up de VALERIA SOZINHA no quadro, Eye Level, lente 85mm, Shallow Focus, janela clara em Bokeh."
@@ -86,7 +96,7 @@
      "fala": "Pero señora, el doctor dijo que todavía puede despertar.",
      "emocao": 9,
      "intencao": "Tentar impedir, com medo, enquanto grava tudo escondida.",
-     "voz": "Voz feminina tremula, nervosa, mas firme no final.",
+     "voz": "Voz feminina tremula, nervosa, mas firme no final. NUNCA voz de homem.",
      "rosto": "ENFERMERA: olhos assustados olhando para VALERIA, labio tremendo.",
      "corpo": "ENFERMERA: segura uma prancheta contra o peito; atras dela, um celular escondido com a tela gravando.",
      "camera": "Corte seco. Medium Close-Up da ENFERMERA SOZINHA no quadro, Eye Level, lente 85mm, Shallow Focus."
@@ -97,11 +107,16 @@
      "fala": "Nadie te paga para opinar. Desconéctalo ya.",
      "emocao": 10,
      "intencao": "Humilhar a enfermeira e encerrar a conversa.",
-     "voz": "Voz feminina cortante, desprezo total.",
+     "voz": "Voz feminina cortante, desprezo total. NUNCA voz de homem.",
      "rosto": "VALERIA: um sorriso cruel e frio olhando para a ENFERMERA.",
      "corpo": "VALERIA: da um passo a frente, apontando para o monitor cardiaco.",
      "camera": "Corte seco. Close-Up de VALERIA SOZINHA no quadro, lente 85mm, Slow Push In."
     }
+   ],
+   "regras_extra": [
+    "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela.",
+    "DON tem voz MASCULINA grave de idoso; VALERIA e a ENFERMERA tem voz FEMININA; JULIAN tem voz MASCULINA: nunca trocar as vozes.",
+    "Espanhol latino com sotaque mexicano suave, NUNCA sotaque da Espanha."
    ]
   },
   {
@@ -121,6 +136,7 @@
     "VALERIA": "em pe do lado ESQUERDO da cama"
    },
    "preservar_extra": [
+    "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
     "O mesmo quarto de hospital da imagem FRAME_QUARTO, de manha, luz do dia."
    ],
    "cenario": "O MESMO quarto de hospital da imagem FRAME_QUARTO, de manha. JULIAN e a ENFERMERA estao no quarto mas NAO aparecem neste clipe.",
@@ -129,7 +145,16 @@
     "julian aparecendo",
     "enfermeira aparecendo",
     "don aurelio de pe",
-    "mudanca de penteado ou maquiagem"
+    "mudanca de penteado ou maquiagem",
+    "legendas embutidas",
+    "subtitles",
+    "captions",
+    "texto das falas escrito na tela",
+    "letras brancas na parte de baixo do video",
+    "voz masculina nas falas de valeria",
+    "voz masculina nas falas da enfermera",
+    "voz feminina nas falas de don",
+    "sotaque da espanha"
    ],
    "planos": [
     {
@@ -138,7 +163,7 @@
      "fala": "¿Desconectarme? Qué prisa tienen, mis queridos hijos.",
      "emocao": 10,
      "intencao": "Revelar que esta acordado, com ironia fria.",
-     "voz": "Voz grave e rouca, calma, IRONICA, lenta.",
+     "voz": "Voz grave e rouca, calma, IRONICA, lenta. NUNCA voz feminina.",
      "rosto": "DON AURELIO: abre os olhos devagar e encara VALERIA, meio sorriso ironico.",
      "corpo": "DON AURELIO: senta-se lentamente na cama, o cateter de oxigenio ainda no nariz.",
      "camera": "Close-Up de DON AURELIO SOZINHO no quadro, Eye Level, lente 85mm, Shallow Focus, Slow Push In."
@@ -149,7 +174,7 @@
      "fala": "¡Papá! ¿Cómo… cómo es posible?",
      "emocao": 10,
      "intencao": "Reagir em panico ao ver o pai acordado.",
-     "voz": "Voz feminina em PANICO, sem ar, gaguejando.",
+     "voz": "Voz feminina em PANICO, sem ar, gaguejando. NUNCA voz de homem.",
      "rosto": "VALERIA: palida, olhos arregalados para o pai, a mao cobrindo a boca.",
      "corpo": "VALERIA: da um passo para tras, a bolsa escorrega do braco.",
      "camera": "Corte seco. Medium Close-Up de VALERIA SOZINHA no quadro, Eye Level, lente 85mm."
@@ -160,11 +185,16 @@
      "fala": "Tres meses escuchándolo todo. Y Lucía grabó cada palabra que dijeron.",
      "emocao": 10,
      "intencao": "Mostrar que tem provas contra os filhos.",
-     "voz": "Voz grave e rouca, firme, cada palavra pesada.",
+     "voz": "Voz grave e rouca, firme, cada palavra pesada. NUNCA voz feminina.",
      "rosto": "DON AURELIO: olhar duro e decepcionado para VALERIA.",
      "corpo": "DON AURELIO: sentado na cama, aponta para a enfermeira fora do quadro, sem desviar o olhar de VALERIA.",
      "camera": "Corte seco. Medium Close-Up de DON AURELIO SOZINHO no quadro, sentado na cama, lente 85mm, Low Angle leve."
     }
+   ],
+   "regras_extra": [
+    "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela.",
+    "DON tem voz MASCULINA grave de idoso; VALERIA e a ENFERMERA tem voz FEMININA; JULIAN tem voz MASCULINA: nunca trocar as vozes.",
+    "Espanhol latino com sotaque mexicano suave, NUNCA sotaque da Espanha."
    ]
   },
   {
@@ -184,6 +214,7 @@
     "JULIAN": "em pe do lado DIREITO da cama"
    },
    "preservar_extra": [
+    "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
     "O mesmo quarto de hospital da imagem FRAME_QUARTO, de manha, luz do dia."
    ],
    "cenario": "O MESMO quarto de hospital da imagem FRAME_QUARTO, de manha. VALERIA e a ENFERMERA estao no quarto mas NAO aparecem neste clipe. DON AURELIO sentado na cama.",
@@ -192,10 +223,22 @@
     "valeria aparecendo",
     "enfermeira aparecendo",
     "don aurelio deitado",
-    "mudanca de penteado ou maquiagem"
+    "mudanca de penteado ou maquiagem",
+    "legendas embutidas",
+    "subtitles",
+    "captions",
+    "texto das falas escrito na tela",
+    "letras brancas na parte de baixo do video",
+    "voz masculina nas falas de valeria",
+    "voz masculina nas falas da enfermera",
+    "voz feminina nas falas de don",
+    "sotaque da espanha"
    ],
    "regras_extra": [
-    "No ultimo plano, e SOMENTE nele, DON AURELIO olha direto para a lente."
+    "No ultimo plano, e SOMENTE nele, DON AURELIO olha direto para a lente.",
+    "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela.",
+    "DON tem voz MASCULINA grave de idoso; VALERIA e a ENFERMERA tem voz FEMININA; JULIAN tem voz MASCULINA: nunca trocar as vozes.",
+    "Espanhol latino com sotaque mexicano suave, NUNCA sotaque da Espanha."
    ],
    "planos": [
     {
@@ -204,7 +247,7 @@
      "fala": "Papá, todo tiene explicación.",
      "emocao": 10,
      "intencao": "Tentar se salvar com uma desculpa desesperada.",
-     "voz": "Voz masculina DESESPERADA, rapida, falhando.",
+     "voz": "Voz masculina DESESPERADA, rapida, falhando. NUNCA voz feminina.",
      "rosto": "JULIAN: suando, olhos arregalados para o pai, sorriso nervoso forcado.",
      "corpo": "JULIAN: maos abertas para frente, se aproximando da cama.",
      "camera": "Medium Close-Up de JULIAN SOZINHO no quadro, Eye Level, lente 85mm, Shallow Focus."
@@ -215,7 +258,7 @@
      "fala": "Cállate, Julián. Sé quién cambió mis medicinas antes del coma.",
      "emocao": 10,
      "intencao": "Revelar que sabe que um dos filhos o envenenou.",
-     "voz": "Voz grave e rouca, baixa e AMEACADORA.",
+     "voz": "Voz grave e rouca, baixa e AMEACADORA. NUNCA voz feminina.",
      "rosto": "DON AURELIO: olhar gelado e furioso para JULIAN, mandibula travada.",
      "corpo": "DON AURELIO: sentado na cama, ergue a mao para JULIAN parar.",
      "camera": "Corte seco. Close-Up de DON AURELIO SOZINHO no quadro, lente 85mm, Slow Push In."
@@ -227,7 +270,7 @@
      "emocao": 9,
      "olha_para_camera": true,
      "intencao": "Quebrar a quarta parede e chamar para a Parte 3.",
-     "voz": "Voz grave e rouca, calma e misteriosa.",
+     "voz": "Voz grave e rouca, calma e misteriosa. NUNCA voz feminina.",
      "rosto": "DON AURELIO: vira o rosto devagar e olha DIRETO para a lente, olhar serio, sobrancelha erguida.",
      "corpo": "DON AURELIO: sentado na cama, imovel.",
      "camera": "Corte seco. Extreme Close-Up de DON AURELIO SOZINHO no quadro, lente 85mm, Slow Push In. O video termina neste rosto olhando para a lente."
