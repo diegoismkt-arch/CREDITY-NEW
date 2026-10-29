@@ -1,4 +1,5 @@
 {
+  "IDIOMA_OBRIGATORIO": "TODAS as falas em ESPANHOL do Mexico, exatamente como escritas no campo dialogue. NUNCA em portugues, nunca traduzir.",
   "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao INTENSA: DON AURELIO acorda calmo, ironico e poderoso; VALERIA em PANICO, palida, sem ar. Rostos muito expressivos. Nenhuma fala neutra.",
   "input_image": {
     "required": false,
@@ -17,7 +18,7 @@
   },
   "scene": {
     "title": "NUNCA ESTUVE EN COMA - PARTE 2",
-    "duration_seconds": 9.2,
+    "duration_seconds": 9.6,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
     "structure": "3 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
     "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Quarto de hospital particular de manha: luz natural suave entrando pela janela, misturada com a luz fria do monitor, Shallow Focus nos closes.",
@@ -37,7 +38,7 @@
       "speaker": "DON",
       "dialogue": "¿Desconectarme? Qué prisa tienen, mis queridos hijos.",
       "addressee": "VALERIA",
-      "eyeline": "DON fala PARA VALERIA e olha para VALERIA, que esta em pe do lado ESQUERDO da cama, fora do quadro.",
+      "eyeline": "DON fala PARA VALERIA e olha para VALERIA (em pe do lado ESQUERDO da cama), fora do quadro.",
       "emotion_level": 10,
       "intention": "Revelar que esta acordado, com ironia fria.",
       "voice": "Voz grave e rouca, calma, IRONICA, lenta.",
@@ -51,7 +52,7 @@
       "speaker": "VALERIA",
       "dialogue": "¡Papá! ¿Cómo… cómo es posible?",
       "addressee": "DON",
-      "eyeline": "VALERIA fala PARA DON e olha para DON, que esta na cama, no centro do quarto, fora do quadro.",
+      "eyeline": "VALERIA fala PARA DON e olha para DON (na cama, no centro do quarto), fora do quadro.",
       "emotion_level": 10,
       "intention": "Reagir em panico ao ver o pai acordado.",
       "voice": "Voz feminina em PANICO, sem ar, gaguejando.",
@@ -61,11 +62,11 @@
       "mouths": "Somente VALERIA movimenta os labios."
     },
     {
-      "time": "00:04.84-00:09.12",
+      "time": "00:04.84-00:09.52",
       "speaker": "DON",
       "dialogue": "Tres meses escuchándolo todo. Y Lucía grabó cada palabra que dijeron.",
       "addressee": "VALERIA",
-      "eyeline": "DON fala PARA VALERIA e olha para VALERIA, que esta em pe do lado ESQUERDO da cama, fora do quadro.",
+      "eyeline": "DON fala PARA VALERIA e olha para VALERIA (em pe do lado ESQUERDO da cama), fora do quadro.",
       "emotion_level": 10,
       "intention": "Mostrar que tem provas contra os filhos.",
       "voice": "Voz grave e rouca, firme, cada palavra pesada.",
@@ -86,7 +87,7 @@
     ],
     "rules": [
       "So existem 3 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
-      "A ultima fala termina junto com o video.",
+      "A ultima fala termina 0.4 s antes do fim do video, inteira, sem cortar nenhuma palavra.",
       "Cada fala e dirigida a: DON -> VALERIA; VALERIA -> DON; DON -> VALERIA.",
       "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
       "Nao repetir, misturar, traduzir ou acrescentar palavras.",
@@ -106,6 +107,8 @@
     "don aurelio de pe",
     "mudanca de penteado ou maquiagem",
     "texto ou letras em qualquer lugar",
+    "nome ou idade de personagem escrito na tela",
+    "letreiro de apresentacao de personagem (lower third)",
     "palavra inventada no ultimo plano",
     "fala repetida",
     "fala adiantada ou atrasada para outro plano",

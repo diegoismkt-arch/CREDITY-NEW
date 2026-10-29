@@ -61,7 +61,9 @@ def seg(x):
 
 
 IDIOMAS = {
-    # padrao: Espanha (publico da pagina). Projetos antigos usam "idioma": "mexico".
+    # padrao: espanhol latino neutro (publico real: hispanicos 55+ nos EUA e America Latina).
+    "neutro": ("ESPANHOL LATINO NEUTRO (sotaque latino-americano suave, sem regionalismos)",
+               "Espanol latinoamericano neutro, claro y pausado, sin regionalismos y sin acento de Espana, TODAS as palavras em espanhol."),
     "espanha": ("ESPANHOL da ESPANHA (castelhano, sotaque espanhol de Madrid)",
                 "Espanol de Espana (castellano), acento espanol peninsular natural, TODAS as palavras em espanhol. NUNCA sotaque latino-americano."),
     "mexico": ("ESPANHOL do Mexico",
@@ -171,7 +173,7 @@ def montar(rot, n, clip):
             # primeira aparição: criado só pela descrição
             fichas[k] = f"{d['descricao']} Personagem {fic}. {d['voz']}"
             preservar.append(f"{k}: {d['descricao']}")
-    idioma_curto, idioma_regra = IDIOMAS[rot.get("idioma", "espanha")]
+    idioma_curto, idioma_regra = IDIOMAS[rot.get("idioma", "neutro")]
     prompt = {"IDIOMA_OBRIGATORIO": f"TODAS as falas em {idioma_curto}, exatamente como escritas no campo dialogue. NUNCA em portugues, nunca traduzir.", "ATUACAO_PRIORIDADE_MAXIMA": clip["atuacao"]}
     if imagens:
         prompt["input_image"] = {

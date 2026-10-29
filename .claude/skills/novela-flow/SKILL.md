@@ -184,5 +184,13 @@ O fluxo completo, o cardápio de ganchos (VARIAR a cada história; o tapa não �
 - Nada de travar portas / passageiro preso / medo de ser levado: o Flow recusa como conteúdo prejudicial.
 - NUNCA descrever criança (idade, "menina") em cena de dor, culpa ou crime: o Flow recusa como "prejudicial a menores". Foto de filho(a) falecido(a) = jovem adulto(a) 18+ ou sem foto.
 
-## Cultura espanhola (pedido do usuario)
-Toda historia precisa de um ancora CULTURAL da Espanha para o publico se reconhecer: tradicoes e lugares tipicos (Loteria de Navidad/El Gordo, Nochebuena com turron e cava, Feria de Abril, verbena e fiestas del pueblo, bar de barrio com tapas, cortijo andaluz, mercado, portero de finca, peña, cuñado, abuela del pueblo), expressoes espanholas reais e personagens com tracos mediterraneos. Nao basta trocar nomes numa historia generica de mansao.
+## FORMULA VENCEDORA (dados reais da pagina, out/2026) — tem prioridade sobre regras antigas de "publico Espanha"
+Publico real: 74% com 55+ anos, 51% hispanicos nos EUA, depois Peru, Espanha, Equador. Unico viral (76 mil views, 1.092 comentarios): "Sus propios hijos querian desconectarlo" (curto01-fingia-coma).
+- Protagonista: IDOSO ou IDOSA rico(a) (pai, avo, patriarca). Nada de protagonista jovem.
+- Vilao: os PROPRIOS FILHOS, a nora ou o genro, de olho na heranca, na casa ou no dinheiro.
+- Virada: o idoso JA SABIA e FINGIU (coma, demencia, pobreza) e tem um ALIADO HUMILDE (enfermeira, cuidadora, motorista).
+- Duracao 18 a 25 s (2 a 3 clipes). Rosto do idoso e o conflito JA no 1o segundo.
+- Pergunta final de DILEMA MORAL da vida do espectador: "¿Tu que harias si...?" (nunca "¿quien es?" com resposta unica).
+- Legenda: pergunta + "Comenta PARTE 2 y te la traigo manana". SEMPRE entregar a parte 2 (serie > historia nova).
+- Idioma: espanhol LATINO NEUTRO (idioma "neutro", padrao do script). Sem referencias locais (Madrid, Castellana). Nunca portugues.
+- Personagens com aparencia latina/hispanica comum; cenarios genericos de luxo (mansao, hospital particular).

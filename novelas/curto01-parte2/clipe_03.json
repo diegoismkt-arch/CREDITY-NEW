@@ -1,4 +1,5 @@
 {
+  "IDIOMA_OBRIGATORIO": "TODAS as falas em ESPANHOL do Mexico, exatamente como escritas no campo dialogue. NUNCA em portugues, nunca traduzir.",
   "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao INTENSA: JULIAN desesperado, suando, tentando se justificar; DON AURELIO implacavel e frio. No ultimo plano DON AURELIO olha direto para a camera, misterioso. Nenhuma fala neutra.",
   "input_image": {
     "required": false,
@@ -17,7 +18,7 @@
   },
   "scene": {
     "title": "NUNCA ESTUVE EN COMA - PARTE 2",
-    "duration_seconds": 9.9,
+    "duration_seconds": 9.2,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
     "structure": "3 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
     "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Quarto de hospital particular de manha: luz natural suave entrando pela janela, misturada com a luz fria do monitor, Shallow Focus nos closes.",
@@ -33,11 +34,11 @@
   },
   "timeline": [
     {
-      "time": "00:00.00-00:02.79",
+      "time": "00:00.00-00:01.68",
       "speaker": "JULIAN",
-      "dialogue": "Papá, todo tiene explicación, te lo juro.",
+      "dialogue": "Papá, todo tiene explicación.",
       "addressee": "DON",
-      "eyeline": "JULIAN fala PARA DON e olha para DON, que esta na cama, no centro do quarto, fora do quadro.",
+      "eyeline": "JULIAN fala PARA DON e olha para DON (na cama, no centro do quarto), fora do quadro.",
       "emotion_level": 10,
       "intention": "Tentar se salvar com uma desculpa desesperada.",
       "voice": "Voz masculina DESESPERADA, rapida, falhando.",
@@ -47,11 +48,11 @@
       "mouths": "Somente JULIAN movimenta os labios."
     },
     {
-      "time": "00:02.79-00:06.70",
+      "time": "00:01.68-00:05.59",
       "speaker": "DON",
       "dialogue": "Cállate, Julián. Sé quién cambió mis medicinas antes del coma.",
       "addressee": "JULIAN",
-      "eyeline": "DON fala PARA JULIAN e olha para JULIAN, que esta em pe do lado DIREITO da cama, fora do quadro.",
+      "eyeline": "DON fala PARA JULIAN e olha para JULIAN (em pe do lado DIREITO da cama), fora do quadro.",
       "emotion_level": 10,
       "intention": "Revelar que sabe que um dos filhos o envenenou.",
       "voice": "Voz grave e rouca, baixa e AMEACADORA.",
@@ -61,7 +62,7 @@
       "mouths": "Somente DON movimenta os labios."
     },
     {
-      "time": "00:06.70-00:09.86",
+      "time": "00:05.59-00:09.15",
       "speaker": "DON",
       "dialogue": "Si quieres saber quién fue, comenta parte tres.",
       "addressee": "CAMERA",
@@ -86,7 +87,7 @@
     ],
     "rules": [
       "So existem 3 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
-      "A ultima fala termina junto com o video.",
+      "A ultima fala termina 0.4 s antes do fim do video, inteira, sem cortar nenhuma palavra.",
       "Cada fala e dirigida a: JULIAN -> DON; DON -> JULIAN; DON -> CAMERA.",
       "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
       "Nao repetir, misturar, traduzir ou acrescentar palavras.",
@@ -107,6 +108,8 @@
     "don aurelio deitado",
     "mudanca de penteado ou maquiagem",
     "texto ou letras em qualquer lugar",
+    "nome ou idade de personagem escrito na tela",
+    "letreiro de apresentacao de personagem (lower third)",
     "palavra inventada no ultimo plano",
     "fala repetida",
     "fala adiantada ou atrasada para outro plano",

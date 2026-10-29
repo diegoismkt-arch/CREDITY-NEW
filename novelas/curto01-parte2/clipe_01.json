@@ -1,39 +1,39 @@
 {
+  "IDIOMA_OBRIGATORIO": "TODAS as falas em ESPANHOL do Mexico, exatamente como escritas no campo dialogue. NUNCA em portugues, nunca traduzir.",
   "ATUACAO_PRIORIDADE_MAXIMA": "Novela dramatica. Atuacao INTENSA: VALERIA autoritaria e cruel, dando ordens; a ENFERMERA nervosa, com medo, mas corajosa, escondendo que esta gravando com o celular. DON AURELIO imovel, olhos fechados. Nenhuma fala neutra.",
   "input_image": {
     "required": false,
     "mode": "Ingredients to Video, sem primeiro frame.",
     "additional_references": true,
     "reference_images": [
-      "Imagem 1 — frame salvo da Parte 1: o quarto de hospital particular de luxo a noite, com DON AURELIO deitado na cama, monitor cardiaco, abajur, janela com luzes da cidade.",
-      "Imagem 2 — frame salvo da Parte 1: DON AURELIO deitado na cama, camisola hospitalar azul-clara, oxigenio no nariz, rosto bem visivel.",
-      "Imagem 3 — frame salvo da Parte 1: close de VALERIA, cabelo preto liso, vestido preto, batom vermelho.",
-      "Imagem 4 — frame salvo da Parte 1: close da ENFERMERA, uniforme azul-claro, cabelo em coque."
+      "Imagem 1 — frame salvo da Parte 1: DON AURELIO deitado na cama, camisola hospitalar azul-clara, oxigenio no nariz, rosto bem visivel.",
+      "Imagem 2 — frame salvo da Parte 1: close de VALERIA, cabelo preto liso, vestido preto, batom vermelho.",
+      "Imagem 3 — frame salvo da Parte 1: close da ENFERMERA, uniforme azul-claro, cabelo em coque."
     ],
     "preserve_exactly": [
-      "DON: o MESMO rosto da imagem 2, senhor de 75 anos, pele palida, cabelo grisalho penteado para tras, barba grisalha curta, camisola hospitalar AZUL-CLARA, cateter de oxigenio no nariz e soro no braco.",
-      "VALERIA: o MESMO rosto da imagem 3, mulher de 40 anos, cabelo preto liso e brilhante, maquiagem forte, batom VERMELHO, vestido PRETO de grife, joias de ouro, bolsa de luxo na mao.",
-      "ENFERMERA: o MESMO rosto da imagem 4, enfermeira de 28 anos, rosto gentil, pele morena clara, cabelo escuro preso em coque, uniforme hospitalar AZUL-CLARO, estetoscopio no pescoco.",
-      "O mesmo quarto de hospital da imagem 1, agora de manha, luz do dia entrando pela janela.",
+      "DON: o MESMO rosto da imagem 1, senhor de 75 anos, pele palida, cabelo grisalho penteado para tras, barba grisalha curta, camisola hospitalar AZUL-CLARA, cateter de oxigenio no nariz e soro no braco.",
+      "VALERIA: o MESMO rosto da imagem 2, mulher de 40 anos, cabelo preto liso e brilhante, maquiagem forte, batom VERMELHO, vestido PRETO de grife, joias de ouro, bolsa de luxo na mao.",
+      "ENFERMERA: o MESMO rosto da imagem 3, enfermeira de 28 anos, rosto gentil, pele morena clara, cabelo escuro preso em coque, uniforme hospitalar AZUL-CLARO, estetoscopio no pescoco.",
+      "O mesmo quarto de hospital da imagem FRAME_QUARTO, agora de manha, luz do dia entrando pela janela.",
       "DON AURELIO SEMPRE de olhos fechados e imovel neste clipe."
     ]
   },
   "scene": {
     "title": "NUNCA ESTUVE EN COMA - PARTE 2",
-    "duration_seconds": 9.9,
+    "duration_seconds": 9.6,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
     "structure": "3 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
     "style": "Novela dramatica de luxo. Fotografia cinematografica hiper-realista, pessoas comuns e ficticias, textura real de pele. Quarto de hospital particular de manha: luz natural suave entrando pela janela, misturada com a luz fria do monitor, Shallow Focus nos closes.",
-    "setting": "O MESMO quarto de hospital da imagem 1, na manha seguinte. JULIAN esta no quarto mas NAO aparece neste clipe. DON AURELIO deitado, imovel, de olhos fechados.",
+    "setting": "O MESMO quarto de hospital da imagem FRAME_QUARTO, na manha seguinte. JULIAN esta no quarto mas NAO aparece neste clipe. DON AURELIO deitado, imovel, de olhos fechados.",
     "blocking": [
       "DON: na cama, no centro do quarto",
       "VALERIA: em pe do lado ESQUERDO da cama",
       "ENFERMERA: em pe aos pes da cama, junto ao monitor"
     ],
     "characters": {
-      "DON": "O MESMO da imagem 2. Personagem ficticio. Voz grave e rouca de homem de 75 anos.",
-      "VALERIA": "A MESMA da imagem 3. Personagem ficticia. Voz feminina fria e impaciente de mulher de 40 anos.",
-      "ENFERMERA": "A MESMA da imagem 4. Personagem ficticia. Voz feminina suave de mulher de 28 anos."
+      "DON": "O MESMO da imagem 1. Personagem ficticio. Voz grave e rouca de homem de 75 anos.",
+      "VALERIA": "A MESMA da imagem 2. Personagem ficticia. Voz feminina fria e impaciente de mulher de 40 anos.",
+      "ENFERMERA": "A MESMA da imagem 3. Personagem ficticia. Voz feminina suave de mulher de 28 anos."
     }
   },
   "timeline": [
@@ -42,7 +42,7 @@
       "speaker": "VALERIA",
       "dialogue": "Ya firmamos. Desconecte esa máquina ahora mismo.",
       "addressee": "ENFERMERA",
-      "eyeline": "VALERIA fala PARA ENFERMERA e olha para ENFERMERA, que esta em pe aos pes da cama, junto ao monitor, fora do quadro. NAO olha para DON.",
+      "eyeline": "VALERIA fala PARA ENFERMERA e olha para ENFERMERA (em pe aos pes da cama, junto ao monitor), fora do quadro. NAO olha para DON.",
       "emotion_level": 9,
       "intention": "Ordenar, com frieza, que desliguem o pai.",
       "voice": "Voz feminina FRIA, autoritaria e seca.",
@@ -52,11 +52,11 @@
       "mouths": "Somente VALERIA movimenta os labios."
     },
     {
-      "time": "00:02.79-00:07.07",
+      "time": "00:02.79-00:06.33",
       "speaker": "ENFERMERA",
-      "dialogue": "Pero señora, el doctor dijo que su papá todavía puede despertar.",
+      "dialogue": "Pero señora, el doctor dijo que todavía puede despertar.",
       "addressee": "VALERIA",
-      "eyeline": "ENFERMERA fala PARA VALERIA e olha para VALERIA, que esta em pe do lado ESQUERDO da cama, fora do quadro. NAO olha para DON.",
+      "eyeline": "ENFERMERA fala PARA VALERIA e olha para VALERIA (em pe do lado ESQUERDO da cama), fora do quadro. NAO olha para DON.",
       "emotion_level": 9,
       "intention": "Tentar impedir, com medo, enquanto grava tudo escondida.",
       "voice": "Voz feminina tremula, nervosa, mas firme no final.",
@@ -66,11 +66,11 @@
       "mouths": "Somente ENFERMERA movimenta os labios."
     },
     {
-      "time": "00:07.07-00:09.86",
+      "time": "00:06.33-00:09.52",
       "speaker": "VALERIA",
       "dialogue": "Nadie te paga para opinar. Desconéctalo ya.",
       "addressee": "ENFERMERA",
-      "eyeline": "VALERIA fala PARA ENFERMERA e olha para ENFERMERA, que esta em pe aos pes da cama, junto ao monitor, fora do quadro. NAO olha para DON.",
+      "eyeline": "VALERIA fala PARA ENFERMERA e olha para ENFERMERA (em pe aos pes da cama, junto ao monitor), fora do quadro. NAO olha para DON.",
       "emotion_level": 10,
       "intention": "Humilhar a enfermeira e encerrar a conversa.",
       "voice": "Voz feminina cortante, desprezo total.",
@@ -91,7 +91,7 @@
     ],
     "rules": [
       "So existem 3 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
-      "A ultima fala termina junto com o video.",
+      "A ultima fala termina 0.4 s antes do fim do video, inteira, sem cortar nenhuma palavra.",
       "Cada fala e dirigida a: VALERIA -> ENFERMERA; ENFERMERA -> VALERIA; VALERIA -> ENFERMERA.",
       "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
       "Nao repetir, misturar, traduzir ou acrescentar palavras.",
@@ -112,6 +112,8 @@
     "celular aparecendo na mao de valeria",
     "mudanca de penteado ou maquiagem",
     "texto ou letras em qualquer lugar",
+    "nome ou idade de personagem escrito na tela",
+    "letreiro de apresentacao de personagem (lower third)",
     "palavra inventada no ultimo plano",
     "fala repetida",
     "fala adiantada ou atrasada para outro plano",
