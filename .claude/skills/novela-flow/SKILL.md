@@ -184,13 +184,13 @@ O fluxo completo, o cardápio de ganchos (VARIAR a cada história; o tapa não �
 - Nada de travar portas / passageiro preso / medo de ser levado: o Flow recusa como conteúdo prejudicial.
 - NUNCA descrever criança (idade, "menina") em cena de dor, culpa ou crime: o Flow recusa como "prejudicial a menores". Foto de filho(a) falecido(a) = jovem adulto(a) 18+ ou sem foto.
 
-## FORMULA VENCEDORA (dados reais da pagina, out/2026) — tem prioridade sobre regras antigas de "publico Espanha"
-Publico real: 74% com 55+ anos, 51% hispanicos nos EUA, depois Peru, Espanha, Equador. Unico viral (76 mil views, 1.092 comentarios): "Sus propios hijos querian desconectarlo" (curto01-fingia-coma).
-- Protagonista: IDOSO ou IDOSA rico(a) (pai, avo, patriarca). Nada de protagonista jovem.
-- Vilao: os PROPRIOS FILHOS, a nora ou o genro, de olho na heranca, na casa ou no dinheiro.
-- Virada: o idoso JA SABIA e FINGIU (coma, demencia, pobreza) e tem um ALIADO HUMILDE (enfermeira, cuidadora, motorista).
-- Duracao 18 a 25 s (2 a 3 clipes). Rosto do idoso e o conflito JA no 1o segundo.
-- Pergunta final de DILEMA MORAL da vida do espectador: "¿Tu que harias si...?" (nunca "¿quien es?" com resposta unica).
-- Legenda: pergunta + "Comenta PARTE 2 y te la traigo manana". SEMPRE entregar a parte 2 (serie > historia nova).
-- Idioma: espanhol LATINO NEUTRO (idioma "neutro", padrao do script). Sem referencias locais (Madrid, Castellana). Nunca portugues.
-- Personagens com aparencia latina/hispanica comum; cenarios genericos de luxo (mansao, hospital particular).
+## POR QUE O VIRAL VIRALIZOU (principios, NAO molde fixo)
+Viral: "Sus propios hijos querian desconectarlo" (76 mil views, 1.092 coment.). Publico: 74% com 55+, 51% hispanicos nos EUA. Repetir os PRINCIPIOS variando formato, cenario, protagonista e emocao:
+1. Medo ou desejo profundo do publico (traicao de quem se ama, ser desvalorizado, abandono, injustica, ver a bondade recompensada).
+2. Virada de PODER: quem foi subestimado revela um poder escondido (sabe de tudo, e o dono, tem a prova). Catarse.
+3. O espectador descobre o segredo junto ou antes dos viloes (ironia dramatica).
+4. Gancho com o conflito concreto no 1o segundo (rosto + frase com o que esta em jogo).
+5. Clareza moral: vitima e vilao claros, para o publico tomar partido.
+6. Final com revelacao forte + pergunta de OPINIAO ligada a vida do espectador ("¿Tu que harias...?", "¿Lo perdonarias?"), nunca pergunta de resposta unica.
+7. Arco completo em ~20 s (2 clipes): gancho, desenvolvimento, virada.
+Variar: protagonista (idoso, mae, esposa, trabalhador humilde, professor), relacao (filhos, nora, marido, patrao, amigo), cenario e emocao (justica, gratidao, karma, lealdade). Espanhol latino neutro, sem referencias locais.
