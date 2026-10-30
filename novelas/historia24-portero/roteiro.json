@@ -75,7 +75,11 @@
     "julian caindo no chao",
     "letras nas caixas de correio",
     "noite",
-    "aparencia americana"
+    "aparencia americana",
+    "julian sem reacao ao tapa",
+    "julian imovel depois do tapa",
+    "pessoas atras de javier no elevador",
+    "begona e julian ao fundo do plano de javier"
    ],
    "salvar_frames": [
     "FRAME_JULIAN",
@@ -115,9 +119,10 @@
      "eyeline": "BEGONA olha nos olhos de JULIAN, furiosa. NAO olha para a camera.",
      "intencao": "Humilhar com raiva, dando o tapa.",
      "voz": "Voz FEMININA de mulher de 40 anos, alta, cortante e cruel, sotaque espanhol. NUNCA voz de homem.",
-     "rosto": "BEGONA: rosto de raiva, os dentes cerrados, nitida durante o tapa.",
-     "corpo": "BEGONA: da um TAPA rapido, seco e forte, em VELOCIDADE REAL, no rosto de JULIAN; a cabeca dele vira para o lado com o impacto.",
-     "camera": "Corte seco. CLOSE de perfil dos dois rostos bem proximos: o rosto furioso de BEGONA nitido e o rosto de JULIAN virando com o tapa; HANDHELD com tremor no impacto. So BEGONA tem a boca visivel."
+     "rosto": "BEGONA: rosto de raiva, dentes cerrados, nitida durante o tapa. JULIAN, depois do tapa: os olhos se enchem de LAGRIMAS, a boca treme de humilhacao e choque.",
+     "corpo": "BEGONA da um TAPA rapido, seco e forte, em VELOCIDADE REAL, no rosto de JULIAN. JULIAN REAGE na hora: a cabeca VIRA com o impacto, ele CAMBALEIA um passo para tras, solta a mala, leva a MAO ao rosto vermelho e olha para ela incredulo, com lagrimas nos olhos.",
+     "camera": "Corte seco. CLOSE de perfil dos dois rostos bem proximos: o rosto furioso de BEGONA nitido; o TAPA; o rosto de JULIAN virando com o impacto, e a camera acompanha a reacao dele (mao no rosto, olhos marejados); HANDHELD com tremor no impacto. So BEGONA tem a boca visivel.",
+     "segundos": 2.6
     },
     {
      "quem": "JAVIER",
@@ -129,7 +134,7 @@
      "voz": "Voz MASCULINA de homem de 42 anos, baixa, rouca e em choque, sotaque espanhol. NUNCA voz feminina.",
      "rosto": "JAVIER: palido, olhos arregalados, a boca entreaberta.",
      "corpo": "JAVIER: abre a grade de ferro do elevador e congela no lugar.",
-     "camera": "Corte seco. Close-up de JAVIER atras da grade de ferro do elevador antigo, SNAP ZOOM nos olhos dele. So JAVIER tem a boca visivel."
+     "camera": "Corte seco. Close-up de JAVIER DENTRO do elevador antigo, atras da grade de ferro que ele acabou de abrir; ATRAS dele so a parede de madeira e o espelho da CABINE do elevador, VAZIA. BEGONA e JULIAN estao A FRENTE dele, FORA do quadro. SNAP ZOOM nos olhos dele. So JAVIER tem a boca visivel."
     }
    ],
    "regras_extra": [
@@ -138,8 +143,11 @@
     "O TAPA e rapido, seco, em velocidade real, com contato de verdade; nada de camera lenta.",
     "BEGONA tem voz FEMININA; JULIAN e JAVIER tem voz MASCULINA: nunca trocar as vozes.",
     "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
-    "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
-   ]
+    "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela.",
+    "JULIAN REAGE ao tapa com emocao forte (cabeca vira, cambaleia, mao no rosto, lagrimas); NUNCA fica parado como se nada tivesse acontecido.",
+    "No close de JAVIER, ninguem aparece atras dele: so a cabine vazia do elevador."
+   ],
+   "nota": "v1: JULIAN nao reagiu ao tapa; no close de JAVIER apareceram JULIAN e BEGONA atras dele. v2: reacao forte ao tapa; atras de JAVIER so a cabine do elevador."
   }
  ]
 }

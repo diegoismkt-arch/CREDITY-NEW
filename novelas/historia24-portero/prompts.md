@@ -7,7 +7,7 @@
 
 ## Clipe 1 — O tapa
 
-clipe 1: 9.0s, 8.6s de fala (21 palavras, 4 planos, falantes: BEGONA, JULIAN, JAVIER) ✅
+clipe 1: 9.5s, 8.6s de fala (21 palavras, 4 planos, falantes: BEGONA, JULIAN, JAVIER) ✅
 
 Sem imagem de referência (Text to Video).
 
@@ -26,7 +26,7 @@ Sem imagem de referência (Text to Video).
   ],
   "scene": {
     "title": "EL PORTERO",
-    "duration_seconds": 9.0,
+    "duration_seconds": 9.6,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
     "structure": "4 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
     "style": "Drama cinematografico de novela espanhola. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos ESPANHOIS mediterraneos com imperfeicoes reais, textura real de pele. PORTAL classico de um predio de luxo no Barrio de Salamanca, Madrid, de DIA: piso de MARMORE xadrez preto e branco, caixas de correio de LATAO, ELEVADOR antigo com grade de FERRO trabalhado, a guarita de vidro e madeira do porteiro, espelho de moldura dourada, luz natural entrando pela porta de vidro e ferro da rua. Shallow Focus, cortes rapidos.",
@@ -72,7 +72,7 @@ Sem imagem de referência (Text to Video).
       "mouths": "Somente JULIAN movimenta os labios."
     },
     {
-      "time": "00:04.84-00:06.90",
+      "time": "00:04.84-00:07.44",
       "speaker": "BEGONA",
       "dialogue": "¡Para eso te pagamos, viejo!",
       "addressee": "JULIAN",
@@ -80,13 +80,13 @@ Sem imagem de referência (Text to Video).
       "emotion_level": 10,
       "intention": "Humilhar com raiva, dando o tapa.",
       "voice": "Voz FEMININA de mulher de 40 anos, alta, cortante e cruel, sotaque espanhol. NUNCA voz de homem.",
-      "face": "BEGONA: rosto de raiva, os dentes cerrados, nitida durante o tapa.",
-      "body": "BEGONA: da um TAPA rapido, seco e forte, em VELOCIDADE REAL, no rosto de JULIAN; a cabeca dele vira para o lado com o impacto.",
-      "camera": "Corte seco. CLOSE de perfil dos dois rostos bem proximos: o rosto furioso de BEGONA nitido e o rosto de JULIAN virando com o tapa; HANDHELD com tremor no impacto. So BEGONA tem a boca visivel. A fala comeca no primeiro instante do plano.",
+      "face": "BEGONA: rosto de raiva, dentes cerrados, nitida durante o tapa. JULIAN, depois do tapa: os olhos se enchem de LAGRIMAS, a boca treme de humilhacao e choque.",
+      "body": "BEGONA da um TAPA rapido, seco e forte, em VELOCIDADE REAL, no rosto de JULIAN. JULIAN REAGE na hora: a cabeca VIRA com o impacto, ele CAMBALEIA um passo para tras, solta a mala, leva a MAO ao rosto vermelho e olha para ela incredulo, com lagrimas nos olhos.",
+      "camera": "Corte seco. CLOSE de perfil dos dois rostos bem proximos: o rosto furioso de BEGONA nitido; o TAPA; o rosto de JULIAN virando com o impacto, e a camera acompanha a reacao dele (mao no rosto, olhos marejados); HANDHELD com tremor no impacto. So BEGONA tem a boca visivel. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente BEGONA movimenta os labios."
     },
     {
-      "time": "00:06.90-00:08.98",
+      "time": "00:07.44-00:09.53",
       "speaker": "JAVIER",
       "dialogue": "Begoña… ¿qué has hecho?",
       "addressee": "BEGONA",
@@ -96,7 +96,7 @@ Sem imagem de referência (Text to Video).
       "voice": "Voz MASCULINA de homem de 42 anos, baixa, rouca e em choque, sotaque espanhol. NUNCA voz feminina.",
       "face": "JAVIER: palido, olhos arregalados, a boca entreaberta.",
       "body": "JAVIER: abre a grade de ferro do elevador e congela no lugar.",
-      "camera": "Corte seco. Close-up de JAVIER atras da grade de ferro do elevador antigo, SNAP ZOOM nos olhos dele. So JAVIER tem a boca visivel. A fala comeca no primeiro instante do plano.",
+      "camera": "Corte seco. Close-up de JAVIER DENTRO do elevador antigo, atras da grade de ferro que ele acabou de abrir; ATRAS dele so a parede de madeira e o espelho da CABINE do elevador, VAZIA. BEGONA e JULIAN estao A FRENTE dele, FORA do quadro. SNAP ZOOM nos olhos dele. So JAVIER tem a boca visivel. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente JAVIER movimenta os labios."
     }
   ],
@@ -122,7 +122,9 @@ Sem imagem de referência (Text to Video).
       "O TAPA e rapido, seco, em velocidade real, com contato de verdade; nada de camera lenta.",
       "BEGONA tem voz FEMININA; JULIAN e JAVIER tem voz MASCULINA: nunca trocar as vozes.",
       "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
-      "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+      "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela.",
+      "JULIAN REAGE ao tapa com emocao forte (cabeca vira, cambaleia, mao no rosto, lagrimas); NUNCA fica parado como se nada tivesse acontecido.",
+      "No close de JAVIER, ninguem aparece atras dele: so a cabine vazia do elevador."
     ]
   },
   "audio": {
@@ -154,6 +156,10 @@ Sem imagem de referência (Text to Video).
     "letras nas caixas de correio",
     "noite",
     "aparencia americana",
+    "julian sem reacao ao tapa",
+    "julian imovel depois do tapa",
+    "pessoas atras de javier no elevador",
+    "begona e julian ao fundo do plano de javier",
     "texto ou letras em qualquer lugar",
     "nome ou idade de personagem escrito na tela",
     "letreiro de apresentacao de personagem (lower third)",
