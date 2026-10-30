@@ -1,0 +1,152 @@
+{
+ "idioma": "neutro",
+ "titulo_interno": "LA PROMETIDA",
+ "titulo_post": "",
+ "legenda": "",
+ "texto_final": "¿Quién crees que está detrás de todo? 👇",
+ "estilo": "Drama cinematografico de suspense, estilo novela. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos LATINO-AMERICANOS com imperfeicoes reais, textura real de pele. SALA DE JANTAR escura e luxuosa de uma mansao, de NOITE: mesa comprida de madeira escura, CANDELABROS com velas acesas, lustre baixo, tacas de vinho TINTO, pratos de porcelana, quadros antigos nas paredes, cortinas VINHO; homens de terno preto parados em silencio junto as paredes. Luz quente e baixa das velas, sombras profundas. Shallow Focus, cortes rapidos.",
+ "imagens": {
+  "FRAME_REMEDIOS": "frame do clipe 1 (por volta do segundo 3,8): REMEDIOS de uniforme preto e avental branco.",
+  "FRAME_FAUSTO": "frame do clipe 1 (por volta do segundo 5,8): DON FAUSTO na cabeceira, terno preto.",
+  "FRAME_VALENTINA": "frame do clipe 1 (por volta do segundo 8,5): VALENTINA de vestido creme e blazer preto."
+ },
+ "personagens": {
+  "FAUSTO": {
+   "descricao": "patriarca de 65 anos, latino, rosto comum e desconhecido, pele morena-clara, cabelo GRISALHO penteado para tras, BARBA grisalha aparada, olhar frio e penetrante, TERNO PRETO de tres pecas com camisa PRETA, ANEL de ouro no dedo minimo da mao direita.",
+   "voz": "Voz masculina muito grave, calma e fria de homem latino de 65 anos.",
+   "frame": "FRAME_FAUSTO"
+  },
+  "SEBASTIAN": {
+   "descricao": "filho de FAUSTO, 35 anos, latino, rosto comum e desconhecido, pele morena-clara, cabelo PRETO curto, barba por fazer, TERNO AZUL-ESCURO com camisa branca aberta, sem gravata, sem joias.",
+   "voz": "Voz masculina baixa e fria de homem latino de 35 anos."
+  },
+  "VALENTINA": {
+   "descricao": "noiva de SEBASTIAN, 28 anos, latina, rosto comum e desconhecido, pele clara, cabelo PRETO longo e liso, olhos escuros, VESTIDO CREME elegante com um BLAZER PRETO por cima, sem joias.",
+   "voz": "Voz feminina calma, baixa e segura de mulher latina de 28 anos.",
+   "frame": "FRAME_VALENTINA",
+   "feminino": true
+  },
+  "REMEDIOS": {
+   "descricao": "empregada da casa de 70 anos, latina, rosto comum e desconhecido, pele morena enrugada, cabelo BRANCO preso em COQUE, olhar atento, UNIFORME PRETO com AVENTAL BRANCO, sem joias.",
+   "voz": "Voz feminina firme e seca de senhora latina de 70 anos.",
+   "frame": "FRAME_REMEDIOS",
+   "feminino": true
+  }
+ },
+ "clips": [
+  {
+   "nome": "O microfone",
+   "atuacao": "Suspense, FALA DO COMECO AO FIM. Jantar de apresentacao da noiva. A velha empregada REMEDIOS derruba a sopa no blazer de VALENTINA DE PROPOSITO e, ao limpar, encontra um microfone escondido. Ela mostra ao patrao. DON FAUSTO, frio e calmo, pergunta quem a enviou. VALENTINA, sem medo, olha para o noivo e entrega o filho. Tensao gelada, rostos muito expressivos, ninguem fica parado.",
+   "personagens": [
+    "REMEDIOS",
+    "FAUSTO",
+    "VALENTINA",
+    "SEBASTIAN"
+   ],
+   "posicoes": {
+    "FAUSTO": "sentado na CABECEIRA da mesa comprida",
+    "VALENTINA": "sentada a DIREITA de FAUSTO",
+    "SEBASTIAN": "sentado a ESQUERDA de FAUSTO, de frente para VALENTINA, calado",
+    "REMEDIOS": "de pe ao lado da cadeira de VALENTINA, servindo a sopa"
+   },
+   "preservar_extra": [
+    "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
+    "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
+    "O MICROFONE: um microfone PRETO pequenininho, do tamanho de um botao, com um fio fino, escondido dentro da lapela do BLAZER PRETO de VALENTINA; REMEDIOS o segura entre os dedos.",
+    "Os segurancas de terno preto ficam PARADOS junto as paredes e NUNCA falam.",
+    "Todos ficam em volta da MESMA mesa, o mesmo fundo de velas e cortinas vinho."
+   ],
+   "cenario": "Noite, jantar na mansao de DON FAUSTO. O filho SEBASTIAN apresenta a noiva VALENTINA. A empregada REMEDIOS descobre um microfone escondido no blazer da noiva.",
+   "som": "Talheres na porcelana; a concha batendo na sopeira; o chiado das velas; um silencio pesado quando o microfone aparece; sem musica.",
+   "remover_negativos": [
+    "dois rostos visiveis nos planos de fala",
+    "atuacao contida"
+   ],
+   "negativos_extra": [
+    "duas vozes ao mesmo tempo",
+    "voz masculina nas falas de remedios",
+    "voz masculina nas falas de valentina",
+    "voz feminina nas falas de fausto",
+    "voz feminina nas falas de sebastian",
+    "rosto ou boca do ouvinte visivel nos planos de fala",
+    "personagem falando de frente para a camera",
+    "sotaque da espanha",
+    "legendas embutidas",
+    "subtitles",
+    "captions",
+    "texto das falas escrito na tela",
+    "letras brancas na parte de baixo do video",
+    "letras na tela",
+    "personagens parados como estatuas",
+    "segurancas falando",
+    "dia claro",
+    "microfone grande",
+    "fone de ouvido",
+    "celular"
+   ],
+   "salvar_frames": [
+    "FRAME_REMEDIOS",
+    "FRAME_FAUSTO",
+    "FRAME_VALENTINA"
+   ],
+   "planos": [
+    {
+     "quem": "REMEDIOS",
+     "para": "VALENTINA",
+     "fala": "¡Ay, perdone, señorita! Déjeme limpiarla.",
+     "emocao": 7,
+     "eyeline": "REMEDIOS olha para o blazer de VALENTINA. NAO olha para a camera.",
+     "intencao": "Fingir um acidente, com falsa humildade.",
+     "voz": "Voz FEMININA de senhora de 70 anos, aguda de susto falso, espanhol latino neutro. NUNCA voz de homem.",
+     "rosto": "REMEDIOS: cara de susto exagerada, mas os olhos atentos e frios.",
+     "corpo": "REMEDIOS: inclina o prato e a sopa escorre no BLAZER PRETO de VALENTINA; logo pega um guardanapo e comeca a limpar a lapela.",
+     "camera": "Plano de abertura: Medium Shot de REMEDIOS de pe ao lado da cadeira de VALENTINA (de costas, desfocada), a sopa escorrendo no blazer; as velas em bokeh; HANDHELD leve. So REMEDIOS tem a boca visivel."
+    },
+    {
+     "quem": "REMEDIOS",
+     "para": "FAUSTO",
+     "fala": "Señor… la señorita no vino a cenar.",
+     "emocao": 9,
+     "eyeline": "REMEDIOS olha para DON FAUSTO, na cabeceira. NAO olha para a camera.",
+     "intencao": "Denunciar a noiva ao patrao, seria e leal.",
+     "voz": "Voz FEMININA de senhora de 70 anos, baixa, seca e firme, espanhol latino neutro. NUNCA voz de homem.",
+     "rosto": "REMEDIOS: o susto some; olhar duro e leal.",
+     "corpo": "REMEDIOS: levanta entre os dedos o MICROFONE pequenininho que tirou da lapela do blazer.",
+     "camera": "Corte seco. EXTREME CLOSE-UP do microfone preto entre os dedos de REMEDIOS, RACK FOCUS para o rosto dela atras. So REMEDIOS tem a boca visivel."
+    },
+    {
+     "quem": "FAUSTO",
+     "para": "VALENTINA",
+     "fala": "Valentina… ¿quién te envía?",
+     "emocao": 9,
+     "eyeline": "DON FAUSTO olha fixo para VALENTINA. NAO olha para a camera.",
+     "intencao": "Perguntar com calma gelada e perigosa, sem levantar a voz.",
+     "voz": "Voz MASCULINA de homem de 65 anos, muito grave, baixa e fria, espanhol latino neutro. NUNCA voz feminina.",
+     "rosto": "DON FAUSTO: rosto imovel, so os olhos se estreitam.",
+     "corpo": "DON FAUSTO: pousa a taca de vinho devagar na mesa e entrelaca os dedos.",
+     "camera": "Corte seco. Close-up de DON FAUSTO na cabeceira em LOW ANGLE, as velas e dois segurancas desfocados atras; SLOW PUSH IN. So FAUSTO tem a boca visivel."
+    },
+    {
+     "quem": "VALENTINA",
+     "para": "FAUSTO",
+     "fala": "Nadie. Me lo puso su hijo.",
+     "emocao": 9,
+     "eyeline": "VALENTINA olha para SEBASTIAN, do outro lado da mesa, e depois para FAUSTO. NAO olha para a camera.",
+     "intencao": "Entregar o noivo com calma total, sem medo.",
+     "voz": "Voz FEMININA de mulher de 28 anos, calma, baixa e segura, espanhol latino neutro. NUNCA voz de homem.",
+     "rosto": "VALENTINA: olhar frio e sereno, um leve sorriso.",
+     "corpo": "VALENTINA: ajeita o blazer manchado e se encosta na cadeira.",
+     "camera": "Corte seco. Close-up de VALENTINA, a chama de uma vela desfocada em primeiro plano; RACK FOCUS da vela para o rosto dela. So VALENTINA tem a boca visivel."
+    }
+   ],
+   "regras_extra": [
+    "FALA DO COMECO AO FIM: o video comeca com REMEDIOS ja falando e termina na ultima fala de VALENTINA, sem plano mudo final.",
+    "So uma boca visivel por plano: quem fala aparece nitido; os outros ficam de costas, desfocados ou calados.",
+    "SEBASTIAN e os segurancas NAO falam neste clipe.",
+    "REMEDIOS e VALENTINA tem voz FEMININA; FAUSTO tem voz MASCULINA grave: nunca trocar as vozes.",
+    "Espanhol latino NEUTRO, nunca sotaque da Espanha.",
+    "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+   ]
+  }
+ ]
+}
