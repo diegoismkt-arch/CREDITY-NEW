@@ -36,7 +36,7 @@
  "clips": [
   {
    "nome": "O microfone",
-   "atuacao": "Suspense, FALA DO COMECO AO FIM. Jantar de apresentacao da noiva. A velha empregada REMEDIOS derruba a sopa no blazer de VALENTINA DE PROPOSITO e, ao limpar, encontra um microfone escondido. Ela mostra ao patrao. DON FAUSTO, frio e calmo, pergunta quem a enviou. VALENTINA, sem medo, olha para o noivo e entrega o filho. Tensao gelada, rostos muito expressivos, ninguem fica parado.",
+   "atuacao": "Suspense, FALA DO COMECO AO FIM. Jantar de apresentacao da noiva. A velha empregada REMEDIOS TROPECA ao servir e a sopa cai no blazer de VALENTINA: parece um ACIDENTE de verdade. Ao limpar a lapela, os dedos dela encontram um fio e ela PUXA de dentro do blazer um microfone escondido. Ela mostra ao patrao. DON FAUSTO, frio, pergunta quem a enviou. VALENTINA, sem medo, entrega o noivo. Tensao gelada, rostos muito expressivos, ninguem fica parado.",
    "personagens": [
     "REMEDIOS",
     "FAUSTO",
@@ -52,7 +52,7 @@
    "preservar_extra": [
     "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
     "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
-    "O MICROFONE: um microfone PRETO pequenininho, do tamanho de um botao, com um fio fino, escondido dentro da lapela do BLAZER PRETO de VALENTINA; REMEDIOS o segura entre os dedos.",
+    "O MICROFONE: um microfone PRETO pequenininho, do tamanho de um botao, com um fio fino, ESCONDIDO dentro da lapela do BLAZER PRETO de VALENTINA; ele so aparece quando REMEDIOS o PUXA da lapela no plano 2.",
     "Os segurancas de terno preto ficam PARADOS junto as paredes e NUNCA falam.",
     "Todos ficam em volta da MESMA mesa, o mesmo fundo de velas e cortinas vinho."
    ],
@@ -82,7 +82,10 @@
     "dia claro",
     "microfone grande",
     "fone de ouvido",
-    "celular"
+    "celular",
+    "microfone aparecendo do nada na mao",
+    "remedios falando antes da sopa cair",
+    "sopa jogada de proposito"
    ],
    "salvar_frames": [
     "FRAME_REMEDIOS",
@@ -93,14 +96,22 @@
     {
      "quem": "REMEDIOS",
      "para": "VALENTINA",
-     "fala": "¡Ay, perdone, señorita! Déjeme limpiarla.",
+     "fala": "¡Ay, perdone, señorita!",
      "emocao": 7,
      "eyeline": "REMEDIOS olha para o blazer de VALENTINA. NAO olha para a camera.",
-     "intencao": "Fingir um acidente, com falsa humildade.",
-     "voz": "Voz FEMININA de senhora de 70 anos, aguda de susto falso, espanhol latino neutro. NUNCA voz de homem.",
-     "rosto": "REMEDIOS: cara de susto exagerada, mas os olhos atentos e frios.",
-     "corpo": "REMEDIOS: inclina o prato e a sopa escorre no BLAZER PRETO de VALENTINA; logo pega um guardanapo e comeca a limpar a lapela.",
-     "camera": "Plano de abertura: Medium Shot de REMEDIOS de pe ao lado da cadeira de VALENTINA (de costas, desfocada), a sopa escorrendo no blazer; as velas em bokeh; HANDHELD leve. So REMEDIOS tem a boca visivel."
+     "intencao": "Pedir desculpas assustada, DEPOIS do acidente.",
+     "voz": "Voz FEMININA de senhora de 70 anos, assustada e aflita, espanhol latino neutro. NUNCA voz de homem.",
+     "rosto": "REMEDIOS: susto verdadeiro, a mao na boca.",
+     "corpo": "No PRIMEIRO instante REMEDIOS tropeca de leve ao servir e o prato de sopa VIRA sobre o BLAZER PRETO de VALENTINA; SO DEPOIS, assustada, ela fala e pega um guardanapo.",
+     "camera": "Plano de abertura: Medium Shot de REMEDIOS de pe ao lado da cadeira de VALENTINA (de costas, desfocada): primeiro o tropeco e a sopa caindo no blazer, depois o rosto assustado dela; HANDHELD leve. So REMEDIOS tem a boca visivel. A sopa cai no primeiro instante do plano; a fala vem LOGO EM SEGUIDA, depois do acidente.",
+     "segundos": 1.9
+    },
+    {
+     "quem": "REMEDIOS",
+     "rosto": "So as maos de REMEDIOS aparecem.",
+     "corpo": "Os dedos de REMEDIOS, limpando a LAPELA do blazer preto com o guardanapo, sentem um FIO fino; ela PUXA de dentro da lapela um MICROFONE preto pequenininho preso ao fio.",
+     "segundos": 1.0,
+     "camera": "Corte seco. INSERT em EXTREME CLOSE-UP: o guardanapo na lapela molhada, os dedos achando o fio e puxando o MICROFONE de dentro do blazer. Sem fala."
     },
     {
      "quem": "REMEDIOS",
@@ -111,8 +122,8 @@
      "intencao": "Denunciar a noiva ao patrao, seria e leal.",
      "voz": "Voz FEMININA de senhora de 70 anos, baixa, seca e firme, espanhol latino neutro. NUNCA voz de homem.",
      "rosto": "REMEDIOS: o susto some; olhar duro e leal.",
-     "corpo": "REMEDIOS: levanta entre os dedos o MICROFONE pequenininho que tirou da lapela do blazer.",
-     "camera": "Corte seco. EXTREME CLOSE-UP do microfone preto entre os dedos de REMEDIOS, RACK FOCUS para o rosto dela atras. So REMEDIOS tem a boca visivel."
+     "corpo": "REMEDIOS: levanta devagar o MICROFONE que acabou de puxar da lapela e mostra ao patrao.",
+     "camera": "Corte seco. Medium Close-up de REMEDIOS segurando o microfone entre os dedos em primeiro plano, RACK FOCUS do microfone para o rosto dela. So REMEDIOS tem a boca visivel."
     },
     {
      "quem": "FAUSTO",
@@ -129,7 +140,7 @@
     {
      "quem": "VALENTINA",
      "para": "FAUSTO",
-     "fala": "Nadie. Me lo puso su hijo.",
+     "fala": "Me lo puso su hijo.",
      "emocao": 9,
      "eyeline": "VALENTINA olha para SEBASTIAN, do outro lado da mesa, e depois para FAUSTO. NAO olha para a camera.",
      "intencao": "Entregar o noivo com calma total, sem medo.",
@@ -146,7 +157,8 @@
     "REMEDIOS e VALENTINA tem voz FEMININA; FAUSTO tem voz MASCULINA grave: nunca trocar as vozes.",
     "Espanhol latino NEUTRO, nunca sotaque da Espanha.",
     "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
-   ]
+   ],
+   "nota": "v1: ela pediu perdao ANTES de derrubar (pareceu proposital) e o microfone apareceu do nada na mao. v2: tropeco acidental primeiro, fala depois; insert dos dedos puxando o microfone da lapela."
   }
  ]
 }
