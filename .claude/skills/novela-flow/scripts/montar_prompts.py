@@ -173,7 +173,7 @@ def montar(rot, n, clip):
             # primeira aparição: criado só pela descrição
             fichas[k] = f"{d['descricao']} Personagem {fic}. {d['voz']}"
             preservar.append(f"{k}: {d['descricao']}")
-    idioma_curto, idioma_regra = IDIOMAS[rot.get("idioma", "neutro")]
+    idioma_curto, idioma_regra = IDIOMAS[rot.get("idioma", "espanha")]
     prompt = {"IDIOMA_OBRIGATORIO": f"TODAS as falas em {idioma_curto}, exatamente como escritas no campo dialogue. NUNCA em portugues, nunca traduzir.", "ATUACAO_PRIORIDADE_MAXIMA": clip["atuacao"]}
     if imagens:
         prompt["input_image"] = {

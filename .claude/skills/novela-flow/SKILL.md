@@ -193,4 +193,7 @@ Viral: "Sus propios hijos querian desconectarlo" (76 mil views, 1.092 coment.). 
 5. Clareza moral: vitima e vilao claros, para o publico tomar partido.
 6. Final com revelacao forte + pergunta de OPINIAO ligada a vida do espectador ("¿Tu que harias...?", "¿Lo perdonarias?"), nunca pergunta de resposta unica.
 7. Arco completo em ~20 s (2 clipes): gancho, desenvolvimento, virada.
-Variar: protagonista (idoso, mae, esposa, trabalhador humilde, professor), relacao (filhos, nora, marido, patrao, amigo), cenario e emocao (justica, gratidao, karma, lealdade). Espanhol latino neutro, sem referencias locais.
+Variar: protagonista (idoso, mae, esposa, trabalhador humilde, professor), relacao (filhos, nora, marido, patrao, amigo), cenario e emocao (justica, gratidao, karma, lealdade). Idioma: CASTELHANO da Espanha (decisao do usuario: publico espanhol), com ancoras culturais espanholas.
+
+## MISTERIO = CURIOSIDADE (pedido do usuario)
+Misterio NAO e sombrio nem terror. E uma pergunta intrigante que o publico quer ver respondida (quem e essa pessoa? o que tem ali? por que ela fez isso?), aberta logo no 1o segundo e ampliada no final para pedir PARTE 2. Tom de novela familiar, calido, com ancora cultural espanhola.
