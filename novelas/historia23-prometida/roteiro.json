@@ -172,8 +172,8 @@
    "posicoes": {
     "FAUSTO": "sentado na CABECEIRA da mesa comprida",
     "VALENTINA": "sentada a DIREITA de FAUSTO",
-    "SEBASTIAN": "sentado a ESQUERDA de FAUSTO, de frente para VALENTINA, calado",
-    "REMEDIOS": "de pe ao lado da cadeira de VALENTINA, servindo a sopa"
+    "SEBASTIAN": "sentado a ESQUERDA de FAUSTO, de frente para VALENTINA",
+    "REMEDIOS": "de pe ao lado da cadeira de VALENTINA, segurando o microfone, calada"
    },
    "preservar_extra": [
     "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",

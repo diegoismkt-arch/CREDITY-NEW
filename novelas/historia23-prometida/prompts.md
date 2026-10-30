@@ -256,8 +256,8 @@ Referências, nesta ordem: 1) FRAME_FAUSTO; 2) FRAME_VALENTINA; 3) FRAME_REMEDIO
     "blocking": [
       "FAUSTO: sentado na CABECEIRA da mesa comprida",
       "VALENTINA: sentada a DIREITA de FAUSTO",
-      "SEBASTIAN: sentado a ESQUERDA de FAUSTO, de frente para VALENTINA, calado",
-      "REMEDIOS: de pe ao lado da cadeira de VALENTINA, servindo a sopa"
+      "SEBASTIAN: sentado a ESQUERDA de FAUSTO, de frente para VALENTINA",
+      "REMEDIOS: de pe ao lado da cadeira de VALENTINA, segurando o microfone, calada"
     ],
     "characters": {
       "REMEDIOS": "A MESMA da imagem 3. Personagem ficticia. Voz feminina firme e seca de senhora latina de 70 anos.",
