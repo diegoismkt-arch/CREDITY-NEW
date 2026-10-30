@@ -130,7 +130,7 @@ Sem imagem de referência (Text to Video).
       "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
       "Nao repetir, misturar, traduzir ou acrescentar palavras.",
       "Cada frase e dita INTEIRA, do comeco ao fim.",
-      "FALA DO COMECO AO FIM: o video comeca com REMEDIOS ja falando e termina na ultima fala de VALENTINA, sem plano mudo final.",
+      "FALA DO COMECO AO FIM: o video comeca com a sopa caindo e REMEDIOS falando LOGO EM SEGUIDA, e termina na ultima fala de VALENTINA, sem plano mudo final.",
       "So uma boca visivel por plano: quem fala aparece nitido; os outros ficam de costas, desfocados ou calados.",
       "SEBASTIAN e os segurancas NAO falam neste clipe.",
       "REMEDIOS e VALENTINA tem voz FEMININA; FAUSTO tem voz MASCULINA grave: nunca trocar as vozes.",
