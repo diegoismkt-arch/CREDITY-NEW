@@ -1,14 +1,14 @@
 {
  "idioma": "neutro",
  "titulo_interno": "LA PROMETIDA",
- "titulo_post": "",
- "legenda": "",
+ "titulo_post": "La criada encontró un micrófono en la novia… pero lo que confesó el hijo fue peor 😱",
+ "legenda": "La cena para presentar a la novia terminó en silencio… 🕯️\n\nUn plato de sopa, un micrófono escondido… y una confesión que nadie esperaba.\n\n«Lo hice por orden de mamá.»\nPero su madre murió hace diez años… ¿o no? 😱\n\n¿Quién crees que está detrás de todo? 👇\n\nComenta PARTE 2 y te la traigo mañana.\n\n#historias #novela #misterio #familia #traicion #lahistoriaprincipal",
  "texto_final": "¿Quién crees que está detrás de todo? 👇",
  "estilo": "Drama cinematografico de suspense, estilo novela. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos LATINO-AMERICANOS com imperfeicoes reais, textura real de pele. SALA DE JANTAR escura e luxuosa de uma mansao, de NOITE: mesa comprida de madeira escura, CANDELABROS com velas acesas, lustre baixo, tacas de vinho TINTO, pratos de porcelana, quadros antigos nas paredes, cortinas VINHO; homens de terno preto parados em silencio junto as paredes. Luz quente e baixa das velas, sombras profundas. Shallow Focus, cortes rapidos.",
  "imagens": {
-  "FRAME_REMEDIOS": "frame do clipe 1 (por volta do segundo 3,8): REMEDIOS de uniforme preto e avental branco.",
-  "FRAME_FAUSTO": "frame do clipe 1 (por volta do segundo 5,8): DON FAUSTO na cabeceira, terno preto.",
-  "FRAME_VALENTINA": "frame do clipe 1 (por volta do segundo 8,5): VALENTINA de vestido creme e blazer preto."
+  "FRAME_REMEDIOS": "frame do clipe 1 (por volta do segundo 4,0): REMEDIOS de uniforme preto e avental branco.",
+  "FRAME_FAUSTO": "frame do clipe 1 (por volta do segundo 6,5): DON FAUSTO na cabeceira, terno preto.",
+  "FRAME_VALENTINA": "frame do clipe 1 (por volta do segundo 9,0): VALENTINA de vestido creme e blazer preto."
  },
  "personagens": {
   "FAUSTO": {
@@ -158,7 +158,125 @@
     "Espanhol latino NEUTRO, nunca sotaque da Espanha.",
     "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
    ],
-   "nota": "v1: ela pediu perdao ANTES de derrubar (pareceu proposital) e o microfone apareceu do nada na mao. v2: tropeco acidental primeiro, fala depois; insert dos dedos puxando o microfone da lapela."
+   "nota": "v1: ela pediu perdao ANTES de derrubar (pareceu proposital) e o microfone apareceu do nada na mao. v2: tropeco acidental primeiro, fala depois; insert dos dedos puxando o microfone da lapela. v2 PASSOU (Sebastian nao apareceu)."
+  },
+  {
+   "nome": "A mae",
+   "atuacao": "Misterio, FALA DO COMECO AO FIM. DON FAUSTO vira devagar para o filho SEBASTIAN. SEBASTIAN, sem medo nenhum, confessa que fez tudo por ordem da mae. FAUSTO, pela primeira vez, perde a frieza: a mae morreu ha dez anos. SEBASTIAN responde com um sorriso frio e misterioso. VALENTINA e REMEDIOS observam caladas. Tensao gelada, rostos muito expressivos, ninguem fica parado.",
+   "personagens": [
+    "REMEDIOS",
+    "FAUSTO",
+    "VALENTINA",
+    "SEBASTIAN"
+   ],
+   "posicoes": {
+    "FAUSTO": "sentado na CABECEIRA da mesa comprida",
+    "VALENTINA": "sentada a DIREITA de FAUSTO",
+    "SEBASTIAN": "sentado a ESQUERDA de FAUSTO, de frente para VALENTINA, calado",
+    "REMEDIOS": "de pe ao lado da cadeira de VALENTINA, servindo a sopa"
+   },
+   "preservar_extra": [
+    "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
+    "O MESMO DON FAUSTO da imagem 1, a MESMA VALENTINA da imagem 2 (com a mancha de sopa no blazer) e a MESMA REMEDIOS da imagem 3, na MESMA sala de jantar de velas.",
+    "SEBASTIAN aparece pela primeira vez: sentado a ESQUERDA de FAUSTO, de frente para VALENTINA.",
+    "REMEDIOS segura o MICROFONE pequenininho entre os dedos, de pe, calada.",
+    "Os segurancas de terno preto ficam PARADOS junto as paredes e NUNCA falam."
+   ],
+   "cenario": "Continuacao, mesma sala de jantar, de noite. FAUSTO confronta o filho SEBASTIAN, que revela agir por ordem da mae que todos acreditavam morta.",
+   "som": "O chiado das velas; o relogio de parede; o silencio absoluto da mesa; passos leves e distantes no corredor no ultimo plano; sem musica.",
+   "remover_negativos": [
+    "dois rostos visiveis nos planos de fala",
+    "atuacao contida"
+   ],
+   "negativos_extra": [
+    "duas vozes ao mesmo tempo",
+    "voz masculina nas falas de remedios",
+    "voz masculina nas falas de valentina",
+    "voz feminina nas falas de fausto",
+    "voz feminina nas falas de sebastian",
+    "rosto ou boca do ouvinte visivel nos planos de fala",
+    "personagem falando de frente para a camera",
+    "sotaque da espanha",
+    "legendas embutidas",
+    "subtitles",
+    "captions",
+    "texto das falas escrito na tela",
+    "letras brancas na parte de baixo do video",
+    "letras na tela",
+    "personagens parados como estatuas",
+    "segurancas falando",
+    "dia claro",
+    "microfone grande",
+    "fone de ouvido",
+    "celular",
+    "valentina falando",
+    "remedios falando",
+    "rosto da mulher no corredor visivel",
+    "mulher falando"
+   ],
+   "planos": [
+    {
+     "quem": "FAUSTO",
+     "para": "SEBASTIAN",
+     "fala": "Sebastián… ¿es verdad?",
+     "emocao": 9,
+     "eyeline": "DON FAUSTO vira a cabeca devagar e olha para SEBASTIAN, a esquerda dele. NAO olha para a camera.",
+     "intencao": "Perguntar ao filho com calma perigosa, sem acreditar.",
+     "voz": "Voz MASCULINA de homem de 65 anos, muito grave, baixa e fria, espanhol latino neutro. NUNCA voz feminina.",
+     "rosto": "DON FAUSTO: olhar duro e ferido, a mandibula travada.",
+     "corpo": "DON FAUSTO: vira devagar na cadeira da cabeceira, as maos entrelacadas sobre a mesa.",
+     "camera": "Plano de abertura: Close-up de DON FAUSTO virando a cabeca devagar; as velas desfocadas; SLOW PUSH IN. So FAUSTO tem a boca visivel."
+    },
+    {
+     "quem": "SEBASTIAN",
+     "para": "FAUSTO",
+     "fala": "Lo hice por orden de mamá.",
+     "emocao": 8,
+     "eyeline": "SEBASTIAN olha fixo nos olhos do pai. NAO olha para a camera.",
+     "intencao": "Confessar sem medo nenhum, com calma desafiadora.",
+     "voz": "Voz MASCULINA de homem de 35 anos, baixa, calma e fria, espanhol latino neutro. NUNCA voz feminina.",
+     "rosto": "SEBASTIAN: rosto sereno e frio, sem piscar.",
+     "corpo": "SEBASTIAN: se encosta na cadeira e pousa a taca de vinho.",
+     "camera": "Corte seco. Close-up de SEBASTIAN por cima do ombro de FAUSTO (de costas, desfocado na borda); a chama de uma vela entre os dois. So SEBASTIAN tem a boca visivel."
+    },
+    {
+     "quem": "FAUSTO",
+     "para": "SEBASTIAN",
+     "fala": "Tu madre murió hace diez años.",
+     "emocao": 10,
+     "eyeline": "DON FAUSTO olha para SEBASTIAN, em choque. NAO olha para a camera.",
+     "intencao": "Rebater em choque, a frieza rachando pela primeira vez.",
+     "voz": "Voz MASCULINA de homem de 65 anos, grave, a voz falhando de choque, espanhol latino neutro. NUNCA voz feminina.",
+     "rosto": "DON FAUSTO: os olhos se arregalam, a boca treme levemente.",
+     "corpo": "DON FAUSTO: se inclina para a frente, as maos apertando a toalha da mesa.",
+     "camera": "Corte seco. Close-up frontal de DON FAUSTO, CRASH ZOOM curto nos olhos; os segurancas desfocados atras. So FAUSTO tem a boca visivel."
+    },
+    {
+     "quem": "SEBASTIAN",
+     "para": "FAUSTO",
+     "fala": "Eso es lo que tú crees, papá.",
+     "emocao": 10,
+     "eyeline": "SEBASTIAN olha para o pai com um sorriso frio. NAO olha para a camera.",
+     "intencao": "Revelar o misterio com prazer frio, deixando o pai sem chao.",
+     "voz": "Voz MASCULINA de homem de 35 anos, baixa, lenta e misteriosa, espanhol latino neutro. NUNCA voz feminina.",
+     "rosto": "SEBASTIAN: um meio sorriso frio e misterioso.",
+     "corpo": "SEBASTIAN: inclina levemente a cabeca para o lado.",
+     "camera": "Corte seco. Close-up de SEBASTIAN, SLOW DOLLY IN; ao fundo, DESFOCADA, a silhueta de uma MULHER de vestido escuro passa devagar pelo corredor escuro atras da porta entreaberta. So SEBASTIAN tem a boca visivel."
+    }
+   ],
+   "regras_extra": [
+    "FALA DO COMECO AO FIM: o video comeca com FAUSTO ja falando e termina na ultima fala de SEBASTIAN, sem plano mudo final.",
+    "So uma boca visivel por plano: quem fala aparece nitido; os outros ficam de costas, desfocados ou calados.",
+    "VALENTINA, REMEDIOS e os segurancas NAO falam neste clipe. A silhueta da mulher no corredor aparece SO no ultimo plano, desfocada e sem rosto.",
+    "FAUSTO e SEBASTIAN tem voz MASCULINA: nunca vozes femininas.",
+    "Espanhol latino NEUTRO, nunca sotaque da Espanha.",
+    "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+   ],
+   "imagens": [
+    "FRAME_FAUSTO",
+    "FRAME_VALENTINA",
+    "FRAME_REMEDIOS"
+   ]
   }
  ]
 }
