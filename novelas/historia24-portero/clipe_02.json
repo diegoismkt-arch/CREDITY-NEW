@@ -1,0 +1,165 @@
+{
+  "IDIOMA_OBRIGATORIO": "TODAS as falas em ESPANHOL da ESPANHA (castelhano, sotaque espanhol de Madrid), exatamente como escritas no campo dialogue. NUNCA em portugues, nunca traduzir.",
+  "ATUACAO_PRIORIDADE_MAXIMA": "Revelacao e misterio, FALA DO COMECO AO FIM. JULIAN, com a mao no rosto vermelho do tapa e os olhos marejados, olha para JAVIER e o chama de filho. BEGONA fica em choque: o marido dizia que o pai estava morto. JULIAN recupera a dignidade e, calmo, lanca a pergunta que derruba tudo. JAVIER, palido, abaixa os olhos. Rostos muito expressivos, ninguem fica parado.",
+  "input_image": {
+    "required": false,
+    "mode": "Ingredients to Video, sem primeiro frame.",
+    "additional_references": true,
+    "reference_images": [
+      "Imagem 1 — frame do clipe 1 (por volta do segundo 3,5): DON JULIAN de uniforme de porteiro azul-marinho.",
+      "Imagem 2 — frame do clipe 1 (por volta do segundo 1,5): BEGONA de casaco camel.",
+      "Imagem 3 — frame do clipe 1 (por volta do segundo 8,8): JAVIER de terno cinza-escuro no elevador."
+    ],
+    "preserve_exactly": [
+      "BEGONA: o MESMO rosto da imagem 2, moradora rica de 40 anos, espanhola, rosto comum e desconhecido, pele clara, cabelo CASTANHO-ESCURO liso e escovado, OCULOS DE SOL apoiados na cabeca, CASACO CAMEL de grife sobre vestido preto, BOLSA de couro preta no braco, sem colar, sem brincos.",
+      "JULIAN: o MESMO rosto da imagem 1, porteiro de 72 anos, espanhol, rosto comum e desconhecido, pele clara enrugada, cabelo BRANCO curto, BIGODE branco, olhos castanhos cansados, UNIFORME de porteiro AZUL-MARINHO com botoes DOURADOS, camisa branca e gravata azul, sem joias.",
+      "JAVIER: o MESMO rosto da imagem 3, marido de BEGONA, 42 anos, espanhol, rosto comum e desconhecido, pele morena-clara, cabelo CASTANHO-ESCURO penteado, sobrancelhas grossas, BARBA aparada, TERNO CINZA-ESCURO com camisa branca, sem gravata, sem joias.",
+      "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
+      "O MESMO JULIAN da imagem 1, a MESMA BEGONA da imagem 2 e o MESMO JAVIER da imagem 3, com as mesmas roupas, no MESMO portal de marmore xadrez.",
+      "JULIAN tem a bochecha VERMELHA do tapa e os olhos marejados.",
+      "As duas malas de couro marrom continuam no chao."
+    ]
+  },
+  "scene": {
+    "title": "EL PORTERO",
+    "duration_seconds": 9.9,
+    "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
+    "structure": "3 planos de cinema em tela cheia, ligados por cortes secos. 3 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "style": "Drama cinematografico de novela espanhola. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos ESPANHOIS mediterraneos com imperfeicoes reais, textura real de pele. PORTAL classico de um predio de luxo no Barrio de Salamanca, Madrid, de DIA: piso de MARMORE xadrez preto e branco, caixas de correio de LATAO, ELEVADOR antigo com grade de FERRO trabalhado, a guarita de vidro e madeira do porteiro, espelho de moldura dourada, luz natural entrando pela porta de vidro e ferro da rua. Shallow Focus, cortes rapidos.",
+    "setting": "Continuacao, mesmo portal, segundos depois do tapa. JULIAN revela que JAVIER e filho dele; BEGONA descobre a mentira do marido.",
+    "blocking": [
+      "JULIAN: de pe ao lado das malas, a mao no rosto",
+      "BEGONA: de pe entre JULIAN e o elevador",
+      "JAVIER: parado na porta do elevador, atras de BEGONA"
+    ],
+    "characters": {
+      "BEGONA": "A MESMA da imagem 2. Personagem ficticia. Voz feminina alta, seca e desdenhosa de mulher espanhola de 40 anos, sotaque de Madrid.",
+      "JULIAN": "O MESMO da imagem 1. Personagem ficticio. Voz masculina rouca, baixa e humilde de senhor espanhol de 72 anos, sotaque de Madrid.",
+      "JAVIER": "O MESMO da imagem 3. Personagem ficticio. Voz masculina de homem espanhol de 42 anos, sotaque de Madrid."
+    }
+  },
+  "timeline": [
+    {
+      "time": "00:00.00-00:02.42",
+      "speaker": "JULIAN",
+      "dialogue": "Hola, hijo. Veinte años sin verte.",
+      "addressee": "JAVIER",
+      "eyeline": "JULIAN olha para JAVIER, na porta do elevador. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Falar com o filho com dor, saudade e tristeza.",
+      "voice": "Voz MASCULINA de senhor de 72 anos, rouca, baixa e embargada, sotaque espanhol. NUNCA voz feminina.",
+      "face": "JULIAN: lagrimas nos olhos, um sorriso triste e partido.",
+      "body": "JULIAN: tira devagar a mao do rosto vermelho e endireita o corpo.",
+      "camera": "Plano de abertura: Close-up de JULIAN, a bochecha vermelha do tapa, o elevador de ferro desfocado atras; SLOW PUSH IN. So JULIAN tem a boca visivel. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente JULIAN movimenta os labios."
+    },
+    {
+      "time": "00:02.42-00:05.96",
+      "speaker": "BEGONA",
+      "dialogue": "¿Hijo? Javier… me dijiste que tu padre estaba muerto.",
+      "addressee": "JAVIER",
+      "eyeline": "BEGONA olha para JULIAN e depois se vira para JAVIER, incredula. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Perguntar em choque, a arrogancia desmoronando.",
+      "voice": "Voz FEMININA de mulher de 40 anos, tremula, alta e incredula, sotaque espanhol. NUNCA voz de homem.",
+      "face": "BEGONA: boca aberta, olhos arregalados, palida.",
+      "body": "BEGONA: se vira devagar do porteiro para o marido, a bolsa escorregando do braco.",
+      "camera": "Corte seco. Medium Close-up de BEGONA, WHIP PAN acompanhando ela se virar para o elevador; JAVIER desfocado e calado ao fundo, na porta do elevador. So BEGONA tem a boca visivel. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente BEGONA movimenta os labios."
+    },
+    {
+      "time": "00:05.96-00:09.89",
+      "speaker": "JULIAN",
+      "dialogue": "Pregúntele de dónde salió el dinero de este piso.",
+      "addressee": "BEGONA",
+      "eyeline": "JULIAN olha fixo para BEGONA, calmo e firme. NAO olha para a camera.",
+      "emotion_level": 10,
+      "intention": "Lancar a pergunta com calma e dignidade, sabendo o segredo.",
+      "voice": "Voz MASCULINA de senhor de 72 anos, grave, calma e firme, sotaque espanhol. NUNCA voz feminina.",
+      "face": "JULIAN: olhar firme e digno, sem raiva, so dor e verdade.",
+      "body": "JULIAN: ajeita a gola do uniforme e ergue o queixo.",
+      "camera": "Corte seco. Close-up frontal de JULIAN em LOW ANGLE, a luz da rua atras dele; SLOW DOLLY IN ate os olhos. So JULIAN tem a boca visivel. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente JULIAN movimenta os labios."
+    }
+  ],
+  "dialogue_rules": {
+    "language": "Espanol de Espana (castellano), acento espanol peninsular natural, TODAS as palavras em espanhol. NUNCA sotaque latino-americano.",
+    "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
+    "total_dialogue_lines": 3,
+    "exact_order": [
+      "JULIAN",
+      "BEGONA",
+      "JULIAN"
+    ],
+    "rules": [
+      "So existem 3 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "A ultima fala termina 0.4 s antes do fim do video, inteira, sem cortar nenhuma palavra.",
+      "Cada fala e dirigida a: JULIAN -> JAVIER; BEGONA -> JAVIER; JULIAN -> BEGONA.",
+      "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
+      "Nao repetir, misturar, traduzir ou acrescentar palavras.",
+      "Cada frase e dita INTEIRA, do comeco ao fim.",
+      "FALA DO COMECO AO FIM: o video comeca com JULIAN ja falando e termina na ultima fala de JULIAN, sem plano mudo final.",
+      "So uma boca visivel por plano: quem fala aparece nitido; os outros ficam de costas, desfocados ou calados.",
+      "JAVIER NAO fala neste clipe.",
+      "BEGONA tem voz FEMININA; JULIAN tem voz MASCULINA de idoso: nunca trocar as vozes.",
+      "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
+      "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+    ]
+  },
+  "audio": {
+    "single_voice_at_a_time": true,
+    "sound": "O silencio pesado do portal; a respiracao tremula de JULIAN; o relogio da guarita; sem musica.",
+    "music": "Nenhuma.",
+    "narration": "Nenhuma.",
+    "subtitles": "Nao gerar."
+  },
+  "negative_prompt": [
+    "duas vozes ao mesmo tempo",
+    "voz masculina nas falas de begona",
+    "voz feminina nas falas de julian",
+    "voz feminina nas falas de javier",
+    "rosto ou boca do ouvinte visivel nos planos de fala",
+    "personagem falando de frente para a camera",
+    "sotaque latino-americano",
+    "sotaque mexicano",
+    "legendas embutidas",
+    "subtitles",
+    "captions",
+    "texto das falas escrito na tela",
+    "letras brancas na parte de baixo do video",
+    "letras na tela",
+    "personagens parados como estatuas",
+    "julian caindo no chao",
+    "letras nas caixas de correio",
+    "noite",
+    "aparencia americana",
+    "javier falando",
+    "novo tapa",
+    "texto ou letras em qualquer lugar",
+    "nome ou idade de personagem escrito na tela",
+    "letreiro de apresentacao de personagem (lower third)",
+    "palavra inventada no ultimo plano",
+    "fala repetida",
+    "fala adiantada ou atrasada para outro plano",
+    "personagem falando ou olhando para quem nao e o destinatario da fala",
+    "fala neutra ou monotona",
+    "rosto neutro ou expressao vazia",
+    "voz sem rosto na tela",
+    "tela dividida",
+    "colagem",
+    "formato horizontal",
+    "bordas pretas",
+    "palavras em ingles",
+    "palavras em portugues",
+    "duas vozes simultaneas",
+    "movimento labial do ouvinte",
+    "fala cortada, encurtada ou incompleta",
+    "personagem olhando para a camera",
+    "mudanca de rosto",
+    "mudanca de roupa",
+    "legendas",
+    "logotipo",
+    "marca-d'agua",
+    "trilha sonora"
+  ]
+}
