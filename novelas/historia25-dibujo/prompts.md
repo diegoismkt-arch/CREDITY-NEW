@@ -1,0 +1,198 @@
+# 
+
+**Legenda:** 
+
+**Texto na edição (final):** ¿Qué harías tú si fueras Cayetana? 👇
+
+
+## Clipe 1 — O presente no lixo
+
+clipe 1: 9.7s, 9.3s de fala (23 palavras, 4 planos, falantes: CAYETANA, ROSA, LUCIA, ALVARO) ✅
+
+Sem imagem de referência (Text to Video).
+
+```json
+{
+  "IDIOMA_OBRIGATORIO": "TODAS as falas em ESPANHOL da ESPANHA (castelhano, sotaque espanhol de Madrid), exatamente como escritas no campo dialogue. NUNCA em portugues, nunca traduzir.",
+  "ATUACAO_PRIORIDADE_MAXIMA": "Drama de humilhacao, FALA DO COMECO AO FIM. Na festa de aniversario do filho, CAYETANA pega o presente simples da empregada ROSA e o joga no lixo na frente de todos. ROSA, magoada, segura o choro. Sem perceber nada, a pequena LUCIA corre FELIZ ate DON ALVARO e entrega um desenho. ALVARO sorri, sem entender. LUCIA esta SEMPRE feliz e segura; ninguem grita com ela. Rostos muito expressivos, ninguem fica parado.",
+  "consistency": [
+    "CAYETANA: dona da casa de 40 anos, espanhola, rosto comum e desconhecido, pele clara, cabelo CASTANHO-CLARO liso com escova, VESTIDO AZUL-CLARO elegante, sem joias.",
+    "ROSA: empregada de 35 anos, espanhola, rosto comum e desconhecido, pele morena-clara mediterranea, cabelo CASTANHO-ESCURO preso em COQUE, olhos castanhos, UNIFORME PRETO com AVENTAL BRANCO, sem joias.",
+    "LUCIA: menina pequena, filha de ROSA, feliz e sorridente, cabelo CASTANHO-ESCURO cacheado, olhos castanhos, VESTIDO AMARELO simples, sapatilhas brancas; segura uma FOLHA de papel com um DESENHO de giz de cera: tres bonecos de palito de maos dadas (um homem, uma mulher e uma menina), um sol e uma casinha, SEM letras.",
+    "ALVARO: marido de CAYETANA, 45 anos, espanhol, rosto comum e desconhecido, pele morena-clara, cabelo CASTANHO-ESCURO com fios GRISALHOS nas temporas, BARBA aparada, olhos castanhos, CAMISA BRANCA e BLAZER AZUL-MARINHO, sem joias.",
+    "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
+    "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
+    "O PRESENTE de ROSA: uma caixinha pequena embrulhada em papel PARDO simples com um barbante, sem letras.",
+    "LUCIA esta SEMPRE feliz, sorridente e segura; ninguem grita com ela nem toca nela.",
+    "Todos ficam PERTO, no MESMO jardim, o mesmo fundo de baloes e piscina."
+  ],
+  "scene": {
+    "title": "EL DIBUJO",
+    "duration_seconds": 9.8,
+    "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
+    "structure": "4 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "style": "Drama cinematografico de novela espanhola. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos ESPANHOIS mediterraneos com imperfeicoes reais, textura real de pele. JARDIM de uma mansao em La Moraleja, Madrid, de DIA ensolarado: festa de aniversario infantil elegante, BALOES coloridos, mesa de PRESENTES com laços, bolo grande de varios andares, piscina azul ao fundo, gramado verde, convidados elegantes. Luz quente de sol. Shallow Focus, cortes rapidos.",
+    "setting": "Dia, festa de aniversario infantil no jardim da mansao. CAYETANA humilha a empregada ROSA jogando o presente dela no lixo. A filha de ROSA, LUCIA, entrega um desenho a DON ALVARO.",
+    "blocking": [
+      "CAYETANA: de pe junto a mesa de presentes, ao lado de uma lixeira",
+      "ROSA: de pe em frente a CAYETANA, junto a mesa de presentes",
+      "LUCIA: corre pelo gramado da mesa de presentes ate ALVARO",
+      "ALVARO: de pe perto do bolo, a poucos passos da mesa de presentes"
+    ],
+    "characters": {
+      "CAYETANA": "dona da casa de 40 anos, espanhola, rosto comum e desconhecido, pele clara, cabelo CASTANHO-CLARO liso com escova, VESTIDO AZUL-CLARO elegante, sem joias. Personagem ficticia. Voz feminina fria e desdenhosa de mulher espanhola de 40 anos, sotaque de Madrid.",
+      "ROSA": "empregada de 35 anos, espanhola, rosto comum e desconhecido, pele morena-clara mediterranea, cabelo CASTANHO-ESCURO preso em COQUE, olhos castanhos, UNIFORME PRETO com AVENTAL BRANCO, sem joias. Personagem ficticia. Voz feminina humilde e doce de mulher espanhola de 35 anos, sotaque de Madrid.",
+      "LUCIA": "menina pequena, filha de ROSA, feliz e sorridente, cabelo CASTANHO-ESCURO cacheado, olhos castanhos, VESTIDO AMARELO simples, sapatilhas brancas; segura uma FOLHA de papel com um DESENHO de giz de cera: tres bonecos de palito de maos dadas (um homem, uma mulher e uma menina), um sol e uma casinha, SEM letras. Personagem ficticia. Voz de MENINA pequena, doce, alegre e animada, sotaque espanhol.",
+      "ALVARO": "marido de CAYETANA, 45 anos, espanhol, rosto comum e desconhecido, pele morena-clara, cabelo CASTANHO-ESCURO com fios GRISALHOS nas temporas, BARBA aparada, olhos castanhos, CAMISA BRANCA e BLAZER AZUL-MARINHO, sem joias. Personagem ficticio. Voz masculina grave de homem espanhol de 45 anos, sotaque de Madrid."
+    }
+  },
+  "timeline": [
+    {
+      "time": "00:00.00-00:02.05",
+      "speaker": "CAYETANA",
+      "dialogue": "Aquí no queremos basura, Rosa.",
+      "addressee": "ROSA",
+      "eyeline": "CAYETANA olha para ROSA com desprezo. NAO olha para a camera.",
+      "emotion_level": 9,
+      "intention": "Humilhar a empregada em publico, com frieza.",
+      "voice": "Voz FEMININA de mulher de 40 anos, fria, seca e desdenhosa, sotaque espanhol. NUNCA voz de homem.",
+      "face": "CAYETANA: sorriso de desprezo, nariz empinado.",
+      "body": "CAYETANA: pega a caixinha de papel pardo da mesa de presentes com dois dedos e a SOLTA dentro da lixeira.",
+      "camera": "Plano de abertura: Medium Shot de CAYETANA junto a mesa de presentes, ROSA de costas e desfocada na borda; TILT DOWN acompanhando o presente cair na lixeira e de volta ao rosto dela. So CAYETANA tem a boca visivel. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente CAYETANA movimenta os labios."
+    },
+    {
+      "time": "00:02.05-00:04.84",
+      "speaker": "ROSA",
+      "dialogue": "Lo compré con lo poco que tengo.",
+      "addressee": "CAYETANA",
+      "eyeline": "ROSA olha para CAYETANA e depois para a lixeira. NAO olha para a camera.",
+      "emotion_level": 9,
+      "intention": "Responder magoada, com dignidade, segurando o choro.",
+      "voice": "Voz FEMININA de mulher de 35 anos, baixa, tremula e magoada, sotaque espanhol. NUNCA voz de homem.",
+      "face": "ROSA: olhos cheios de lagrimas, o queixo tremendo.",
+      "body": "ROSA: aperta as maos no avental.",
+      "camera": "Corte seco. Close-up de ROSA por cima do ombro de CAYETANA (de costas, desfocada na borda), os baloes em bokeh atras; SLOW PUSH IN. So ROSA tem a boca visivel. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente ROSA movimenta os labios."
+    },
+    {
+      "time": "00:04.84-00:07.27",
+      "speaker": "LUCIA",
+      "dialogue": "¡Mira! Lo he dibujado para ti.",
+      "addressee": "ALVARO",
+      "eyeline": "LUCIA olha para cima, para DON ALVARO, sorrindo. NAO olha para a camera.",
+      "emotion_level": 8,
+      "intention": "Entregar o desenho com alegria e carinho.",
+      "voice": "Voz de MENINA pequena, alta, alegre e animada, sotaque espanhol. NUNCA voz de homem nem de mulher adulta.",
+      "face": "LUCIA: sorriso enorme, olhos brilhando.",
+      "body": "LUCIA: corre feliz pelo gramado ate ALVARO e estica os bracos com o DESENHO.",
+      "camera": "Corte seco. TRACKING na altura da menina acompanhando LUCIA correndo pelo gramado ate ALVARO (de costas, desfocado na borda); ela para e estende o desenho. So LUCIA tem a boca visivel. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente LUCIA movimenta os labios."
+    },
+    {
+      "time": "00:07.27-00:09.72",
+      "speaker": "ALVARO",
+      "dialogue": "¿Para mí? ¿Quiénes son estos?",
+      "addressee": "LUCIA",
+      "eyeline": "DON ALVARO olha para o desenho e depois para LUCIA, sorrindo. NAO olha para a camera.",
+      "emotion_level": 7,
+      "intention": "Perguntar com carinho, sem entender nada.",
+      "voice": "Voz MASCULINA de homem de 45 anos, grave e gentil, sotaque espanhol. NUNCA voz feminina.",
+      "face": "DON ALVARO: sorriso educado, sobrancelhas erguidas de curiosidade.",
+      "body": "DON ALVARO: se agacha, pega o desenho com as duas maos e olha os bonecos.",
+      "camera": "Corte seco. Close-up de DON ALVARO agachado segurando o desenho em primeiro plano (sem letras); RACK FOCUS do desenho para o rosto dele. So ALVARO tem a boca visivel. A fala comeca no primeiro instante do plano.",
+      "mouths": "Somente ALVARO movimenta os labios."
+    }
+  ],
+  "dialogue_rules": {
+    "language": "Espanol de Espana (castellano), acento espanol peninsular natural, TODAS as palavras em espanhol. NUNCA sotaque latino-americano.",
+    "performance": "Novela: cada fala com a entonacao do campo voice e a expressao do campo face.",
+    "total_dialogue_lines": 4,
+    "exact_order": [
+      "CAYETANA",
+      "ROSA",
+      "LUCIA",
+      "ALVARO"
+    ],
+    "rules": [
+      "So existem 4 falas, cada uma dita UMA UNICA VEZ, no plano do seu dono.",
+      "A ultima fala termina 0.4 s antes do fim do video, inteira, sem cortar nenhuma palavra.",
+      "Cada fala e dirigida a: CAYETANA -> ROSA; ROSA -> CAYETANA; LUCIA -> ALVARO; ALVARO -> LUCIA.",
+      "Quem fala olha para o destinatario da fala (campo eyeline), nunca para outra pessoa.",
+      "Nao repetir, misturar, traduzir ou acrescentar palavras.",
+      "Cada frase e dita INTEIRA, do comeco ao fim.",
+      "FALA DO COMECO AO FIM: o video comeca com CAYETANA ja falando e termina na ultima fala de ALVARO, sem plano mudo final.",
+      "So uma boca visivel por plano: quem fala aparece nitido; os outros ficam de costas, desfocados ou calados.",
+      "LUCIA esta SEMPRE feliz e segura; ninguem grita com ela nem toca nela.",
+      "CAYETANA e ROSA tem voz FEMININA adulta; LUCIA tem voz de MENINA pequena; ALVARO tem voz MASCULINA: nunca trocar as vozes.",
+      "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
+      "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+    ]
+  },
+  "audio": {
+    "single_voice_at_a_time": true,
+    "sound": "Musica infantil baixa ao fundo; risadas distantes de convidados; o barulho seco do presente caindo na lixeira; sem trilha dramatica.",
+    "music": "Nenhuma.",
+    "narration": "Nenhuma.",
+    "subtitles": "Nao gerar."
+  },
+  "negative_prompt": [
+    "duas vozes ao mesmo tempo",
+    "voz masculina nas falas de cayetana",
+    "voz masculina nas falas de rosa",
+    "voz de mulher adulta nas falas de lucia",
+    "voz masculina nas falas de lucia",
+    "voz feminina nas falas de alvaro",
+    "rosto ou boca do ouvinte visivel nos planos de fala",
+    "personagem falando de frente para a camera",
+    "sotaque latino-americano",
+    "sotaque mexicano",
+    "legendas embutidas",
+    "subtitles",
+    "captions",
+    "texto das falas escrito na tela",
+    "letras brancas na parte de baixo do video",
+    "letras na tela",
+    "personagens parados como estatuas",
+    "lucia triste",
+    "lucia chorando",
+    "letras no desenho",
+    "letras no presente",
+    "convidados falando",
+    "noite",
+    "aparencia americana",
+    "texto ou letras em qualquer lugar",
+    "nome ou idade de personagem escrito na tela",
+    "letreiro de apresentacao de personagem (lower third)",
+    "palavra inventada no ultimo plano",
+    "fala repetida",
+    "fala adiantada ou atrasada para outro plano",
+    "personagem falando ou olhando para quem nao e o destinatario da fala",
+    "fala neutra ou monotona",
+    "rosto neutro ou expressao vazia",
+    "voz sem rosto na tela",
+    "tela dividida",
+    "colagem",
+    "formato horizontal",
+    "bordas pretas",
+    "palavras em ingles",
+    "palavras em portugues",
+    "duas vozes simultaneas",
+    "movimento labial do ouvinte",
+    "fala cortada, encurtada ou incompleta",
+    "personagem olhando para a camera",
+    "mudanca de rosto",
+    "mudanca de roupa",
+    "legendas",
+    "logotipo",
+    "marca-d'agua",
+    "trilha sonora"
+  ]
+}
+```
+
+**Depois de gerar este clipe, salve os frames:**
+- **FRAME_CAYETANA:** frame do clipe 1 (por volta do segundo 1,5): CAYETANA de vestido azul-claro.
+- **FRAME_ROSA:** frame do clipe 1 (por volta do segundo 4,0): ROSA de uniforme preto e avental branco.
+- **FRAME_LUCIA:** frame do clipe 1 (por volta do segundo 6,3): LUCIA de vestido amarelo com o desenho.
+- **FRAME_ALVARO:** frame do clipe 1 (por volta do segundo 8,8): DON ALVARO de camisa branca e blazer azul-marinho.
