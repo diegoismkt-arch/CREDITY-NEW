@@ -197,3 +197,6 @@ Variar: protagonista (idoso, mae, esposa, trabalhador humilde, professor), relac
 
 ## MISTERIO = CURIOSIDADE (pedido do usuario)
 Misterio NAO e sombrio nem terror. E uma pergunta intrigante que o publico quer ver respondida (quem e essa pessoa? o que tem ali? por que ela fez isso?), aberta logo no 1o segundo e ampliada no final para pedir PARTE 2. Tom de novela familiar, calido, com ancora cultural espanhola.
+
+## GANCHO COM MAIS DE UMA PESSOA (dado do usuario)
+Os videos performam melhor quando o PRIMEIRO plano ja mostra 2+ pessoas no quadro (o conflito visivel entre elas). Plano de abertura = Medium-Wide/Two-shot com quem humilha e quem e humilhado juntos (e plateia ao redor, se houver), nunca um close solo. Quem nao fala fica calado, de perfil ou de costas.

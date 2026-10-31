@@ -108,7 +108,7 @@
      "voz": "Voz FEMININA de mulher de 40 anos, fria, seca e desdenhosa, sotaque espanhol. NUNCA voz de homem.",
      "rosto": "CAYETANA: sorriso de desprezo, nariz empinado.",
      "corpo": "CAYETANA: pega a caixinha de papel pardo da mesa de presentes com dois dedos e a SOLTA dentro da lixeira.",
-     "camera": "Plano de abertura: Medium Shot de CAYETANA junto a mesa de presentes, ROSA de costas e desfocada na borda; TILT DOWN acompanhando o presente cair na lixeira e de volta ao rosto dela. So CAYETANA tem a boca visivel."
+     "camera": "Plano de abertura: MEDIUM-WIDE SHOT ja com VARIAS pessoas no quadro desde o primeiro instante: CAYETANA e ROSA frente a frente junto a mesa de presentes (ROSA de perfil, calada), convidados elegantes ao redor olhando a cena, e ao fundo LUCIA com o desenho na mao e DON ALVARO perto do bolo; CAYETANA solta o presente na lixeira; DOLLY IN rapido ate ela. So CAYETANA tem a boca visivel."
     },
     {
      "quem": "ROSA",
@@ -154,7 +154,8 @@
     "CAYETANA e ROSA tem voz FEMININA adulta; LUCIA tem voz de MENINA pequena; ALVARO tem voz MASCULINA: nunca trocar as vozes.",
     "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
     "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
-   ]
+   ],
+   "nota": "v1 ajustado antes de gerar: gancho com varias pessoas no quadro (regra nova)."
   }
  ]
 }
