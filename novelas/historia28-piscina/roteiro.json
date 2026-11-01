@@ -1,0 +1,156 @@
+{
+ "idioma": "espanha",
+ "titulo_interno": "LA PISCINA",
+ "titulo_post": "",
+ "legenda": "",
+ "texto_final": "¿Quién crees que es Rosa para esa niña? 👇",
+ "estilo": "Drama cinematografico de novela espanhola, camera na mao acompanhando a ACAO. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos ESPANHOIS mediterraneos com imperfeicoes reais, textura real de pele. FESTA de tarde numa VILLA de luxo em Marbella: PISCINA de agua azul turquesa, ESPREGUICADEIRAS brancas, PALMEIRAS, fachada branca, convidados elegantes de roupa de verao com tacas, luz dourada de sol de fim de tarde. Planos MEDIOS com os personagens JUNTOS no quadro, poucos cortes.",
+ "imagens": {
+  "FRAME_BEGONA": "frame do clipe 1 (por volta do segundo 1,5): BEGONA de vestido branco ao celular.",
+  "FRAME_ROSA": "frame do clipe 1 (por volta do segundo 6,0): ROSA encharcada abracando SOFIA.",
+  "FRAME_SOFIA": "frame do clipe 1 (por volta do segundo 6,5): SOFIA molhada de vestidinho amarelo."
+ },
+ "personagens": {
+  "BEGONA": {
+   "descricao": "mae rica de 38 anos, espanhola, rosto comum e desconhecido, pele clara bronzeada, cabelo CASTANHO-CLARO escovado, VESTIDO BRANCO de verao, OCULOS ESCUROS apoiados na cabeca, uma TACA de cava numa mao e o CELULAR na outra, sem joias.",
+   "voz": "Voz feminina alta, futil e arrogante de mulher espanhola de 38 anos, sotaque de Madrid.",
+   "frame": "FRAME_BEGONA",
+   "feminino": true
+  },
+  "SOFIA": {
+   "descricao": "menina pequena, filha de BEGONA, cabelo CASTANHO cacheado, olhos castanhos, VESTIDINHO AMARELO de verao, descalca.",
+   "voz": "Voz de MENINA pequena, baixinha e assustada, sotaque espanhol.",
+   "frame": "FRAME_SOFIA",
+   "feminino": true
+  },
+  "ROSA": {
+   "descricao": "empregada de 40 anos, espanhola, rosto comum e desconhecido, pele morena-clara mediterranea, cabelo CASTANHO-ESCURO preso em COQUE, olhos castanhos, UNIFORME PRETO com AVENTAL BRANCO, sem joias.",
+   "voz": "Voz feminina doce, firme e protetora de mulher espanhola de 40 anos, sotaque de Madrid.",
+   "frame": "FRAME_ROSA",
+   "feminino": true
+  },
+  "JAVIER": {
+   "descricao": "pai de SOFIA, 42 anos, espanhol, rosto comum e desconhecido, pele morena-clara, cabelo castanho-escuro, barba aparada, CAMISA DE LINHO BRANCA e calca bege, sem joias.",
+   "voz": "Voz masculina grave de homem espanhol de 42 anos, sotaque de Madrid."
+  }
+ },
+ "clips": [
+  {
+   "nome": "A queda",
+   "estrutura": "3 planos ligados por poucos cortes, camera na mao acompanhando a acao; 4 falas, cada uma dita UMA UNICA VEZ.",
+   "atuacao": "Suspense e emocao no AUGE desde o primeiro instante. BEGONA ri ao celular, distraida, com a taca na mao; ATRAS dela, a pequena SOFIA escorrega na borda e CAI na piscina com um splash. A empregada ROSA ve, larga a bandeja e PULA na agua de uniforme. ROSA tira SOFIA da agua e a abraca na borda; a menina tosse, assustada, mas BEM. BEGONA chega e, em vez de agradecer, reclama do vestido molhado. Rostos muito expressivos, ninguem fica parado.",
+   "personagens": [
+    "BEGONA",
+    "ROSA",
+    "SOFIA"
+   ],
+   "posicoes": {
+    "BEGONA": "em primeiro plano perto das espreguicadeiras, de costas para a piscina, ao celular",
+    "SOFIA": "brincando na borda da piscina, atras de BEGONA",
+    "ROSA": "servindo convidados com uma bandeja, do outro lado da piscina"
+   },
+   "preservar_extra": [
+    "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
+    "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
+    "SOFIA so ESCORREGA e cai na agua por ACIDENTE; ninguem a empurra; ela fica debaixo da agua so um instante e e salva logo; depois esta BEM, so assustada e tossindo.",
+    "Depois do resgate, ROSA e SOFIA estao MOLHADAS; o uniforme de ROSA encharcado.",
+    "Os personagens aparecem JUNTOS no quadro em planos MEDIOS; nada de close isolado."
+   ],
+   "cenario": "Tarde, festa na villa em Marbella. Enquanto a mae ri ao celular, a filha pequena cai na piscina; a empregada pula e a salva.",
+   "som": "Musica de festa baixa; risadas; o SPLASH da queda na agua; a bandeja e as tacas caindo; a tosse de SOFIA; sem trilha dramatica.",
+   "remover_negativos": [
+    "dois rostos visiveis nos planos de fala",
+    "atuacao contida",
+    "rosto ou boca do ouvinte visivel nos planos de fala"
+   ],
+   "negativos_extra": [
+    "duas vozes ao mesmo tempo",
+    "voz masculina nas falas de begona",
+    "voz masculina nas falas de rosa",
+    "voz de mulher adulta nas falas de sofia",
+    "voz feminina nas falas de javier",
+    "sotaque latino-americano",
+    "sotaque mexicano",
+    "legendas embutidas",
+    "subtitles",
+    "captions",
+    "texto das falas escrito na tela",
+    "letras brancas na parte de baixo do video",
+    "letras na tela",
+    "personagens parados como estatuas",
+    "sofia machucada",
+    "sofia desmaiada",
+    "sofia muito tempo debaixo da agua",
+    "alguem empurrando sofia",
+    "convidados falando",
+    "noite",
+    "aparencia americana",
+    "closes isolados de uma pessoa so"
+   ],
+   "salvar_frames": [
+    "FRAME_BEGONA",
+    "FRAME_ROSA",
+    "FRAME_SOFIA"
+   ],
+   "planos": [
+    {
+     "quem": "BEGONA",
+     "para": "TELEFONE",
+     "fala": "¡Que sí, mujer, la fiesta es un éxito!",
+     "emocao": 8,
+     "eyeline": "BEGONA olha para o lado, rindo ao celular, de costas para a piscina. NAO olha para a camera.",
+     "intencao": "Se gabar ao telefone, distraida e futil.",
+     "voz": "Voz FEMININA de mulher de 38 anos, alta, rindo, futil, sotaque espanhol. NUNCA voz de homem.",
+     "rosto": "BEGONA: rindo alto, distraida. SOFIA, ao fundo: assusta-se ao escorregar.",
+     "corpo": "BEGONA ri com a taca na mao e o celular na orelha; ao FUNDO, atras dela, SOFIA escorrega na borda e CAI na piscina com um splash.",
+     "camera": "Plano de abertura: MEDIUM SHOT ja com varias pessoas no quadro: BEGONA nitida em primeiro plano rindo ao celular, convidados ao lado, e ao FUNDO a piscina onde SOFIA escorrega e cai com um splash; HANDHELD. So BEGONA fala. A fala comeca no primeiro instante do plano."
+    },
+    {
+     "quem": "ROSA",
+     "para": "CONVIDADOS",
+     "fala": "¡Sofía! ¡La niña!",
+     "emocao": 10,
+     "eyeline": "ROSA olha para a piscina, desesperada. NAO olha para a camera.",
+     "intencao": "Gritar de susto e correr para salvar a menina.",
+     "voz": "Voz FEMININA de mulher de 40 anos, alta, desesperada, sotaque espanhol. NUNCA voz de homem.",
+     "rosto": "ROSA: olhos arregalados de pavor.",
+     "corpo": "ROSA larga a bandeja (as tacas caem), corre pela borda e PULA na piscina de uniforme.",
+     "camera": "Corte seco. MEDIUM SHOT em TRACKING acompanhando ROSA correndo pela borda e pulando na agua; os convidados assustados ao fundo. So ROSA fala. A fala comeca no primeiro instante do plano."
+    },
+    {
+     "quem": "ROSA",
+     "para": "SOFIA",
+     "fala": "Ya está, mi vida… ya está.",
+     "emocao": 9,
+     "eyeline": "ROSA olha para SOFIA nos bracos dela, com carinho. NAO olha para a camera.",
+     "intencao": "Acalmar a menina com amor, ainda ofegante.",
+     "voz": "Voz FEMININA de mulher de 40 anos, ofegante, doce e protetora, sotaque espanhol. NUNCA voz de homem.",
+     "rosto": "ROSA: alivio e lagrimas, encharcada. SOFIA: tossindo, assustada, agarrada a ROSA, calada.",
+     "corpo": "ROSA, sentada na borda e encharcada, abraca SOFIA molhada contra o peito e afasta o cabelo do rosto dela.",
+     "camera": "Corte seco. TWO-SHOT de ROSA e SOFIA abracadas na borda da piscina, as duas molhadas; SLOW PUSH IN. So ROSA fala. A fala comeca no primeiro instante do plano."
+    },
+    {
+     "quem": "BEGONA",
+     "para": "ROSA",
+     "fala": "¡Suéltala! ¡Me has empapado el vestido!",
+     "emocao": 10,
+     "eyeline": "BEGONA olha para ROSA de cima, furiosa. NAO olha para a camera.",
+     "intencao": "Reclamar do vestido em vez de agradecer, fria e egoista.",
+     "voz": "Voz FEMININA de mulher de 38 anos, alta, irritada e fria, sotaque espanhol. NUNCA voz de homem.",
+     "rosto": "BEGONA: cara de nojo olhando a mancha de agua no vestido branco. ROSA e SOFIA: abracadas, caladas.",
+     "corpo": "BEGONA chega e para em pe ao lado delas, sacudindo a agua do vestido branco.",
+     "camera": "SEM CORTE do plano anterior, a camera sobe: MEDIUM SHOT com as TRES, BEGONA em pe sobre ROSA e SOFIA sentadas na borda; LOW ANGLE leve. So BEGONA fala. A fala comeca logo depois da fala de ROSA."
+    }
+   ],
+   "regras_extra": [
+    "Comeca no AUGE: no primeiro instante, atras de BEGONA, SOFIA ja cai na piscina.",
+    "FALA DO COMECO AO FIM: termina na ultima fala de BEGONA, sem plano mudo final.",
+    "SOFIA NAO fala neste clipe; ela fica BEM depois do resgate, so assustada.",
+    "Os personagens aparecem JUNTOS no quadro; so quem fala mexe os labios.",
+    "BEGONA e ROSA tem voz FEMININA adulta: nunca trocar as vozes.",
+    "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
+    "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+   ]
+  }
+ ]
+}
