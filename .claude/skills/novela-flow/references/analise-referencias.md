@@ -213,3 +213,19 @@ poderoso muda de lado; corta na acusação.
 ## Recusa "prejudicial a menores" (El taxista, clipe 8)
 - O Flow recusou 3 vezes com "prejudicial a menores" porque o prompt descrevia uma MENINA PEQUENA (6 anos) numa foto, dentro de uma cena de choro/culpa/morte.
 - Regra: NUNCA descrever crianca (idade, "menina", "nina") em prompt de cena tensa, triste ou de crime. Se a historia tem filho(a) morto(a), a foto mostra uma JOVEM ADULTA (18+) ou nao aparece. Nunca colocar "criancas" nem nos negativos.
+
+## Refs virais nov/2026 (transcritas com faster-whisper) — formato "O AVISO"
+REF HOSPITAL (15 s): avo de gesso na perna, medicos, menino entra correndo e quebra o gesso com uma pedra.
+ 0-2 AVO: "¡Eh, detente! ¡Sáquenlo de aquí!" | 2-6 MENINO: "Hay algo dentro." (close na rachadura: algo preto escondido)
+ 6-9 MEDICO: "Eso no estaba ahí cuando se lo pusieron." | 9-11 "¿Qué es eso?" | 11-13 MENINO (close): "Lo vi entrar con ella anoche." -> fim (quem e "ella"?)
+REF VILLA MARBELLA (10 s): festa de gala na piscina, gala bebe cava.
+ 0-2 EMPREGADA segura o braco dele: "Señor, no se beba eso." | 2-4 RICA: "¡Estás loca! ¿Qué te pasa?" (plano geral, convidados)
+ 4-6 EMPREGADA ajoelhada, apontando: "¡Ella ha echado algo en su copa!" | 6-8 RICA (close): "¡Eso es mentira!"
+ 8-10 GALA (close, frio): "Pues bébetela tú primero." -> fim
+POR QUE VIRALIZAM:
+1. Seg. 0: o personagem de MENOR status (crianca, empregada) faz um gesto ABSURDO/proibido que interrompe algo (quebra o gesso, segura o copo). O publico pensa "que loucura" -> fica.
+2. O poderoso reage com raiva ("¿estás loca?", "sáquenlo"), o publico duvida do pequeno por 2 s.
+3. ACUSACAO concreta em 1 frase: o gesto era um AVISO de perigo escondido (algo no gesso, algo na copa). Ninguem sofre violencia; o perigo e uma AMEACA oculta.
+4. Prova/negacao rapida (rachadura mostra o objeto; a acusada nega).
+5. ULTIMA FALA vira o jogo e NAO resolve: um TESTE ("bébetela tú primero") ou uma TESTEMUNHA que aponta um terceiro ("lo vi entrar con ella anoche"). O publico comenta tentando adivinhar.
+Ritmo: 5 falas curtas, ~2 s cada, 1 fala por corte; plano geral cheio no gancho, closes de reacao depois. Elenco bonito e produzido.

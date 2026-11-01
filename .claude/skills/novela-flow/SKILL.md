@@ -218,3 +218,7 @@ Gancho da ref do hospital: a CRIANCA e quem age (quebra o gesso do avo com uma p
 
 ## ACAO FISICA COM CRIANCA (licao: queda na piscina bugou)
 Nao encaixar queda + corrida + pulo + resgate em poucos segundos. Comecar com a crianca JA em perigo (ex.: ja na agua rasa, cabeca fora), UMA acao por vez, resgate num plano continuo SEM CORTE, ninguem desaparecendo debaixo da agua.
+
+## FORMATO "O AVISO" (refs virais nov/2026, ver analise-referencias.md)
+Gesto absurdo do mais fraco no seg. 0 -> raiva do poderoso -> acusacao de perigo escondido -> negacao/prova -> ultima fala que vira o jogo SEM resolver (teste ou testemunha). 5 falas de ~2 s. Crianca funciona como quem DESCOBRE/AVISA, nao como vitima.
+Transcrever refs: faster-whisper com o modelo "small" do npm @skillninja/shortmovie-telop-model-p0..p3 (juntar model.bin.part0-3), audio via ffmpeg para PCM 16 kHz.
