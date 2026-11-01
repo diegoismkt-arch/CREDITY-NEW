@@ -1,0 +1,262 @@
+{
+ "idioma": "espanha",
+ "titulo_interno": "EL AVE",
+ "titulo_post": "",
+ "legenda": "",
+ "texto_final": "¿Dónde está el tercero? 👇",
+ "estilo": "Drama cinematografico de novela espanhola. Fotografia hiper-realista, personagens ficticios interpretados por um ELENCO DE ATORES de serie espanhola da Netflix (Elite, Velvet): rostos europeus do sul da Espanha, sobrancelhas escuras marcadas, cabelo e figurino de producao, NADA de visual brasileiro ou latino-americano, textura real de pele. INTERIOR de um TREM DE ALTA VELOCIDADE espanhol (Madrid-Sevilla): poltronas cinza-azuladas, MESA entre quatro poltronas frente a frente, janela grande com campos de OLIVEIRAS da Andaluzia passando ao sol, outros passageiros ao fundo. Luz natural de dia pela janela. Plano de abertura com os TRES juntos; depois closes de reacao.",
+ "imagens": {
+  "FRAME_ANTONIO": "frame do clipe 1 (por volta do segundo 8): ANTONIO de cardiga bege, sem oculos.",
+  "FRAME_MANUEL": "frame do clipe 1 (por volta do segundo 5): MANUEL de terno cinza e oculos dourados.",
+  "FRAME_PABLO": "frame do clipe 1 (por volta do segundo 1): PABLO de moletom vermelho."
+ },
+ "personagens": {
+  "PABLO": {
+   "descricao": "menino de uns 8 anos, neto de ANTONIO, pele clara levemente oliva, cabelo CASTANHO-ESCURO ondulado, olhos castanhos GRANDES e expressivos, MOLETOM VERMELHO. APARENCIA de ator de serie espanhola (Elite, Velvet), nunca brasileira ou latino-americana.",
+   "voz": "Voz de MENINO de 8 anos, baixinha, espantada, sotaque espanhol de Madrid.",
+   "frame": "FRAME_PABLO"
+  },
+  "ANTONIO": {
+   "descricao": "avo de 72 anos, homem espanhol bonito e marcante, cabelo GRISALHO farto penteado para tras, BIGODE grisalho grosso, rosto largo, SEM OCULOS, CAMISA azul-clara e CARDIGA BEGE de trico. APARENCIA de ator de serie espanhola (Elite, Velvet), nunca brasileira ou latino-americana.",
+   "voz": "Voz masculina grave e rouca de homem espanhol de 72 anos, sotaque andaluz.",
+   "frame": "FRAME_ANTONIO"
+  },
+  "MANUEL": {
+   "descricao": "homem de 72 anos, GEMEO IDENTICO de ANTONIO: EXATAMENTE o mesmo rosto, o mesmo cabelo GRISALHO farto e o mesmo BIGODE grisalho grosso; a diferenca e so a roupa: TERNO CINZA-ESCURO, camisa branca, gravata azul-marinho e OCULOS de armacao fina dourada. APARENCIA de ator de serie espanhola (Elite, Velvet), nunca brasileira ou latino-americana.",
+   "voz": "Voz masculina grave, emocionada e tremula de homem espanhol de 72 anos, sotaque andaluz.",
+   "frame": "FRAME_MANUEL"
+  }
+ },
+ "clips": [
+  {
+   "nome": "Tu cara",
+   "estrutura": "4 planos: abertura com os TRES na mesa, SEM CORTE para o two-shot espelhado dos dois velhos, depois 2 closes de reacao; 4 falas, cada uma dita UMA UNICA VEZ.",
+   "atuacao": "Curiosidade e choque desde o primeiro instante. No trem, ANTONIO e o neto PABLO estao sentados lado a lado; na poltrona da FRENTE, do outro lado da mesa, MANUEL acabou de abaixar o jornal. PABLO, de olhos arregalados, puxa a manga do avo: o homem da frente tem a MESMA CARA do avo. Os dois velhos se encaram em silencio, espantados, como diante de um espelho. MANUEL comeca a tremer; ANTONIO fica sem ar. Rostos muito expressivos.",
+   "personagens": [
+    "PABLO",
+    "ANTONIO",
+    "MANUEL"
+   ],
+   "posicoes": {
+    "ANTONIO": "sentado do lado da JANELA, de um lado da mesa",
+    "PABLO": "sentado ao lado de ANTONIO, do lado do corredor",
+    "MANUEL": "sentado SOZINHO na poltrona da FRENTE, do outro lado da mesa, de frente para ANTONIO"
+   },
+   "preservar_extra": [
+    "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
+    "ANTONIO e MANUEL tem o MESMO ROSTO (gemeos identicos de 72 anos); diferenciam-se SO pela roupa: ANTONIO cardiga bege e sem oculos; MANUEL terno cinza e oculos dourados. Nunca trocar as roupas.",
+    "Os tres continuam SENTADOS nos mesmos lugares do comeco ao fim; ninguem se levanta.",
+    "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
+    "O jornal fica abaixado na mesa depois do primeiro instante."
+   ],
+   "cenario": "De dia, num trem de alta velocidade cruzando a Andaluzia. Um menino percebe que o desconhecido da frente tem a cara do avo.",
+   "som": "Ruido suave e continuo do trem em alta velocidade; murmurio baixo de passageiros; sem trilha dramatica.",
+   "remover_negativos": [
+    "dois rostos visiveis nos planos de fala",
+    "rosto ou boca do ouvinte visivel nos planos de fala"
+   ],
+   "negativos_extra": [
+    "duas vozes ao mesmo tempo",
+    "voz feminina",
+    "voz de adulto nas falas de pablo",
+    "voz de crianca nas falas de antonio",
+    "voz de crianca nas falas de manuel",
+    "sotaque latino-americano",
+    "sotaque mexicano",
+    "legendas embutidas",
+    "subtitles",
+    "captions",
+    "texto das falas escrito na tela",
+    "letras na tela",
+    "logotipo do trem",
+    "os dois velhos com a mesma roupa",
+    "antonio de oculos",
+    "manuel de cardiga",
+    "rostos diferentes entre antonio e manuel",
+    "alguem se levantando",
+    "personagens parados como estatuas",
+    "aparencia brasileira",
+    "aparencia latino-americana",
+    "aparencia americana",
+    "rostos genericos",
+    "maos deformadas",
+    "noite",
+    "metro",
+    "onibus"
+   ],
+   "salvar_frames": [
+    "FRAME_PABLO",
+    "FRAME_ANTONIO",
+    "FRAME_MANUEL"
+   ],
+   "planos": [
+    {
+     "quem": "PABLO",
+     "para": "ANTONIO",
+     "fala": "Abuelo… ese señor tiene tu cara.",
+     "emocao": 9,
+     "eyeline": "PABLO olha para o avo e aponta discretamente para MANUEL. NAO olha para a camera.",
+     "intencao": "Avisar o avo, assustado e fascinado.",
+     "voz": "Voz de MENINO de 8 anos, baixinha, espantada, sotaque espanhol. NUNCA voz de adulto.",
+     "rosto": "PABLO: olhos arregalados. ANTONIO: ainda distraido. MANUEL: congelado, olhando ANTONIO.",
+     "corpo": "PABLO puxa a manga do cardiga do avo e aponta para o homem da frente; MANUEL, do outro lado da mesa, segura o jornal recem-abaixado.",
+     "camera": "Plano de abertura desde o primeiro instante: MEDIUM SHOT pela lateral da mesa com os TRES no quadro: PABLO e ANTONIO de um lado, MANUEL do outro, de frente; janela com oliveiras ao fundo. So PABLO fala. A fala comeca no primeiro instante do plano."
+    },
+    {
+     "quem": "ANTONIO",
+     "para": "PABLO",
+     "fala": "¿Pero qué dices, chaval?",
+     "emocao": 8,
+     "eyeline": "ANTONIO comeca olhando PABLO rindo e entao vira e olha para MANUEL. NAO olha para a camera.",
+     "intencao": "Rir do neto e congelar ao ver o proprio rosto no homem da frente.",
+     "voz": "Voz MASCULINA de homem de 72 anos, grave e rouca, primeiro rindo e depois sem graca, sotaque andaluz. NUNCA voz de crianca.",
+     "rosto": "ANTONIO: o sorriso morre e vira espanto. MANUEL: olhando para ele, imovel.",
+     "corpo": "ANTONIO vira a cabeca devagar para o homem da frente e fica paralisado.",
+     "camera": "SEM CORTE do plano anterior: a camera gira para um TWO-SHOT de perfil dos dois velhos frente a frente sobre a mesa, como num ESPELHO: o mesmo rosto, roupas diferentes. So ANTONIO fala. A fala comeca logo depois da fala anterior, sem pausa."
+    },
+    {
+     "quem": "MANUEL",
+     "para": "ANTONIO",
+     "fala": "Perdone… ¿su madre se llamaba Remedios?",
+     "emocao": 9,
+     "eyeline": "MANUEL olha fixo nos olhos de ANTONIO. NAO olha para a camera.",
+     "intencao": "Perguntar com medo da resposta, a voz tremendo.",
+     "voz": "Voz MASCULINA de homem de 72 anos, grave e tremula, sotaque andaluz. NUNCA voz de crianca.",
+     "rosto": "MANUEL: olhos marejados atras dos oculos dourados, labios tremendo.",
+     "corpo": "MANUEL tira os oculos devagar com a mao tremula.",
+     "camera": "Corte seco. CLOSE-UP de MANUEL de terno cinza, por cima do ombro desfocado de ANTONIO; SLOW PUSH IN. So MANUEL fala. A fala comeca no primeiro instante do plano."
+    },
+    {
+     "quem": "ANTONIO",
+     "para": "MANUEL",
+     "fala": "Sí… ¿cómo sabe usted eso?",
+     "emocao": 10,
+     "eyeline": "ANTONIO olha para MANUEL, em choque. NAO olha para a camera.",
+     "intencao": "Perguntar sem ar, em choque.",
+     "voz": "Voz MASCULINA de homem de 72 anos, grave, rouca e sem ar, sotaque andaluz. NUNCA voz de crianca.",
+     "rosto": "ANTONIO: boca entreaberta, olhos arregalados, palido.",
+     "corpo": "ANTONIO leva a mao ao peito.",
+     "camera": "Corte seco. CLOSE-UP de ANTONIO de cardiga bege, PABLO desfocado ao lado olhando para ele; SLOW PUSH IN. So ANTONIO fala. A fala comeca no primeiro instante do plano."
+    }
+   ],
+   "regras_extra": [
+    "Comeca no AUGE: no primeiro instante PABLO ja aponta para MANUEL.",
+    "FALA DO COMECO AO FIM: termina na ultima fala de ANTONIO, sem plano mudo final.",
+    "ANTONIO e MANUEL tem o MESMO rosto; so a roupa e os oculos os diferenciam.",
+    "Os personagens aparecem JUNTOS no plano de abertura; so quem fala mexe os labios.",
+    "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
+    "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+   ]
+  },
+  {
+   "nome": "Eramos tres",
+   "estrutura": "3 planos ligados por cortes secos; 3 falas, cada uma dita UMA UNICA VEZ.",
+   "atuacao": "Continuacao imediata, emocao no AUGE. No trem, ANTONIO e o neto PABLO sentados lado a lado; MANUEL, gemeo identico de ANTONIO, na frente, do outro lado da mesa, sem os oculos na mao, chorando. MANUEL revela que a mae deles ouviu que ele nascera morto. ANTONIO, com lagrimas, estende a mao por cima da mesa. MANUEL segura a mao dele e revela algo ainda maior. Rostos muito expressivos.",
+   "personagens": [
+    "PABLO",
+    "ANTONIO",
+    "MANUEL"
+   ],
+   "posicoes": {
+    "ANTONIO": "sentado do lado da JANELA, de um lado da mesa",
+    "PABLO": "sentado ao lado de ANTONIO, do lado do corredor",
+    "MANUEL": "sentado SOZINHO na poltrona da FRENTE, do outro lado da mesa, de frente para ANTONIO"
+   },
+   "preservar_extra": [
+    "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
+    "ANTONIO e MANUEL tem o MESMO ROSTO (gemeos identicos de 72 anos); diferenciam-se SO pela roupa: ANTONIO cardiga bege e sem oculos; MANUEL terno cinza e oculos dourados. Nunca trocar as roupas.",
+    "Os tres continuam SENTADOS nos mesmos lugares do comeco ao fim; ninguem se levanta.",
+    "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
+    "O jornal fica dobrado na mesa."
+   ],
+   "cenario": "De dia, num trem de alta velocidade cruzando a Andaluzia. Um menino percebe que o desconhecido da frente tem a cara do avo.",
+   "som": "Ruido suave e continuo do trem em alta velocidade; murmurio baixo de passageiros; sem trilha dramatica.",
+   "remover_negativos": [
+    "dois rostos visiveis nos planos de fala",
+    "rosto ou boca do ouvinte visivel nos planos de fala"
+   ],
+   "negativos_extra": [
+    "duas vozes ao mesmo tempo",
+    "voz feminina",
+    "voz de adulto nas falas de pablo",
+    "voz de crianca nas falas de antonio",
+    "voz de crianca nas falas de manuel",
+    "sotaque latino-americano",
+    "sotaque mexicano",
+    "legendas embutidas",
+    "subtitles",
+    "captions",
+    "texto das falas escrito na tela",
+    "letras na tela",
+    "logotipo do trem",
+    "os dois velhos com a mesma roupa",
+    "antonio de oculos",
+    "manuel de cardiga",
+    "rostos diferentes entre antonio e manuel",
+    "alguem se levantando",
+    "personagens parados como estatuas",
+    "aparencia brasileira",
+    "aparencia latino-americana",
+    "aparencia americana",
+    "rostos genericos",
+    "maos deformadas",
+    "noite",
+    "metro",
+    "onibus"
+   ],
+   "salvar_frames": [],
+   "planos": [
+    {
+     "quem": "MANUEL",
+     "para": "ANTONIO",
+     "fala": "Porque es mi madre. Le dijeron que nací muerto.",
+     "emocao": 10,
+     "eyeline": "MANUEL olha para ANTONIO, chorando. NAO olha para a camera.",
+     "intencao": "Revelar o segredo de uma vida, chorando.",
+     "voz": "Voz MASCULINA de homem de 72 anos, embargada de choro, sotaque andaluz. NUNCA voz de crianca.",
+     "rosto": "MANUEL: lagrimas descendo, sorriso triste.",
+     "corpo": "MANUEL segura os oculos na mao sobre a mesa.",
+     "camera": "CLOSE-UP de MANUEL de terno cinza, os oculos dourados na mao, lagrima escorrendo, ombro de ANTONIO desfocado; SLOW PUSH IN. So MANUEL fala. A fala comeca no primeiro instante do plano."
+    },
+    {
+     "quem": "ANTONIO",
+     "para": "MANUEL",
+     "fala": "Mamá lloró por ti toda su vida.",
+     "emocao": 10,
+     "eyeline": "ANTONIO olha para MANUEL, chorando. NAO olha para a camera.",
+     "intencao": "Lembrar a dor da mae, chorando.",
+     "voz": "Voz MASCULINA de homem de 72 anos, grave e embargada de choro, sotaque andaluz. NUNCA voz de crianca.",
+     "rosto": "ANTONIO: lagrimas, queixo tremendo. PABLO ao lado: boquiaberto, calado.",
+     "corpo": "ANTONIO estende a mao por cima da mesa e segura a mao de MANUEL.",
+     "camera": "Corte seco. MEDIUM SHOT pela lateral da mesa com os TRES no quadro: ANTONIO segurando a mao de MANUEL sobre a mesa, PABLO olhando os dois; oliveiras na janela. So ANTONIO fala. A fala comeca no primeiro instante do plano."
+    },
+    {
+     "quem": "MANUEL",
+     "para": "ANTONIO",
+     "fala": "No era uno, Antonio… Éramos tres.",
+     "emocao": 10,
+     "eyeline": "MANUEL olha nos olhos de ANTONIO, serio. NAO olha para a camera.",
+     "intencao": "Revelar o segredo maior, baixinho e firme.",
+     "voz": "Voz MASCULINA de homem de 72 anos, grave, baixa e firme, sotaque andaluz. NUNCA voz de crianca.",
+     "rosto": "MANUEL: serio, olhos molhados, olhar fixo.",
+     "corpo": "MANUEL aperta a mao de ANTONIO sobre a mesa.",
+     "camera": "Corte seco. CLOSE-UP de MANUEL; SLOW PUSH IN ate o fim. So MANUEL fala. A fala comeca no primeiro instante do plano."
+    }
+   ],
+   "regras_extra": [
+    "Comeca no AUGE: no primeiro instante MANUEL ja fala chorando.",
+    "FALA DO COMECO AO FIM: termina na ultima fala de MANUEL, sem plano mudo final.",
+    "ANTONIO e MANUEL tem o MESMO rosto; so a roupa e os oculos os diferenciam.",
+    "PABLO NAO fala neste clipe.",
+    "So quem fala mexe os labios.",
+    "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
+    "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+   ],
+   "imagens": [
+    "FRAME_ANTONIO",
+    "FRAME_MANUEL",
+    "FRAME_PABLO"
+   ]
+  }
+ ]
+}
