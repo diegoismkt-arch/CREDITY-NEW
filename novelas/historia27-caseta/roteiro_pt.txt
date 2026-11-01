@@ -9,7 +9,7 @@ CENARIO: dentro de uma caseta da Feria de Abril, de tarde: lanternas de papel pe
 
 CLIPE 1 — O rebujito
 ALVARO (joga o rebujito na cara de Rosario): Fora da minha caseta, velha!               (¡Fuera de mi caseta, vieja!)
-MANUEL (segura o pulso dele): Aqui ninguem fala assim com uma mulher.                    (Aquí nadie le habla así a una mujer.)
+MANUEL (segura o pulso dele): Aqui ninguem fala assim com ela.   (Aquí nadie le habla así a ella.)
 ALVARO (debochado): E voce, quem e, vovo?                                                 (¿Y tú quién eres, abuelo?)
 MANUEL (cobre Rosario com o proprio lenco e fica na frente dela): O dono desta caseta, menino.   (El dueño de esta caseta, niño.)
 

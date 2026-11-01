@@ -1,0 +1,156 @@
+{
+ "idioma": "espanha",
+ "titulo_interno": "LA CASETA",
+ "titulo_post": "",
+ "legenda": "",
+ "texto_final": "¿Por qué crees que la abuela vende claveles? 👇",
+ "estilo": "Drama cinematografico de novela espanhola, camera na mao acompanhando a ACAO. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos ESPANHOIS andaluzes mediterraneos com imperfeicoes reais, textura real de pele. DENTRO de uma CASETA da FERIA DE ABRIL de Sevilha, de TARDE: toldo de LISTRAS brancas e vermelhas, LANTERNAS de papel coloridas penduradas no teto, mesas com tacas de rebujito, cadeiras de madeira, ao fundo mulheres de VESTIDO DE FLAMENCA com flor no cabelo e homens de terno, luz quente do fim da tarde. Planos MEDIOS com os personagens JUNTOS no quadro, poucos cortes.",
+ "imagens": {
+  "FRAME_ROSARIO": "frame do clipe 1 (por volta do segundo 1,0): DONA ROSARIO com o xale preto e a cesta de cravos.",
+  "FRAME_ALVARO": "frame do clipe 1 (por volta do segundo 4,5): ALVARO de terno azul-claro.",
+  "FRAME_MANUEL": "frame do clipe 1 (por volta do segundo 8,5): DON MANUEL de traje corto e chapeu cordobes."
+ },
+ "personagens": {
+  "ROSARIO": {
+   "descricao": "vendedora de cravos de 75 anos, espanhola andaluza, rosto comum e desconhecido, pele morena enrugada, cabelo BRANCO preso em COQUE com um CRAVO VERMELHO, olhos escuros, XALE PRETO de franjas sobre vestido escuro simples, uma CESTA de vime cheia de CRAVOS VERMELHOS no braco, sem joias.",
+   "voz": "Voz feminina rouca, calma e digna de senhora andaluza de 75 anos, sotaque de Sevilha.",
+   "frame": "FRAME_ROSARIO",
+   "feminino": true
+  },
+  "ALVARO": {
+   "descricao": "senorito rico de 30 anos, espanhol, rosto comum e desconhecido, pele clara bronzeada, cabelo castanho penteado para tras, TERNO AZUL-CLARO com camisa BRANCA aberta, OCULOS ESCUROS apoiados na cabeca, um COPO alto de rebujito (bebida clara com gelo e hortela) na mao, sem joias.",
+   "voz": "Voz masculina jovem, arrogante e debochada de homem espanhol de 30 anos, sotaque andaluz.",
+   "frame": "FRAME_ALVARO"
+  },
+  "MANUEL": {
+   "descricao": "dono da caseta de 75 anos, espanhol andaluz, rosto comum e desconhecido, pele morena enrugada, BIGODE branco, olhos escuros, TRAJE CORTO andaluz CINZA (jaqueta curta, camisa branca, calca de cintura alta), CHAPEU CORDOBES PRETO, sem joias.",
+   "voz": "Voz masculina grave, calma e firme de senhor andaluz de 75 anos, sotaque de Sevilha.",
+   "frame": "FRAME_MANUEL"
+  },
+  "RAFAEL": {
+   "descricao": "pai de ALVARO, 55 anos, espanhol, rosto comum e desconhecido, pele clara, cabelo GRISALHO penteado, TERNO ESCURO com gravata, sem joias.",
+   "voz": "Voz masculina grave de homem espanhol de 55 anos, sotaque andaluz."
+  }
+ },
+ "clips": [
+  {
+   "nome": "O rebujito",
+   "estrutura": "2 planos: o plano de abertura e, depois de UM unico corte, uma TOMADA CONTINUA SEM CORTE com a camera na mao, onde acontecem as falas 2, 3 e 4 no MESMO instante e no MESMO lugar. 4 falas, cada uma dita UMA UNICA VEZ.",
+   "atuacao": "Acao dramatica no AUGE, desde o primeiro instante. ALVARO, arrogante, JOGA o rebujito do copo na cara da velha vendedora de cravos ROSARIO e grita. ROSARIO fecha os olhos, molhada, humilhada, mas digna. DON MANUEL chega e SEGURA o pulso de ALVARO. Na MESMA tomada, sem corte: ALVARO debocha; DON MANUEL poe o braco nos ombros de ROSARIO, a puxa para tras dele e encara ALVARO. Movimento continuo, rostos muito expressivos.",
+   "personagens": [
+    "ALVARO",
+    "ROSARIO",
+    "MANUEL"
+   ],
+   "posicoes": {
+    "ALVARO": "de pe no meio da caseta, de frente para ROSARIO",
+    "ROSARIO": "de pe em frente a ALVARO, com a cesta de cravos no braco",
+    "MANUEL": "chega do fundo da caseta e fica ENTRE ROSARIO e ALVARO"
+   },
+   "preservar_extra": [
+    "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
+    "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
+    "Os personagens aparecem JUNTOS no quadro (dois ou tres por plano), em planos MEDIOS; nada de close isolado.",
+    "Depois do primeiro corte, a cena e UMA TOMADA CONTINUA: posicoes, angulo e fundo nao mudam entre as falas 2, 3 e 4.",
+    "O rosto e o xale de ROSARIO ficam MOLHADOS do rebujito depois do primeiro plano.",
+    "Ninguem bate em ninguem; ROSARIO nao cai."
+   ],
+   "cenario": "Tarde, dentro de uma caseta da Feria de Abril. O senorito ALVARO humilha a velha vendedora de cravos; o dono da caseta, DON MANUEL, a defende.",
+   "som": "Sevillanas tocando baixo ao fundo; palmas e risadas distantes; o barulho do liquido batendo no rosto; o gelo caindo no chao; um silencio repentino na caseta.",
+   "remover_negativos": [
+    "dois rostos visiveis nos planos de fala",
+    "atuacao contida",
+    "rosto ou boca do ouvinte visivel nos planos de fala"
+   ],
+   "negativos_extra": [
+    "duas vozes ao mesmo tempo",
+    "voz feminina nas falas de alvaro",
+    "voz feminina nas falas de manuel",
+    "voz masculina nas falas de rosario",
+    "sotaque latino-americano",
+    "sotaque mexicano",
+    "legendas embutidas",
+    "subtitles",
+    "captions",
+    "texto das falas escrito na tela",
+    "letras brancas na parte de baixo do video",
+    "letras na tela",
+    "personagens parados como estatuas",
+    "closes isolados de uma pessoa so",
+    "rosario caindo no chao",
+    "noite escura",
+    "aparencia americana",
+    "letras nas lanternas",
+    "corte entre as falas 2, 3 e 4",
+    "pulo de tempo",
+    "punhos colados",
+    "aperto de maos",
+    "mulheres de flamenca falando"
+   ],
+   "salvar_frames": [
+    "FRAME_ROSARIO",
+    "FRAME_ALVARO",
+    "FRAME_MANUEL"
+   ],
+   "planos": [
+    {
+     "quem": "ALVARO",
+     "para": "ROSARIO",
+     "fala": "¡Fuera de mi caseta, vieja!",
+     "emocao": 10,
+     "eyeline": "ALVARO olha para ROSARIO com desprezo. NAO olha para a camera.",
+     "intencao": "Humilhar a vendedora com crueldade e arrogancia.",
+     "voz": "Voz MASCULINA de homem de 30 anos, alta, arrogante e cruel, sotaque espanhol. NUNCA voz feminina.",
+     "rosto": "ALVARO: sorriso cruel de desprezo. ROSARIO: fecha os olhos com o impacto, molhada, calada.",
+     "corpo": "ALVARO JOGA o rebujito do copo na cara de ROSARIO; o liquido espirra no rosto e no xale dela; ROSARIO aperta a cesta de cravos.",
+     "camera": "Plano de abertura: MEDIUM SHOT ja com os DOIS no quadro desde o primeiro instante, ALVARO de frente jogando a bebida e ROSARIO de perfil sendo atingida, a caseta colorida atras; HANDHELD. So ALVARO fala. A fala comeca no primeiro instante do plano."
+    },
+    {
+     "quem": "MANUEL",
+     "para": "ALVARO",
+     "fala": "Aquí nadie le habla así a ella.",
+     "emocao": 9,
+     "eyeline": "DON MANUEL olha firme nos olhos de ALVARO. NAO olha para a camera.",
+     "intencao": "Parar o rapaz com autoridade calma.",
+     "voz": "Voz MASCULINA de senhor de 75 anos, grave, baixa e firme, sotaque espanhol. NUNCA voz feminina.",
+     "rosto": "DON MANUEL: olhar duro e calmo. ALVARO e ROSARIO: surpresos, calados.",
+     "corpo": "DON MANUEL entra no quadro e SEGURA o pulso de ALVARO com UMA mao, o copo vazio ainda na mao dele.",
+     "camera": "Corte seco para a TOMADA CONTINUA: MEDIUM SHOT com os TRES no quadro dentro da caseta; DON MANUEL entra e segura o pulso de ALVARO; HANDHELD acompanhando. So MANUEL fala. A fala comeca no primeiro instante do plano."
+    },
+    {
+     "quem": "ALVARO",
+     "para": "MANUEL",
+     "fala": "¿Y tú quién eres, abuelo?",
+     "emocao": 9,
+     "eyeline": "ALVARO olha para DON MANUEL com deboche. NAO olha para a camera.",
+     "intencao": "Debochar do velho, sem medo.",
+     "voz": "Voz MASCULINA de homem de 30 anos, debochada e arrogante, sotaque espanhol. NUNCA voz feminina.",
+     "rosto": "ALVARO: risinho de deboche. DON MANUEL: impassivel, calado.",
+     "corpo": "ALVARO tenta puxar o braco; DON MANUEL nao solta o pulso.",
+     "camera": "SEM CORTE: a MESMA tomada continua, mesmo angulo, mesmas posicoes; a camera se aproxima um pouco de ALVARO. So ALVARO fala. A fala comeca logo depois da fala de MANUEL, no primeiro instante deste trecho."
+    },
+    {
+     "quem": "MANUEL",
+     "para": "ALVARO",
+     "fala": "El dueño de esta caseta, niño.",
+     "emocao": 10,
+     "eyeline": "DON MANUEL olha fixo para ALVARO. NAO olha para a camera.",
+     "intencao": "Revelar quem manda, com calma e autoridade.",
+     "voz": "Voz MASCULINA de senhor de 75 anos, grave, calma e definitiva, sotaque espanhol. NUNCA voz feminina.",
+     "rosto": "DON MANUEL: firme e protetor. ROSARIO: molhada, digna, calada. ALVARO: o deboche some.",
+     "corpo": "Na MESMA tomada: DON MANUEL solta o pulso de ALVARO, passa o braco em volta dos ombros de ROSARIO e a PUXA para tras dele, protegendo-a com o corpo, e encara ALVARO.",
+     "camera": "SEM CORTE: a MESMA tomada continua e termina num MEDIUM SHOT dos tres, DON MANUEL no meio encarando ALVARO, ROSARIO atras dele; SLOW PUSH IN. So MANUEL fala. A fala comeca logo depois da fala de ALVARO, no primeiro instante deste trecho."
+    }
+   ],
+   "regras_extra": [
+    "Comeca no AUGE: no primeiro instante ALVARO ja esta jogando a bebida.",
+    "FALA DO COMECO AO FIM: termina na ultima fala de DON MANUEL, sem plano mudo final.",
+    "Depois do primeiro corte NAO ha mais cortes: falas 2, 3 e 4 na mesma tomada continua.",
+    "Os personagens aparecem JUNTOS no quadro; so quem fala mexe os labios, os outros ficam calados.",
+    "ALVARO e DON MANUEL tem voz MASCULINA; ROSARIO NAO fala neste clipe.",
+    "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
+    "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+   ]
+  }
+ ]
+}
