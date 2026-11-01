@@ -204,3 +204,9 @@ Os videos performam melhor quando o PRIMEIRO plano ja mostra 2+ pessoas no quadr
 ## REF VIRALIZADA (nov/2026): o formato que viraliza
 Video de 10 s, UM clipe so. Abre no AUGE: a patroa ja com o cinto levantado para bater na empregada (rosto machucado, chorando), as duas no quadro. No 1-2 s o marido segura o braco dela e grita. Ele tira o paleto e cobre a empregada, consola, e fica entre as duas encarando a esposa. Fim na tensao.
 Licoes: (1) 1 clipe de ~10 s, sem preparacao; (2) comeca no pico do conflito, com perigo visivel; (3) ACAO > dialogo: poucas falas curtas e gritadas; (4) heroi que intervem = justica instantanea; (5) planos medios/abertos com 2-3 pessoas juntas e camera acompanhando a acao, poucos cortes, nada de closes isolados; (6) termina no confronto sem resolver.
+
+## APARENCIA ESPANHOLA (licao: personagens saiam com cara de brasileiros)
+Toda descricao de personagem leva traços PENINSULARES explicitos: pele clara europeia (ou levemente oliva no sul), cabelo LISO ou ondulado castanho, sobrancelhas escuras marcadas, nariz fino/aquilino, roupa e penteado europeus de Madrid/Andaluzia. No `estilo`: "elenco espanhol peninsular, como numa serie espanhola da Netflix (Elite, Velvet)". Negativos: "aparencia brasileira", "aparencia latino-americana", "estilo brasileiro". Evitar cabelo cacheado volumoso e pele morena generica sem contexto.
+
+## ACAO FISICA COM CRIANCA (licao: queda na piscina bugou)
+Nao encaixar queda + corrida + pulo + resgate em poucos segundos. Comecar com a crianca JA em perigo (ex.: ja na agua rasa, cabeca fora), UMA acao por vez, resgate num plano continuo SEM CORTE, ninguem desaparecendo debaixo da agua.
