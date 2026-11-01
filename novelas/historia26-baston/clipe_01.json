@@ -8,15 +8,17 @@
     "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
     "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
     "Os personagens aparecem JUNTOS no quadro (dois ou tres por plano), em planos MEDIOS; nada de close isolado.",
-    "MARCOS so PUXA o braco da mae; ninguem bate em ninguem e ELVIRA nao cai."
+    "MARCOS so PUXA o braco da mae; ninguem bate em ninguem e ELVIRA nao cai.",
+    "MESMO CENARIO o clipe inteiro: SEMPRE do lado de FORA, na escadaria de pedra diante da fachada de pedra e tijolo. Nunca dentro da casa, nunca parede de marmore.",
+    "O PALETO CINZA de BENITO, no ultimo plano, fica nos OMBROS de ELVIRA ate o fim do video."
   ],
   "scene": {
     "title": "EL BASTON",
     "duration_seconds": 9.4,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
     "structure": "4 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
-    "style": "Drama cinematografico de novela espanhola, filmagem com camera na mao acompanhando a ACAO. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos ESPANHOIS mediterraneos com imperfeicoes reais, textura real de pele. PORTA DE ENTRADA de uma mansao em La Moraleja, Madrid, de DIA: porta dupla de madeira escura aberta, hall de marmore claro, escadaria de pedra na entrada, um carro preto de luxo esperando ao fundo. Luz natural de dia. Planos MEDIOS com os personagens JUNTOS no quadro, poucos cortes.",
-    "setting": "Dia, porta da mansao. O filho expulsa a mae idosa para uma residencia; o velho motorista da familia o impede e protege a senhora.",
+    "style": "Drama cinematografico de novela espanhola, filmagem com camera na mao acompanhando a ACAO. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos ESPANHOIS mediterraneos com imperfeicoes reais, textura real de pele. FORA da mansao em La Moraleja, Madrid, de DIA: a ESCADARIA de pedra clara da entrada, a FACHADA de pedra e tijolo com a porta dupla de madeira escura aberta, um lampiao de ferro na parede, sebes verdes ao lado, um carro preto de luxo esperando. TODA a cena acontece AQUI FORA, na escadaria. Luz natural de dia. Planos MEDIOS com os personagens JUNTOS no quadro, poucos cortes.",
+    "setting": "Dia, do lado de FORA da mansao, na escadaria de pedra da entrada. O filho expulsa a mae idosa para uma residencia; o velho motorista o impede e protege a senhora.",
     "blocking": [
       "MARCOS: na porta da mansao, puxando ELVIRA pelo braco para fora",
       "ELVIRA: ao lado de MARCOS, sendo puxada, agarrada a bengala e a malinha",
@@ -67,8 +69,8 @@
       "intention": "Humilhar o motorista, com raiva e desprezo.",
       "voice": "Voz MASCULINA de homem de 45 anos, alta e furiosa, sotaque espanhol. NUNCA voz feminina.",
       "face": "MARCOS: furioso, a veia do pescoco saltando. BENITO: impassivel, calado.",
-      "body": "MARCOS puxa o braco e tenta se soltar; BENITO nao solta.",
-      "camera": "Corte seco. TWO-SHOT de MARCOS e BENITO cara a cara, de perfil, a mansao atras; HANDHELD. So MARCOS fala. A fala comeca no primeiro instante do plano.",
+      "body": "MARCOS tenta puxar o braco de volta; BENITO continua segurando o PULSO de MARCOS no ar com UMA mao, firme, o braco de MARCOS esticado entre os dois.",
+      "camera": "Corte seco. TWO-SHOT de MARCOS e BENITO cara a cara, de perfil, na escadaria, a FACHADA de pedra e tijolo atras; a mao de BENITO fechada no pulso de MARCOS no centro do quadro; HANDHELD. So MARCOS fala. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente MARCOS movimenta os labios."
     },
     {
@@ -81,8 +83,8 @@
       "intention": "Proteger a senhora e enfrentar o patrao com dignidade.",
       "voice": "Voz MASCULINA de senhor de 68 anos, grave, calma e definitiva, sotaque espanhol. NUNCA voz feminina.",
       "face": "BENITO: firme e protetor. ELVIRA: chorando de alivio, calada. MARCOS: chocado, calado.",
-      "body": "BENITO tira o proprio PALETO, cobre os ombros de ELVIRA com carinho e se coloca ENTRE ela e MARCOS, de frente para ele.",
-      "camera": "Corte seco. MEDIUM SHOT com os TRES: BENITO cobrindo ELVIRA com o paleto e ficando na frente dela, MARCOS diante deles; SLOW PUSH IN no confronto. So BENITO fala. A fala comeca no primeiro instante do plano.",
+      "body": "BENITO solta o pulso de MARCOS, tira o proprio PALETO CINZA e o COLOCA SOBRE OS OMBROS de ELVIRA, ajeitando com carinho; depois se coloca ENTRE ela e MARCOS, de frente para ele. O paleto FICA nos ombros de ELVIRA.",
+      "camera": "Corte seco. MEDIUM SHOT com os TRES na escadaria, a fachada atras: BENITO pondo o paleto cinza nos ombros de ELVIRA e ficando na frente dela, MARCOS diante deles; SLOW PUSH IN no confronto. So BENITO fala. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente BENITO movimenta os labios."
     }
   ],
@@ -109,7 +111,9 @@
       "MARCOS e BENITO tem voz MASCULINA; ELVIRA NAO fala.",
       "Ninguem bate em ninguem; ELVIRA nao cai.",
       "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
-      "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+      "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela.",
+      "O clipe inteiro acontece do lado de FORA, na escadaria da fachada.",
+      "No fim, ELVIRA esta com o PALETO CINZA de BENITO nos ombros."
     ]
   },
   "audio": {
@@ -138,6 +142,13 @@
     "aparencia americana",
     "letras no carro",
     "placa do carro",
+    "cenario interno",
+    "parede de marmore",
+    "punhos colados",
+    "aperto de maos",
+    "paleto no chao",
+    "paleto na mao de benito no fim",
+    "elvira sem o paleto no fim",
     "texto ou letras em qualquer lugar",
     "nome ou idade de personagem escrito na tela",
     "letreiro de apresentacao de personagem (lower third)",

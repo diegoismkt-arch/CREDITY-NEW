@@ -4,7 +4,7 @@
  "titulo_post": "Echó a su madre de casa a gritos… pero el chófer le recordó quién era la dueña 😱",
  "legenda": "La arrastró hasta la puerta para llevarla a una residencia… 💔\n\n«¡Te vas a la residencia, vieja!»\n\nPero el chófer de la familia, cuarenta años a su lado, le sujetó el brazo:\n«Y ella es la dueña de esta casa.» 😱\n\n¿Qué harías tú con ese hijo? 👇\n\nComenta PARTE 2 y te la traigo mañana.\n\n#historias #novela #drama #madre #familia #lahistoriaprincipal",
  "texto_final": "¿Qué harías tú con ese hijo? 👇",
- "estilo": "Drama cinematografico de novela espanhola, filmagem com camera na mao acompanhando a ACAO. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos ESPANHOIS mediterraneos com imperfeicoes reais, textura real de pele. PORTA DE ENTRADA de uma mansao em La Moraleja, Madrid, de DIA: porta dupla de madeira escura aberta, hall de marmore claro, escadaria de pedra na entrada, um carro preto de luxo esperando ao fundo. Luz natural de dia. Planos MEDIOS com os personagens JUNTOS no quadro, poucos cortes.",
+ "estilo": "Drama cinematografico de novela espanhola, filmagem com camera na mao acompanhando a ACAO. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos ESPANHOIS mediterraneos com imperfeicoes reais, textura real de pele. FORA da mansao em La Moraleja, Madrid, de DIA: a ESCADARIA de pedra clara da entrada, a FACHADA de pedra e tijolo com a porta dupla de madeira escura aberta, um lampiao de ferro na parede, sebes verdes ao lado, um carro preto de luxo esperando. TODA a cena acontece AQUI FORA, na escadaria. Luz natural de dia. Planos MEDIOS com os personagens JUNTOS no quadro, poucos cortes.",
  "imagens": {},
  "personagens": {
   "ELVIRA": {
@@ -39,9 +39,11 @@
     "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
     "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
     "Os personagens aparecem JUNTOS no quadro (dois ou tres por plano), em planos MEDIOS; nada de close isolado.",
-    "MARCOS so PUXA o braco da mae; ninguem bate em ninguem e ELVIRA nao cai."
+    "MARCOS so PUXA o braco da mae; ninguem bate em ninguem e ELVIRA nao cai.",
+    "MESMO CENARIO o clipe inteiro: SEMPRE do lado de FORA, na escadaria de pedra diante da fachada de pedra e tijolo. Nunca dentro da casa, nunca parede de marmore.",
+    "O PALETO CINZA de BENITO, no ultimo plano, fica nos OMBROS de ELVIRA ate o fim do video."
    ],
-   "cenario": "Dia, porta da mansao. O filho expulsa a mae idosa para uma residencia; o velho motorista da familia o impede e protege a senhora.",
+   "cenario": "Dia, do lado de FORA da mansao, na escadaria de pedra da entrada. O filho expulsa a mae idosa para uma residencia; o velho motorista o impede e protege a senhora.",
    "som": "Os gritos de MARCOS; o choro baixinho de ELVIRA; a bengala batendo na pedra; passos rapidos de BENITO; sem musica.",
    "remover_negativos": [
     "dois rostos visiveis nos planos de fala",
@@ -66,7 +68,14 @@
     "noite",
     "aparencia americana",
     "letras no carro",
-    "placa do carro"
+    "placa do carro",
+    "cenario interno",
+    "parede de marmore",
+    "punhos colados",
+    "aperto de maos",
+    "paleto no chao",
+    "paleto na mao de benito no fim",
+    "elvira sem o paleto no fim"
    ],
    "planos": [
     {
@@ -102,8 +111,8 @@
      "intencao": "Humilhar o motorista, com raiva e desprezo.",
      "voz": "Voz MASCULINA de homem de 45 anos, alta e furiosa, sotaque espanhol. NUNCA voz feminina.",
      "rosto": "MARCOS: furioso, a veia do pescoco saltando. BENITO: impassivel, calado.",
-     "corpo": "MARCOS puxa o braco e tenta se soltar; BENITO nao solta.",
-     "camera": "Corte seco. TWO-SHOT de MARCOS e BENITO cara a cara, de perfil, a mansao atras; HANDHELD. So MARCOS fala."
+     "corpo": "MARCOS tenta puxar o braco de volta; BENITO continua segurando o PULSO de MARCOS no ar com UMA mao, firme, o braco de MARCOS esticado entre os dois.",
+     "camera": "Corte seco. TWO-SHOT de MARCOS e BENITO cara a cara, de perfil, na escadaria, a FACHADA de pedra e tijolo atras; a mao de BENITO fechada no pulso de MARCOS no centro do quadro; HANDHELD. So MARCOS fala."
     },
     {
      "quem": "BENITO",
@@ -114,8 +123,8 @@
      "intencao": "Proteger a senhora e enfrentar o patrao com dignidade.",
      "voz": "Voz MASCULINA de senhor de 68 anos, grave, calma e definitiva, sotaque espanhol. NUNCA voz feminina.",
      "rosto": "BENITO: firme e protetor. ELVIRA: chorando de alivio, calada. MARCOS: chocado, calado.",
-     "corpo": "BENITO tira o proprio PALETO, cobre os ombros de ELVIRA com carinho e se coloca ENTRE ela e MARCOS, de frente para ele.",
-     "camera": "Corte seco. MEDIUM SHOT com os TRES: BENITO cobrindo ELVIRA com o paleto e ficando na frente dela, MARCOS diante deles; SLOW PUSH IN no confronto. So BENITO fala."
+     "corpo": "BENITO solta o pulso de MARCOS, tira o proprio PALETO CINZA e o COLOCA SOBRE OS OMBROS de ELVIRA, ajeitando com carinho; depois se coloca ENTRE ela e MARCOS, de frente para ele. O paleto FICA nos ombros de ELVIRA.",
+     "camera": "Corte seco. MEDIUM SHOT com os TRES na escadaria, a fachada atras: BENITO pondo o paleto cinza nos ombros de ELVIRA e ficando na frente dela, MARCOS diante deles; SLOW PUSH IN no confronto. So BENITO fala."
     }
    ],
    "regras_extra": [
@@ -125,8 +134,11 @@
     "MARCOS e BENITO tem voz MASCULINA; ELVIRA NAO fala.",
     "Ninguem bate em ninguem; ELVIRA nao cai.",
     "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
-    "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
-   ]
+    "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela.",
+    "O clipe inteiro acontece do lado de FORA, na escadaria da fachada.",
+    "No fim, ELVIRA esta com o PALETO CINZA de BENITO nos ombros."
+   ],
+   "nota": "v1 gerada: paleto nao foi para os ombros de ELVIRA; cenario pulou de fachada externa para parede de marmore interna; no plano 3 os punhos ficaram colados. v2 corrige."
   }
  ]
 }
