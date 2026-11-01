@@ -200,3 +200,7 @@ Misterio NAO e sombrio nem terror. E uma pergunta intrigante que o publico quer 
 
 ## GANCHO COM MAIS DE UMA PESSOA (dado do usuario)
 Os videos performam melhor quando o PRIMEIRO plano ja mostra 2+ pessoas no quadro (o conflito visivel entre elas). Plano de abertura = Medium-Wide/Two-shot com quem humilha e quem e humilhado juntos (e plateia ao redor, se houver), nunca um close solo. Quem nao fala fica calado, de perfil ou de costas.
+
+## REF VIRALIZADA (nov/2026): o formato que viraliza
+Video de 10 s, UM clipe so. Abre no AUGE: a patroa ja com o cinto levantado para bater na empregada (rosto machucado, chorando), as duas no quadro. No 1-2 s o marido segura o braco dela e grita. Ele tira o paleto e cobre a empregada, consola, e fica entre as duas encarando a esposa. Fim na tensao.
+Licoes: (1) 1 clipe de ~10 s, sem preparacao; (2) comeca no pico do conflito, com perigo visivel; (3) ACAO > dialogo: poucas falas curtas e gritadas; (4) heroi que intervem = justica instantanea; (5) planos medios/abertos com 2-3 pessoas juntas e camera acompanhando a acao, poucos cortes, nada de closes isolados; (6) termina no confronto sem resolver.
