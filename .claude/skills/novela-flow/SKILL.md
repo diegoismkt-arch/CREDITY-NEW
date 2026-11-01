@@ -205,8 +205,16 @@ Os videos performam melhor quando o PRIMEIRO plano ja mostra 2+ pessoas no quadr
 Video de 10 s, UM clipe so. Abre no AUGE: a patroa ja com o cinto levantado para bater na empregada (rosto machucado, chorando), as duas no quadro. No 1-2 s o marido segura o braco dela e grita. Ele tira o paleto e cobre a empregada, consola, e fica entre as duas encarando a esposa. Fim na tensao.
 Licoes: (1) 1 clipe de ~10 s, sem preparacao; (2) comeca no pico do conflito, com perigo visivel; (3) ACAO > dialogo: poucas falas curtas e gritadas; (4) heroi que intervem = justica instantanea; (5) planos medios/abertos com 2-3 pessoas juntas e camera acompanhando a acao, poucos cortes, nada de closes isolados; (6) termina no confronto sem resolver.
 
-## APARENCIA ESPANHOLA (licao: personagens saiam com cara de brasileiros)
-Toda descricao de personagem leva traços PENINSULARES explicitos: pele clara europeia (ou levemente oliva no sul), cabelo LISO ou ondulado castanho, sobrancelhas escuras marcadas, nariz fino/aquilino, roupa e penteado europeus de Madrid/Andaluzia. No `estilo`: "elenco espanhol peninsular, como numa serie espanhola da Netflix (Elite, Velvet)". Negativos: "aparencia brasileira", "aparencia latino-americana", "estilo brasileiro". Evitar cabelo cacheado volumoso e pele morena generica sem contexto.
+## APARENCIA ESPANHOLA = ELENCO DE NOVELA, NAO GENTE COMUM (refs virais nov/2026: villa em Marbella, hospital com menino)
+O que faz parecer brasileiro/generico: "pessoas comuns, rosto comum com imperfeicoes". As refs virais usam ATORES BONITOS e GLAMOUROSOS de serie espanhola/turca:
+- Galã: 30-40 anos, cabelo escuro penteado para tras com volume, barba bem desenhada, sobrancelhas grossas, smoking ou jaleco impecavel.
+- Rica/vila: loira ou castanha clara, cabelo em coque/ondas de festa, MAQUIAGEM marcada, vestido longo de paetes, colar e brincos de DIAMANTE.
+- Empregada: jovem e bonita, rosto fino, cabelo escuro em COQUE BEM ESTICADO, sobrancelhas marcadas, uniforme preto de GOLA BRANCA e avental branco de babados.
+- Avo: cabelo grisalho farto, BIGODE grisalho grosso, rosto largo e expressivo.
+- Crianca: menino/menina de uns 9 anos, pele clara-oliva, cabelo castanho-escuro ondulado, olhos castanhos GRANDES, roupa simples (camiseta azul-marinho).
+No `estilo`: "elenco de ATORES atraentes de serie espanhola da Netflix (Elite, Velvet), cabelo e maquiagem de producao, figurino de luxo" + cenario rico (villa andaluza BRANCA com arcos e varandas, piscina iluminada, convidados de gala; ou hospital moderno). Negativos: "aparencia brasileira", "aparencia latino-americana", "rostos genericos", "roupa simples demais".
+Linguagem das refs: abre em plano GERAL cheio de gente (todo mundo junto, a acao absurda ja acontecendo), depois CLOSES de reacao fortes (olhos arregalados, boca aberta) e termina no CLOSE do personagem-chave. Ou seja: closes de reacao SAO permitidos depois do plano geral de gancho.
+Gancho da ref do hospital: a CRIANCA e quem age (quebra o gesso do avo com uma pedra) e revela algo escondido dentro -> crianca DESCOBRINDO segredo, sem sofrer violencia.
 
 ## ACAO FISICA COM CRIANCA (licao: queda na piscina bugou)
 Nao encaixar queda + corrida + pulo + resgate em poucos segundos. Comecar com a crianca JA em perigo (ex.: ja na agua rasa, cabeca fora), UMA acao por vez, resgate num plano continuo SEM CORTE, ninguem desaparecendo debaixo da agua.

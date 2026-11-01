@@ -2,15 +2,15 @@
   "IDIOMA_OBRIGATORIO": "TODAS as falas em ESPANHOL da ESPANHA (castelhano, sotaque espanhol de Madrid), exatamente como escritas no campo dialogue. NUNCA em portugues, nunca traduzir.",
   "ATUACAO_PRIORIDADE_MAXIMA": "Emocao no AUGE desde o primeiro instante. A pequena SOFIA JA ESTA na agua, na parte RASA da piscina, perto da borda, agitando os bracos com a cabeca fora da agua, assustada. A empregada ROSA, de uniforme, entra correndo no quadro e pula na agua ao lado dela, pega a menina no colo e a senta na borda, abracando-a. Ao fundo, BEGONA ri ao celular sem perceber nada. Depois BEGONA chega e, em vez de agradecer, reclama do vestido. Uma acao de cada vez, clara e simples.",
   "consistency": [
-    "BEGONA: mae rica de 38 anos, rosto comum e desconhecido de mulher de Madrid, pele CLARA europeia levemente bronzeada, rosto fino, nariz fino ligeiramente aquilino, sobrancelhas castanhas marcadas, cabelo CASTANHO-CLARO LISO escovado ate os ombros, VESTIDO BRANCO de linho de verao, OCULOS ESCUROS apoiados na cabeca, uma TACA de cava numa mao e o CELULAR na outra, estilo 'pija' madrilenha elegante e discreta. APARENCIA ESPANHOLA PENINSULAR (europeia do sul), como o elenco de uma serie espanhola da Netflix (Elite, Velvet): pele clara europeia, traços mediterraneos, nunca aparencia brasileira ou latino-americana.",
-    "ROSA: empregada de 40 anos, rosto comum e desconhecido de mulher andaluza, pele clara levemente oliva, sobrancelhas escuras grossas, nariz reto, cabelo CASTANHO-ESCURO LISO preso em COQUE baixo, olhos castanhos, UNIFORME PRETO com AVENTAL BRANCO, sem joias, sem maquiagem. APARENCIA ESPANHOLA PENINSULAR (europeia do sul), como o elenco de uma serie espanhola da Netflix (Elite, Velvet): pele clara europeia, traços mediterraneos, nunca aparencia brasileira ou latino-americana.",
-    "SOFIA: menina pequena, filha de BEGONA, pele CLARA europeia, cabelo CASTANHO-CLARO LISO com FRANJA, olhos castanhos, VESTIDINHO AMARELO de verao, descalca. APARENCIA ESPANHOLA PENINSULAR (europeia do sul), como o elenco de uma serie espanhola da Netflix (Elite, Velvet): pele clara europeia, traços mediterraneos, nunca aparencia brasileira ou latino-americana.",
+    "BEGONA: mae rica de 38 anos, mulher BONITA e sofisticada de Marbella, LOIRA com o cabelo em ondas de festa presas de lado, MAQUIAGEM marcada, batom vermelho, VESTIDO BRANCO longo e elegante de verao, BRINCOS e COLAR de DIAMANTE, uma TACA de cava numa mao e o CELULAR na outra. APARENCIA de atriz/ator de serie espanhola (Elite, Velvet), nunca brasileira ou latino-americana.",
+    "ROSA: empregada de 35 anos, mulher BONITA de rosto fino, pele clara levemente oliva, sobrancelhas escuras grossas e marcadas, cabelo CASTANHO-ESCURO preso em COQUE BEM ESTICADO, olhos castanhos, UNIFORME PRETO de GOLA BRANCA e AVENTAL BRANCO de babados, sem joias. APARENCIA de atriz/ator de serie espanhola (Elite, Velvet), nunca brasileira ou latino-americana.",
+    "SOFIA: menina de uns 7 anos, filha de BEGONA, pele clara levemente oliva, cabelo CASTANHO-ESCURO ondulado ate os ombros, olhos castanhos GRANDES e expressivos, VESTIDINHO AMARELO de verao, descalca. APARENCIA de atriz/ator de serie espanhola (Elite, Velvet), nunca brasileira ou latino-americana.",
     "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
     "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
     "SOFIA esta na parte RASA, com a cabeca SEMPRE fora da agua; ela so se assustou; e salva em segundos e fica BEM, so assustada e tossindo.",
     "ROSA pula na agua UMA unica vez e fica de pe na parte rasa (agua na cintura); ninguem mergulha ou desaparece debaixo da agua.",
     "Depois do resgate, ROSA e SOFIA estao MOLHADAS; o uniforme de ROSA encharcado; BEGONA continua SECA, so com respingos no vestido.",
-    "Todos com aparencia ESPANHOLA peninsular europeia, nunca brasileira ou latino-americana.",
+    "Todos com aparencia de ATORES de serie espanhola, bonitos e bem produzidos, nunca brasileira ou latino-americana.",
     "Os personagens aparecem JUNTOS no quadro em planos MEDIOS; nada de close isolado."
   ],
   "scene": {
@@ -18,7 +18,7 @@
     "duration_seconds": 8.5,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
     "structure": "2 planos e UM UNICO corte: plano 1 continuo (resgate inteiro SEM CORTE) e plano final com as tres; 3 falas, cada uma dita UMA UNICA VEZ.",
-    "style": "Drama cinematografico de novela espanhola, camera na mao acompanhando a ACAO. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, ELENCO ESPANHOL PENINSULAR: rostos europeus do sul da Espanha, pele clara a levemente oliva, sobrancelhas escuras marcadas, nariz fino, com imperfeicoes reais; estilo de roupa e cabelo europeu de Madrid/Marbella, NADA de visual brasileiro ou latino-americano, textura real de pele. FESTA de tarde numa VILLA de luxo em Marbella: PISCINA de agua azul turquesa, ESPREGUICADEIRAS brancas, PALMEIRAS, fachada branca, convidados elegantes de roupa de verao com tacas, luz dourada de sol de fim de tarde. Planos MEDIOS com os personagens JUNTOS no quadro, poucos cortes.",
+    "style": "Drama cinematografico de novela espanhola, camera na mao acompanhando a ACAO. Fotografia hiper-realista, personagens ficticios interpretados por um ELENCO DE ATORES ATRAENTES de serie espanhola da Netflix (Elite, Velvet): rostos europeus do sul da Espanha, sobrancelhas escuras marcadas, cabelo e maquiagem de producao, figurino de luxo, NADA de visual brasileiro ou latino-americano, textura real de pele. FESTA de tarde numa VILLA de luxo em Marbella: PISCINA de agua azul turquesa, ESPREGUICADEIRAS brancas, PALMEIRAS, villa andaluza BRANCA com arcos e varandas, convidados elegantes de roupa de verao com tacas, luz dourada de sol de fim de tarde. Planos MEDIOS com os personagens JUNTOS no quadro, poucos cortes.",
     "setting": "Tarde, festa na villa em Marbella. A filha pequena caiu na parte rasa da piscina; a empregada pula e a salva enquanto a mae ri ao celular.",
     "blocking": [
       "SOFIA: dentro da agua, na parte rasa da piscina, junto a borda, em primeiro plano",
@@ -26,9 +26,9 @@
       "BEGONA: ao FUNDO, perto das espreguicadeiras, de costas, rindo ao celular"
     ],
     "characters": {
-      "BEGONA": "mae rica de 38 anos, rosto comum e desconhecido de mulher de Madrid, pele CLARA europeia levemente bronzeada, rosto fino, nariz fino ligeiramente aquilino, sobrancelhas castanhas marcadas, cabelo CASTANHO-CLARO LISO escovado ate os ombros, VESTIDO BRANCO de linho de verao, OCULOS ESCUROS apoiados na cabeca, uma TACA de cava numa mao e o CELULAR na outra, estilo 'pija' madrilenha elegante e discreta. APARENCIA ESPANHOLA PENINSULAR (europeia do sul), como o elenco de uma serie espanhola da Netflix (Elite, Velvet): pele clara europeia, traços mediterraneos, nunca aparencia brasileira ou latino-americana. Personagem ficticia. Voz feminina alta, futil e arrogante de mulher espanhola de 38 anos, sotaque de Madrid.",
-      "ROSA": "empregada de 40 anos, rosto comum e desconhecido de mulher andaluza, pele clara levemente oliva, sobrancelhas escuras grossas, nariz reto, cabelo CASTANHO-ESCURO LISO preso em COQUE baixo, olhos castanhos, UNIFORME PRETO com AVENTAL BRANCO, sem joias, sem maquiagem. APARENCIA ESPANHOLA PENINSULAR (europeia do sul), como o elenco de uma serie espanhola da Netflix (Elite, Velvet): pele clara europeia, traços mediterraneos, nunca aparencia brasileira ou latino-americana. Personagem ficticia. Voz feminina doce, firme e protetora de mulher espanhola de 40 anos, sotaque de Madrid.",
-      "SOFIA": "menina pequena, filha de BEGONA, pele CLARA europeia, cabelo CASTANHO-CLARO LISO com FRANJA, olhos castanhos, VESTIDINHO AMARELO de verao, descalca. APARENCIA ESPANHOLA PENINSULAR (europeia do sul), como o elenco de uma serie espanhola da Netflix (Elite, Velvet): pele clara europeia, traços mediterraneos, nunca aparencia brasileira ou latino-americana. Personagem ficticia. Voz de MENINA pequena, baixinha e assustada, sotaque espanhol."
+      "BEGONA": "mae rica de 38 anos, mulher BONITA e sofisticada de Marbella, LOIRA com o cabelo em ondas de festa presas de lado, MAQUIAGEM marcada, batom vermelho, VESTIDO BRANCO longo e elegante de verao, BRINCOS e COLAR de DIAMANTE, uma TACA de cava numa mao e o CELULAR na outra. APARENCIA de atriz/ator de serie espanhola (Elite, Velvet), nunca brasileira ou latino-americana. Personagem ficticia. Voz feminina alta, futil e arrogante de mulher espanhola de 38 anos, sotaque de Madrid.",
+      "ROSA": "empregada de 35 anos, mulher BONITA de rosto fino, pele clara levemente oliva, sobrancelhas escuras grossas e marcadas, cabelo CASTANHO-ESCURO preso em COQUE BEM ESTICADO, olhos castanhos, UNIFORME PRETO de GOLA BRANCA e AVENTAL BRANCO de babados, sem joias. APARENCIA de atriz/ator de serie espanhola (Elite, Velvet), nunca brasileira ou latino-americana. Personagem ficticia. Voz feminina doce, firme e protetora de mulher espanhola de 35 anos, sotaque de Madrid.",
+      "SOFIA": "menina de uns 7 anos, filha de BEGONA, pele clara levemente oliva, cabelo CASTANHO-ESCURO ondulado ate os ombros, olhos castanhos GRANDES e expressivos, VESTIDINHO AMARELO de verao, descalca. APARENCIA de atriz/ator de serie espanhola (Elite, Velvet), nunca brasileira ou latino-americana. Personagem ficticia. Voz de MENINA pequena, baixinha e assustada, sotaque espanhol."
     }
   },
   "timeline": [
@@ -40,7 +40,7 @@
       "eyeline": "ROSA olha para SOFIA na agua, desesperada. NAO olha para a camera.",
       "emotion_level": 10,
       "intention": "Gritar de susto enquanto corre para salvar a menina.",
-      "voice": "Voz FEMININA de mulher de 40 anos, alta, desesperada, sotaque espanhol. NUNCA voz de homem.",
+      "voice": "Voz FEMININA de mulher de 35 anos, alta, desesperada, sotaque espanhol. NUNCA voz de homem.",
       "face": "ROSA: olhos arregalados de pavor. SOFIA: assustada, chorando, calada.",
       "body": "SOFIA, na parte rasa junto a borda, agita os bracos com a cabeca fora da agua; ROSA entra correndo pela borda e PULA na agua ao lado dela, ficando de pe com agua na cintura.",
       "camera": "Plano de abertura desde o primeiro instante: MEDIUM SHOT da borda da piscina, SOFIA em primeiro plano na agua rasa agitando os bracos, ROSA entrando correndo pela esquerda e pulando na agua ao lado dela, e ao FUNDO, desfocada, BEGONA rindo ao celular sem ver nada; HANDHELD. So ROSA fala. A fala comeca no primeiro instante do plano.",
@@ -54,7 +54,7 @@
       "eyeline": "ROSA olha para SOFIA nos bracos dela, com carinho. NAO olha para a camera.",
       "emotion_level": 9,
       "intention": "Acalmar a menina com amor, ainda ofegante.",
-      "voice": "Voz FEMININA de mulher de 40 anos, ofegante, doce e protetora, sotaque espanhol. NUNCA voz de homem.",
+      "voice": "Voz FEMININA de mulher de 35 anos, ofegante, doce e protetora, sotaque espanhol. NUNCA voz de homem.",
       "face": "ROSA: alivio e lagrimas, encharcada. SOFIA: tossindo, assustada, agarrada a ROSA, calada.",
       "body": "ROSA pega SOFIA no colo, a senta na borda e a abraca contra o peito, afastando o cabelo molhado do rosto dela.",
       "camera": "SEM CORTE do plano anterior: a camera acompanha ROSA pegando SOFIA e sentando-a na borda; termina num TWO-SHOT das duas abracadas e molhadas; SLOW PUSH IN. So ROSA fala. A fala comeca logo depois da fala anterior, sem pausa.",
@@ -143,6 +143,8 @@
     "personagem duplicado",
     "rosa pulando duas vezes",
     "begona molhada",
+    "rostos genericos",
+    "roupa simples demais",
     "texto ou letras em qualquer lugar",
     "nome ou idade de personagem escrito na tela",
     "letreiro de apresentacao de personagem (lower third)",
