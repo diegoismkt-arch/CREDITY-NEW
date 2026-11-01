@@ -24,7 +24,7 @@
  "clips": [
   {
    "nome": "Clipe unico",
-   "atuacao": "Acao dramatica no AUGE, desde o primeiro instante. MARCOS arrasta a propria mae idosa, ELVIRA, pelo braco para fora da mansao, aos gritos; ela chora agarrada a bengala e a malinha. O velho motorista BENITO chega rapido e SEGURA o pulso de MARCOS no ar, firme. MARCOS se vira furioso. BENITO tira o proprio paleto, cobre os ombros de ELVIRA com carinho e se coloca ENTRE ela e o filho, encarando-o. Movimento o tempo todo, rostos muito expressivos.",
+   "atuacao": "Acao dramatica no AUGE, desde o primeiro instante. MARCOS arrasta a propria mae idosa, ELVIRA, pelo braco para fora da mansao, aos gritos; ela chora agarrada a bengala e a malinha. O velho motorista BENITO chega e SEGURA o pulso de MARCOS no ar. Na MESMA tomada, sem corte: MARCOS tenta se soltar e grita; BENITO nao solta, passa o outro braco em volta dos ombros de ELVIRA e a puxa para tras dele, protegendo-a com o corpo, e encara MARCOS. Movimento continuo, rostos muito expressivos.",
    "personagens": [
     "MARCOS",
     "ELVIRA",
@@ -41,7 +41,8 @@
     "Os personagens aparecem JUNTOS no quadro (dois ou tres por plano), em planos MEDIOS; nada de close isolado.",
     "MARCOS so PUXA o braco da mae; ninguem bate em ninguem e ELVIRA nao cai.",
     "MESMO CENARIO o clipe inteiro: SEMPRE do lado de FORA, na escadaria de pedra diante da fachada de pedra e tijolo. Nunca dentro da casa, nunca parede de marmore.",
-    "O PALETO CINZA de BENITO, no ultimo plano, fica nos OMBROS de ELVIRA ate o fim do video."
+    "BENITO fica com o PALETO VESTIDO o tempo todo; ele NAO tira o paleto.",
+    "Depois do primeiro corte, a cena e UMA TOMADA CONTINUA: as posicoes, o angulo e o fundo nao mudam entre as falas 2, 3 e 4; a mao de BENITO continua no pulso de MARCOS."
    ],
    "cenario": "Dia, do lado de FORA da mansao, na escadaria de pedra da entrada. O filho expulsa a mae idosa para uma residencia; o velho motorista o impede e protege a senhora.",
    "som": "Os gritos de MARCOS; o choro baixinho de ELVIRA; a bengala batendo na pedra; passos rapidos de BENITO; sem musica.",
@@ -73,9 +74,10 @@
     "parede de marmore",
     "punhos colados",
     "aperto de maos",
-    "paleto no chao",
-    "paleto na mao de benito no fim",
-    "elvira sem o paleto no fim"
+    "benito tirando o paleto",
+    "corte entre as falas de benito e marcos",
+    "mudanca de angulo entre as falas 2 e 3",
+    "pulo de tempo"
    ],
    "planos": [
     {
@@ -100,7 +102,7 @@
      "voz": "Voz MASCULINA de senhor de 68 anos, grave, baixa e firme, sotaque espanhol. NUNCA voz feminina.",
      "rosto": "BENITO: olhar duro e calmo. MARCOS e ELVIRA: surpresos, calados.",
      "corpo": "BENITO entra no quadro rapido e SEGURA o pulso de MARCOS no ar com firmeza, soltando o braco de ELVIRA.",
-     "camera": "Corte seco. MEDIUM SHOT com os TRES no quadro: BENITO entrando e segurando o pulso de MARCOS, ELVIRA ao lado; WHIP PAN curto para BENITO. So BENITO fala."
+     "camera": "Corte seco para a TOMADA CONTINUA: MEDIUM SHOT com os TRES no quadro na escadaria, a fachada atras; BENITO entra e segura o pulso de MARCOS no ar; HANDHELD acompanhando. So BENITO fala. A fala comeca no primeiro instante do plano."
     },
     {
      "quem": "MARCOS",
@@ -112,7 +114,7 @@
      "voz": "Voz MASCULINA de homem de 45 anos, alta e furiosa, sotaque espanhol. NUNCA voz feminina.",
      "rosto": "MARCOS: furioso, a veia do pescoco saltando. BENITO: impassivel, calado.",
      "corpo": "MARCOS tenta puxar o braco de volta; BENITO continua segurando o PULSO de MARCOS no ar com UMA mao, firme, o braco de MARCOS esticado entre os dois.",
-     "camera": "Corte seco. TWO-SHOT de MARCOS e BENITO cara a cara, de perfil, na escadaria, a FACHADA de pedra e tijolo atras; a mao de BENITO fechada no pulso de MARCOS no centro do quadro; HANDHELD. So MARCOS fala."
+     "camera": "SEM CORTE: a MESMA tomada continua, mesmo angulo, mesmas posicoes; a camera so se aproxima um pouco de MARCOS, a mao de BENITO ainda fechada no pulso dele. So MARCOS fala. A fala comeca logo depois da fala de BENITO, no primeiro instante deste trecho."
     },
     {
      "quem": "BENITO",
@@ -123,8 +125,8 @@
      "intencao": "Proteger a senhora e enfrentar o patrao com dignidade.",
      "voz": "Voz MASCULINA de senhor de 68 anos, grave, calma e definitiva, sotaque espanhol. NUNCA voz feminina.",
      "rosto": "BENITO: firme e protetor. ELVIRA: chorando de alivio, calada. MARCOS: chocado, calado.",
-     "corpo": "BENITO solta o pulso de MARCOS, tira o proprio PALETO CINZA e o COLOCA SOBRE OS OMBROS de ELVIRA, ajeitando com carinho; depois se coloca ENTRE ela e MARCOS, de frente para ele. O paleto FICA nos ombros de ELVIRA.",
-     "camera": "Corte seco. MEDIUM SHOT com os TRES na escadaria, a fachada atras: BENITO pondo o paleto cinza nos ombros de ELVIRA e ficando na frente dela, MARCOS diante deles; SLOW PUSH IN no confronto. So BENITO fala."
+     "corpo": "Na MESMA tomada, sem corte: BENITO solta o pulso de MARCOS, passa o braco em volta dos ombros de ELVIRA e a PUXA para tras dele, protegendo-a com o proprio corpo, e encara MARCOS de frente. BENITO continua de paleto vestido.",
+     "camera": "SEM CORTE: a MESMA tomada continua; a camera acompanha BENITO protegendo ELVIRA atras dele e termina num MEDIUM SHOT dos tres, BENITO no meio encarando MARCOS; SLOW PUSH IN. So BENITO fala. A fala comeca logo depois da fala de MARCOS, no primeiro instante deste trecho."
     }
    ],
    "regras_extra": [
@@ -136,9 +138,11 @@
     "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
     "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela.",
     "O clipe inteiro acontece do lado de FORA, na escadaria da fachada.",
-    "No fim, ELVIRA esta com o PALETO CINZA de BENITO nos ombros."
+    "Depois do primeiro corte NAO ha mais cortes: falas 2, 3 e 4 na mesma tomada continua.",
+    "BENITO NAO tira o paleto; ele protege ELVIRA com o braco e o corpo."
    ],
-   "nota": "v1 gerada: paleto nao foi para os ombros de ELVIRA; cenario pulou de fachada externa para parede de marmore interna; no plano 3 os punhos ficaram colados. v2 corrige."
+   "nota": "v1 gerada: paleto nao foi para os ombros de ELVIRA; cenario pulou de fachada externa para parede de marmore interna; no plano 3 os punhos ficaram colados. v2 corrige. v2 gerada: paleto ainda errado; o plano do 'Suéltame' parecia outro momento (corte). v3: plano 1 + UMA tomada continua sem corte; paleto trocado por abraco protetor.",
+   "estrutura": "2 planos: o plano de abertura e, depois de UM unico corte, uma TOMADA CONTINUA SEM CORTE (plano-sequencia) com a camera na mao acompanhando a acao, onde acontecem as falas 2, 3 e 4 no MESMO instante e no MESMO lugar. 4 falas, cada uma dita UMA UNICA VEZ."
   }
  ]
 }

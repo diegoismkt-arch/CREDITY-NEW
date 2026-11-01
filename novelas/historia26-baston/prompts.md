@@ -25,7 +25,7 @@ Sem imagem de referência (Text to Video).
 ```json
 {
   "IDIOMA_OBRIGATORIO": "TODAS as falas em ESPANHOL da ESPANHA (castelhano, sotaque espanhol de Madrid), exatamente como escritas no campo dialogue. NUNCA em portugues, nunca traduzir.",
-  "ATUACAO_PRIORIDADE_MAXIMA": "Acao dramatica no AUGE, desde o primeiro instante. MARCOS arrasta a propria mae idosa, ELVIRA, pelo braco para fora da mansao, aos gritos; ela chora agarrada a bengala e a malinha. O velho motorista BENITO chega rapido e SEGURA o pulso de MARCOS no ar, firme. MARCOS se vira furioso. BENITO tira o proprio paleto, cobre os ombros de ELVIRA com carinho e se coloca ENTRE ela e o filho, encarando-o. Movimento o tempo todo, rostos muito expressivos.",
+  "ATUACAO_PRIORIDADE_MAXIMA": "Acao dramatica no AUGE, desde o primeiro instante. MARCOS arrasta a propria mae idosa, ELVIRA, pelo braco para fora da mansao, aos gritos; ela chora agarrada a bengala e a malinha. O velho motorista BENITO chega e SEGURA o pulso de MARCOS no ar. Na MESMA tomada, sem corte: MARCOS tenta se soltar e grita; BENITO nao solta, passa o outro braco em volta dos ombros de ELVIRA e a puxa para tras dele, protegendo-a com o corpo, e encara MARCOS. Movimento continuo, rostos muito expressivos.",
   "consistency": [
     "MARCOS: filho de 45 anos, espanhol, rosto comum e desconhecido, pele clara, cabelo CASTANHO-ESCURO com gel penteado para tras, barba feita, TERNO AZUL-MARINHO caro, camisa branca, sem gravata, sem joias.",
     "ELVIRA: mae de 78 anos, espanhola, rosto comum e desconhecido, pele clara enrugada, cabelo BRANCO preso em COQUE, olhos castanhos marejados, CARDIGA LILAS sobre blusa branca, saia cinza, BENGALA de madeira na mao, uma MALINHA antiga marrom, sem joias.",
@@ -35,13 +35,14 @@ Sem imagem de referência (Text to Video).
     "Os personagens aparecem JUNTOS no quadro (dois ou tres por plano), em planos MEDIOS; nada de close isolado.",
     "MARCOS so PUXA o braco da mae; ninguem bate em ninguem e ELVIRA nao cai.",
     "MESMO CENARIO o clipe inteiro: SEMPRE do lado de FORA, na escadaria de pedra diante da fachada de pedra e tijolo. Nunca dentro da casa, nunca parede de marmore.",
-    "O PALETO CINZA de BENITO, no ultimo plano, fica nos OMBROS de ELVIRA ate o fim do video."
+    "BENITO fica com o PALETO VESTIDO o tempo todo; ele NAO tira o paleto.",
+    "Depois do primeiro corte, a cena e UMA TOMADA CONTINUA: as posicoes, o angulo e o fundo nao mudam entre as falas 2, 3 e 4; a mao de BENITO continua no pulso de MARCOS."
   ],
   "scene": {
     "title": "EL BASTON",
     "duration_seconds": 9.4,
     "aspect_ratio": "9:16 vertical, um unico quadro cheio, sem divisoes",
-    "structure": "4 planos de cinema em tela cheia, ligados por cortes secos. 4 falas, cada uma dita UMA UNICA VEZ, comecando no primeiro instante do plano de quem fala e terminando antes do corte.",
+    "structure": "2 planos: o plano de abertura e, depois de UM unico corte, uma TOMADA CONTINUA SEM CORTE (plano-sequencia) com a camera na mao acompanhando a acao, onde acontecem as falas 2, 3 e 4 no MESMO instante e no MESMO lugar. 4 falas, cada uma dita UMA UNICA VEZ.",
     "style": "Drama cinematografico de novela espanhola, filmagem com camera na mao acompanhando a ACAO. Fotografia hiper-realista, pessoas comuns, ficticias e desconhecidas, rostos ESPANHOIS mediterraneos com imperfeicoes reais, textura real de pele. FORA da mansao em La Moraleja, Madrid, de DIA: a ESCADARIA de pedra clara da entrada, a FACHADA de pedra e tijolo com a porta dupla de madeira escura aberta, um lampiao de ferro na parede, sebes verdes ao lado, um carro preto de luxo esperando. TODA a cena acontece AQUI FORA, na escadaria. Luz natural de dia. Planos MEDIOS com os personagens JUNTOS no quadro, poucos cortes.",
     "setting": "Dia, do lado de FORA da mansao, na escadaria de pedra da entrada. O filho expulsa a mae idosa para uma residencia; o velho motorista o impede e protege a senhora.",
     "blocking": [
@@ -81,7 +82,7 @@ Sem imagem de referência (Text to Video).
       "voice": "Voz MASCULINA de senhor de 68 anos, grave, baixa e firme, sotaque espanhol. NUNCA voz feminina.",
       "face": "BENITO: olhar duro e calmo. MARCOS e ELVIRA: surpresos, calados.",
       "body": "BENITO entra no quadro rapido e SEGURA o pulso de MARCOS no ar com firmeza, soltando o braco de ELVIRA.",
-      "camera": "Corte seco. MEDIUM SHOT com os TRES no quadro: BENITO entrando e segurando o pulso de MARCOS, ELVIRA ao lado; WHIP PAN curto para BENITO. So BENITO fala. A fala comeca no primeiro instante do plano.",
+      "camera": "Corte seco para a TOMADA CONTINUA: MEDIUM SHOT com os TRES no quadro na escadaria, a fachada atras; BENITO entra e segura o pulso de MARCOS no ar; HANDHELD acompanhando. So BENITO fala. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente BENITO movimenta os labios."
     },
     {
@@ -95,7 +96,7 @@ Sem imagem de referência (Text to Video).
       "voice": "Voz MASCULINA de homem de 45 anos, alta e furiosa, sotaque espanhol. NUNCA voz feminina.",
       "face": "MARCOS: furioso, a veia do pescoco saltando. BENITO: impassivel, calado.",
       "body": "MARCOS tenta puxar o braco de volta; BENITO continua segurando o PULSO de MARCOS no ar com UMA mao, firme, o braco de MARCOS esticado entre os dois.",
-      "camera": "Corte seco. TWO-SHOT de MARCOS e BENITO cara a cara, de perfil, na escadaria, a FACHADA de pedra e tijolo atras; a mao de BENITO fechada no pulso de MARCOS no centro do quadro; HANDHELD. So MARCOS fala. A fala comeca no primeiro instante do plano.",
+      "camera": "SEM CORTE: a MESMA tomada continua, mesmo angulo, mesmas posicoes; a camera so se aproxima um pouco de MARCOS, a mao de BENITO ainda fechada no pulso dele. So MARCOS fala. A fala comeca logo depois da fala de BENITO, no primeiro instante deste trecho.",
       "mouths": "Somente MARCOS movimenta os labios."
     },
     {
@@ -108,8 +109,8 @@ Sem imagem de referência (Text to Video).
       "intention": "Proteger a senhora e enfrentar o patrao com dignidade.",
       "voice": "Voz MASCULINA de senhor de 68 anos, grave, calma e definitiva, sotaque espanhol. NUNCA voz feminina.",
       "face": "BENITO: firme e protetor. ELVIRA: chorando de alivio, calada. MARCOS: chocado, calado.",
-      "body": "BENITO solta o pulso de MARCOS, tira o proprio PALETO CINZA e o COLOCA SOBRE OS OMBROS de ELVIRA, ajeitando com carinho; depois se coloca ENTRE ela e MARCOS, de frente para ele. O paleto FICA nos ombros de ELVIRA.",
-      "camera": "Corte seco. MEDIUM SHOT com os TRES na escadaria, a fachada atras: BENITO pondo o paleto cinza nos ombros de ELVIRA e ficando na frente dela, MARCOS diante deles; SLOW PUSH IN no confronto. So BENITO fala. A fala comeca no primeiro instante do plano.",
+      "body": "Na MESMA tomada, sem corte: BENITO solta o pulso de MARCOS, passa o braco em volta dos ombros de ELVIRA e a PUXA para tras dele, protegendo-a com o proprio corpo, e encara MARCOS de frente. BENITO continua de paleto vestido.",
+      "camera": "SEM CORTE: a MESMA tomada continua; a camera acompanha BENITO protegendo ELVIRA atras dele e termina num MEDIUM SHOT dos tres, BENITO no meio encarando MARCOS; SLOW PUSH IN. So BENITO fala. A fala comeca logo depois da fala de MARCOS, no primeiro instante deste trecho.",
       "mouths": "Somente BENITO movimenta os labios."
     }
   ],
@@ -138,7 +139,8 @@ Sem imagem de referência (Text to Video).
       "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
       "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela.",
       "O clipe inteiro acontece do lado de FORA, na escadaria da fachada.",
-      "No fim, ELVIRA esta com o PALETO CINZA de BENITO nos ombros."
+      "Depois do primeiro corte NAO ha mais cortes: falas 2, 3 e 4 na mesma tomada continua.",
+      "BENITO NAO tira o paleto; ele protege ELVIRA com o braco e o corpo."
     ]
   },
   "audio": {
@@ -171,9 +173,10 @@ Sem imagem de referência (Text to Video).
     "parede de marmore",
     "punhos colados",
     "aperto de maos",
-    "paleto no chao",
-    "paleto na mao de benito no fim",
-    "elvira sem o paleto no fim",
+    "benito tirando o paleto",
+    "corte entre as falas de benito e marcos",
+    "mudanca de angulo entre as falas 2 e 3",
+    "pulo de tempo",
     "texto ou letras em qualquer lugar",
     "nome ou idade de personagem escrito na tela",
     "letreiro de apresentacao de personagem (lower third)",
