@@ -222,3 +222,6 @@ Nao encaixar queda + corrida + pulo + resgate em poucos segundos. Comecar com a 
 ## FORMATO "O AVISO" (refs virais nov/2026, ver analise-referencias.md)
 Gesto absurdo do mais fraco no seg. 0 -> raiva do poderoso -> acusacao de perigo escondido -> negacao/prova -> ultima fala que vira o jogo SEM resolver (teste ou testemunha). 5 falas de ~2 s. Crianca funciona como quem DESCOBRE/AVISA, nao como vitima.
 Transcrever refs: faster-whisper com o modelo "small" do npm @skillninja/shortmovie-telop-model-p0..p3 (juntar model.bin.part0-3), audio via ffmpeg para PCM 16 kHz.
+
+## PROMPT ROTEIRISTA v2 (nov/2026)
+`references/prompt-roteirista.md` (PDF em `prompts/Prompt_Roteirista_Novelas_Espanha_v2.pdf`) substitui o prompt-mestre v1 no que for roteiro: originalidade, formatos, 2 clipes, criancas, elenco espanhol, nota de potencial viral.
