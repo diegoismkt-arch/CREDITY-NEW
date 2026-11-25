@@ -54,7 +54,7 @@ Sem imagem de referência (Text to Video).
       "voice": "Voz FEMININA jovem, baixa e sem ar, sotaque mineiro suave. NUNCA voz masculina.",
       "face": "BEATRIZ: olhos arregalados, palida. JOAQUIM e LURDES: sorriso de festa ainda no rosto, sem entender.",
       "body": "BEATRIZ se levanta de supetao atras do balcao e ergue o papel amarelado na mao DIREITA, mostrando-o ao casal.",
-      "camera": "Plano de abertura desde o primeiro instante: MEDIUM WIDE SHOT pela lateral do balcao, camera na mao, com os TRES no quadro: BEATRIZ a DIREITA atras do balcao com o papel erguido, o casal a ESQUERDA na frente do balcao; azulejos e janela ao fundo. So BEATRIZ fala. A fala comeca no primeiro instante do plano.",
+      "camera": "Plano de abertura desde o primeiro instante: MEDIUM WIDE SHOT pela lateral do balcao, camera na mao, com os TRES no quadro: BEATRIZ a DIREITA atras do balcao com o papel erguido, o casal a ESQUERDA na frente do balcao; janela colonial azul e estantes de livros ao fundo. So BEATRIZ fala. A fala comeca no primeiro instante do plano.",
       "mouths": "Somente BEATRIZ movimenta os labios."
     },
     {
@@ -78,7 +78,7 @@ Sem imagem de referência (Text to Video).
       "addressee": "LURDES",
       "eyeline": "BEATRIZ fala PARA LURDES e olha para LURDES (em pe ao lado ESQUERDO de JOAQUIM, de braco dado com ele), fora do quadro. NAO olha para JOAQUIM.",
       "emotion_level": 9,
-      "intention": "Ler a data do atestado, firme e assustada.",
+      "intention": "Ler a data da certidao, firme e assustada.",
       "voice": "Voz FEMININA jovem, firme e tremula, sotaque mineiro suave. NUNCA voz masculina.",
       "face": "BEATRIZ: seria, olhos indo do papel para o casal.",
       "body": "BEATRIZ abaixa o papel amarelado sobre o balcao e o empurra devagar na direcao do casal com a mao DIREITA.",
