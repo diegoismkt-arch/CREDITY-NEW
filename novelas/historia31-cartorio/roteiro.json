@@ -1,0 +1,279 @@
+{
+ "idioma": "brasil",
+ "titulo_interno": "O CARTORIO",
+ "titulo_post": "Foram ao cartório pelas bodas de ouro… e a moça disse que ele estava morto 😱",
+ "legenda": "",
+ "texto_final": "O que diz a carta? Comenta PARTE 2 👇",
+ "estilo": "Drama cinematografico de novela brasileira. Fotografia hiper-realista, personagens ficticios interpretados por um ELENCO DE ATORES de novela das nove da TV brasileira: rostos brasileiros bonitos e marcantes, cabelo, maquiagem e figurino de producao, textura real de pele. INTERIOR de um CARTORIO antigo de uma cidade historica de Minas Gerais: BALCAO de madeira escura envernizada, piso de ladrilho hidraulico, paredes brancas com janela colonial de madeira AZUL aberta e luz da manha entrando, estantes com livros de registro encadernados ao fundo, ventilador de teto, outras pessoas desfocadas numa fila ao fundo. Luz natural quente de manha.",
+ "imagens": {
+  "FRAME_JOAQUIM": "print do clipe 1 (plano 4, por volta do segundo 8,5): JOAQUIM de terno azul-marinho de perfil, rosto bem visivel (ou plano 1, segundo 1, recortado).",
+  "FRAME_LURDES": "print do clipe 1 (plano 2, por volta do segundo 2,5): LURDES de vestido verde-garrafa rindo nervosa.",
+  "FRAME_BEATRIZ": "print do clipe 1 (plano 3, por volta do segundo 5): BEATRIZ atras do balcao com o papel amarelado; serve tambem para o cenario."
+ },
+ "personagens": {
+  "JOAQUIM": {
+   "descricao": "homem brasileiro de 78 anos, bonito e elegante, cabelo GRISALHO farto penteado para tras, BIGODE grisalho grosso, sobrancelhas grossas grisalhas, rosto largo e marcante, TERNO AZUL-MARINHO de festa, camisa branca, GRAVATA BORDO, um cravo vermelho na lapela, sem oculos. APARENCIA de ator veterano de novela brasileira.",
+   "voz": "Voz MASCULINA grave e rouca de homem brasileiro de 78 anos, sotaque mineiro suave.",
+   "frame": "FRAME_JOAQUIM"
+  },
+  "LURDES": {
+   "descricao": "mulher brasileira de 75 anos, bonita e vaidosa, cabelo CURTO GRISALHO-PRATEADO arrumado em ondas de cabeleireiro, maquiagem suave de festa, batom rosado, brincos de PEROLA, VESTIDO VERDE-GARRAFA de festa com broche dourado, bolsa pequena no braco. APARENCIA de atriz veterana de novela brasileira.",
+   "voz": "Voz FEMININA de senhora brasileira de 75 anos, calorosa, sotaque mineiro suave.",
+   "frame": "FRAME_LURDES"
+  },
+  "BEATRIZ": {
+   "descricao": "funcionaria do cartorio, mulher brasileira de 30 anos, bonita, pele morena clara, rosto fino, cabelo CASTANHO-ESCURO preso em rabo de cavalo baixo, sobrancelhas marcadas, BLUSA BRANCA de botoes e CARDIGA azul-marinho, cracha de cordao sem texto legivel. APARENCIA de atriz de novela brasileira.",
+   "voz": "Voz FEMININA jovem de mulher brasileira de 30 anos, sotaque mineiro suave.",
+   "frame": "FRAME_BEATRIZ"
+  }
+ },
+ "clips": [
+  {
+   "nome": "Usted está muerto",
+   "estrutura": "4 planos ligados por cortes secos; 4 falas, cada uma dita UMA UNICA VEZ.",
+   "atuacao": "Comeca no AUGE. No balcao do cartorio, BEATRIZ acabou de tirar do arquivo uma CERTIDAO DE OBITO antiga e se levanta de supetao, palida, segurando o papel; na frente do balcao, o casal de idosos bem vestidos para as bodas de ouro sorri sem entender. LURDES ri nervosa e aperta o braco do marido. JOAQUIM NAO ri: fica palido, o sorriso some e a mao dele vai DEVAGAR ao bolso interno do paleto, como se protegesse algo ali. LURDES percebe o silencio dele e se vira, assustada. Contraste: BEATRIZ chocada, LURDES incredula, JOAQUIM contido e culpado.",
+   "personagens": [
+    "BEATRIZ",
+    "JOAQUIM",
+    "LURDES"
+   ],
+   "posicoes": {
+    "BEATRIZ": "em pe ATRAS do balcao de madeira, do lado DIREITO do quadro, de frente para o casal",
+    "JOAQUIM": "em pe na FRENTE do balcao, do lado ESQUERDO do quadro, mais perto do balcao",
+    "LURDES": "em pe ao lado ESQUERDO de JOAQUIM, de braco dado com ele"
+   },
+   "preservar_extra": [
+    "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
+    "A CERTIDAO DE OBITO ANTIGA e uma folha de papel AMARELADA e dobrada, com um carimbo AZUL borrado; NENHUMA palavra, letra ou numero legivel nele.",
+    "BEATRIZ fica SEMPRE atras do balcao, do lado DIREITO do quadro; JOAQUIM e LURDES ficam SEMPRE em pe na frente do balcao, lado a lado, do lado ESQUERDO do quadro, a menos de 1 metro de BEATRIZ.",
+    "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe."
+   ],
+   "cenario": "De manha, no balcao de um cartorio antigo de uma cidade historica de Minas Gerais. Um casal de idosos vestido de festa veio buscar um documento para as bodas de ouro.",
+   "som": "Murmurio baixo de fila de reparticao publica, carimbo batendo ao longe, ventilador de teto, passos no piso de ladrilho hidraulico; sem trilha dramatica.",
+   "remover_negativos": [
+    "dois rostos visiveis nos planos de fala",
+    "rosto ou boca do ouvinte visivel nos planos de fala",
+    "palavras em portugues"
+   ],
+   "negativos_extra": [
+    "duas vozes ao mesmo tempo",
+    "voz masculina nas falas de lurdes",
+    "voz masculina nas falas de beatriz",
+    "voz feminina nas falas de joaquim",
+    "voz jovem nas falas de lurdes",
+    "legendas embutidas",
+    "subtitles",
+    "captions",
+    "texto das falas escrito na tela",
+    "letras na tela",
+    "palavras legiveis no papel",
+    "palavras legiveis no envelope",
+    "placa com nome",
+    "bandeira com escudo legivel",
+    "tela de computador com texto",
+    "uniforme de policia",
+    "policiais",
+    "alguem se sentando ou saindo",
+    "personagens parados como estatuas",
+    "aparencia americana",
+    "rostos genericos",
+    "roupa simples demais",
+    "maos deformadas",
+    "noite",
+    "sotaque de Portugal",
+    "sotaque espanhol",
+    "palavras em espanhol"
+   ],
+   "salvar_frames": [
+    "FRAME_BEATRIZ",
+    "FRAME_LURDES",
+    "FRAME_JOAQUIM"
+   ],
+   "planos": [
+    {
+     "quem": "BEATRIZ",
+     "para": "JOAQUIM",
+     "fala": "Senhor… o senhor morreu.",
+     "emocao": 9,
+     "intencao": "Dizer o absurdo sem acreditar no que le, em choque.",
+     "voz": "Voz FEMININA jovem, baixa e sem ar, sotaque mineiro suave. NUNCA voz masculina.",
+     "rosto": "BEATRIZ: olhos arregalados, palida. JOAQUIM e LURDES: sorriso de festa ainda no rosto, sem entender.",
+     "corpo": "BEATRIZ se levanta de supetao atras do balcao e ergue o papel amarelado na mao DIREITA, mostrando-o ao casal.",
+     "camera": "Plano de abertura desde o primeiro instante: MEDIUM WIDE SHOT pela lateral do balcao, camera na mao, com os TRES no quadro: BEATRIZ a DIREITA atras do balcao com o papel erguido, o casal a ESQUERDA na frente do balcao; azulejos e janela ao fundo. So BEATRIZ fala. A fala comeca no primeiro instante do plano."
+    },
+    {
+     "quem": "LURDES",
+     "para": "BEATRIZ",
+     "fala": "Morto? Estamos casados há cinquenta anos.",
+     "emocao": 8,
+     "intencao": "Rir da confusao, achando que e erro do sistema, e apresentar o casal.",
+     "voz": "Voz FEMININA de senhora de 75 anos, rindo nervosa, sotaque mineiro suave. NUNCA voz masculina.",
+     "rosto": "LURDES: riso nervoso, sobrancelhas erguidas.",
+     "corpo": "LURDES aperta o braco de JOAQUIM com carinho e da um passinho em direcao ao balcao.",
+     "camera": "Corte seco. OVER-THE-SHOULDER por cima do ombro DESFOCADO de BEATRIZ (de costas, sem rosto): LURDES nitida em plano medio, de braco dado com JOAQUIM; ela olha para a DIREITA do quadro, para BEATRIZ. So LURDES fala. A fala comeca no primeiro instante do plano."
+    },
+    {
+     "quem": "BEATRIZ",
+     "para": "LURDES",
+     "fala": "Morreu em São Paulo… em sessenta e oito.",
+     "emocao": 9,
+     "intencao": "Ler a data do atestado, firme e assustada.",
+     "voz": "Voz FEMININA jovem, firme e tremula, sotaque mineiro suave. NUNCA voz masculina.",
+     "rosto": "BEATRIZ: seria, olhos indo do papel para o casal.",
+     "corpo": "BEATRIZ abaixa o papel amarelado sobre o balcao e o empurra devagar na direcao do casal com a mao DIREITA.",
+     "camera": "Corte seco. Over-the-shoulder invertido por cima do ombro DESFOCADO de LURDES (de costas, sem rosto): BEATRIZ nitida em close; ela olha para a ESQUERDA do quadro. INSERT com RACK FOCUS do rosto dela para o papel no balcao no fim da fala. So BEATRIZ fala. A fala comeca no primeiro instante do plano."
+    },
+    {
+     "quem": "LURDES",
+     "para": "JOAQUIM",
+     "fala": "Joaquim… não vai dizer nada?",
+     "emocao": 10,
+     "intencao": "Perceber, com medo, que o silencio do marido e uma confissao.",
+     "voz": "Voz FEMININA de senhora de 75 anos, a voz falhando, sotaque mineiro suave. NUNCA voz masculina.",
+     "rosto": "LURDES: o riso morre, olhos marejados. JOAQUIM, ao lado, de perfil: palido, boca FECHADA, olhar baixo.",
+     "corpo": "LURDES vira o corpo para o marido e solta o braco dele devagar; JOAQUIM mantem a mao direita sobre o bolso interno do paleto.",
+     "camera": "Corte seco. TWO-SHOT de perfil do casal, SLOW DOLLY IN: LURDES a DIREITA olhando para JOAQUIM; JOAQUIM a ESQUERDA, de perfil, boca FECHADA, a mao no bolso interno do paleto. So LURDES fala; JOAQUIM NAO mexe os labios. A fala comeca no primeiro instante do plano."
+    }
+   ],
+   "regras_extra": [
+    "Comeca no AUGE: no primeiro instante BEATRIZ ja esta de pe com o papel erguido, falando.",
+    "FALA DO COMECO AO FIM: termina na ultima fala de LURDES, sem plano mudo final.",
+    "JOAQUIM NAO fala neste clipe; a boca dele fica FECHADA o tempo todo.",
+    "So quem fala mexe os labios.",
+    "Todas as falas com sotaque BRASILEIRO, nunca de Portugal nem espanhol.",
+    "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+   ]
+  },
+  {
+   "nome": "La carta",
+   "imagens": [
+    "FRAME_JOAQUIM",
+    "FRAME_LURDES",
+    "FRAME_BEATRIZ"
+   ],
+   "estrutura": "5 planos ligados por cortes secos; 5 falas, cada uma dita UMA UNICA VEZ.",
+   "atuacao": "Continuacao imediata, emocao no AUGE. JOAQUIM finalmente olha a esposa e confessa, a voz quebrando: o verdadeiro Joaquim morreu em Sao Paulo e ele era o melhor amigo, que prometeu cuidar dela. LURDES da um passo para tras com a mao na boca, chorando, entre a magoa e o amor de 50 anos. BEATRIZ, atras do balcao, assiste calada e emocionada. No fim JOAQUIM tira do bolso interno do paleto um ENVELOPE antigo e amarelado e o estende a ela. Contraste: JOAQUIM contido e culpado, LURDES desabando.",
+   "personagens": [
+    "JOAQUIM",
+    "LURDES",
+    "BEATRIZ"
+   ],
+   "posicoes": {
+    "BEATRIZ": "em pe ATRAS do balcao de madeira, do lado DIREITO do quadro, de frente para o casal",
+    "JOAQUIM": "em pe na FRENTE do balcao, do lado ESQUERDO do quadro, mais perto do balcao",
+    "LURDES": "em pe ao lado ESQUERDO de JOAQUIM, de braco dado com ele"
+   },
+   "preservar_extra": [
+    "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
+    "A CERTIDAO DE OBITO ANTIGA e uma folha de papel AMARELADA e dobrada, com um carimbo AZUL borrado; NENHUMA palavra, letra ou numero legivel nele.",
+    "BEATRIZ fica SEMPRE atras do balcao, do lado DIREITO do quadro; JOAQUIM e LURDES ficam SEMPRE em pe na frente do balcao, lado a lado, do lado ESQUERDO do quadro, a menos de 1 metro de BEATRIZ.",
+    "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
+    "O ENVELOPE e antigo, amarelado, fechado, sem selo e sem NENHUMA palavra legivel; so aparece quando JOAQUIM o tira do bolso interno do paleto no ultimo plano."
+   ],
+   "cenario": "De manha, no MESMO balcao do cartorio de Minas Gerais do clipe anterior.",
+   "som": "Murmurio baixo de fila de reparticao publica, ventilador de teto; silencio pesado entre as falas; sem trilha dramatica.",
+   "remover_negativos": [
+    "dois rostos visiveis nos planos de fala",
+    "rosto ou boca do ouvinte visivel nos planos de fala",
+    "palavras em portugues"
+   ],
+   "negativos_extra": [
+    "duas vozes ao mesmo tempo",
+    "voz masculina nas falas de lurdes",
+    "voz masculina nas falas de beatriz",
+    "voz feminina nas falas de joaquim",
+    "voz jovem nas falas de lurdes",
+    "legendas embutidas",
+    "subtitles",
+    "captions",
+    "texto das falas escrito na tela",
+    "letras na tela",
+    "palavras legiveis no papel",
+    "palavras legiveis no envelope",
+    "placa com nome",
+    "bandeira com escudo legivel",
+    "tela de computador com texto",
+    "uniforme de policia",
+    "policiais",
+    "alguem se sentando ou saindo",
+    "personagens parados como estatuas",
+    "aparencia americana",
+    "rostos genericos",
+    "roupa simples demais",
+    "maos deformadas",
+    "noite",
+    "envelope aparecendo antes do ultimo plano",
+    "envelope surgindo do nada",
+    "sotaque de Portugal",
+    "sotaque espanhol",
+    "palavras em espanhol"
+   ],
+   "salvar_frames": [],
+   "planos": [
+    {
+     "quem": "JOAQUIM",
+     "para": "LURDES",
+     "fala": "Joaquim morreu lá.",
+     "emocao": 10,
+     "intencao": "Confessar o segredo de 50 anos, com vergonha.",
+     "voz": "Voz MASCULINA grave de homem de 78 anos, baixa e quebrando, sotaque mineiro suave. NUNCA voz feminina.",
+     "rosto": "JOAQUIM: olhos molhados, queixo tremendo, olha a esposa pela primeira vez.",
+     "corpo": "JOAQUIM vira-se para LURDES e tenta segurar a mao dela.",
+     "camera": "OVER-THE-SHOULDER por cima do ombro DESFOCADO de LURDES (de costas, sem rosto): JOAQUIM nitido em close; ele olha para a DIREITA do quadro, para LURDES. SLOW PUSH IN. So JOAQUIM fala. A fala comeca no primeiro instante do plano."
+    },
+    {
+     "quem": "LURDES",
+     "para": "JOAQUIM",
+     "fala": "Então… quem é você?",
+     "emocao": 10,
+     "intencao": "Perguntar sem ar, sem reconhecer o homem da sua vida.",
+     "voz": "Voz FEMININA de senhora de 75 anos, em soluco, sotaque mineiro suave. NUNCA voz masculina.",
+     "rosto": "LURDES: lagrimas, mao na boca.",
+     "corpo": "LURDES da um passo para tras e leva a mao a boca, soltando a mao dele.",
+     "camera": "Corte seco. HIGH ANGLE leve, close de LURDES por cima do ombro DESFOCADO de JOAQUIM; ela olha para a ESQUERDA do quadro, para JOAQUIM. So LURDES fala. A fala comeca no primeiro instante do plano."
+    },
+    {
+     "quem": "JOAQUIM",
+     "para": "LURDES",
+     "fala": "Amigo dele. Jurei cuidar de você.",
+     "emocao": 10,
+     "intencao": "Entregar a verdade com amor: tudo foi por uma promessa.",
+     "voz": "Voz MASCULINA grave de homem de 78 anos, embargada de choro, sotaque mineiro suave. NUNCA voz feminina.",
+     "rosto": "JOAQUIM: uma lagrima desce pelo rosto, olhar firme e amoroso.",
+     "corpo": "JOAQUIM leva a mao ao peito.",
+     "camera": "Corte seco. EXTREME CLOSE-UP nos olhos e no bigode de JOAQUIM, lagrima descendo. So JOAQUIM fala. A fala comeca no primeiro instante do plano."
+    },
+    {
+     "quem": "LURDES",
+     "para": "JOAQUIM",
+     "fala": "Cinquenta anos mentindo?",
+     "emocao": 10,
+     "intencao": "A dor da mentira e do amor ao mesmo tempo.",
+     "voz": "Voz FEMININA de senhora de 75 anos, chorando, quase um sussurro, sotaque mineiro suave. NUNCA voz masculina.",
+     "rosto": "LURDES: chorando, balancando a cabeca devagar.",
+     "corpo": "LURDES aperta a bolsa contra o peito.",
+     "camera": "Corte seco. CLOSE-UP de LURDES, BEATRIZ desfocada ao fundo atras do balcao com a mao no peito, calada. So LURDES fala. A fala comeca no primeiro instante do plano."
+    },
+    {
+     "quem": "JOAQUIM",
+     "para": "LURDES",
+     "fala": "A última carta dele. Nunca te dei.",
+     "emocao": 10,
+     "intencao": "Revelar o ultimo segredo, baixinho, estendendo o envelope.",
+     "voz": "Voz MASCULINA grave de homem de 78 anos, baixa e firme, sotaque mineiro suave. NUNCA voz feminina.",
+     "rosto": "JOAQUIM: serio, olhos molhados, olhar fixo em LURDES.",
+     "corpo": "JOAQUIM tira devagar do bolso interno do paleto, com a mao DIREITA, um ENVELOPE antigo e amarelado e o estende para LURDES.",
+     "camera": "Corte seco. MEDIUM SHOT de JOAQUIM com o envelope estendido na mao direita no primeiro plano, RACK FOCUS do envelope para o rosto dele; LURDES desfocada na borda esquerda. So JOAQUIM fala. A fala comeca no primeiro instante do plano."
+    }
+   ],
+   "regras_extra": [
+    "Comeca no AUGE: no primeiro instante JOAQUIM ja fala, olhando para LURDES.",
+    "FALA DO COMECO AO FIM: termina na ultima fala de JOAQUIM, sem plano mudo final.",
+    "BEATRIZ NAO fala neste clipe.",
+    "So quem fala mexe os labios.",
+    "Todas as falas com sotaque BRASILEIRO, nunca de Portugal nem espanhol.",
+    "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+   ]
+  }
+ ]
+}

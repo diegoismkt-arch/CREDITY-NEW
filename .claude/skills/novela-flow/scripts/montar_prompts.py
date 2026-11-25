@@ -66,6 +66,8 @@ IDIOMAS = {
                "Espanol latinoamericano neutro, claro y pausado, sin regionalismos y sin acento de Espana, TODAS as palavras em espanhol."),
     "espanha": ("ESPANHOL da ESPANHA (castelhano, sotaque espanhol de Madrid)",
                 "Espanol de Espana (castellano), acento espanol peninsular natural, TODAS as palavras em espanhol. NUNCA sotaque latino-americano."),
+    "brasil": ("PORTUGUES DO BRASIL (sotaque brasileiro natural)",
+               "Portugues do Brasil, sotaque brasileiro natural, TODAS as palavras em portugues brasileiro. NUNCA sotaque de Portugal, nunca espanhol."),
     "mexico": ("ESPANHOL do Mexico",
                "Espanol de Mexico, acento mexicano natural, TODAS as palavras em espanhol."),
 }
@@ -150,6 +152,8 @@ def montar(rot, n, clip):
 
     usados = clip["personagens"]
     negativos = [x for x in NEGATIVO_BASE if x not in clip.get("remover_negativos", [])]
+    if rot.get("idioma") == "brasil":
+        negativos = [("palavras em espanhol" if x == "palavras em portugues" else x) for x in negativos]
     if any(p.get("olha_para_camera") for p in planos):
         negativos.remove("personagem olhando para a camera")
     negativos = clip.get("negativos_extra", []) + negativos
@@ -174,7 +178,8 @@ def montar(rot, n, clip):
             fichas[k] = f"{d['descricao']} Personagem {fic}. {d['voz']}"
             preservar.append(f"{k}: {d['descricao']}")
     idioma_curto, idioma_regra = IDIOMAS[rot.get("idioma", "espanha")]
-    prompt = {"IDIOMA_OBRIGATORIO": f"TODAS as falas em {idioma_curto}, exatamente como escritas no campo dialogue. NUNCA em portugues, nunca traduzir.", "ATUACAO_PRIORIDADE_MAXIMA": clip["atuacao"]}
+    nunca = "NUNCA em espanhol ou ingles" if rot.get("idioma") == "brasil" else "NUNCA em portugues"
+    prompt = {"IDIOMA_OBRIGATORIO": f"TODAS as falas em {idioma_curto}, exatamente como escritas no campo dialogue. {nunca}, nunca traduzir.", "ATUACAO_PRIORIDADE_MAXIMA": clip["atuacao"]}
     if imagens:
         prompt["input_image"] = {
             "required": bool(clip.get("primeiro_frame")),
