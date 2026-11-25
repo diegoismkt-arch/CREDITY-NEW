@@ -1,0 +1,280 @@
+{
+ "idioma": "espanha",
+ "titulo_interno": "EL REGISTRO",
+ "titulo_post": "Fueron a celebrar sus bodas de oro… y la funcionaria dijo que él estaba muerto 😱",
+ "legenda": "",
+ "texto_final": "¿Qué dirá la carta? Comenta PARTE 2 👇",
+ "estilo": "Drama cinematografico de novela espanhola. Fotografia hiper-realista, personagens ficticios interpretados por um ELENCO DE ATORES de serie espanhola da Netflix (Elite, Velvet, Gran Hotel): rostos europeus do sul da Espanha, cabelo, maquiagem e figurino de producao, NADA de visual brasileiro ou latino-americano, textura real de pele. INTERIOR de um REGISTRO CIVIL antigo de Sevilha: BALCAO de madeira escura envernizada, paredes cor creme, azulejos andaluzes azuis e brancos na metade de baixo da parede, janela alta com luz da manha entrando, vasos de gerânio vermelho no peitoril, arquivos de madeira ao fundo, outras pessoas desfocadas numa fila ao fundo. Luz natural quente de manha.",
+ "imagens": {
+  "FRAME_JULIAN": "frame do clipe 1 (plano 4, por volta do segundo 8): CARMEN em close falando, com JULIAN de terno azul-marinho ao lado; usar para o rosto de JULIAN (recortar se precisar).",
+  "FRAME_CARMEN": "frame do clipe 1 (plano 4, por volta do segundo 7,5): CARMEN de vestido verde-garrafa em close, rosto bem visivel.",
+  "FRAME_LUCIA": "frame do clipe 1 (plano 1 ou 3, por volta do segundo 5): LUCIA atras do balcao segurando o papel amarelado.",
+  "FRAME_REGISTRO": "o mesmo frame de LUCIA serve tambem para o cenario (balcao, azulejos, janela)."
+ },
+ "personagens": {
+  "JULIAN": {
+   "descricao": "homem espanhol de 78 anos, bonito e elegante, cabelo GRISALHO farto penteado para tras, BIGODE grisalho grosso, sobrancelhas grossas grisalhas, rosto largo e marcante, TERNO AZUL-MARINHO de festa, camisa branca, GRAVATA BORDO, um cravo vermelho na lapela, sem oculos. APARENCIA de ator de serie espanhola, nunca brasileira ou latino-americana.",
+   "voz": "Voz MASCULINA grave e rouca de homem espanhol de 78 anos, sotaque andaluz.",
+   "frame": "FRAME_JULIAN"
+  },
+  "CARMEN": {
+   "descricao": "mulher espanhola de 75 anos, bonita e vaidosa, cabelo CURTO GRISALHO-PRATEADO arrumado em ondas de cabeleireiro, maquiagem suave de festa, batom rosado, brincos de PEROLA, VESTIDO VERDE-GARRAFA de festa com broche dourado, bolsa pequena no braco. APARENCIA de atriz de serie espanhola, nunca brasileira ou latino-americana.",
+   "voz": "Voz FEMININA de senhora espanhola de 75 anos, calorosa, sotaque andaluz.",
+   "frame": "FRAME_CARMEN"
+  },
+  "LUCIA": {
+   "descricao": "funcionaria espanhola de 30 anos, bonita, rosto fino, cabelo CASTANHO-ESCURO preso em rabo de cavalo baixo, sobrancelhas marcadas, BLUSA BRANCA de botoes e CARDIGA azul-marinho, cracha de cordao sem texto legivel. APARENCIA de atriz de serie espanhola, nunca brasileira ou latino-americana.",
+   "voz": "Voz FEMININA jovem de mulher espanhola de 30 anos, sotaque de Sevilha.",
+   "frame": "FRAME_LUCIA"
+  }
+ },
+ "clips": [
+  {
+   "nome": "Usted está muerto",
+   "estrutura": "4 planos ligados por cortes secos; 4 falas, cada uma dita UMA UNICA VEZ.",
+   "atuacao": "Comeca no AUGE. No balcao do Registro Civil, LUCIA acabou de tirar do arquivo um ATESTADO antigo e se levanta de supetao, palida, segurando o papel; na frente do balcao, o casal de idosos bem vestidos para as bodas de ouro sorri sem entender. CARMEN ri nervosa e aperta o braco do marido. JULIAN NAO ri: fica palido, o sorriso some e a mao dele vai DEVAGAR ao bolso interno do paleto, como se protegesse algo ali. CARMEN percebe o silencio dele e se vira, assustada. Contraste: LUCIA chocada, CARMEN incredula, JULIAN contido e culpado.",
+   "personagens": [
+    "LUCIA",
+    "JULIAN",
+    "CARMEN"
+   ],
+   "posicoes": {
+    "LUCIA": "em pe ATRAS do balcao de madeira, do lado DIREITO do quadro, de frente para o casal",
+    "JULIAN": "em pe na FRENTE do balcao, do lado ESQUERDO do quadro, mais perto do balcao",
+    "CARMEN": "em pe ao lado ESQUERDO de JULIAN, de braco dado com ele"
+   },
+   "preservar_extra": [
+    "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
+    "O ATESTADO ANTIGO e uma folha de papel AMARELADA e dobrada, com um carimbo AZUL borrado; NENHUMA palavra, letra ou numero legivel nele.",
+    "LUCIA fica SEMPRE atras do balcao, do lado DIREITO do quadro; JULIAN e CARMEN ficam SEMPRE em pe na frente do balcao, lado a lado, do lado ESQUERDO do quadro, a menos de 1 metro de LUCIA.",
+    "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe."
+   ],
+   "cenario": "De manha, no balcao de um Registro Civil antigo de Sevilha. Um casal de idosos vestido de festa veio buscar um documento para as bodas de ouro.",
+   "som": "Murmurio baixo de fila de reparticao publica, carimbo batendo ao longe, ventilador de teto, passos no piso de ladrilho; sem trilha dramatica.",
+   "remover_negativos": [
+    "dois rostos visiveis nos planos de fala",
+    "rosto ou boca do ouvinte visivel nos planos de fala"
+   ],
+   "negativos_extra": [
+    "duas vozes ao mesmo tempo",
+    "voz masculina nas falas de carmen",
+    "voz masculina nas falas de lucia",
+    "voz feminina nas falas de julian",
+    "voz jovem nas falas de carmen",
+    "sotaque latino-americano",
+    "sotaque mexicano",
+    "legendas embutidas",
+    "subtitles",
+    "captions",
+    "texto das falas escrito na tela",
+    "letras na tela",
+    "palavras legiveis no papel",
+    "palavras legiveis no envelope",
+    "placa com nome",
+    "bandeira com escudo legivel",
+    "tela de computador com texto",
+    "uniforme de policia",
+    "policiais",
+    "alguem se sentando ou saindo",
+    "personagens parados como estatuas",
+    "aparencia brasileira",
+    "aparencia latino-americana",
+    "aparencia americana",
+    "rostos genericos",
+    "roupa simples demais",
+    "maos deformadas",
+    "noite"
+   ],
+   "salvar_frames": [
+    "FRAME_LUCIA",
+    "FRAME_CARMEN",
+    "FRAME_JULIAN"
+   ],
+   "planos": [
+    {
+     "quem": "LUCIA",
+     "para": "JULIAN",
+     "fala": "Señor… usted está muerto.",
+     "emocao": 9,
+     "intencao": "Dizer o absurdo sem acreditar no que le, em choque.",
+     "voz": "Voz FEMININA jovem, baixa e sem ar, sotaque de Sevilha. NUNCA voz masculina.",
+     "rosto": "LUCIA: olhos arregalados, palida. JULIAN e CARMEN: sorriso de festa ainda no rosto, sem entender.",
+     "corpo": "LUCIA se levanta de supetao atras do balcao e ergue o papel amarelado na mao DIREITA, mostrando-o ao casal.",
+     "camera": "Plano de abertura desde o primeiro instante: MEDIUM WIDE SHOT pela lateral do balcao, camera na mao, com os TRES no quadro: LUCIA a DIREITA atras do balcao com o papel erguido, o casal a ESQUERDA na frente do balcao; azulejos e janela ao fundo. So LUCIA fala. A fala comeca no primeiro instante do plano."
+    },
+    {
+     "quem": "CARMEN",
+     "para": "LUCIA",
+     "fala": "¿Muerto? Llevamos cincuenta años casados.",
+     "emocao": 8,
+     "intencao": "Rir da confusao, achando que e erro do computador, e apresentar o casal.",
+     "voz": "Voz FEMININA de senhora de 75 anos, rindo nervosa, sotaque andaluz. NUNCA voz masculina.",
+     "rosto": "CARMEN: riso nervoso, sobrancelhas erguidas.",
+     "corpo": "CARMEN aperta o braco de JULIAN com carinho e da um passinho em direcao ao balcao.",
+     "camera": "Corte seco. OVER-THE-SHOULDER por cima do ombro DESFOCADO de LUCIA (de costas, sem rosto): CARMEN nitida em plano medio, de braco dado com JULIAN; ela olha para a DIREITA do quadro, para LUCIA. So CARMEN fala. A fala comeca no primeiro instante do plano."
+    },
+    {
+     "quem": "LUCIA",
+     "para": "CARMEN",
+     "fala": "Murió en Suiza… en el sesenta y ocho.",
+     "emocao": 9,
+     "intencao": "Ler a data do atestado, firme e assustada.",
+     "voz": "Voz FEMININA jovem, firme e tremula, sotaque de Sevilha. NUNCA voz masculina.",
+     "rosto": "LUCIA: seria, olhos indo do papel para o casal.",
+     "corpo": "LUCIA abaixa o papel amarelado sobre o balcao e o empurra devagar na direcao do casal com a mao DIREITA.",
+     "camera": "Corte seco. Over-the-shoulder invertido por cima do ombro DESFOCADO de CARMEN (de costas, sem rosto): LUCIA nitida em close; ela olha para a ESQUERDA do quadro. INSERT com RACK FOCUS do rosto dela para o papel no balcao no fim da fala. So LUCIA fala. A fala comeca no primeiro instante do plano."
+    },
+    {
+     "quem": "CARMEN",
+     "para": "JULIAN",
+     "fala": "Julián… ¿por qué no dices nada?",
+     "emocao": 10,
+     "intencao": "Perceber, com medo, que o silencio do marido e uma confissao.",
+     "voz": "Voz FEMININA de senhora de 75 anos, a voz falhando, sotaque andaluz. NUNCA voz masculina.",
+     "rosto": "CARMEN: o riso morre, olhos marejados. JULIAN, ao lado, de perfil: palido, boca FECHADA, olhar baixo.",
+     "corpo": "CARMEN vira o corpo para o marido e solta o braco dele devagar; JULIAN mantem a mao direita sobre o bolso interno do paleto.",
+     "camera": "Corte seco. TWO-SHOT de perfil do casal, SLOW DOLLY IN: CARMEN a DIREITA olhando para JULIAN; JULIAN a ESQUERDA, de perfil, boca FECHADA, a mao no bolso interno do paleto. So CARMEN fala; JULIAN NAO mexe os labios. A fala comeca no primeiro instante do plano."
+    }
+   ],
+   "regras_extra": [
+    "Comeca no AUGE: no primeiro instante LUCIA ja esta de pe com o papel erguido, falando.",
+    "FALA DO COMECO AO FIM: termina na ultima fala de CARMEN, sem plano mudo final.",
+    "JULIAN NAO fala neste clipe; a boca dele fica FECHADA o tempo todo.",
+    "So quem fala mexe os labios.",
+    "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
+    "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+   ]
+  },
+  {
+   "nome": "La carta",
+   "imagens": [
+    "FRAME_JULIAN",
+    "FRAME_CARMEN",
+    "FRAME_LUCIA"
+   ],
+   "estrutura": "5 planos ligados por cortes secos; 5 falas, cada uma dita UMA UNICA VEZ.",
+   "atuacao": "Continuacao imediata, emocao no AUGE. JULIAN finalmente olha a esposa e confessa, a voz quebrando: o verdadeiro Julian morreu na Suica e ele era o melhor amigo, que prometeu cuidar dela. CARMEN da um passo para tras com a mao na boca, chorando, entre a magoa e o amor de 50 anos. LUCIA, atras do balcao, assiste calada e emocionada. No fim JULIAN tira do bolso interno do paleto um ENVELOPE antigo e amarelado e o estende a ela. Contraste: JULIAN contido e culpado, CARMEN desabando.",
+   "personagens": [
+    "JULIAN",
+    "CARMEN",
+    "LUCIA"
+   ],
+   "posicoes": {
+    "LUCIA": "em pe ATRAS do balcao de madeira, do lado DIREITO do quadro, de frente para o casal",
+    "JULIAN": "em pe na FRENTE do balcao, do lado ESQUERDO do quadro, mais perto do balcao",
+    "CARMEN": "em pe ao lado ESQUERDO de JULIAN, de braco dado com ele"
+   },
+   "preservar_extra": [
+    "VIDEO LIMPO, SEM LEGENDAS: nenhuma palavra das falas escrita na tela, nenhum texto embaixo da imagem, nenhuma letra em lugar nenhum do video.",
+    "O ATESTADO ANTIGO e uma folha de papel AMARELADA e dobrada, com um carimbo AZUL borrado; NENHUMA palavra, letra ou numero legivel nele.",
+    "LUCIA fica SEMPRE atras do balcao, do lado DIREITO do quadro; JULIAN e CARMEN ficam SEMPRE em pe na frente do balcao, lado a lado, do lado ESQUERDO do quadro, a menos de 1 metro de LUCIA.",
+    "Mesmo rosto e mesma roupa de cada personagem do comeco ao fim do clipe.",
+    "O ENVELOPE e antigo, amarelado, fechado, sem selo e sem NENHUMA palavra legivel; so aparece quando JULIAN o tira do bolso interno do paleto no ultimo plano."
+   ],
+   "cenario": "De manha, no MESMO balcao do Registro Civil de Sevilha do clipe anterior.",
+   "som": "Murmurio baixo de fila de reparticao publica, ventilador de teto; silencio pesado entre as falas; sem trilha dramatica.",
+   "remover_negativos": [
+    "dois rostos visiveis nos planos de fala",
+    "rosto ou boca do ouvinte visivel nos planos de fala"
+   ],
+   "negativos_extra": [
+    "duas vozes ao mesmo tempo",
+    "voz masculina nas falas de carmen",
+    "voz masculina nas falas de lucia",
+    "voz feminina nas falas de julian",
+    "voz jovem nas falas de carmen",
+    "sotaque latino-americano",
+    "sotaque mexicano",
+    "legendas embutidas",
+    "subtitles",
+    "captions",
+    "texto das falas escrito na tela",
+    "letras na tela",
+    "palavras legiveis no papel",
+    "palavras legiveis no envelope",
+    "placa com nome",
+    "bandeira com escudo legivel",
+    "tela de computador com texto",
+    "uniforme de policia",
+    "policiais",
+    "alguem se sentando ou saindo",
+    "personagens parados como estatuas",
+    "aparencia brasileira",
+    "aparencia latino-americana",
+    "aparencia americana",
+    "rostos genericos",
+    "roupa simples demais",
+    "maos deformadas",
+    "noite",
+    "envelope aparecendo antes do ultimo plano",
+    "envelope surgindo do nada"
+   ],
+   "salvar_frames": [],
+   "planos": [
+    {
+     "quem": "JULIAN",
+     "para": "CARMEN",
+     "fala": "Julián murió allí, Carmen.",
+     "emocao": 10,
+     "intencao": "Confessar o segredo de 50 anos, com vergonha.",
+     "voz": "Voz MASCULINA grave de homem de 78 anos, baixa e quebrando, sotaque andaluz. NUNCA voz feminina.",
+     "rosto": "JULIAN: olhos molhados, queixo tremendo, olha a esposa pela primeira vez.",
+     "corpo": "JULIAN vira-se para CARMEN e tenta segurar a mao dela.",
+     "camera": "OVER-THE-SHOULDER por cima do ombro DESFOCADO de CARMEN (de costas, sem rosto): JULIAN nitido em close; ele olha para a DIREITA do quadro, para CARMEN. SLOW PUSH IN. So JULIAN fala. A fala comeca no primeiro instante do plano."
+    },
+    {
+     "quem": "CARMEN",
+     "para": "JULIAN",
+     "fala": "¿Y quién eres tú?",
+     "emocao": 10,
+     "intencao": "Perguntar sem ar, sem reconhecer o homem da sua vida.",
+     "voz": "Voz FEMININA de senhora de 75 anos, em soluco, sotaque andaluz. NUNCA voz masculina.",
+     "rosto": "CARMEN: lagrimas, mao na boca.",
+     "corpo": "CARMEN da um passo para tras e leva a mao a boca, soltando a mao dele.",
+     "camera": "Corte seco. HIGH ANGLE leve, close de CARMEN por cima do ombro DESFOCADO de JULIAN; ela olha para a ESQUERDA do quadro, para JULIAN. So CARMEN fala. A fala comeca no primeiro instante do plano."
+    },
+    {
+     "quem": "JULIAN",
+     "para": "CARMEN",
+     "fala": "Su amigo. Le juré cuidarte.",
+     "emocao": 10,
+     "intencao": "Entregar a verdade com amor: tudo foi por uma promessa.",
+     "voz": "Voz MASCULINA grave de homem de 78 anos, embargada de choro, sotaque andaluz. NUNCA voz feminina.",
+     "rosto": "JULIAN: uma lagrima desce pelo rosto, olhar firme e amoroso.",
+     "corpo": "JULIAN leva a mao ao peito.",
+     "camera": "Corte seco. EXTREME CLOSE-UP nos olhos e no bigode de JULIAN, lagrima descendo. So JULIAN fala. A fala comeca no primeiro instante do plano."
+    },
+    {
+     "quem": "CARMEN",
+     "para": "JULIAN",
+     "fala": "¿Cincuenta años mintiendo?",
+     "emocao": 10,
+     "intencao": "A dor da mentira e do amor ao mesmo tempo.",
+     "voz": "Voz FEMININA de senhora de 75 anos, chorando, quase um sussurro, sotaque andaluz. NUNCA voz masculina.",
+     "rosto": "CARMEN: chorando, balancando a cabeca devagar.",
+     "corpo": "CARMEN aperta a bolsa contra o peito.",
+     "camera": "Corte seco. CLOSE-UP de CARMEN, LUCIA desfocada ao fundo atras do balcao com a mao no peito, calada. So CARMEN fala. A fala comeca no primeiro instante do plano."
+    },
+    {
+     "quem": "JULIAN",
+     "para": "CARMEN",
+     "fala": "Su última carta. Nunca te la di.",
+     "emocao": 10,
+     "intencao": "Revelar o ultimo segredo, baixinho, estendendo o envelope.",
+     "voz": "Voz MASCULINA grave de homem de 78 anos, baixa e firme, sotaque andaluz. NUNCA voz feminina.",
+     "rosto": "JULIAN: serio, olhos molhados, olhar fixo em CARMEN.",
+     "corpo": "JULIAN tira devagar do bolso interno do paleto, com a mao DIREITA, um ENVELOPE antigo e amarelado e o estende para CARMEN.",
+     "camera": "Corte seco. MEDIUM SHOT de JULIAN com o envelope estendido na mao direita no primeiro plano, RACK FOCUS do envelope para o rosto dele; CARMEN desfocada na borda esquerda. So JULIAN fala. A fala comeca no primeiro instante do plano."
+    }
+   ],
+   "regras_extra": [
+    "Comeca no AUGE: no primeiro instante JULIAN ja fala, olhando para CARMEN.",
+    "FALA DO COMECO AO FIM: termina na ultima fala de JULIAN, sem plano mudo final.",
+    "LUCIA NAO fala neste clipe.",
+    "So quem fala mexe os labios.",
+    "Todas as falas com sotaque da ESPANHA, nunca latino-americano.",
+    "PROIBIDO LEGENDA: as falas sao SO faladas, NUNCA escritas na tela."
+   ]
+  }
+ ]
+}
